@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-16T11:41:38.940Z,38.8378334,-122.8338318,0.29,0.86,md,7,108,0.01473,0.07,nc,nc73718310,2022-04-16T11:48:16.845Z,"10km NW of The Geysers, CA",earthquake,0.53,3.05,,1,automatic,nc,nc
 2022-04-16T11:20:18.828Z,66.3527,-150.1754,9.6,1.6,ml,,,,0.44,ak,ak0224vhmvry,2022-04-16T11:32:55.597Z,"62 km NW of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-16T11:17:35.770Z,38.831665,-122.8228302,3.14,0.85,md,9,136,0.01206,0.03,nc,nc73718300,2022-04-16T11:36:02.945Z,"8km NW of The Geysers, CA",earthquake,0.81,1.27,,1,automatic,nc,nc
 2022-04-16T11:11:25.120Z,35.8636667,-117.694,10.18,1.44,ml,21,75,0.07963,0.15,ci,ci40238144,2022-04-16T11:14:50.158Z,"21km ESE of Little Lake, CA",earthquake,0.24,0.55,0.18,22,automatic,ci,ci
@@ -290,4 +291,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-15T11:58:33.060Z,19.2178333333333,-155.388333333333,31.58,4.63,ml,50,155,,0.13,hv,hv72984552,2022-04-16T10:16:20.320Z,"9 km E of Pāhala, Hawaii",earthquake,0.42,0.5,0.176939686899813,39,reviewed,hv,hv
 2022-04-15T11:58:24.560Z,19.2383333333333,-155.403666666667,34.21,4.33,ml,54,116,,0.13,hv,hv72984557,2022-04-16T07:53:08.889Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.38,0.47,0.192131669814092,36,reviewed,hv,hv
 2022-04-15T11:55:14.700Z,38.8415,-122.8781667,2.73,0.05,md,13,89,0.005268,0.03,nc,nc73717815,2022-04-16T02:30:55.690Z,"13km ENE of Cloverdale, CA",earthquake,0.43,0.31,0.026,3,reviewed,nc,nc
-2022-04-15T11:49:26.250Z,17.9406666666667,-66.9068333333333,15.91,1.66,md,7,217,,0.06,pr,pr71344643,2022-04-15T13:21:52.740Z,"3 km S of Guánica, Puerto Rico",earthquake,0.88,0.57,0.094011026990733,5,reviewed,pr,pr
