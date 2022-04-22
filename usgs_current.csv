@@ -99,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T10:56:51.920Z,34.2206667,-117.6298333,6.03,0.76,ml,14,86,0.05409,0.15,ci,ci40243744,2022-04-22T19:22:51.968Z,"12km NNW of Rancho Cucamonga, CA",earthquake,0.34,0.58,0.069,6,reviewed,ci,ci
 2022-04-22T10:41:45.920Z,19.1941661834717,-155.479827880859,35.2700004577637,2.29999995,md,46,82,,0.129999995,hv,hv72992382,2022-04-22T10:45:07.680Z,"0 km S of Pāhala, Hawaii",earthquake,0.53,0.949999988,1.40999997,20,automatic,hv,hv
 2022-04-22T10:24:01.463Z,61.3816,-141.1072,0,1.3,ml,,,,0.9,ak,ak02255eacnm,2022-04-22T10:26:53.321Z,"97 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-22T10:12:26.492Z,-6.484,133.0144,10,4.5,mb,,79,2.261,0.46,us,us6000hfj7,2022-04-22T12:25:23.040Z,"98 km SSE of Tual, Indonesia",earthquake,6.9,1.8,0.18,9,reviewed,us,us
+2022-04-22T10:12:26.492Z,-6.484,133.0144,10,4.5,mb,,79,2.261,0.46,us,us6000hfj7,2022-04-22T12:25:23.040Z,"Kepulauan Aru region, Indonesia",earthquake,6.9,1.8,0.18,9,reviewed,us,us
 2022-04-22T10:04:42.200Z,37.471,-118.8706667,1.13,0.95,md,18,235,0.1233,0.09,nc,nc73721670,2022-04-22T18:13:01.954Z,"20km WSW of Toms Place, CA",earthquake,0.44,31.61,0.144,15,reviewed,nc,nc
 2022-04-22T10:00:28.155Z,31.63155031,-104.1975806,7.648339844,3,ml,19,55,0.1321204082,0.2,tx,tx2022hvoq,2022-04-22T10:16:54.507Z,"52 km NW of Toyah, Texas",earthquake,0.8940412143,1.432616585,0.1,10,reviewed,tx,tx
 2022-04-22T09:46:51.760Z,19.1681671142578,-155.374328613281,29.8600006103516,2.00999999,md,35,199,,0.119999997,hv,hv72992327,2022-04-22T09:49:54.050Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.77,0.790000021,2.00999999,4,automatic,hv,hv
@@ -247,4 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T21:32:46.410Z,36.5408333,-89.5671667,8.52,2.64,md,62,28,0.02035,0.09,nm,nm60391181,2022-04-22T14:59:29.330Z,"4 km SE of Howardville, Missouri",earthquake,0.11,0.24,0.096,50,reviewed,nm,nm
 2022-04-21T21:18:49.550Z,38.8063316,-122.8085022,1.23,0.95,md,13,93,0.01044,0.04,nc,nc73721405,2022-04-21T21:35:22.890Z,"6km NW of The Geysers, CA",earthquake,0.29,0.51,0.1,4,automatic,nc,nc
 2022-04-21T21:14:46.655Z,64.2053,-151.6712,16.7,1.3,ml,,,,0.61,ak,ak02253x8q52,2022-04-21T21:25:22.999Z,"47 km NE of Lake Minchumina, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-21T21:11:47.490Z,44.8318333,-112.7941667,4.66,1.58,ml,14,103,0.039,0.16,mb,mb80543759,2022-04-21T23:53:04.600Z,"26 km NW of Lima, Montana",earthquake,0.38,1.08,0.211,8,reviewed,mb,mb
