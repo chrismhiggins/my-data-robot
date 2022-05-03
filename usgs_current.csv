@@ -7,7 +7,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T18:01:46.140Z,33.0531667,-114.9966667,-0.2,1.69,ml,14,80,0.08222,0.27,ci,ci40251336,2022-05-03T18:48:53.661Z,"45km NE of Holtville, CA",quarry blast,0.72,31.61,0.092,7,reviewed,ci,ci
 2022-05-03T17:55:57.450Z,38.8235016,-122.8021698,3.2,0.84,md,16,64,0.006175,0.02,nc,nc73728931,2022-05-03T18:37:17.143Z,"6km NW of The Geysers, CA",earthquake,0.35,0.62,,1,automatic,nc,nc
 2022-05-03T17:35:35.850Z,44.271,-114.322,0.23,1.24,ml,7,145,0.232,0.09,mb,mb80544844,2022-05-03T18:14:11.300Z,"6 km ENE of Clayton, Idaho",earthquake,0.87,1.78,0.344,6,reviewed,mb,mb
-2022-05-03T17:34:10.086Z,61.5882,-146.5106,14.4,3,ml,,,,0.84,ak,ak0225npfd5k,2022-05-03T18:48:13.040Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-03T17:34:10.086Z,61.5882,-146.5106,14.4,3,ml,,,,0.84,ak,ak0225npfd5k,2022-05-03T19:01:09.113Z,"47 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-03T17:31:56.060Z,38.8233337,-122.8026657,2.96,0.84,md,8,111,0.005787,0.02,nc,nc73728921,2022-05-03T18:15:14.990Z,"6km NW of The Geysers, CA",earthquake,0.63,1.04,,1,automatic,nc,nc
 2022-05-03T17:20:16.440Z,38.8224983,-122.8048325,3.91,0.35,md,10,80,0.004191,0.02,nc,nc73728916,2022-05-03T17:41:10.777Z,"6km NW of The Geysers, CA",earthquake,0.5,1.29,,1,automatic,nc,nc
 2022-05-03T17:17:12.420Z,38.8236656,-122.8021698,2.98,0.84,md,10,77,0.00618,0.02,nc,nc73728911,2022-05-03T17:43:14.783Z,"6km NW of The Geysers, CA",earthquake,0.52,1.08,,1,automatic,nc,nc
@@ -121,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:37:06.660Z,44.4658333,-115.2043333,6.95,1.77,ml,10,82,0.839,0.17,mb,mb80544789,2022-05-03T14:58:53.950Z,"34 km NW of Stanley, Idaho",earthquake,0.48,1.46,0.228,10,reviewed,mb,mb
 2022-05-03T07:31:56.320Z,35.8768333,-117.6776667,6.5,1.05,ml,20,87,0.0743,0.07,ci,ci40251024,2022-05-03T15:14:43.267Z,"22km ESE of Little Lake, CA",earthquake,0.11,0.29,0.177,8,reviewed,ci,ci
 2022-05-03T07:22:45.631Z,63.9522,-148.8354,113,2,ml,,,,0.35,ak,ak0225njej8o,2022-05-03T07:28:29.093Z,"12 km NNE of Healy, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-05-03T07:20:35.960Z,48.438,-122.537,21.61,2.06,ml,35,44,0.04712,0.28,uw,uw61836306,2022-05-03T19:00:29.890Z,"6 km NNW of La Conner, Washington",earthquake,0.45,0.88,0.12997116426534827,4,reviewed,uw,uw
 2022-05-03T07:12:22.782Z,61.2798,-150.9093,57.2,1.6,ml,,,,0.4,ak,ak0225njccbi,2022-05-03T07:16:23.692Z,"18 km NNE of Beluga, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-05-03T07:10:25.740Z,34.1648333,-117.5745,9.97,0.94,ml,51,47,0.05077,0.15,ci,ci40251016,2022-05-03T15:01:22.156Z,"5km N of Rancho Cucamonga, CA",earthquake,0.18,0.3,0.19,17,reviewed,ci,ci
 2022-05-03T07:04:32.450Z,39.6593333,-111.3353333,1.67,2.14,ml,21,64,0.1033,0.22,uu,uu60495422,2022-05-03T13:19:25.030Z,"9 km ENE of Fairview, Utah",earthquake,0.55,4.74,0.174,10,reviewed,uu,uu
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T19:25:48.520Z,44.2631667,-115.0681667,10.24,1.98,ml,9,78,0.749,0.25,mb,mb80544694,2022-05-02T20:30:28.190Z,"11 km WNW of Stanley, Idaho",earthquake,0.7,2.09,0.212,9,reviewed,mb,mb
 2022-05-02T19:06:53.020Z,34.99,-118.191,-0.8,1.43,ml,29,52,0.1151,0.2,ci,ci40250680,2022-05-02T22:06:47.991Z,"7km SSW of Mojave, CA",quarry blast,0.33,31.61,0.065,9,reviewed,ci,ci
 2022-05-02T19:03:01.560Z,44.5133333,-115.198,4.39,1.4,ml,5,142,0.81,0.17,mb,mb80544674,2022-05-02T20:23:11.270Z,"38 km NNW of Stanley, Idaho",earthquake,0.67,9.93,0.311,5,reviewed,mb,mb
-2022-05-02T18:59:24.321Z,-62.7436,166.5207,10,4.9,mb,,104,14.924,0.93,us,us7000h6eu,2022-05-02T19:31:55.040Z,"Balleny Islands region",earthquake,7.1,1.8,0.117,23,reviewed,us,us
-2022-05-02T18:53:09.580Z,35.9251667,-117.677,4.07,0.74,ml,16,66,0.03133,0.08,ci,ci40250664,2022-05-02T21:31:36.859Z,"21km E of Little Lake, CA",earthquake,0.13,0.23,0.086,4,reviewed,ci,ci
