@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-07T04:46:21.900Z,33.4283333,-116.6055,7.18,0.5,ml,18,95,0.06625,0.17,ci,ci40254032,2022-05-07T04:50:02.729Z,"15km SSE of Anza, CA",earthquake,0.48,0.84,0.095,14,automatic,ci,ci
 2022-05-07T04:40:01.501Z,60.0466,-153.023,116.1,1.2,ml,,,,0.64,ak,ak0225u3vdue,2022-05-07T04:43:13.282Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-07T04:16:51.076Z,62.1113,-147.3391,19.5,1.5,ml,,,,0.93,ak,ak0225u3qcjl,2022-05-07T04:20:38.234Z,"21 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-07T03:59:55.160Z,35.7698333,-117.587,6.74,1,ml,15,147,0.0466,0.21,ci,ci40254024,2022-05-07T04:03:30.785Z,"16km W of Searles Valley, CA",earthquake,0.5,0.88,0.122,11,automatic,ci,ci
@@ -202,8 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-06T05:21:13.620Z,45.8161667,-111.367,17.2,-0.03,ml,3,307,0.286,0.06,mb,mb80545119,2022-05-06T14:31:39.360Z,"5 km SSW of Manhattan, Montana",earthquake,1.99,3.74,,0,reviewed,mb,mb
 2022-05-06T05:18:03.533Z,60.119,-152.382,88.1,1.7,ml,,,,0.34,ak,ak0225sgsrdx,2022-05-06T05:20:37.434Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-06T05:08:39.155Z,66.2984,-153.1115,1.1,1.1,ml,,,,0.46,ak,ak0225sgqozv,2022-05-06T05:10:55.486Z,"34 km SSW of Alatna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-05-06T04:58:01.220Z,36.791832,-121.5273361,9.76,1.46,md,21,67,0.03282,0.12,nc,nc73729931,2022-05-06T06:21:15.566Z,"6km S of San Juan Bautista, CA",earthquake,0.38,0.55,0.35,13,automatic,nc,nc
-2022-05-06T04:54:16.739Z,56.4859,-157.2318,59.8,2.7,ml,,,,0.48,ak,ak0225sgf2lf,2022-05-06T05:00:59.040Z,"75 km ENE of Chignik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-05-06T04:47:46.360Z,9.6088,-84.7797,22.77,4.1,mb,,150,0.698,0.91,us,us7000h7g5,2022-05-06T05:10:48.375Z,"16 km W of Jacó, Costa Rica",earthquake,6.4,6.3,0.103,26,reviewed,us,us
-2022-05-06T04:47:34.070Z,40.7661667,-112.0726667,9.13,0.6,md,12,103,0.04812,0.12,uu,uu60495682,2022-05-06T13:12:17.630Z,"6 km NNE of Magna, Utah",earthquake,0.39,0.86,0.368,6,reviewed,uu,uu
-2022-05-06T04:45:51.120Z,35.7313333,-117.5355,7.82,1.05,ml,18,78,0.09817,0.1,ci,ci40253376,2022-05-06T17:15:51.096Z,"12km WSW of Searles Valley, CA",earthquake,0.19,0.55,0.128,5,reviewed,ci,ci
