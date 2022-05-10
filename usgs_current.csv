@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-10T11:12:32.070Z,38.8016663,-122.7718353,1.38,0.45,md,10,76,0.00953,0.02,nc,nc73731716,2022-05-10T11:14:08.576Z,"3km NNW of The Geysers, CA",earthquake,0.36,0.7,0.39,2,automatic,nc,nc
+2022-05-10T11:12:32.070Z,38.8016663,-122.7718353,1.38,0.45,md,10,76,0.00953,0.02,nc,nc73731716,2022-05-10T11:21:10.368Z,"3km NNW of The Geysers, CA",earthquake,0.36,0.7,0.39,2,automatic,nc,nc
 2022-05-10T11:08:13.700Z,35.7158333,-117.4196667,0.33,0.77,ml,7,190,0.1336,0.16,ci,ci40255488,2022-05-10T11:11:45.083Z,"6km SSW of Searles Valley, CA",earthquake,0.92,31.61,0.079,6,automatic,ci,ci
 2022-05-10T10:46:02.320Z,18.012,-66.8848333333333,8.69,1.94,md,4,151,,0.15,pr,pr71348238,2022-05-10T11:10:41.790Z,"1 km W of Palomas, Puerto Rico",earthquake,1.94,2.42,0.176989263390759,4,reviewed,pr,pr
 2022-05-10T10:33:32.950Z,35.5038333,-118.3905,8.62,1.16,ml,16,101,0.1726,0.1,ci,ci40255472,2022-05-10T10:37:03.801Z,"13km SE of Bodfish, CA",earthquake,0.29,1.23,0.094,13,automatic,ci,ci
-2022-05-10T10:31:24.430Z,38.8218346,-122.8434982,2.08,0.86,md,17,67,0.006737,0.02,nc,nc73731706,2022-05-10T10:40:11.316Z,"9km WNW of The Geysers, CA",earthquake,0.24,0.48,,3,automatic,nc,nc
+2022-05-10T10:31:24.430Z,38.8218346,-122.8434982,2.08,0.86,md,17,67,0.006737,0.02,nc,nc73731706,2022-05-10T11:17:16.347Z,"9km WNW of The Geysers, CA",earthquake,0.24,0.48,,3,automatic,nc,nc
 2022-05-10T10:30:21.990Z,18.0078333333333,-66.8233333333333,14.44,2.1,md,5,300,,0.24,pr,pr71348243,2022-05-10T11:03:00.800Z,"1 km NNW of Indios, Puerto Rico",earthquake,1.85,1.03,0.13702533628122,5,reviewed,pr,pr
 2022-05-10T10:25:51.720Z,19.2596664428711,-155.422164916992,31.4500007629395,2.3,ml,41,117,,0.119999997,hv,hv73008192,2022-05-10T10:31:22.720Z,"8 km NE of Pāhala, Hawaii",earthquake,0.56,0.75,0.31,3,automatic,hv,hv
 2022-05-10T10:25:15.510Z,38.4345016,-122.4901657,7.78,1.96,md,28,45,0.06242,0.15,nc,nc73731701,2022-05-10T11:06:12.293Z,"5km ENE of Kenwood, CA",earthquake,0.3,0.79,0.11,25,automatic,nc,nc
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T04:11:01.270Z,36.139,-118.2378333,3.36,1.69,ml,23,71,0.3105,0.18,ci,ci40255328,2022-05-10T04:14:39.468Z,"26km SW of Olancha, CA",earthquake,0.34,2.65,0.169,22,automatic,ci,ci
 2022-05-10T04:00:49.974Z,61.4393,-146.4547,18.8,1.4,ml,,,,0.37,ak,ak0225z28yka,2022-05-10T04:10:56.946Z,"34 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-05-10T03:55:48.250Z,38.8325005,-122.8168335,1.3,0.87,md,21,55,0.01051,0.02,nc,nc73731586,2022-05-10T04:12:16.955Z,"8km NW of The Geysers, CA",earthquake,0.18,0.42,0.03,4,automatic,nc,nc
-2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T11:12:44.195Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
+2022-05-10T03:55:40.714Z,34.1678,-80.7433,5.56,2.9,mb_lg,,37,0.328,0.48,us,us7000h88y,2022-05-10T11:28:04.947Z,"4 km E of Elgin, South Carolina",earthquake,1.4,4.9,0.073,49,reviewed,us,us
 2022-05-10T03:46:09.390Z,33.9706667,-116.8413333,12.69,1.03,ml,21,79,0.1415,0.22,ci,ci40255320,2022-05-10T03:49:44.612Z,"6km NNE of Banning, CA",earthquake,0.42,1.12,0.156,29,automatic,ci,ci
 2022-05-10T03:45:05.720Z,38.1603,-117.8628,9.5,1,ml,10,173.99,0.079,0.1588,nn,nn00838591,2022-05-10T03:49:02.668Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.43,5,automatic,nn,nn
 2022-05-10T03:44:33.460Z,34.5066667,-117.805,4.71,2.32,ml,62,32,0.05865,0.24,ci,ci40255312,2022-05-10T03:55:19.500Z,"2km NW of Llano, CA",earthquake,0.23,1.31,0.182,26,automatic,ci,ci
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T01:48:46.660Z,63.0911,-150.8868,24,1.6,ml,,,,1.19,ak,ak0225z0qxrw,2022-05-10T01:58:50.981Z,"65 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-10T01:43:19.160Z,38.828167,-122.8249969,1.18,0.85,md,10,84,0.00932,0.02,nc,nc73731551,2022-05-10T03:18:11.623Z,"8km NW of The Geysers, CA",earthquake,0.29,0.73,,1,automatic,nc,nc
 2022-05-10T01:36:44.183Z,-33.249,-179.1581,10,5.2,mb,,72,4.113,0.88,us,us7000h888,2022-05-10T01:53:53.040Z,"south of the Kermadec Islands",earthquake,12.5,1.9,0.113,26,reviewed,us,us
-2022-05-10T01:20:59.651Z,61.9416,-150.9079,65.3,1.6,ml,,,,0.38,ak,ak0225z0kyq9,2022-05-10T01:29:31.540Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-10T01:20:59.651Z,61.9416,-150.9079,65.3,1.6,ml,,,,0.38,ak,ak0225z0kyq9,2022-05-10T01:29:31.540Z,"26 km ESE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-10T01:15:12.247Z,64.1753,-149.9406,12.2,0.8,ml,,,,0.54,ak,ak0225z0jsi1,2022-05-10T01:18:33.438Z,"37 km WSW of Clear, Alaska, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-10T01:04:46.310Z,35.6983333,-117.537,10.69,1.63,ml,22,152,0.1271,0.19,ci,ci40255288,2022-05-10T01:08:26.008Z,"14km WSW of Searles Valley, CA",earthquake,0.34,0.74,0.135,25,automatic,ci,ci
 2022-05-10T01:01:23.990Z,38.7978325,-122.7481689,0.96,1.3,md,23,98,0.009441,0.06,nc,nc73731541,2022-05-10T02:36:10.375Z,"2km NNE of The Geysers, CA",earthquake,0.24,0.38,0.1,6,automatic,nc,nc
@@ -107,7 +107,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T22:24:56.383Z,-13.0763,-74.6757,77.07,4.5,mb,,120,2.376,0.8,us,us7000h87h,2022-05-09T23:16:47.040Z,"central Peru",earthquake,9.2,8.4,0.096,32,reviewed,us,us
 2022-05-09T22:20:54.890Z,33.0415,-116.3493333,12.04,1.27,ml,39,63,0.09488,0.24,ci,ci40255232,2022-05-09T22:31:58.390Z,"23km WSW of Ocotillo Wells, CA",earthquake,0.3,1.08,0.15,27,automatic,ci,ci
 2022-05-09T22:10:51.122Z,-8.3855,-81.2598,10,4.9,mb,,130,4.95,0.82,us,us7000h87g,2022-05-09T22:40:04.040Z,"215 km WSW of Pacasmayo, Peru",earthquake,5,1.9,0.08,49,reviewed,us,us
-2022-05-09T22:05:49.835Z,34.166,-80.735,3.73,2.1,ml,,62,0.321,0.56,us,us7000h87f,2022-05-10T11:08:08.214Z,"5 km E of Elgin, South Carolina",earthquake,0.9,4,0.077,22,reviewed,us,us
+2022-05-09T22:05:49.835Z,34.166,-80.735,3.73,2.1,ml,,62,0.321,0.56,us,us7000h87f,2022-05-10T11:19:00.853Z,"5 km E of Elgin, South Carolina",earthquake,0.9,4,0.077,22,reviewed,us,us
 2022-05-09T22:04:39.660Z,38.7866669,-122.7471695,1.6,0.46,md,10,82,0.008852,0.02,nc,nc73731471,2022-05-09T22:42:16.032Z,"1km NE of The Geysers, CA",earthquake,0.36,0.74,0.41,2,automatic,nc,nc
 2022-05-09T22:04:05.240Z,19.1595001220703,-155.479995727539,34.8899993896484,2.1500001,md,28,160,,0.129999995,hv,hv73007622,2022-05-09T22:07:27.390Z,"4 km S of Pāhala, Hawaii",earthquake,0.69,0.74000001,0.360000014,9,automatic,hv,hv
 2022-05-09T22:00:45.070Z,38.8136673,-122.8195038,2.75,0.35,md,8,149,0.008949,0.02,nc,nc73731466,2022-05-09T22:31:14.961Z,"7km NW of The Geysers, CA",earthquake,0.63,1.52,,1,automatic,nc,nc
@@ -241,7 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-09T11:43:11.550Z,36.4141655,-120.9980011,6.05,1.39,md,9,126,0.02001,0.19,nc,nc73731226,2022-05-09T15:29:10.184Z,"18km SE of Pinnacles, CA",earthquake,0.71,1.2,0.13,5,automatic,nc,nc
 2022-05-09T11:38:04.760Z,37.1301651,-121.5261688,8.5,1.2,md,9,136,0.0702,0.07,nc,nc73731221,2022-05-09T15:03:16.011Z,"9km NE of San Martin, CA",earthquake,0.58,1.57,0.12,7,automatic,nc,nc
 2022-05-09T11:36:28.820Z,38.8321648,-122.8191681,1.61,1.18,md,9,80,0.01128,0.01,nc,nc73731216,2022-05-09T14:37:10.841Z,"8km NW of The Geysers, CA",earthquake,0.4,1.08,,1,automatic,nc,nc
-2022-05-09T11:29:39.930Z,38.8334999,-122.7910004,2.12,1.17,md,21,49,0.004929,0.04,nc,nc73731211,2022-05-09T14:11:10.695Z,"6km WNW of Cobb, CA",earthquake,0.25,0.52,0.07,5,automatic,nc,nc
-2022-05-09T11:28:11.880Z,38.8338318,-122.7881699,1.86,2.14,md,31,59,0.004876,0.06,nc,nc73731201,2022-05-09T13:18:10.389Z,"6km WNW of Cobb, CA",earthquake,0.2,0.3,0.12,10,automatic,nc,nc
-2022-05-09T11:24:33.220Z,18.0003333333333,-66.8311666666667,12.48,2.22,md,9,131,,0.22,pr,pr71348053,2022-05-09T12:08:02.310Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.47,0.56,0.113912644692931,7,reviewed,pr,pr
-2022-05-09T11:24:25.540Z,46.85033333333333,-121.76133333333334,2.38,-0.32,md,8,93,0.02439,0.05,uw,uw61829692,2022-05-09T17:50:25.550Z,"22 km ENE of Ashford, Washington",earthquake,0.25,0.59,0.22975756600350727,8,reviewed,uw,uw
