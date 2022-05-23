@@ -14,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-23T13:31:36.920Z,19.2398338317871,-155.406005859375,31.4500007629395,2.11,ml,46,133,,0.129999995,hv,hv73020837,2022-05-23T13:37:07.740Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.53,0.660000026,5.21,3,automatic,hv,hv
 2022-05-23T13:30:02.930Z,33.4466667,-116.639,7.05,0.53,ml,20,86,0.05047,0.09,ci,ci40024607,2022-05-23T13:33:33.729Z,"12km SSE of Anza, CA",earthquake,0.21,0.34,0.133,16,automatic,ci,ci
 2022-05-23T13:26:24.300Z,17.989,-66.8413333333333,17.3,2.1,md,7,179,,0.06,pr,pr71350308,2022-05-23T13:58:25.900Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.45,0.56,0.0771440853051588,6,reviewed,pr,pr
-2022-05-23T13:13:32.315Z,-17.8307,-178.5028,563.59,4.5,mb,,69,3.282,0.6,us,us6000hna8,2022-05-23T13:32:37.040Z,"232 km E of Levuka, Fiji",earthquake,11.5,8.6,0.034,251,reviewed,us,us
+2022-05-23T13:13:32.374Z,-17.825,-178.5047,564.37,4.5,mb,,69,3.28,0.61,us,us6000hna8,2022-05-23T14:53:43.040Z,"232 km E of Levuka, Fiji",earthquake,10.1,6.4,0.034,254,reviewed,us,us
 2022-05-23T13:12:57.690Z,38.7798347,-122.7645035,1.55,1.37,md,27,74,0.009152,0.04,nc,nc73737076,2022-05-23T13:32:12.459Z,"1km WNW of The Geysers, CA",earthquake,0.24,0.38,0.14,3,automatic,nc,nc
 2022-05-23T13:12:34.750Z,33.995,-117.1906667,13.59,1,ml,29,96,0.07652,0.18,ci,ci40024599,2022-05-23T13:16:28.124Z,"7km S of Redlands, CA",earthquake,0.3,0.77,0.177,29,automatic,ci,ci
 2022-05-23T13:07:57.667Z,39.4146,-119.9375,8,1,ml,20,48.03,0.098,0.119,nn,nn00839386,2022-05-23T14:18:08.830Z,"7 km ENE of Floriston, California",earthquake,,1.4,0.17,9,reviewed,nn,nn
@@ -216,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T15:17:31.907Z,33.2288,141.455,15.76,6,mww,,52,1.381,0.71,us,us6000hn4d,2022-05-23T13:07:08.982Z,"237 km SSE of Katsuura, Japan",earthquake,7.9,3.5,0.042,55,reviewed,us,us
 2022-05-22T15:12:30.098Z,63.0908,-150.8154,121.6,3,ml,,,,0.51,ak,ak0226j3bf1o,2022-05-22T16:49:24.040Z,"66 km N of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-22T14:58:04.280Z,61.9517,-150.4111,18.8,1.5,ml,,,,0.54,ak,ak0226j2zsgc,2022-05-22T15:11:23.070Z,"30 km NW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-05-22T14:53:56.073Z,61.0309,-145.7866,25.5,1.8,ml,,,,0.99,ak,ak0226j2ytvb,2022-05-22T15:10:28.634Z,"32 km ESE of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
