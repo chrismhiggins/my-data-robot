@@ -172,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T10:08:07.970Z,33.4908333,-116.4948333,13.69,0.35,ml,16,128,0.07303,0.28,ci,ci40031551,2022-06-01T10:11:47.667Z,"18km ESE of Anza, CA",earthquake,0.86,1.14,0.203,3,automatic,ci,ci
 2022-06-01T10:00:05.581Z,-21.5373,-66.7698,239.36,4.1,mb,,96,1.919,0.74,us,us7000he29,2022-06-01T10:29:00.040Z,"87 km SW of Atocha, Bolivia",earthquake,5.2,13.8,0.214,7,reviewed,us,us
 2022-06-01T09:58:04.217Z,38.2353,-118.3518,7,0.3,ml,8,239.73,0.122,0.1051,nn,nn00840106,2022-06-02T02:38:11.943Z,"27 km SW of Mina, Nevada",earthquake,,3.9,0.18,2,reviewed,nn,nn
-2022-06-01T09:43:15.070Z,40.3963333,-122.0241667,13.3,1.58,md,13,131,0.1499,0.21,nc,nc73739791,2022-06-01T20:04:13.004Z,"14km W of Manton, CA",earthquake,0.47,1.76,0.173,10,reviewed,nc,nc
-2022-06-01T09:37:29.830Z,38.7798347,-122.7666702,1.97,0.45,md,14,87,0.009129,0.03,nc,nc73739796,2022-06-01T10:55:09.871Z,"1km WNW of The Geysers, CA",earthquake,0.3,0.58,0.21,4,automatic,nc,nc
