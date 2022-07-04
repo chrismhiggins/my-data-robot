@@ -40,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T06:36:21.690Z,38.8186684,-122.7935028,1.8,0.85,md,18,61,0.01078,0.02,nc,nc73754181,2022-07-04T08:08:12.869Z,"6km NW of The Geysers, CA",earthquake,0.22,0.4,0.3,3,automatic,nc,nc
 2022-07-04T06:14:44.400Z,33.1728333,-116.2908333,7.85,0.94,ml,26,92,0.1045,0.27,ci,ci40296168,2022-07-04T06:18:21.782Z,"12km SE of Borrego Springs, CA",earthquake,0.49,1.71,0.148,18,automatic,ci,ci
 2022-07-04T06:04:33.052Z,63.4718,-146.0951,4.6,0.8,ml,,,,0.33,ak,ak0228i20qeh,2022-07-04T06:07:00.870Z,"48 km NNW of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-04T06:04:08.280Z,38.1737,-117.8903,9.6,1.4,ml,12,162.75,0.064,0.1493,nn,nn00842176,2022-07-04T06:07:37.809Z,"Nevada",earthquake,,0.4,0.32,8,automatic,nn,nn
+2022-07-04T06:04:08.280Z,38.1737,-117.8903,9.6,1.4,ml,12,162.75,0.064,0.1493,nn,nn00842176,2022-07-04T06:07:37.809Z,"30 km SE of Mina, Nevada",earthquake,,0.4,0.32,8,automatic,nn,nn
 2022-07-04T06:03:38.300Z,37.5255013,-118.8833313,4.98,1.37,md,15,152,0.0775,0.02,nc,nc73754171,2022-07-04T07:17:24.490Z,"15km SE of Mammoth Lakes, CA",earthquake,0.56,1.34,0.12,13,automatic,nc,nc
 2022-07-04T05:57:14.860Z,18.9475002288818,-155.491836547852,31.6700000762939,2.26999998,md,31,237,,0.150000006,hv,hv73064432,2022-07-04T06:00:25.990Z,"16 km SE of Naalehu, Hawaii",earthquake,0.74,1.22000003,1.75999999,6,automatic,hv,hv
 2022-07-04T05:35:52.782Z,10.4216,94.0878,10,4.7,mb,61,105,1.801,0.35,us,us6000hznv,2022-07-04T06:18:26.040Z,"201 km SE of Port Blair, India",earthquake,6.4,1.6,0.079,48,reviewed,us,us
