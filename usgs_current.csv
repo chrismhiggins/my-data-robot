@@ -47,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-08T05:14:32.215Z,-7.0469,148.4977,10,4.7,mb,54,64,4.621,0.5,us,us6000i0s6,2022-07-08T05:34:28.040Z,"90 km SE of Finschhafen, Papua New Guinea",earthquake,7.7,1.5,0.086,41,reviewed,us,us
 2022-07-08T05:08:18.190Z,34.0863333,-117.483,2.51,0.97,ml,19,119,0.03453,0.19,ci,ci40299544,2022-07-08T05:11:54.129Z,"3km WSW of Fontana, CA",earthquake,0.33,0.35,0.314,25,automatic,ci,ci
 2022-07-08T04:54:05.478Z,60.4409,-152.3555,91.3,1.6,ml,,,,0.66,ak,ak0228on9wub,2022-07-08T04:57:38.622Z,"57 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T09:18:29.979Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
+2022-07-08T04:49:39.700Z,37.8754997,-122.2171631,6.84,2.37,md,61,46,0.01459,0.08,nc,nc73756181,2022-07-08T09:27:26.080Z,"3km W of Orinda, CA",earthquake,0.14,0.28,0.16,58,automatic,nc,nc
 2022-07-08T04:49:09.650Z,33.4703333,-116.909,9.5,0.55,ml,16,56,0.1672,0.14,ci,ci40299536,2022-07-08T04:52:47.958Z,"5km NW of Aguanga, CA",earthquake,0.26,1.66,0.169,12,automatic,ci,ci
 2022-07-08T04:42:53.885Z,61.5419,-147.2777,24,1.7,ml,,,,0.71,ak,ak0228on7fzg,2022-07-08T04:44:49.810Z,"35 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-08T04:29:14.394Z,61.8249,-151.1784,71.4,1.7,ml,,,,0.27,ak,ak0228on4kmn,2022-07-08T04:31:15.713Z,"21 km SSE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -240,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-07T09:43:31.603Z,60.9918,-147.3658,20.4,1.7,ml,,,,0.41,ak,ak0228n2nfig,2022-07-07T09:45:25.726Z,"39 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-07T09:42:23.500Z,17.9481666666667,-66.9428333333333,7.85,2.01,md,6,217,,0.08,pr,pr71357953,2022-07-07T12:24:16.790Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.65,0.27,0.0148991528441496,5,reviewed,pr,pr
 2022-07-07T09:39:45.750Z,38.7481667,-112.1451667,-0.57,1.42,ml,9,166,0.05218,0.26,uu,uu60504787,2022-07-07T13:52:46.540Z,"5 km WSW of Richfield, Utah",earthquake,0.83,0.63,0.099,6,reviewed,uu,uu
-2022-07-07T09:33:53.245Z,38.4437,-117.9406,5.3,0.5,ml,8,241.68,0.169,0.1292,nn,nn00842397,2022-07-08T02:40:52.698Z,"15 km ENE of Mina, Nevada",earthquake,,37.3,0.09,2,reviewed,nn,nn
-2022-07-07T09:32:48.900Z,37.5893333,-118.918,10.65,0.17,md,10,200,0.0386,0.08,nc,nc73755796,2022-07-07T10:48:12.885Z,"8km SE of Mammoth Lakes, CA",earthquake,1.1,0.95,0.191,12,reviewed,nc,nc
