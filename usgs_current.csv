@@ -158,5 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T11:44:05.178Z,-61.5374,-56.1686,10,4.8,mb,31,137,1.374,0.61,us,us7000hsyn,2022-07-23T12:08:07.040Z,"South Shetland Islands",earthquake,10.3,1.9,0.101,30,reviewed,us,us
 2022-07-23T11:40:12.977Z,60.3679,-147.2025,37.3,1.7,ml,,,,0.53,ak,ak0229dkf61d,2022-07-23T11:42:17.605Z,"56 km NE of Chenega, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-23T11:38:45.704Z,-20.3009,-178.1782,611.66,4.5,mb,44,155,4.379,0.54,us,us7000hsyl,2022-07-23T11:57:42.040Z,"Fiji region",earthquake,14.8,10,0.062,78,reviewed,us,us
-2022-07-23T11:24:58.707Z,61.5444,-151.2644,78.4,1.1,ml,,,,0.99,ak,ak0229dkbu3y,2022-07-23T11:27:34.512Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-23T11:23:50.358Z,38.1691,-117.9714,1.4,0.8,ml,12,133.48,0.031,0.3073,nn,nn00843490,2022-07-23T11:27:35.053Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.09,7,automatic,nn,nn
