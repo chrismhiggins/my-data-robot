@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-10T07:43:21.350Z,35.6175003,-117.4789963,6.9,1.16,ml,25,79,0.1313,0.17,ci,ci40078919,2022-08-10T07:45:36.741Z,"18km E of Ridgecrest, CA",earthquake,0.39,1.45,0.367,5,automatic,ci,ci
 2022-08-10T07:21:32.960Z,32.5761667,-115.6813333,8.84,2.21,ml,30,85,0.08227,0.24,ci,ci40078911,2022-08-10T07:25:08.114Z,"9km W of Progreso, B.C., MX",earthquake,0.45,1.14,0.194,26,automatic,ci,ci
 2022-08-10T07:01:23.540Z,17.9641666666667,-66.9836666666667,8.43,2.36,md,8,193,,0.06,pr,pr71364778,2022-08-10T07:24:44.400Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.43,0.82,0.118887238644024,7,reviewed,pr,pr
 2022-08-10T06:59:27.068Z,-19.2659,169.2636,157.627,5.2,mww,48,54,3.738,1.17,us,us6000i9my,2022-08-10T07:16:16.040Z,"30 km N of Isangel, Vanuatu",earthquake,8.48,6.914,0.098,10,reviewed,us,us
