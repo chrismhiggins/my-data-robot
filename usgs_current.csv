@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-28T22:52:33.610Z,38.7745018,-122.7385025,-0.69,0.87,md,6,159,0.008832,0.28,nc,nc73772880,2022-08-28T22:54:08.644Z,"2km ESE of The Geysers, CA",earthquake,4.42,18.39,,2,automatic,nc,nc
+2022-08-28T22:51:54.330Z,35.6496667,-118.3195,8.15,1.13,ml,16,98,0.05245,0.13,ci,ci40333432,2022-08-28T22:55:27.499Z,"14km ESE of Wofford Heights, CA",earthquake,0.41,0.6,0.112,13,automatic,ci,ci
+2022-08-28T22:50:09.440Z,36.4596672,-121.0368347,6.89,1.79,md,12,80,0.0176,0.06,nc,nc73772875,2022-08-28T22:51:48.461Z,"12km SE of Pinnacles, CA",earthquake,0.34,0.67,0.14,9,automatic,nc,nc
+2022-08-28T22:48:03.730Z,35.644165,-118.3191681,5.51,3.46,ml,82,30,0.05739,0.23,ci,ci40333424,2022-08-28T22:54:16.584Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.67,0.348,18,reviewed,ci,ci
+2022-08-28T22:44:23.160Z,38.8223343,-122.7836685,1.67,1.56,md,30,43,0.009357,0.03,nc,nc73772865,2022-08-28T22:54:10.519Z,"5km W of Cobb, CA",earthquake,0.18,0.3,0.08,9,automatic,nc,nc
+2022-08-28T22:34:33.870Z,-1.0284,98.6333,11.87,5.8,mww,55,142,2.547,0.82,us,us7000i37c,2022-08-28T22:54:36.672Z,"171 km WSW of Pariaman, Indonesia",earthquake,7.8,5.669,0.093,11,reviewed,us,us
 2022-08-28T22:23:57.210Z,38.7891655,-122.7614975,1.86,0.98,md,14,64,0.01153,0.02,nc,nc73772860,2022-08-28T22:42:13.567Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.56,0.18,4,automatic,nc,nc
 2022-08-28T22:18:16.367Z,56.6765,-156.496,65.7,2.4,ml,,,,0.22,ak,ak022b1a6pz8,2022-08-28T22:19:52.331Z,"108 km SSE of Ugashik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-08-28T22:16:09.670Z,38.8095016,-122.8006668,16.2,0.93,md,8,121,0.004462,0.05,nc,nc73772855,2022-08-28T22:32:13.384Z,"5km NW of The Geysers, CA",earthquake,2.28,8.5,,1,automatic,nc,nc
@@ -20,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T20:29:48.692Z,64.4631,-150.0956,30.4,0.9,ml,,,,0.31,ak,ak022b192a51,2022-08-28T20:32:20.969Z,"45 km WNW of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-28T20:12:54.510Z,38.7989998,-122.7870026,0.16,0.84,md,7,103,0.005856,0.02,nc,nc73772815,2022-08-28T22:28:10.362Z,"4km NW of The Geysers, CA",earthquake,0.35,0.79,,1,automatic,nc,nc
 2022-08-28T20:07:38.790Z,18.8841666666667,-64.9875,7.97,3.15,md,4,290,,0.23,pr,pr71368488,2022-08-28T20:45:50.820Z,"60 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,5.04,7.04,0.00463243048905881,2,reviewed,pr,pr
-2022-08-28T20:07:04.623Z,57.4437,-156.0206,61.3,2,ml,,,,0.62,ak,ak022b18xgzi,2022-08-28T20:09:15.266Z,"82 km E of Ugashik, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-08-28T20:07:04.623Z,57.4437,-156.0206,61.3,2,ml,,,,0.62,ak,ak022b18xgzi,2022-08-28T20:09:15.266Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2022-08-28T20:07:04.130Z,34.0431667,-117.2713333,17.34,1.66,ml,60,21,0.06232,0.23,ci,ci40333376,2022-08-28T20:17:51.410Z,"1km WSW of Loma Linda, CA",earthquake,0.23,0.54,0.155,25,automatic,ci,ci
 2022-08-28T20:06:37.948Z,55.3381,-155.5248,31.589,3.2,ml,26,219,1.895,0.45,us,us7000i36c,2022-08-28T20:31:51.040Z,"197 km SSW of Akhiok, Alaska",earthquake,6.58,15.671,0.085,18,reviewed,us,us
 2022-08-28T20:03:26.780Z,36.4663315,-121.036499,5.89,1.26,md,7,111,0.02053,0.05,nc,nc73772810,2022-08-28T22:27:15.357Z,"12km SE of Pinnacles, CA",earthquake,0.98,1.24,0.21,6,automatic,nc,nc
