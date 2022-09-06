@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-06T15:30:43.135Z,59.7704,-153.0604,103.6,2,ml,,,,0.3,ak,ak022bg1xft8,2022-09-06T15:32:17.098Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-09-06T15:30:43.135Z,59.7704,-153.0604,103.6,2,ml,,,,0.3,ak,ak022bg1xft8,2022-09-06T15:38:55.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-06T15:18:50.900Z,38.7901649,-122.7608337,1.68,0.87,md,15,75,0.01048,0.03,nc,nc73776075,2022-09-06T15:36:13.185Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.25,4,automatic,nc,nc
 2022-09-06T14:50:34.510Z,38.8011665,-122.7806702,2.58,0.99,md,14,75,0.009782,0.02,nc,nc73776070,2022-09-06T15:36:10.185Z,"3km NW of The Geysers, CA",earthquake,0.35,0.74,0.24,2,automatic,nc,nc
 2022-09-06T14:48:06.540Z,33.926,-116.8446667,13.15,1.14,ml,12,135,0.2385,0.29,ci,ci40097023,2022-09-06T14:51:32.521Z,"3km E of Banning, CA",earthquake,1.51,4.6,0.351,18,automatic,ci,ci
@@ -202,5 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T16:13:08.250Z,17.9495,-66.9375,11.23,1.95,md,6,214,,0.05,pr,pr71369973,2022-09-05T16:23:33.260Z,"3 km SW of Guánica, Puerto Rico",earthquake,0.62,0.82,0.0811356397301264,5,reviewed,pr,pr
 2022-09-05T16:08:17.097Z,61.1765,-148.2068,12.5,1.4,ml,,,,0.8,ak,ak022beeum7h,2022-09-05T16:11:27.940Z,"49 km SE of Knik River, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-09-05T15:58:23.056Z,38.5819,-119.4492,0,1.2,ml,10,204.94,0.435,0.1693,nn,nn00846459,2022-09-05T16:01:55.106Z,"California-Nevada border region",earthquake,,155.2,0.22,5,automatic,nn,nn
-2022-09-05T15:45:07.718Z,-30.4186,-177.604,35,4.9,mb,43,108,7.892,0.99,us,us7000i5fi,2022-09-06T13:01:35.040Z,"Kermadec Islands, New Zealand",earthquake,13.04,1.913,0.092,42,reviewed,us,us
-2022-09-05T15:42:36.475Z,61.4249,-148.1007,16.5,1.1,ml,,,,0.96,ak,ak022beegnfl,2022-09-05T15:45:37.911Z,"43 km E of Knik River, Alaska",earthquake,,0.2,,,automatic,ak,ak
