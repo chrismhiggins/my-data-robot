@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-02T05:35:04.550Z,35.0526657,-119.0741653,18.4,1.28,ml,19,74,0.009876,0.16,ci,ci40354424,2022-10-02T05:37:09.629Z,"18km NW of Grapevine, CA",earthquake,0.59,1.2,0.21,3,automatic,ci,ci
+2022-10-02T05:55:21.425Z,61.2506,-150.488,45.2,1.1,ml,,,,0.3,ak,ak022cmw3fv2,2022-10-02T05:56:45.619Z,"29 km WSW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-10-02T05:55:04.510Z,33.489,-116.5016667,10.71,0.31,ml,16,82,0.07258,0.15,ci,ci40354432,2022-10-02T05:58:30.003Z,"18km ESE of Anza, CA",earthquake,0.37,0.87,0.175,7,automatic,ci,ci
+2022-10-02T05:35:04.700Z,35.0495,-119.0625,16.88,1.22,ml,18,77,0.1625,0.25,ci,ci40354424,2022-10-02T05:38:37.890Z,"17km NW of Grapevine, CA",earthquake,0.55,1.49,0.152,19,automatic,ci,ci
 2022-10-02T05:33:01.002Z,58.2526,-154.595,243.6,0.9,ml,,,,0.71,ak,ak022cmvyoj8,2022-10-02T05:35:32.404Z,"76 km N of Karluk, Alaska",earthquake,,8.5,,,automatic,ak,ak
 2022-10-02T05:18:36.930Z,63.3781,-152.711,3.4,1.4,ml,,,,0.53,ak,ak022cmvvjkf,2022-10-02T05:20:56.025Z,"52 km WSW of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-02T05:16:29.690Z,33.5325,-116.5416667,14.7,0.67,ml,21,47,0.02648,0.11,ci,ci40354416,2022-10-02T05:19:56.797Z,"12km ESE of Anza, CA",earthquake,0.23,0.38,0.216,17,automatic,ci,ci
@@ -195,8 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-01T06:18:56.045Z,-30.6992,-179.7772,377.075,4.3,mb,28,135,2.156,0.75,us,us6000ipxa,2022-10-01T06:42:54.040Z,"Kermadec Islands region",earthquake,15.47,9.919,0.111,23,reviewed,us,us
 2022-10-01T06:12:14.468Z,63.0018,-150.7773,110.4,3,ml,,,,0.41,ak,ak022cl8wam0,2022-10-01T06:46:35.040Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-01T06:04:09.480Z,19.453332901001,-155.608337402344,-0.949999988079071,1.70000005,md,12,91,,0.150000006,hv,hv73162052,2022-10-01T06:06:57.270Z,"Hawaii region, Hawaii",earthquake,0.48,0.370000005,0.699999988,7,automatic,hv,hv
-2022-10-01T06:03:37.330Z,36.1023331,-120.6800003,2.42,1.96,md,24,122,,0.05,nc,nc73787841,2022-10-01T07:13:12.699Z,"22km ENE of San Ardo, CA",earthquake,0.33,0.75,0.19,20,automatic,nc,nc
-2022-10-01T05:52:51.010Z,34.194,-116.8191667,5.96,1.23,ml,36,76,0.1083,0.22,ci,ci40353984,2022-10-01T06:03:43.530Z,"8km SSE of Big Bear City, CA",earthquake,0.33,0.95,0.192,28,automatic,ci,ci
-2022-10-01T05:51:04.030Z,38.822834,-122.8095016,1.76,0.76,md,9,99,0.0007167,0.01,nc,nc73787836,2022-10-01T05:52:38.936Z,"7km NW of The Geysers, CA",earthquake,0.39,0.66,0.49,2,automatic,nc,nc
-2022-10-01T05:42:07.770Z,38.8051682,-122.8099976,6.01,0.35,md,6,123,0.01182,0.02,nc,nc73787831,2022-10-01T05:43:43.860Z,"6km WNW of The Geysers, CA",earthquake,1.19,2.37,,1,automatic,nc,nc
-2022-10-01T05:41:14.745Z,39.6159,40.5218,3.09,4.3,mb,30,84,0.402,0.55,us,us6000ipx6,2022-10-01T06:02:45.040Z,"20 km N of Yedisu, Turkey",earthquake,4.42,2.55,0.188,8,reviewed,us,us
