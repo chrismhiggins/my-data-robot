@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-14T11:34:50.240Z,38.8409996,-122.8239975,1.47,0.37,md,10,93,0.00929,0.03,nc,nc73793371,2022-10-14T11:36:27.161Z,"9km WNW of Cobb, CA",earthquake,0.35,0.92,,1,automatic,nc,nc
 2022-10-14T11:32:54.360Z,33.7008333,-116.817,15.55,0.73,ml,20,102,0.07517,0.19,ci,ci40360816,2022-10-14T11:36:34.123Z,"9km SE of Valle Vista, CA",earthquake,0.43,0.6,0.247,18,automatic,ci,ci
+2022-10-14T11:19:32.573Z,13.1387,-89.8771,59.928,4.1,mb,42,192,0.66,0.47,us,us6000itlv,2022-10-14T11:54:28.040Z,"El Salvador",earthquake,6.69,9.759,0.093,32,reviewed,us,us
 2022-10-14T11:15:28.947Z,38.5224,-119.5207,0.2,1.2,ml,15,174.03,0.063,0.3397,nn,nn00849244,2022-10-14T11:18:24.237Z,"3 km WNW of Walker, California",earthquake,,0.2,0.14,8,automatic,nn,nn
 2022-10-14T11:05:04.635Z,36.593,-116.2262,7.5,0.5,ml,20,142.8,0.103,0.1483,nn,nn00849241,2022-10-14T11:07:24.240Z,"47 km NNW of Pahrump, Nevada",earthquake,,1,0.78,10,automatic,nn,nn
 2022-10-14T10:49:35.759Z,38.5234,-119.5124,3.8,1.4,ml,19,170.27,0.061,0.2096,nn,nn00849237,2022-10-14T10:52:35.273Z,"3 km WNW of Walker, California",earthquake,,0.5,0.15,14,automatic,nn,nn
@@ -240,5 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-13T12:27:42.700Z,19.1956672668457,-155.492340087891,33.9300003051758,2.00999999,md,43,76,,0.129999995,hv,hv73177082,2022-10-13T12:31:02.750Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.59,0.889999986,0.670000017,13,automatic,hv,hv
 2022-10-13T12:21:17.768Z,64.0381,-146.6611,15.5,1.5,ml,,,,0.26,ak,ak022d56yzvw,2022-10-13T12:24:38.587Z,"37 km S of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-13T12:11:58.160Z,60.4305,-152.7635,10.53,-0.45,ml,6,295,,0.09,av,av91074568,2022-10-14T02:10:59.400Z,"73 km NW of Ninilchik, Alaska",earthquake,0.66,0.43,0.146261477280426,6,reviewed,av,av
-2022-10-13T11:47:15.870Z,19.2526664733887,-155.382827758789,32.0200004577637,2.73000002,md,39,139,,0.129999995,hv,hv73177032,2022-10-13T11:50:31.410Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.58,0.930000007,1.36000001,3,automatic,hv,hv
-2022-10-13T11:46:21.938Z,18.8644,-102.5946,97.442,4.7,mb,47,216,1.508,0.99,us,us6000it9k,2022-10-13T13:32:55.722Z,"18 km SE of Bonifacio Moreno (El Aguaje), Mexico",earthquake,10.24,6.846,0.047,139,reviewed,us,us
