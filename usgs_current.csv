@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-16T22:56:31.560Z,35.0289993,-119.0039978,15.01,1.39,ml,28,65,0.07183,0.19,ci,ci40362112,2022-10-16T22:58:36.506Z,"12km NW of Grapevine, CA",earthquake,0.44,0.65,0.164,4,automatic,ci,ci
+2022-10-16T22:53:24.790Z,35.6895,-117.5341667,2.5,1.77,ml,22,94,0.1183,0.22,ci,ci40362104,2022-10-16T22:57:11.547Z,"15km SW of Searles Valley, CA",earthquake,0.36,0.76,0.141,26,automatic,ci,ci
+2022-10-16T22:48:04.960Z,38.8343315,-122.7976685,2.27,0.36,md,7,135,0.007021,0.01,nc,nc73794671,2022-10-16T22:49:41.310Z,"7km WNW of Cobb, CA",earthquake,0.61,1.74,,1,automatic,nc,nc
 2022-10-16T22:42:36.380Z,33.5906667,-116.8005,7.22,0.6,ml,16,105,0.03053,0.17,ci,ci40362088,2022-10-16T22:46:03.720Z,"12km WNW of Anza, CA",earthquake,0.39,0.49,0.139,14,automatic,ci,ci
 2022-10-16T22:40:18.750Z,33.5895,-116.8053333,7.02,0.41,ml,14,113,0.03467,0.18,ci,ci40362080,2022-10-16T22:43:45.449Z,"13km WNW of Anza, CA",earthquake,0.44,0.54,0.133,8,automatic,ci,ci
+2022-10-16T22:36:40.100Z,4.2413,-87.6136,10,4.3,mb,29,116,5.565,0.66,us,us6000iu6u,2022-10-16T22:55:03.040Z,"off the coast of Central America",earthquake,4.22,1.929,0.133,16,reviewed,us,us
 2022-10-16T22:24:11.950Z,33.7601667,-116.0283333,10.03,0.77,ml,16,117,0.1095,0.17,ci,ci40362072,2022-10-16T22:27:36.381Z,"16km ENE of Coachella, CA",earthquake,0.35,1.05,0.138,12,automatic,ci,ci
 2022-10-16T22:06:42.060Z,38.8230019,-122.793663,2.69,0.84,md,7,122,0.01283,0.01,nc,nc73794656,2022-10-16T22:28:15.809Z,"6km NNW of The Geysers, CA",earthquake,0.65,0.93,,1,automatic,nc,nc
 2022-10-16T21:58:11.522Z,38.1254,-118.0055,7.9,0.7,ml,8,147.85,0.039,0.1506,nn,nn00849413,2022-10-16T22:01:27.745Z,"30 km SSE of Mina, Nevada",earthquake,,0.7,0.44,5,automatic,nn,nn
@@ -194,5 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-16T00:08:07.670Z,19.1308326721191,-155.498992919922,34.4700012207031,2.33999991,md,35,168,,0.140000001,hv,hv73181032,2022-10-16T00:11:16.330Z,"Island of Hawaii, Hawaii",earthquake,0.72,0.980000019,1.42999995,19,automatic,hv,hv
 2022-10-15T23:18:56.340Z,19.1421661376953,-155.503005981445,4.71000003814697,2.18000007,md,30,153,,0.330000013,hv,hv73180932,2022-10-15T23:22:21.100Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.86,1.39999998,0.379999995,13,automatic,hv,hv
 2022-10-15T23:12:43.430Z,39.1738319,-123.3988342,2.85,1.12,md,6,148,0.06731,0.04,nc,nc73794191,2022-10-16T00:54:16.721Z,"17km W of Ukiah, CA",earthquake,0.49,2.13,0.01,5,automatic,nc,nc
-2022-10-15T22:53:05.630Z,38.8291664,-122.8148346,2.81,0.85,md,10,63,0.006859,0.02,nc,nc73794171,2022-10-16T00:27:17.572Z,"8km NW of The Geysers, CA",earthquake,0.34,1.25,,1,automatic,nc,nc
-2022-10-15T22:50:05.240Z,18.0296666666667,-66.8375,16.89,2.24,md,20,102,,0.16,pr,pr71377323,2022-10-16T00:22:30.770Z,"1 km ESE of Yauco, Puerto Rico",earthquake,0.35,0.38,0.123973652183164,10,reviewed,pr,pr
