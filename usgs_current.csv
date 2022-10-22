@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T05:58:10.130Z,36.7533,-115.4408,0,1.1,ml,13,190.11,0.337,0.3509,nn,nn00849774,2022-10-22T06:00:51.746Z,"28 km NE of Indian Springs, Nevada",earthquake,,37.7,0.84,9,automatic,nn,nn
 2022-10-22T05:52:19.400Z,40.9830017,-121.9465027,9.2,2.02,md,16,72,0.1431,0.12,nc,nc73797791,2022-10-22T06:39:14.020Z,"5km SW of Big Bend, CA",earthquake,0.45,1.92,0.16,11,automatic,nc,nc
 2022-10-22T05:48:15.980Z,19.2071666717529,-155.403335571289,31.8899993896484,1.83000004,md,38,155,,0.129999995,hv,hv73190192,2022-10-22T05:51:35.470Z,"7 km E of Pāhala, Hawaii",earthquake,0.65,0.899999976,1.65999997,10,automatic,hv,hv
-2022-10-22T05:45:53.060Z,38.8286667,-122.8154984,2.05,1.35,md,25,44,0.006757,0.02,nc,nc73797781,2022-10-22T06:16:11.757Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.1,5,automatic,nc,nc
+2022-10-22T05:45:53.060Z,38.8286667,-122.8154984,2.05,1.35,md,25,44,0.006757,0.02,nc,nc73797781,2022-10-22T07:58:12.403Z,"8km NW of The Geysers, CA",earthquake,0.18,0.37,0.1,5,automatic,nc,nc
 2022-10-22T05:41:03.450Z,36.3001671,-121.1416702,4.49,2.01,md,8,187,0.3427,0.3,nc,nc73797776,2022-10-22T07:16:10.137Z,"9km ESE of Greenfield, CA",earthquake,8.99,15.63,,1,automatic,nc,nc
 2022-10-22T05:36:35.798Z,64.751,-149.0645,8.1,2,ml,,,,0.59,ak,ak022djyqc8r,2022-10-22T05:38:58.126Z,"16 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-22T05:36:06.638Z,64.754,-149.059,17,1,ml,,,,0.22,ak,ak022djyq9zr,2022-10-22T05:37:56.959Z,"17 km N of Four Mile Road, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-22T05:25:11.750Z,33.2165,-116.7395,11.38,1.19,ml,39,36,0.02526,0.17,ci,ci40364440,2022-10-22T05:28:45.116Z,"4km SE of Lake Henshaw, CA",earthquake,0.22,0.7,0.134,26,automatic,ci,ci
 2022-10-22T05:17:06.726Z,29.6307,102.0769,38.954,5.3,mww,146,16,8.434,0.78,us,us6000ivq1,2022-10-22T05:35:40.040Z,"42 km SSE of Kangding, China",earthquake,8.79,5.814,0.071,19,reviewed,us,us
 2022-10-22T05:12:30.190Z,18.8026,-64.5278,4,3.98,md,25,290,0.6217,0.4,pr,pr2022295000,2022-10-22T05:45:00.868Z,"Virgin Islands",earthquake,2.89,2.78,0.08,17,reviewed,pr,pr
-2022-10-22T05:02:35.218Z,61.8166,-151.082,63.3,4.4,ml,,,,0.61,ak,ak022djyj1sr,2022-10-22T07:41:57.970Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-10-22T05:02:35.218Z,61.8166,-151.082,63.3,4.4,ml,,,,0.61,ak,ak022djyj1sr,2022-10-22T07:58:01.401Z,"Southern Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-10-22T05:01:30.680Z,34.9338333,-119.492,12.43,1.12,ml,9,139,0.0651,0.21,ci,ci40364432,2022-10-22T05:08:23.354Z,"16km SSW of Maricopa, CA",earthquake,0.66,1.12,0.208,8,automatic,ci,ci
 2022-10-22T04:37:58.560Z,59.7054,-152.6201,93.8,1.5,ml,,,,0.24,ak,ak022djy5640,2022-10-22T05:14:19.254Z,"45 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-22T04:30:41.210Z,18.8116666666667,-64.4335,5.34,3.35,md,8,301,0.5754,0.17,pr,pr71378938,2022-10-22T05:49:17.010Z,"65 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.45,1.49,0.125238647858074,9,reviewed,pr,pr
