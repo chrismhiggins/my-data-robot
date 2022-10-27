@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-27T21:27:18.044Z,57.8425,-155.9521,18.4,1.4,ml,,,,0.45,ak,ak022dshw1ks,2022-10-27T21:29:35.959Z,"93 km ENE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-10-27T21:19:33.628Z,-38.7448,176.1481,97.883,4.7,mwr,20,52,0.664,0.73,us,us7000iktd,2022-10-27T21:43:37.479Z,"8 km SE of Taupo, New Zealand",earthquake,2.97,5.447,0.06,27,reviewed,us,us
+2022-10-27T21:17:49.864Z,-6.4336,146.8636,103.788,4.7,mb,30,87,2.966,0.58,us,us7000ikte,2022-10-27T21:43:18.775Z,"35 km NNW of Lae, Papua New Guinea",earthquake,11.26,4.861,0.09,37,reviewed,us,us
 2022-10-27T21:07:34.950Z,34.005,-117.1795,15.64,1.28,ml,36,44,0.1216,0.16,ci,ci40125799,2022-10-27T21:11:05.190Z,"6km S of Redlands, CA",earthquake,0.22,0.6,0.21,27,automatic,ci,ci
 2022-10-27T21:00:28.280Z,37.6091652,-118.8610001,2.21,1.41,md,14,144,0.009932,0.02,nc,nc73799901,2022-10-27T21:23:13.238Z,"11km ESE of Mammoth Lakes, CA",earthquake,0.38,0.65,0.18,14,automatic,nc,nc
 2022-10-27T20:54:25.951Z,60.2993,-141.7879,19.9,1.5,ml,,,,0.69,ak,ak022dshgewz,2022-10-27T20:55:29.699Z,"140 km SSE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-27T18:51:15.550Z,2.188,129.0065,10.01,4.8,mb,44,124,2.16,0.66,us,us7000iks3,2022-10-27T19:52:39.040Z,"Halmahera, Indonesia",earthquake,9.43,4.617,0.095,34,reviewed,us,us
 2022-10-27T18:47:46.295Z,62.9708,-149.2978,66.8,1.6,ml,,,,0.37,ak,ak022dsg839h,2022-10-27T18:49:42.059Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-27T18:44:27.410Z,38.8346672,-122.8013306,2.11,1.32,md,28,58,0.01317,0.03,nc,nc73799836,2022-10-27T19:25:13.496Z,"7km WNW of Cobb, CA",earthquake,0.21,0.38,0.11,5,automatic,nc,nc
-2022-10-27T18:34:46.860Z,38.8289986,-122.8126678,2.04,1.33,md,12,122,0.005951,0.01,nc,nc73799826,2022-10-27T21:32:11.299Z,"8km NW of The Geysers, CA",earthquake,0.32,0.71,0.48,2,automatic,nc,nc
+2022-10-27T18:34:46.860Z,38.8289986,-122.8126678,2.04,1.33,md,12,122,0.005951,0.01,nc,nc73799826,2022-10-27T21:44:09.364Z,"8km NW of The Geysers, CA",earthquake,0.32,0.71,0.48,2,automatic,nc,nc
 2022-10-27T18:16:31.130Z,33.4625,-116.4261667,11.33,0.64,ml,20,81,0.06074,0.14,ci,ci40125751,2022-10-27T18:35:59.709Z,"24km NNW of Borrego Springs, CA",earthquake,0.27,0.61,0.072,5,reviewed,ci,ci
 2022-10-27T18:02:43.759Z,-6.4424,130.0952,153.372,4.1,mb,17,69,1.941,0.79,us,us7000ikrx,2022-10-27T18:46:25.040Z,"Banda Sea",earthquake,7.64,10.441,0.165,10,reviewed,us,us
 2022-10-27T18:02:27.340Z,19.1765003204346,-155.483673095703,34.9700012207031,2.26999998,md,34,151,,0.170000002,hv,hv73197217,2022-10-27T18:05:30.540Z,"2 km S of Pāhala, Hawaii",earthquake,0.77,1.10000002,0.610000014,11,automatic,hv,hv
@@ -174,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T22:03:23.060Z,33.5711667,-116.945,10.56,1.13,ml,32,53,0.08968,0.11,ci,ci40366488,2022-10-26T23:42:43.595Z,"16km NNW of Aguanga, CA",earthquake,0.19,0.35,0.192,25,reviewed,ci,ci
 2022-10-26T22:03:15.874Z,64.3927,-146.8907,0.1,1.8,ml,,,,0.4,ak,ak022dquszbu,2022-10-26T22:05:56.617Z,"14 km W of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-26T21:53:17.420Z,38.7871666,-122.7683334,1.54,0.6,md,14,84,0.01503,0.03,nc,nc73799591,2022-10-26T22:35:12.826Z,"2km NW of The Geysers, CA",earthquake,0.25,0.45,0.15,4,automatic,nc,nc
-2022-10-26T21:35:55.580Z,19.4351673126221,-155.600173950195,-1.99000000953674,1.75,md,9,105,,0.180000007,hv,hv73196677,2022-10-26T21:39:02.510Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.560000002,0.680000007,7,automatic,hv,hv
