@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-10-29T22:34:30.185Z,62.3046,-143.0125,1.3,2.2,ml,,,,0.49,ak,ak022dvtlp4a,2022-10-29T22:37:06.362Z,"7 km S of Nabesna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-10-29T22:24:06.103Z,-14.4829,-76.227,10,4.8,mb,35,153,2.552,1.37,us,us7000il8a,2022-10-29T22:50:00.040Z,"near the coast of central Peru",earthquake,9.98,1.943,0.102,30,reviewed,us,us
 2022-10-29T22:22:52.360Z,33.9555,-116.6206667,13.5,0.98,ml,25,59,0.04051,0.18,ci,ci40126991,2022-10-29T22:26:26.800Z,"9km NW of Garnet, CA",earthquake,0.31,0.62,0.185,27,automatic,ci,ci
 2022-10-29T22:22:31.234Z,-14.4318,-76.3057,10,4.8,mb,48,148,2.485,0.93,us,us7000il86,2022-10-29T22:38:34.040Z,"62 km S of Paracas, Peru",earthquake,9.18,1.893,0.077,53,reviewed,us,us
 2022-10-29T21:48:23.330Z,38.7996674,-122.7513351,2.2,0.59,md,11,99,0.006615,0.02,nc,nc73800911,2022-10-29T22:05:16.784Z,"2km N of The Geysers, CA",earthquake,0.35,0.85,0.05,2,automatic,nc,nc
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T21:35:23.960Z,33.3848333,-116.9016667,13.42,0.82,ml,50,25,0.109,0.21,ci,ci40126959,2022-10-29T21:38:59.176Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.75,0.157,7,automatic,ci,ci
 2022-10-29T21:34:05.990Z,38.8333321,-122.81633,1.62,0.89,md,25,47,0.01106,0.03,nc,nc73800901,2022-10-29T21:51:13.709Z,"8km NW of The Geysers, CA",earthquake,0.18,0.46,0.2,4,automatic,nc,nc
 2022-10-29T21:22:23.590Z,19.2056674957275,-155.381500244141,32.2299995422363,1.84000003,md,30,173,,0.109999999,hv,hv73200207,2022-10-29T21:25:36.970Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.75999999,1.82000005,6,automatic,hv,hv
-2022-10-29T21:19:24.300Z,37.3344994,-122.1989975,9.03,1.09,md,6,100,0.03985,0.01,nc,nc73800891,2022-10-29T21:36:14.602Z,"6km SSE of Portola Valley, CA",earthquake,0.54,1.95,0.3,7,automatic,nc,nc
+2022-10-29T21:19:24.300Z,37.3344994,-122.1989975,9.03,1.09,md,6,100,0.03985,0.01,nc,nc73800891,2022-10-29T22:43:11.010Z,"6km SSE of Portola Valley, CA",earthquake,0.54,1.95,0.3,7,automatic,nc,nc
 2022-10-29T21:11:36.498Z,60.2669,-141.3813,14.4,2.1,ml,,,,0.87,ak,ak022dvsvcj5,2022-10-29T21:13:58.148Z,"122 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-29T20:51:00.840Z,33.648,-116.7285,13.92,1.02,ml,34,78,0.06178,0.15,ci,ci40126951,2022-10-29T20:54:29.056Z,"10km S of Idyllwild, CA",earthquake,0.23,0.35,0.16,27,automatic,ci,ci
 2022-10-29T20:45:33.227Z,-14.4791,-76.203,10,5.1,mb,67,143,2.554,0.72,us,us7000il7q,2022-10-29T21:03:36.040Z,"62 km WSW of Santiago, Peru",earthquake,7.33,1.838,0.04,206,reviewed,us,us
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T20:20:40.486Z,61.9403,-150.1768,23.8,1.7,ml,,,,0.33,ak,ak022dvsbuog,2022-10-29T20:22:21.455Z,"22 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-29T19:46:57.171Z,32.4633,142.5705,10,4.8,mb,50,130,2.411,0.49,us,us7000il7l,2022-10-29T22:07:19.040Z,"Izu Islands, Japan region",earthquake,8.97,1.903,0.088,40,reviewed,us,us
 2022-10-29T19:46:34.448Z,32.2328,142.8402,10,4.5,mb,28,139,2.7,1.2,us,us7000il81,2022-10-29T22:16:48.040Z,"Izu Islands, Japan region",earthquake,10.22,1.914,0.157,12,reviewed,us,us
-2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T19:59:36.858Z,"40 km ESE of Lime Village, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T22:49:23.167Z,"40 km ESE of Lime Village, Alaska",earthquake,,4.8,,,automatic,ak,ak
 2022-10-29T19:43:17.105Z,51.2301,-174.2278,35,4.2,mb,23,214,0.973,0.57,us,us7000il7w,2022-10-29T21:58:48.040Z,"107 km S of Atka, Alaska",earthquake,6.71,2.016,0.141,14,reviewed,us,us
 2022-10-29T19:41:33.959Z,51.3073,-174.2699,21.294,4.7,mb,78,137,0.897,0.82,us,us7000il7u,2022-10-29T21:48:04.040Z,"99 km S of Atka, Alaska",earthquake,8.22,6.348,0.056,98,reviewed,us,us
 2022-10-29T19:40:36.359Z,51.3603,-174.2229,31.917,4.5,mb,92,141,0.843,0.71,us,us7000il7k,2022-10-29T21:37:44.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,6.12,5.826,0.062,76,reviewed,us,us
@@ -77,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T12:19:46.864Z,51.3216,-174.3338,19.2,3.4,ml,,,,0.45,ak,ak022dvnk6t9,2022-10-29T18:06:34.384Z,"97 km S of Atka, Alaska",earthquake,,3.3,,,reviewed,ak,ak
 2022-10-29T12:16:35.270Z,38.8356667,-122.7911682,1.94,0.85,md,10,69,0.002813,0.01,nc,nc73800686,2022-10-29T12:49:12.590Z,"6km WNW of Cobb, CA",earthquake,0.5,1.31,,1,automatic,nc,nc
 2022-10-29T12:15:51.350Z,17.9446666666667,-66.9083333333333,14.24,1.91,md,5,239,0.02739,0.03,pr,pr71380173,2022-10-29T12:40:10.190Z,"2 km S of Guánica, Puerto Rico",earthquake,0.62,0.89,0.05415574108162,4,reviewed,pr,pr
-2022-10-29T12:13:07.321Z,38.1635,-117.9112,7.7,1.1,ml,13,127.95,0.045,0.1273,nn,nn00850225,2022-10-29T12:16:15.941Z,"Nevada",earthquake,,0.6,0.3,8,automatic,nn,nn
+2022-10-29T12:13:07.321Z,38.1635,-117.9112,7.7,1.1,ml,13,127.95,0.045,0.1273,nn,nn00850225,2022-10-29T12:16:15.941Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.3,8,automatic,nn,nn
 2022-10-29T12:01:21.080Z,17.9851666666667,-66.8465,15.6,2.38,md,6,240,0.03276,0.1,pr,pr71380178,2022-10-29T13:19:49.400Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.59,0.64,0.146120941231,6,reviewed,pr,pr
 2022-10-29T11:40:18.560Z,-19.1005,-66.9198,265.688,5.1,mww,82,33,2.22,1.24,us,us7000il5q,2022-10-29T17:48:32.746Z,"27 km SW of Challapata, Bolivia",earthquake,7.09,6.163,0.066,22,reviewed,us,us
 2022-10-29T11:22:56.940Z,33.3368333,-116.931,18.65,0.84,ml,29,31,0.09915,0.17,ci,ci40126823,2022-10-29T11:26:30.085Z,"7km WSW of Palomar Observatory, CA",earthquake,0.27,0.73,0.167,19,automatic,ci,ci
