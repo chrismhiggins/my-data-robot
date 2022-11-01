@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-01T08:17:47.444Z,63.5754,-149.7591,35.9,2,ml,,,,1.07,ak,ak022e0js2ah,2022-11-01T08:20:58.779Z,"45 km WNW of Cantwell, Alaska",earthquake,,6.8,,,automatic,ak,ak
 2022-11-01T08:12:25.770Z,33.217,-116.7436667,11.34,0.7,ml,23,45,0.02277,0.13,ci,ci40127999,2022-11-01T08:15:59.114Z,"3km SSE of Lake Henshaw, CA",earthquake,0.25,0.58,0.206,10,automatic,ci,ci
 2022-11-01T08:11:43.220Z,17.9661666666667,-66.8528333333333,19.41,2.08,md,11,201,0.02666,0.14,pr,pr71380408,2022-11-01T08:23:18.070Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.71,0.42,0.104456559033737,8,reviewed,pr,pr
-2022-11-01T08:04:46.080Z,38.6001663,-122.8003311,0.33,1.79,md,30,45,0.1154,0.21,nc,nc73801996,2022-11-01T08:37:12.118Z,"6km NNE of Windsor, CA",earthquake,0.42,9.44,0.1,15,automatic,nc,nc
+2022-11-01T08:04:46.080Z,38.6001663,-122.8003311,0.33,1.79,md,30,45,0.1154,0.21,nc,nc73801996,2022-11-01T11:07:10.055Z,"6km NNE of Windsor, CA",earthquake,0.42,9.44,0.1,15,automatic,nc,nc
 2022-11-01T07:49:53.656Z,62.5141,-151.0771,79.1,2.2,ml,,,,0.48,ak,ak022e0jdi2t,2022-11-01T07:52:07.291Z,"16 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-01T07:41:08.297Z,38.171,-117.9159,10,0.5,ml,10,155.56,0.047,0.1161,nn,nn00850377,2022-11-01T07:44:30.541Z,"29 km SE of Mina, Nevada",earthquake,,0.6,0.25,4,automatic,nn,nn
 2022-11-01T07:32:36.790Z,19.4008331298828,-155.292327880859,1.42999994754791,2.18000007,md,8,77,,0.0900000036,hv,hv73203137,2022-11-01T07:35:33.220Z,"Hawaii region, Hawaii",earthquake,0.5,0.389999986,2.38000011,4,automatic,hv,hv
@@ -209,9 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T11:46:15.501Z,-2.5937,100.6843,35,4.3,mb,20,127,2.867,0.39,us,us7000ilgm,2022-10-31T12:28:46.040Z,"Kepulauan Mentawai region, Indonesia",earthquake,8.25,1.87,0.2,8,reviewed,us,us
 2022-10-31T11:45:28.542Z,57.1771,-153.7338,34,2.5,ml,,,,0.52,ak,ak022dyy6z7a,2022-10-31T11:51:47.040Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-31T11:16:43.370Z,33.5905,-116.8116667,7.17,1.38,ml,58,24,0.03983,0.16,ci,ci40127583,2022-10-31T19:54:21.970Z,"13km WNW of Anza, CA",earthquake,0.15,0.4,0.168,28,reviewed,ci,ci
-2022-10-31T11:05:05.130Z,33.2568333,-116.811,15.25,0.76,ml,32,35,0.04847,0.14,ci,ci40127575,2022-10-31T19:49:17.390Z,"5km WNW of Lake Henshaw, CA",earthquake,0.19,0.37,0.153,17,reviewed,ci,ci
-2022-10-31T10:58:36.810Z,19.404,-155.263833333333,0.7,2.05,ml,26,57,,0.07,hv,hv73201932,2022-11-01T06:30:56.417Z,"5 km SW of Volcano, Hawaii",earthquake,0.12,0.16,0.185292318725364,10,reviewed,hv,hv
-2022-10-31T10:54:49.690Z,33.2165,-116.747,10.58,0.64,ml,24,51,0.02179,0.18,ci,ci37461732,2022-10-31T19:45:07.269Z,"3km SSE of Lake Henshaw, CA",earthquake,0.3,0.49,0.16,7,reviewed,ci,ci
-2022-10-31T10:54:26.490Z,33.2176667,-116.7433333,11.26,0.46,ml,26,43,0.02238,0.14,ci,ci40127567,2022-10-31T19:36:05.145Z,"3km SE of Lake Henshaw, CA",earthquake,0.22,0.54,0.203,7,reviewed,ci,ci
-2022-10-31T10:53:40.200Z,33.2171667,-116.7443333,11.16,0.88,ml,36,35,0.02232,0.13,ci,ci40127559,2022-10-31T19:31:06.030Z,"3km SSE of Lake Henshaw, CA",earthquake,0.18,0.44,0.134,18,reviewed,ci,ci
-2022-10-31T10:53:20.900Z,33.2163333,-116.745,11.24,0.64,ml,31,36,0.02274,0.12,ci,ci40127551,2022-10-31T19:23:00.170Z,"3km SSE of Lake Henshaw, CA",earthquake,0.21,0.4,0.169,13,reviewed,ci,ci
