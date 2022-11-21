@@ -30,6 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-21T09:33:36.542Z,65.148,-148.6004,0,1.3,ml,,,,0.63,ak,ak022exn7udy,2022-11-21T09:36:05.173Z,"35 km E of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-21T09:21:59.930Z,17.951,-66.9543,9,2.95,md,21,209,0.0789,0.12,pr,pr2022325000,2022-11-21T12:15:00.013Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.42,0.66,0.25,15,reviewed,pr,pr
 2022-11-21T09:06:34.920Z,56.2411,-156.646,31.5,2.6,ml,,,,0.46,ak,ak022exn21xg,2022-11-21T09:09:14.260Z,"109 km E of Chignik, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2022-11-21T09:03:14.680Z,36.2448333333333,-89.5268333333333,8.11,1.24,md,10,80,0.01697,0.08,nm,nm60500083,2022-11-21T13:48:46.120Z,"southeastern Missouri",earthquake,0.3,0.53,0.103346453042888,8,reviewed,nm,nm
 2022-11-21T08:59:05.080Z,36.3821678,-120.9609985,9.98,2.37,md,34,69,0.06203,0.09,nc,nc73809926,2022-11-21T10:07:37.634Z,"23km SE of Pinnacles, CA",earthquake,0.25,0.7,0.2,35,automatic,nc,nc
 2022-11-21T08:37:55.580Z,33.2703333,-116.3171667,2.74,1.62,ml,55,43,0.0838,0.21,ci,ci40378760,2022-11-21T08:48:44.050Z,"6km ENE of Borrego Springs, CA",earthquake,0.25,0.51,0.14,25,automatic,ci,ci
 2022-11-21T08:34:09.597Z,35.42237854,-96.55384064,4.373752117,1.8,ml,19,72.89464569,0.1282605678,0.2132322077,ok,ok2022wupy,2022-11-21T08:36:50.849Z,"9 km S of Paden, Oklahoma",earthquake,3.163773778,2.799576206,,15,automatic,ok,ok
@@ -200,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T14:10:07.220Z,19.1135005950928,-155.432159423828,29.4300003051758,1.86000001,md,32,181,,0.159999996,hv,hv73229412,2022-11-20T14:13:19.840Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.61,1.07000005,1.48000002,10,automatic,hv,hv
 2022-11-20T14:05:15.300Z,35.5058333,-118.3936667,3.85,0.91,ml,13,177,0.1919,0.11,ci,ci40378496,2022-11-20T14:08:37.532Z,"13km SE of Bodfish, CA",earthquake,0.4,1.02,0.122,9,automatic,ci,ci
 2022-11-20T14:03:09.955Z,58.5847,-153.8727,78.4,1.8,ml,,,,0.2,ak,ak022ew2h6dv,2022-11-20T14:05:22.327Z,"81 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-20T13:49:17.459Z,-10.4339,123.772,10,5.1,mww,76,63,0.832,0.5,us,us7000ir5k,2022-11-20T15:25:49.040Z,"34 km SSE of Kupang, Indonesia",earthquake,5.06,1.844,0.066,22,reviewed,us,us
