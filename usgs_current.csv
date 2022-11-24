@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T06:06:30.563Z,60.102,-152.4959,89.9,1.5,ml,,,,0.61,ak,ak022f2jvs9c,2022-11-24T06:08:45.146Z,"45 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-11-24T06:03:28.333Z,38.17,-116.1243,16,1.8,ml,11,255.59,0.965,0.2967,nn,nn00851985,2022-11-24T06:06:34.489Z,"Nevada",earthquake,,2.1,0.69,7,automatic,nn,nn
 2022-11-24T05:45:49.103Z,38.3158,-115.8885,3.8,2.1,ml,14,129.72,1.127,0.1965,nn,nn00851982,2022-11-24T05:49:04.729Z,"75 km N of Rachel, Nevada",earthquake,,2.5,0.66,9,automatic,nn,nn
 2022-11-24T05:40:21.170Z,17.9551666666667,-66.9903333333333,12.18,2.09,md,4,207,0.05322,0.08,pr,pr71383728,2022-11-24T05:49:07.650Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,1.18,0.94,0.0483380087247243,3,reviewed,pr,pr
 2022-11-24T05:32:55.860Z,35.6195,-118.4075,2.95,0.81,ml,11,92,0.06929,0.11,ci,ci40380216,2022-11-24T05:36:30.024Z,"6km E of Lake Isabella, CA",earthquake,0.36,0.43,0.118,5,automatic,ci,ci
@@ -63,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T22:34:02.280Z,37.2901649,-121.6640015,5.52,2.97,md,70,40,0.03196,0.06,nc,nc73810741,2022-11-24T04:18:27.075Z,"16km E of Seven Trees, CA",earthquake,0.12,0.26,0.12,67,automatic,nc,nc
 2022-11-23T22:32:56.997Z,46.2948,151.3916,101.565,4.9,mb,61,133,5.982,1,us,us7000irxs,2022-11-23T22:52:50.040Z,"297 km ENE of Kuril’sk, Russia",earthquake,9.65,5.769,0.065,75,reviewed,us,us
 2022-11-23T22:26:23.695Z,60.0543,-152.6438,100.8,1.7,ml,,,,0.27,ak,ak022f15znfo,2022-11-23T23:00:25.258Z,"52 km WNW of Happy Valley, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-24T05:31:26.510Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
+2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-24T06:01:34.492Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
 2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:33:52.173Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
 2022-11-23T22:10:07.030Z,38.7941666,-122.7464981,2.48,0.37,md,11,93,0.01217,0.02,nc,nc73810736,2022-11-23T22:52:13.699Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.94,,1,automatic,nc,nc
 2022-11-23T22:00:17.512Z,71.3739,-3.8139,10,4.7,mb,86,47,6.005,0.83,us,us7000irx8,2022-11-23T22:20:02.040Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.85,1.874,0.063,76,reviewed,us,us
@@ -232,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T06:45:15.970Z,37.4386667,-119.0176667,8.54,1.49,md,28,78,0.1433,0.08,nc,nc73810566,2022-11-23T15:20:11.860Z,"22km S of Mammoth Lakes, CA",earthquake,0.27,1.07,0.15,27,reviewed,nc,nc
 2022-11-23T06:37:28.790Z,33.7033333,-116.812,14.04,1.16,ml,41,43,0.079,0.21,ci,ci40379752,2022-11-23T14:08:06.739Z,"9km ESE of Valle Vista, CA",earthquake,0.31,0.52,0.189,27,reviewed,ci,ci
 2022-11-23T06:12:58.550Z,32.6895,-115.6926667,8.6,1.54,ml,25,129,0.04912,0.22,ci,ci40379744,2022-11-23T16:01:02.040Z,"16km NW of Progreso, B.C., MX",earthquake,0.34,0.71,0.219,19,reviewed,ci,ci
-2022-11-23T06:06:37.280Z,33.345,-116.33,12.67,0.79,ml,13,113,0.02432,0.14,ci,ci40379736,2022-11-23T15:55:43.861Z,"11km NNE of Borrego Springs, CA",earthquake,0.43,0.49,0.098,11,reviewed,ci,ci
-2022-11-23T06:05:17.971Z,63.2016,-150.8492,120.5,2.1,ml,,,,0.35,ak,ak022f0wc72t,2022-11-23T06:07:30.061Z,"57 km SE of Denali National Park, Alaska",earthquake,,3.4,,,automatic,ak,ak
