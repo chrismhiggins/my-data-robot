@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T04:23:30.460Z,19.4496669769287,-155.59716796875,-0.800000011920929,1.75999999,md,7,165,,0.180000007,hv,hv73251152,2022-12-02T04:26:38.220Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.360000014,0.50999999,5,automatic,hv,hv
 2022-12-02T04:13:12.173Z,61.3316,-150.1447,32,1.6,ml,,,,0.69,ak,ak022ffr15ld,2022-12-02T04:15:07.811Z,"9 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-02T04:04:08.130Z,34.489,-118.966,14.09,1.54,ml,18,116,0.04181,0.24,ci,ci40383464,2022-12-02T04:07:44.752Z,"11km NNW of Fillmore, CA",earthquake,0.55,0.79,0.149,32,automatic,ci,ci
 2022-12-02T03:45:17.396Z,61.1537,-147.8655,8.4,1.4,ml,,,,0.51,ak,ak022ffqmlaz,2022-12-02T03:47:04.760Z,"61 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -284,7 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T04:54:42.505Z,40.5086,143.8366,24.814,4.9,mb,66,131,1.59,0.5,us,us6000j5xr,2022-12-01T06:13:18.040Z,"off the east coast of Honshu, Japan",earthquake,7.92,5.707,0.085,44,reviewed,us,us
 2022-12-01T04:47:33.730Z,36.037,-117.7806667,1.76,0.99,ml,21,112,0.059,0.13,ci,ci40382968,2022-12-01T17:05:18.430Z,"15km E of Coso Junction, CA",earthquake,0.18,0.21,0.19,11,reviewed,ci,ci
 2022-12-01T04:43:52.410Z,37.474,-118.8741667,2.48,0.4,md,6,298,0.1212,0.02,nc,nc73813341,2022-12-01T11:29:12.925Z,"20km WSW of Toms Place, CA",earthquake,1.81,2.23,0.16,6,reviewed,nc,nc
-2022-12-01T04:38:26.670Z,34.2236667,-117.5841667,6.8,0.95,ml,26,67,0.06344,0.13,ci,ci40382960,2022-12-01T16:52:13.407Z,"9km WSW of Lytle Creek, CA",earthquake,0.21,0.32,0.069,13,reviewed,ci,ci
-2022-12-01T04:28:04.820Z,37.6411667,-121.8113333,6.5,1.36,md,21,81,0.02654,0.09,nc,nc73813336,2022-12-01T19:50:13.943Z,"6km SW of Livermore, CA",earthquake,0.2,0.38,0.13,18,reviewed,nc,nc
-2022-12-01T04:26:09.330Z,32.911,-116.244,6.51,1.59,ml,59,59,0.06621,0.21,ci,ci40382952,2022-12-01T16:46:28.510Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.2,0.63,0.133,43,reviewed,ci,ci
-2022-12-01T04:23:43.670Z,19.4745,-155.587,-1.22,2.45,md,29,103,,0.16,hv,hv73248537,2022-12-01T06:01:39.040Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.15,0.058279967239393,8,reviewed,hv,hv
