@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-05T13:47:05.870Z,38.8313332,-122.8148346,1.55,0.9,md,11,66,0.008755,0.01,nc,nc73814771,2022-12-05T13:48:43.389Z,"8km NW of The Geysers, CA",earthquake,0.29,0.82,0.22,14,automatic,nc,nc
 2022-12-05T13:04:10.870Z,19.1611671447754,-155.493499755859,35.4199981689453,1.89999998,md,36,158,,0.129999995,hv,hv73260212,2022-12-05T13:07:11.330Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.9,1.26999998,1.67999995,6,automatic,hv,hv
 2022-12-05T12:39:26.712Z,61.6743,-150.1253,42,1.5,ml,,,,0.55,ak,ak022fkuk9nj,2022-12-05T12:41:26.859Z,"9 km SSW of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-05T12:29:27.318Z,61.2905,-152.2576,5.9,1.4,ml,,,,0.31,ak,ak022fkui4jf,2022-12-05T12:31:55.357Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
