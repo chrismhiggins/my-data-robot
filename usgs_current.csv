@@ -178,7 +178,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T23:08:56.619Z,35.23016667,-98.052,9.71,0.87,ml,24,62,0.0224955856,0.24,ok,ok2022xtmj,2022-12-05T15:26:27.382Z,"9 km WNW of Pocasset, Oklahoma",earthquake,,0.9,0.09,3,reviewed,ok,ok
 2022-12-04T23:08:22.888Z,62.3409,-147.6124,29.1,2.5,ml,,,,0.69,ak,ak022fjde1bn,2022-12-05T00:21:42.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-04T23:01:13.543Z,60.9632,-147.7214,4.1,1.2,ml,,,,0.63,ak,ak022fjdcil6,2022-12-04T23:02:56.606Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-04T23:00:51.630Z,37.5221667,-118.88,4.84,1.16,md,17,177,0.0789,0.04,nc,nc73814561,2022-12-05T18:23:14.991Z,"16km SE of Mammoth Lakes, CA",earthquake,0.35,1.06,0.121,14,reviewed,nc,nc
+2022-12-04T23:00:51.630Z,37.5221667,-118.88,4.84,1.16,md,17,177,0.0789,0.04,nc,nc73814561,2022-12-05T19:38:10.435Z,"16km SE of Mammoth Lakes, CA",earthquake,0.35,1.06,0.121,14,reviewed,nc,nc
 2022-12-04T22:56:15.525Z,60.9032,-148.0994,14.2,1.6,ml,,,,1.27,ak,ak022fjd2vio,2022-12-04T22:57:53.480Z,"34 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T22:27:17.618Z,61.4353,-149.9039,32.9,1.7,ml,,,,0.5,ak,ak022fjcwnwx,2022-12-05T01:51:04.927Z,"9 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T22:24:58.950Z,19.4473333333333,-155.600833333333,-1.47,2.3,md,29,88,,0.13,hv,hv73259132,2022-12-05T00:12:09.930Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.27,0.149902862276496,9,reviewed,hv,hv
@@ -209,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-04T19:53:53.764Z,62.0656,-145.195,7.6,2,ml,,,,1.07,ak,ak022fjba0hf,2022-12-04T19:55:08.793Z,"9 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T19:48:43.850Z,33.3803333,-117.9883333,18.45,2.03,ml,30,157,0.2693,0.29,ci,ci40142031,2022-12-04T19:52:20.782Z,"26km SW of Laguna Beach, CA",earthquake,0.69,1.52,0.158,28,automatic,ci,ci
 2022-12-04T19:46:14.782Z,36.4422,-116.2475,5.4,1.9,ml,31,147.53,0.03,0.163,nn,nn00852574,2022-12-04T22:14:41.832Z,"35 km NW of Pahrump, Nevada",earthquake,,1.1,0.97,18,reviewed,nn,nn
-2022-12-04T19:37:44.140Z,36.2871666666667,-89.5326666666667,8.41,1.1,md,8,112,0.03569,0.06,nm,nm60501546,2022-12-05T18:47:45.920Z,"4 km WNW of Ridgely, Tennessee",earthquake,0.67,0.68,0.0881172647036006,7,reviewed,nm,nm
-2022-12-04T19:35:15.432Z,62.0348,-145.2082,17.1,2.1,ml,,,,0.31,ak,ak022fjb62nc,2022-12-04T19:36:30.558Z,"7 km ENE of Silver Springs, Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-12-04T19:33:44.940Z,35.9741669,-120.5226669,3.67,0.93,md,10,98,0.02348,0.02,nc,nc73814516,2022-12-04T20:37:12.224Z,"12km NW of Parkfield, CA",earthquake,0.38,1.24,0.14,3,automatic,nc,nc
-2022-12-04T19:31:38.010Z,19.3106670379639,-155.200500488281,4.17999982833862,1.74,ml,13,236,,0.189999998,hv,hv73258897,2022-12-04T19:37:09.690Z,"15 km SSE of Volcano, Hawaii",earthquake,1.88,3.69000006,0.23,4,automatic,hv,hv
