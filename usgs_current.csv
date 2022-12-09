@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-09T21:43:00.080Z,33.2193336,-116.73983,19.47,1.03,ml,31,35,0.02296,0.13,ci,ci40144175,2022-12-09T21:45:16.190Z,"3km SE of Lake Henshaw, CA",earthquake,0.26,0.56,0.196,7,automatic,ci,ci
+2022-12-09T21:39:00.750Z,34.0481667,-117.2381667,13.64,1.33,ml,49,50,0.1264,0.21,ci,ci40144167,2022-12-09T21:42:34.889Z,"2km E of Loma Linda, CA",earthquake,0.27,0.65,0.111,28,automatic,ci,ci
+2022-12-09T21:38:34.674Z,63.6055,-147.2711,41.4,1.5,ml,,,,0.74,ak,ak022frm2cyz,2022-12-09T21:41:00.181Z,"Central Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-09T21:31:48.820Z,38.7803345,-122.7203369,1.84,0.8,md,10,86,0.01313,0.02,nc,nc73816731,2022-12-09T21:33:23.543Z,"2km WNW of Anderson Springs, CA",earthquake,0.34,0.78,0.13,9,automatic,nc,nc
 2022-12-09T21:09:42.860Z,33.9788333,-117.4675,0.47,1.06,ml,15,103,0.1621,0.22,ci,ci40144159,2022-12-09T21:17:06.385Z,"1km ENE of Pedley, CA",earthquake,0.53,31.61,0.174,20,automatic,ci,ci
 2022-12-09T20:56:19.800Z,35.9713326,-120.5211639,2.74,0.74,md,14,95,0.02489,0.03,nc,nc73816721,2022-12-09T20:57:54.435Z,"11km NW of Parkfield, CA",earthquake,0.31,0.81,0.23,5,automatic,nc,nc
@@ -93,6 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T09:53:09.820Z,19.1901664733887,-155.486831665039,31.3299999237061,1.72000003,md,19,226,,0.159999996,hv,hv73264482,2022-12-09T09:56:28.320Z,"1 km SSW of Pāhala, Hawaii",earthquake,1.21,1.53999996,1.34000003,5,automatic,hv,hv
 2022-12-09T09:48:27.545Z,41.954,-119.5294,1.5,1,ml,4,211.41,0.578,0.2773,nn,nn00853051,2022-12-09T16:16:27.688Z,"Nevada",earthquake,,3,0.58,2,reviewed,nn,nn
 2022-12-09T09:39:32.880Z,38.7999992,-122.7919998,-0.37,0.79,md,17,73,0.008365,0.06,nc,nc73816556,2022-12-09T09:57:15.317Z,"4km NW of The Geysers, CA",earthquake,0.2,0.61,0.2,17,automatic,nc,nc
+2022-12-09T09:26:28.977Z,37.0438,-116.2929,6,-0.2,ml,5,103.7,0.063,0.1174,nn,nn00853099,2022-12-09T21:36:34.373Z,"44 km ENE of Beatty, Nevada",earthquake,,5.2,1.55,4,reviewed,nn,nn
 2022-12-09T09:23:49.770Z,61.5028,-147.9776,22.5,1.4,ml,,,,0.27,ak,ak022fretz4x,2022-12-09T13:52:13.325Z,"38 km SSW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-09T09:17:13.056Z,61.1618,-151.1564,62.7,1.6,ml,,,,0.5,ak,ak022fresm09,2022-12-09T09:18:58.007Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-09T09:16:15.280Z,39.6500015,-123.850502,7.65,1.94,md,11,183,0.3258,0.05,nc,nc73816551,2022-12-09T10:45:13.611Z,"9km SSW of Cape Vizcaino, CA",earthquake,0.45,1.09,0.14,2,automatic,nc,nc
@@ -211,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T22:27:16.050Z,19.1599998474121,-155.493835449219,32.6300010681152,2.08999991,md,25,243,,0.100000001,hv,hv73264212,2022-12-08T22:30:40.870Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.74,0.930000007,0.170000002,9,automatic,hv,hv
 2022-12-08T22:11:10.830Z,17.9611666666667,-66.9751666666667,11.22,2.41,md,6,197,0.06624,0.05,pr,pr71386158,2022-12-08T22:25:42.370Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.44,0.7,0.0613654682705251,4,reviewed,pr,pr
 2022-12-08T22:04:14.850Z,38.8066673,-122.8066635,2.2,0.89,md,7,108,0.008971,0,nc,nc73816326,2022-12-08T22:05:46.687Z,"5km NW of The Geysers, CA",earthquake,0.52,2.64,0.12,8,automatic,nc,nc
-2022-12-08T21:35:19.810Z,37.6478348,-119.0233307,-0.05,1.37,md,12,96,0.006725,0.02,nc,nc73816311,2022-12-08T23:20:13.484Z,"4km WNW of Mammoth Lakes, CA",earthquake,0.32,0.28,0.33,12,automatic,nc,nc
