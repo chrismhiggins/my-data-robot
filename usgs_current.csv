@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-10T05:22:08.320Z,33.2145,-116.7295,11.31,0.55,ml,21,62,0.07062,0.15,ci,ci40144263,2022-12-10T05:25:47.971Z,"4km SE of Lake Henshaw, CA",earthquake,0.33,0.68,0.154,9,automatic,ci,ci
 2022-12-10T04:58:43.081Z,18.5325,-66.3926,111.537,2.7,ml,16,210,0.214,0.21,us,us6000j8ci,2022-12-10T05:05:17.040Z,"8 km NNW of Sabana, Puerto Rico",earthquake,5.94,5.354,0.062,34,reviewed,us,us
 2022-12-10T04:55:45.050Z,62.8136,-150.4975,80.4,1.4,ml,,,,0.59,ak,ak022fszl05l,2022-12-10T04:57:55.574Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-12-10T04:45:50.290Z,38.8223343,-122.7854996,1.41,1.04,md,12,101,0.009812,0.02,nc,nc73816861,2022-12-10T04:47:30.616Z,"5km W of Cobb, CA",earthquake,0.33,0.76,0.27,13,automatic,nc,nc
+2022-12-10T04:45:50.290Z,38.8223343,-122.7854996,1.41,1.04,md,12,101,0.009812,0.02,nc,nc73816861,2022-12-10T05:13:13.114Z,"5km W of Cobb, CA",earthquake,0.33,0.76,0.27,13,automatic,nc,nc
 2022-12-10T04:32:23.785Z,36.70086288,-97.66954803,2.114347935,2.08,ml,33,57.85498047,0.2185331136,0.5997381267,ok,ok2022ydan,2022-12-10T04:34:30.353Z,"Oklahoma",earthquake,2.162117745,1.726669953,,23,automatic,ok,ok
 2022-12-10T04:27:38.342Z,64.4022,-148.0321,16.9,1.6,ml,,,,0.08,ak,ak022fszezl6,2022-12-10T04:28:57.421Z,"46 km SSW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-10T04:26:23.845Z,36.70403671,-97.67364502,0.9931418896,3.44,ml,87,54.20694733,0.2228060812,0.637020806,ok,ok2022ydai,2022-12-10T04:34:24.040Z,"Oklahoma",earthquake,1.526000962,1.07701945,,65,automatic,ok,ok
