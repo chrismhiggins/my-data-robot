@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-14T09:52:35.410Z,35.8301667,-117.6473333,7.72,0.69,ml,11,111,0.04297,0.21,ci,ci40145399,2022-12-14T09:56:10.632Z,"23km WNW of Searles Valley, CA",earthquake,0.64,1.02,0.165,6,automatic,ci,ci
 2022-12-14T09:37:42.594Z,38.4038,-118.8949,2.4,1.2,ml,8,205.11,0.342,0.0937,nn,nn00853326,2022-12-14T09:40:57.648Z,"27 km WSW of Hawthorne, Nevada",earthquake,,12.8,0.25,4,automatic,nn,nn
 2022-12-14T09:33:26.880Z,18.7968333333333,-65.0691666666667,8.55,3.21,md,7,258,0.4548,0.31,pr,pr71387138,2022-12-14T09:46:47.920Z,"52 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.42,1.43,0.029847934250673,4,reviewed,pr,pr
 2022-12-14T09:16:15.810Z,38.8278351,-122.8529968,1.63,0.72,md,8,81,0.003041,0.01,nc,nc73818546,2022-12-14T09:33:14.268Z,"10km NW of The Geysers, CA",earthquake,0.36,0.73,0.27,8,automatic,nc,nc
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T08:37:49.840Z,33.593,-116.8116667,5.78,1.36,ml,57,31,0.03971,0.18,ci,ci40145391,2022-12-14T08:48:28.870Z,"14km WNW of Anza, CA",earthquake,0.18,0.43,0.164,26,automatic,ci,ci
 2022-12-14T08:36:39.445Z,36.6721,-116.3063,8.2,0.1,ml,12,141.57,0.037,0.0671,nn,nn00853325,2022-12-14T08:38:48.788Z,"48 km ESE of Beatty, Nevada",earthquake,,1.1,0.09,4,automatic,nn,nn
 2022-12-14T08:12:49.840Z,17.9678333333333,-66.9205,11.72,2.14,md,6,192,0.03991,0.07,pr,pr71387123,2022-12-14T08:25:56.420Z,"1 km WSW of Guánica, Puerto Rico",earthquake,0.68,0.82,0.0180989158679341,3,reviewed,pr,pr
-2022-12-14T08:11:41.590Z,38.7921677,-122.7098312,24.69,1.47,md,7,118,0.02534,0.12,nc,nc73818531,2022-12-14T09:07:11.111Z,"2km NW of Anderson Springs, CA",earthquake,3.05,12.44,0.13,2,automatic,nc,nc
+2022-12-14T08:11:41.590Z,38.7921677,-122.7098312,24.69,1.47,md,7,118,0.02534,0.12,nc,nc73818531,2022-12-14T09:49:13.357Z,"2km NW of Anderson Springs, CA",earthquake,3.05,12.44,0.13,2,automatic,nc,nc
 2022-12-14T08:07:40.200Z,19.4266662597656,-155.280838012695,-0.670000016689301,1.87,ml,14,93,,0.209999993,hv,hv73269112,2022-12-14T08:13:11.710Z,"5 km WSW of Volcano, Hawaii",earthquake,0.2,0.340000004,0.26,3,automatic,hv,hv
 2022-12-14T07:59:31.104Z,61.6755,-150.7764,57,1.4,ml,,,,0.41,ak,ak022fznjiqe,2022-12-14T08:01:29.124Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-14T07:54:47.280Z,38.8251648,-122.7973328,1.13,0.85,md,15,66,0.01011,0.01,nc,nc73818521,2022-12-14T08:32:10.885Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.53,0.13,15,automatic,nc,nc
@@ -204,5 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T10:24:22.280Z,18.2755,-66.1783333333333,15.39,2.66,md,7,145,0.09595,0.1,pr,pr71386963,2022-12-13T11:19:56.060Z,"Puerto Rico region",earthquake,0.35,0.42,0.30191672778429,6,reviewed,pr,pr
 2022-12-13T10:15:54.530Z,51.8575,-177.976833333333,-1.8,1.14,ml,5,120,,0.22,av,av91730186,2022-12-14T02:25:42.870Z,"92 km W of Adak, Alaska",earthquake,0.41,1.37,0.189598738249249,5,reviewed,av,av
 2022-12-13T10:02:53.252Z,57.8683,-157.444,0,2.3,ml,,,,0.92,ak,ak022fy1gay5,2022-12-13T10:05:00.832Z,"34 km NNE of Pilot Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-13T09:56:39.935Z,-8.1298,115.617,9.632,4.9,mb,39,42,1.489,1.4,us,us6000j8yz,2022-12-13T21:50:28.645Z,"Bali region, Indonesia",earthquake,6.85,4.403,0.11,26,reviewed,us,us
-2022-12-13T09:55:57.240Z,58.2401666666667,-155.200666666667,4.09,0.07,ml,4,156,,0.1,av,av91079623,2022-12-14T02:17:28.950Z,"86 km NNW of Karluk, Alaska",earthquake,0.75,1.16,0.0806654041972359,4,reviewed,av,av
