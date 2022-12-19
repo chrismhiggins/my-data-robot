@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-19T12:50:33.980Z,34.3386667,-117.5723333,4.27,1.05,ml,23,76,0.09769,0.2,ci,ci40392232,2022-12-19T12:54:06.570Z,"6km ESE of Wrightwood, CA",earthquake,0.3,0.76,0.198,27,automatic,ci,ci
+2022-12-19T12:40:33.667Z,60.1287,-152.0506,65.7,2.1,ml,,,,0.61,ak,ak022g803cti,2022-12-19T12:42:31.163Z,"23 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-19T12:33:30.820Z,19.2261657714844,-155.372833251953,32.25,1.83000004,md,32,186,,0.119999997,hv,hv73276027,2022-12-19T12:36:53.290Z,"Island of Hawaii, Hawaii",earthquake,0.77,2.07999992,1.62,6,automatic,hv,hv
 2022-12-19T12:29:28.173Z,64.5775,-148.719,1,1.5,ml,,,,0.65,ak,ak022g800zip,2022-12-19T12:31:11.822Z,"18 km E of Nenana, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-19T12:27:32.305Z,56.2333,-144.5323,14.9,2.9,ml,,,,1.06,ak,ak022g800qh1,2022-12-19T12:31:07.215Z,"Gulf of Alaska",earthquake,,568.3,,,automatic,ak,ak
@@ -210,7 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T13:29:08.345Z,34.4775,82.5803,10,4.7,mb,83,58,7.046,0.28,us,us6000ja55,2022-12-18T14:56:29.040Z,"western Xizang",earthquake,8.48,1.86,0.065,71,reviewed,us,us
 2022-12-18T13:12:12.350Z,59.9145,-153.2305,99,1.7,ml,,,,0.39,ak,ak022g6cze8j,2022-12-18T13:13:53.704Z,"51 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-18T13:09:48.153Z,31.6316,-104.3817,5,2.5,ml,20,98,0.108,0.44,us,us6000ja51,2022-12-18T14:22:01.040Z,"60 km S of Whites City, New Mexico",earthquake,1.17,1.95,0.047,60,reviewed,us,us
-2022-12-18T12:55:36.520Z,38.8373337,-122.8366699,1.61,0.31,md,6,115,0.001557,0.01,nc,nc73820236,2022-12-18T13:37:14.913Z,"10km NW of The Geysers, CA",earthquake,0.42,1.25,0.16,7,automatic,nc,nc
-2022-12-18T12:55:22.320Z,19.1161670684814,-155.422836303711,31.7600002288818,2.02,ml,43,182,,0.109999999,hv,hv73275012,2022-12-18T13:00:52.780Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.5,0.939999998,0.35,6,automatic,hv,hv
-2022-12-18T12:40:33.830Z,33.1031667,-116.0335,8.15,1.11,ml,32,38,0.0843,0.24,ci,ci40391752,2022-12-18T12:44:06.994Z,"10km ESE of Ocotillo Wells, CA",earthquake,0.36,1.27,0.115,26,automatic,ci,ci
-2022-12-18T12:38:09.625Z,59.6558,-152.5835,83.8,1.6,ml,,,,0.62,ak,ak022g6cjj1e,2022-12-18T12:41:11.158Z,"44 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
