@@ -194,7 +194,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T20:29:59.680Z,38.8434982,-122.8221664,-0.77,1.28,md,22,66,0.01118,0.27,nc,nc73824861,2022-12-25T23:05:17.120Z,"9km WNW of Cobb, CA",earthquake,0.45,1.65,0.12,22,automatic,nc,nc
 2022-12-25T20:27:00.230Z,38.8354988,-122.7886658,1.93,1.02,md,10,83,0.003188,0.01,nc,nc73824856,2022-12-25T21:00:14.409Z,"6km WNW of Cobb, CA",earthquake,0.38,0.43,0.09,12,automatic,nc,nc
 2022-12-25T20:23:12.650Z,38.8356667,-122.8085022,3.37,0.35,md,4,110,0.01232,0.01,nc,nc73824851,2022-12-25T20:49:13.353Z,"8km WNW of Cobb, CA",earthquake,1.18,6.37,0.17,7,automatic,nc,nc
-2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"28 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-25T20:20:23.246Z,63.3366,-151.3916,5.6,1.8,ml,,,,0.63,ak,ak022gi1ylhw,2022-12-25T20:23:07.336Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-25T20:13:32.190Z,33.0215,-116.4248333,5.74,1.18,ml,36,68,0.1219,0.24,ci,ci40149935,2022-12-25T20:17:33.096Z,"18km ESE of Julian, CA",earthquake,0.3,1.58,0.174,12,automatic,ci,ci
 2022-12-25T20:13:12.030Z,33.0165,-116.4266667,6.05,1.14,ml,36,69,0.1206,0.22,ci,ci40149927,2022-12-25T20:17:17.290Z,"18km ESE of Julian, CA",earthquake,0.29,1.22,0.149,24,automatic,ci,ci
 2022-12-25T20:10:39.030Z,38.8351669,-122.8113327,1.92,1.71,md,34,40,,0.03,nc,nc73824846,2022-12-25T21:56:10.730Z,"8km W of Cobb, CA",earthquake,0.17,0.3,0.14,35,automatic,nc,nc
@@ -220,5 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-25T18:53:13.340Z,33.9793333,-116.7638333,16.88,2.67,ml,89,18,0.06658,0.18,ci,ci40149879,2022-12-25T20:55:05.040Z,"7km NNE of Cabazon, CA",earthquake,0.16,0.4,0.217,25,automatic,ci,ci
 2022-12-25T18:47:20.940Z,38.822834,-122.8024979,3.03,1.95,md,37,32,,0.03,nc,nc73824786,2022-12-25T20:06:21.123Z,"6km NW of The Geysers, CA",earthquake,0.19,0.33,0.14,38,automatic,nc,nc
 2022-12-25T18:39:23.059Z,-16.4016,-173.2885,10,4.9,mb,39,77,2.336,1.5,us,us6000jbmn,2022-12-25T19:52:44.394Z,"73 km SE of Hihifo, Tonga",earthquake,8.02,1.863,0.062,82,reviewed,us,us
-2022-12-25T18:35:19.250Z,17.9068333333333,-66.8758333333333,15.24,2.23,md,8,233,0.06793,0.07,pr,pr71388998,2022-12-25T18:45:21.740Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.47,0.58,0.018491101034626,4,reviewed,pr,pr
-2022-12-25T18:30:20.140Z,38.7701683,-122.7133331,1.76,1.11,md,10,109,0.01116,0.03,nc,nc73824781,2022-12-25T19:35:14.063Z,"2km WSW of Anderson Springs, CA",earthquake,0.36,0.4,0.14,10,automatic,nc,nc
