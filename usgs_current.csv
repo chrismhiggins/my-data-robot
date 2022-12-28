@@ -167,5 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T03:46:18.031Z,-25.3916,-174.8912,10,5,mb,31,101,4.212,0.69,us,us6000jbwp,2022-12-28T02:09:39.040Z,"south of Tonga",earthquake,9.24,1.85,0.13,19,reviewed,us,us
 2022-12-27T03:41:21.178Z,60.3045,-151.1812,42.4,2,ml,,,,0.53,ak,ak022gl31f2t,2022-12-27T03:43:30.916Z,"6 km SE of Kasilof, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-12-27T03:37:17.626Z,60.0979,-152.8278,112.8,2.3,ml,,,,0.37,ak,ak022gl30jxu,2022-12-27T03:39:23.482Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-27T03:30:11.679Z,37.9277,101.151,10,4.7,mb,64,42,10.295,0.79,us,us6000jbwl,2022-12-28T01:37:43.040Z,"111 km SW of Jinchang, China",earthquake,6.42,1.852,0.079,48,reviewed,us,us
-2022-12-27T03:30:00.170Z,38.3546667,-113.0898333,7.96,2.3,ml,30,61,0.01455,0.16,uu,uu60528757,2022-12-27T16:16:05.220Z,"8 km SW of Milford, Utah",earthquake,0.44,0.43,0.152,9,reviewed,uu,uu
