@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T07:17:15.942Z,20.7608,144.716,158.695,4.6,mb,61,135,16.03,0.86,us,us7000j0kx,2022-12-28T07:49:44.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,13.79,8.07,0.067,66,reviewed,us,us
 2022-12-28T07:09:34.479Z,59.3984,-151.1913,49.6,1.8,ml,,,,0.76,ak,ak022gmsro3r,2022-12-28T07:12:14.864Z,"21 km S of Halibut Cove, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-28T06:56:51.482Z,58.2246,-154.8441,3.3,0.6,ml,,,,0.18,ak,ak022gmsgch2,2022-12-28T06:59:19.712Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
-2022-12-28T06:44:50.931Z,60.3722,-141.4154,16.2,2.3,ml,,,,0.56,ak,ak022gmsdrtx,2022-12-28T06:46:26.667Z,"131 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-28T06:44:12.707Z,60.1392,-152.7862,111.2,2.4,ml,,,,0.46,ak,ak022gmsdovh,2022-12-28T06:45:50.575Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
