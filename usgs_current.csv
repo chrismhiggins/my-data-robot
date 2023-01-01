@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T13:21:07.730Z,35.8035,-117.6253333,7.12,1.1,ml,11,91,0.0257,0.17,ci,ci40152655,2023-01-01T13:24:36.061Z,"20km WNW of Searles Valley, CA",earthquake,0.66,0.98,0.112,9,automatic,ci,ci
+2023-01-01T13:13:02.460Z,33.4028333,-116.3833333,3.16,0.93,ml,22,115,0.1372,0.16,ci,ci40152647,2023-01-01T13:16:44.825Z,"16km N of Borrego Springs, CA",earthquake,0.31,1.17,0.193,15,automatic,ci,ci
 2023-01-01T12:50:20.075Z,38.1573,-117.9953,6.8,1.7,ml,14,126.8,0.034,0.198,nn,nn00854395,2023-01-01T12:53:08.045Z,"27 km SSE of Mina, Nevada",earthquake,,0.4,0.22,7,automatic,nn,nn
 2023-01-01T12:46:37.560Z,33.4023333,-116.3873333,3.93,1.51,ml,54,31,0.1249,0.23,ci,ci40152639,2023-01-01T12:57:52.580Z,"16km N of Borrego Springs, CA",earthquake,0.25,0.74,0.137,27,automatic,ci,ci
 2023-01-01T12:29:07.778Z,63.562,-149.8105,103.5,2.3,ml,,,,0.55,ak,ak0231uus49,2023-01-01T12:40:41.040Z,"46 km WNW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -47,7 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-01T07:22:34.162Z,64.0754,-148.7652,12.7,2.2,ml,,,,0.23,ak,ak0231ru648,2023-01-01T07:24:19.875Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-01T07:03:01.555Z,-58.8341,-25.5621,38.411,5.2,mb,49,77,7.562,0.57,us,us7000j1d2,2023-01-01T07:22:43.040Z,"South Sandwich Islands region",earthquake,8.27,7.144,0.075,59,reviewed,us,us
 2023-01-01T06:53:35.270Z,36.5970001,-121.2043304,7.98,2.1,md,15,123,0.02949,0.05,nc,nc73827441,2023-01-01T07:53:12.919Z,"9km NW of Pinnacles, CA",earthquake,0.34,0.68,0.36,17,automatic,nc,nc
-2023-01-01T06:49:10.190Z,36.595,-121.2063333,7.74,4.04,mw,70,72,0.02872,0.13,nc,nc73827436,2023-01-01T12:52:05.413Z,"9km NW of Pinnacles, CA",earthquake,0.16,0.33,,4,reviewed,nc,nc
+2023-01-01T06:49:10.190Z,36.595,-121.2063333,7.74,4.04,mw,70,72,0.02872,0.13,nc,nc73827436,2023-01-01T13:17:51.015Z,"9km NW of Pinnacles, CA",earthquake,0.16,0.33,,4,reviewed,nc,nc
 2023-01-01T06:49:08.370Z,36.5953333,-121.1993333,8.4,,,44,66,0.02612,0.07,nc,nc71129644,2023-01-01T12:22:14.573Z,"9km NW of Pinnacles, CA",earthquake,0.19,0.31,,,reviewed,nc,nc
 2023-01-01T06:46:15.200Z,33.4015,-116.386,2.34,1.65,ml,56,34,0.126,0.24,ci,ci40152551,2023-01-01T07:31:55.744Z,"16km N of Borrego Springs, CA",earthquake,0.25,1.07,0.148,26,automatic,ci,ci
 2023-01-01T06:45:06.210Z,19.2169990539551,-155.387832641602,29.4200000762939,1.71000004,md,28,162,,0.129999995,hv,hv73290312,2023-01-01T06:48:19.590Z,"9 km E of Pāhala, Hawaii",earthquake,0.68,0.74000001,0.850000024,3,automatic,hv,hv
@@ -196,14 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T13:26:41.790Z,36.7815018,-121.4923325,2,1.48,md,9,145,0.02791,0.24,nc,nc73827216,2022-12-31T14:58:12.957Z,"8km SSE of San Juan Bautista, CA",earthquake,0.94,1.6,0.28,8,automatic,nc,nc
 2022-12-31T13:25:53.240Z,36.7729988,-121.501503,3.46,1.69,md,14,104,0.02096,0.28,nc,nc73827211,2022-12-31T14:47:13.890Z,"9km SSE of San Juan Bautista, CA",earthquake,0.71,0.95,0.14,10,automatic,nc,nc
 2022-12-31T13:25:16.580Z,33.4026667,-116.3683333,4.73,0.76,ml,17,121,0.1402,0.16,ci,ci40152039,2022-12-31T13:28:45.497Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.91,0.193,18,automatic,ci,ci
-2022-12-31T13:24:18.190Z,33.4033333,-116.3845,8.81,0.77,ml,24,88,0.1375,0.24,ci,ci40152031,2022-12-31T13:27:42.133Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.33,0.209,18,automatic,ci,ci
-2022-12-31T13:17:36.720Z,33.409,-116.3795,1.84,0.62,ml,20,100,0.1439,0.28,ci,ci40152023,2022-12-31T13:21:08.188Z,"17km N of Borrego Springs, CA",earthquake,0.47,1.1,0.118,15,automatic,ci,ci
-2022-12-31T13:15:12.940Z,33.401,-116.383,2.26,1.86,ml,67,25,0.1272,0.24,ci,ci40152015,2022-12-31T13:18:55.811Z,"16km N of Borrego Springs, CA",earthquake,0.22,1.1,0.154,26,automatic,ci,ci
-2022-12-31T13:13:06.570Z,19.1979999542236,-155.497497558594,31.0300006866455,2.07999992,md,37,142,,0.180000007,hv,hv73289122,2022-12-31T13:18:36.670Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.67,0.910000026,0.550000012,17,automatic,hv,hv
-2022-12-31T13:12:57.370Z,19.158332824707,-155.433837890625,34.3899993896484,1.8,ml,24,166,,0.109999999,hv,hv73289117,2022-12-31T13:18:29.120Z,"6 km SE of Pāhala, Hawaii",earthquake,0.76,1.02999997,4.08,3,automatic,hv,hv
-2022-12-31T13:12:52.040Z,38.4189987,-121.890831,21.87,1.35,md,4,198,0.1268,0.01,nc,nc73827201,2022-12-31T14:16:14.717Z,"5km E of Hartley, CA",earthquake,1.99,1.11,0.02,3,automatic,nc,nc
-2022-12-31T13:11:58.390Z,19.246166229248,-155.377166748047,29.3999996185303,2.61999989,md,28,147,,0.170000002,hv,hv73289112,2022-12-31T13:15:01.290Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.73,0.939999998,1.49000001,3,automatic,hv,hv
-2022-12-31T13:11:41.890Z,33.4015,-116.367,1.96,0.66,ml,18,121,0.1394,0.18,ci,ci40152007,2022-12-31T13:15:26.749Z,"16km N of Borrego Springs, CA",earthquake,0.36,0.73,0.131,13,automatic,ci,ci
-2022-12-31T13:09:42.110Z,33.4066667,-116.3798333,3.12,0.53,ml,18,108,0.1226,0.24,ci,ci40151999,2022-12-31T13:13:13.652Z,"17km N of Borrego Springs, CA",earthquake,0.45,1.49,0.094,10,automatic,ci,ci
-2022-12-31T13:06:14.539Z,-18.6293,168.2234,71.172,4.6,mb,19,120,4.03,0.84,us,us7000j18y,2022-12-31T17:40:47.040Z,"Vanuatu",earthquake,9.84,9.673,0.141,15,reviewed,us,us
-2022-12-31T13:06:13.640Z,33.4016667,-116.3788333,3.36,0.77,ml,22,63,0.1369,0.2,ci,ci40151991,2022-12-31T19:02:03.610Z,"16km N of Borrego Springs, CA",earthquake,0.31,1.06,0.17,19,automatic,ci,ci
