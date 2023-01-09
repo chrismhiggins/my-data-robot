@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T19:42:21.147Z,63.2303,-145.4996,95.8,2.4,ml,,,,1.22,ak,ak023djv264,2023-01-08T19:45:30.130Z,"16 km NNE of Paxson, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-08T19:41:52.523Z,61.312,-147.2648,32.8,2,ml,,,,0.14,ak,ak023djuwus,2023-01-08T19:43:05.795Z,"53 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-08T19:39:05.300Z,32.9438333,-116.2153333,10.91,0.92,ml,17,96,0.07481,0.17,ci,ci40154735,2023-01-08T19:42:29.397Z,"24km SSW of Ocotillo Wells, CA",earthquake,0.31,0.57,0.223,12,automatic,ci,ci
-2023-01-08T19:35:55.290Z,17.8228333333333,-66.907,12.23,2.51,md,12,263,0.1537,0.15,pr,pr71391708,2023-01-08T20:18:23.440Z,"Puerto Rico region",earthquake,0.74,0.73,0.0570219273196515,7,reviewed,pr,pr
+2023-01-08T19:35:55.290Z,17.8228333333333,-66.907,12.23,2.51,md,12,263,0.1537,0.15,pr,pr71391708,2023-01-08T20:18:23.440Z,"16 km S of Guánica, Puerto Rico",earthquake,0.74,0.73,0.0570219273196515,7,reviewed,pr,pr
 2023-01-08T19:31:29.176Z,60.4553,-152.0158,82.8,2.7,ml,,,,0.55,ak,ak023djspu9,2023-01-08T20:43:05.040Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-08T19:28:46.932Z,-33.0125,-71.3504,52.528,4.3,mwr,31,86,0.25,0.3,us,us7000j30u,2023-01-09T01:04:14.988Z,"3 km NNE of Villa Alemana, Chile",earthquake,3.81,6.88,0.065,23,reviewed,us,us
 2023-01-08T19:21:14.878Z,63.0866,-150.861,24.5,1.8,ml,,,,1.17,ak,ak023djqjmn,2023-01-08T19:23:24.726Z,"65 km N of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -166,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T07:44:38.562Z,-9.1375,-108.3746,10,4.7,mb,55,113,26.05,0.53,us,us7000j2xu,2023-01-08T08:28:45.040Z,"central East Pacific Rise",earthquake,14.42,1.943,0.064,75,reviewed,us,us
 2023-01-08T07:42:56.600Z,38.7941666,-122.7473297,-0.63,2.66,md,7,143,,0.25,nc,nc73829906,2023-01-08T10:04:12.171Z,"2km NNE of The Geysers, CA",earthquake,2.79,3.54,0.14,7,automatic,nc,nc
 2023-01-08T07:41:50.325Z,65.0757,-150.5171,13.5,1.3,ml,,,,0.74,ak,ak023dcppfc,2023-01-08T07:43:57.325Z,"9 km NNE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-08T07:30:26.140Z,33.5341667,-116.7273333,4.5,0.24,ml,13,155,0.03224,0.13,ci,ci40154607,2023-01-08T07:33:53.818Z,"6km WSW of Anza, CA",earthquake,0.66,0.39,0.127,4,automatic,ci,ci
