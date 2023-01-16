@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T12:44:38.114Z,38.1854,-117.7871,13.6,1.6,ml,8,142.91,0.125,0.3571,nn,nn00854895,2023-01-16T12:46:27.693Z,"36 km SE of Mina, Nevada",earthquake,,0.5,0.24,7,automatic,nn,nn
+2023-01-16T12:41:49.460Z,35.3421667,-118.5195,6.75,1.33,ml,15,75,0.09535,0.16,ci,ci40403088,2023-01-16T12:45:22.254Z,"24km NNW of Tehachapi, CA",earthquake,0.27,0.87,0.204,16,automatic,ci,ci
+2023-01-16T12:33:33.610Z,38.8268318,-122.8550034,2.14,1.02,md,22,72,0.001625,0.02,nc,nc73832816,2023-01-16T12:35:09.930Z,"10km WNW of The Geysers, CA",earthquake,0.22,0.38,0.28,22,automatic,nc,nc
+2023-01-16T12:10:53.950Z,38.8416672,-122.8386688,1.77,0.75,md,14,117,0.003952,0.02,nc,nc73832801,2023-01-16T12:28:11.623Z,"10km NW of The Geysers, CA",earthquake,0.29,0.49,0.51,15,automatic,nc,nc
+2023-01-16T12:10:24.184Z,43.278,144.4079,132.925,4.3,mb,28,176,1.562,0.45,us,us7000j4p4,2023-01-16T12:32:11.040Z,"33 km N of Kushiro, Japan",earthquake,8.21,8.632,0.129,17,reviewed,us,us
 2023-01-16T11:44:59.521Z,35.7022,80.2482,10,4.3,mb,30,73,6.104,0.38,us,us7000j4p0,2023-01-16T12:05:21.040Z,"158 km S of Hotan, China",earthquake,7.46,1.929,0.168,10,reviewed,us,us
 2023-01-16T11:44:40.215Z,35.079319,-95.52866364,1.458860636,2.31,ml,17,115.2215424,0.1318373084,0.469130106,ok,ok2023bchu,2023-01-16T11:48:16.283Z,"13 km ESE of Crowder, Oklahoma",earthquake,3.625125581,2.360339694,,12,automatic,ok,ok
 2023-01-16T11:43:18.410Z,14.0422,-89.8553,10,4,mb,20,155,0.157,0.39,us,us7000j4ny,2023-01-16T11:55:42.040Z,"Guatemala",earthquake,2.17,1.994,0.173,9,reviewed,us,us
@@ -190,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T13:13:09.940Z,33.7585,-116.1783333,1.29,1.14,ml,24,90,0.05246,0.24,ci,ci40402816,2023-01-15T13:16:33.289Z,"5km NE of Indio, CA",earthquake,0.43,0.59,0.157,29,automatic,ci,ci
 2023-01-15T13:13:01.800Z,38.831501,-122.8183365,1.72,0.72,md,14,57,0.01035,0.01,nc,nc73832276,2023-01-15T13:29:16.538Z,"8km NW of The Geysers, CA",earthquake,0.27,0.64,0.11,14,automatic,nc,nc
 2023-01-15T12:49:19.076Z,64.8867,-147.2825,16.5,0.9,ml,,,,0.31,ak,ak023p0hyav,2023-01-15T13:00:43.149Z,"11 km W of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-15T12:34:49.330Z,36.4678333333333,-89.5086666666667,6.33,1.86,md,28,84,0.06542,0.06,nm,nm60506651,2023-01-15T14:55:22.670Z,"southeastern Missouri",earthquake,0.57,0.95,0.0986522318161518,19,reviewed,nm,nm
-2023-01-15T12:28:15.040Z,11.4334,124.6663,10,4.8,mb,52,82,4.429,0.54,us,us7000j4it,2023-01-15T15:31:07.890Z,"Leyte, Philippines",earthquake,6.66,1.75,0.087,41,reviewed,us,us
