@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-17T22:51:18.600Z,38.8408318,-122.8231659,1.84,0.28,md,9,95,0.009879,0.02,nc,nc73833341,2023-01-17T22:52:55.533Z,"9km WNW of Cobb, CA",earthquake,0.4,0.88,0.18,11,automatic,nc,nc
+2023-01-17T22:51:05.490Z,38.8378334,-122.82267,1.82,0.93,md,15,84,0.01004,0.01,nc,nc73833336,2023-01-17T22:52:41.301Z,"9km WNW of Cobb, CA",earthquake,0.25,0.51,0.3,14,automatic,nc,nc
+2023-01-17T22:44:30.850Z,17.9746666666667,-66.8401666666667,16.93,2.11,md,7,196,0.03721,0.09,pr,pr71393078,2023-01-17T22:56:10.400Z,"3 km SW of Indios, Puerto Rico",earthquake,0.54,0.68,0.1179043732194,6,reviewed,pr,pr
 2023-01-17T22:37:17.110Z,19.2718334197998,-155.40283203125,32.2000007629395,1.83000004,md,34,132,,0.119999997,hv,hv73306157,2023-01-17T22:40:40.370Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.810000002,1.83000004,4,automatic,hv,hv
 2023-01-17T22:35:30.920Z,38.7051659,-122.9126663,5.89,1.99,md,40,56,0.08192,0.06,nc,nc73833331,2023-01-17T22:50:10.900Z,"11km NNW of Healdsburg, CA",earthquake,0.22,0.71,0.14,39,automatic,nc,nc
 2023-01-17T22:26:35.279Z,38.1858,-117.8127,3.2,1.4,ml,8,198.14,0.136,0.1197,nn,nn00854911,2023-01-17T22:28:13.822Z,"34 km SE of Mina, Nevada",earthquake,,0.6,0.56,5,automatic,nn,nn
@@ -174,10 +177,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T00:55:54.560Z,38.8408318,-122.8231659,2.1,0.17,md,8,91,0.009879,0.01,nc,nc73832981,2023-01-17T01:13:13.046Z,"9km WNW of Cobb, CA",earthquake,0.65,0.86,0.05,9,automatic,nc,nc
 2023-01-17T00:49:06.740Z,63.4634,-147.2682,45.2,1.5,ml,,,,0.28,ak,ak023s4ff02,2023-01-17T00:50:36.392Z,"Central Alaska",earthquake,,4.6,,,automatic,ak,ak
 2023-01-17T00:34:39.730Z,38.7745018,-122.7438354,1.2,1.2,md,15,68,0.01034,0.03,nc,nc73832976,2023-01-17T01:29:17.145Z,"1km ESE of The Geysers, CA",earthquake,0.28,0.36,0.31,15,automatic,nc,nc
-2023-01-17T00:18:20.400Z,35.0423333,-117.6696667,0.26,1.6,ml,14,71,0.1099,0.18,ci,ci40403192,2023-01-17T00:21:53.916Z,"5km NNW of Boron, CA",quarry blast,0.61,31.61,0.124,28,automatic,ci,ci
+2023-01-17T00:18:20.140Z,35.0435,-117.6636667,-0.79,1.62,ml,20,80,0.1121,0.14,ci,ci40403192,2023-01-17T23:05:45.640Z,"5km NNW of Boron, CA",quarry blast,0.41,31.61,0.14,28,reviewed,ci,ci
 2023-01-17T00:14:00.968Z,61.7244,-149.5644,34.2,1.6,ml,,,,0.49,ak,ak023s47whs,2023-01-17T00:15:36.829Z,"11 km N of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-17T00:06:19.140Z,-18.0535,168.2098,10,4.6,mb,33,74,2.765,0.59,us,us7000j4t1,2023-01-17T00:26:56.040Z,"36 km SSW of Port-Vila, Vanuatu",earthquake,8.33,1.911,0.103,28,reviewed,us,us
-2023-01-17T00:05:02.980Z,32.7746667,-115.4488333,6.9,1.98,ml,12,147,0.03062,0.14,ci,ci40403184,2023-01-17T00:08:41.252Z,"8km WSW of Holtville, CA",earthquake,0.48,0.74,0.166,26,automatic,ci,ci
+2023-01-17T00:05:02.740Z,32.7715,-115.4393333,8.96,2,ml,22,150,0.03431,0.21,ci,ci40403184,2023-01-17T23:05:33.603Z,"7km SW of Holtville, CA",earthquake,0.42,0.57,0.127,25,reviewed,ci,ci
 2023-01-16T23:34:00.438Z,59.7892,-151.8465,56,1.7,ml,,,,0.21,ak,ak023quht6z,2023-01-16T23:35:45.497Z,"1 km NNW of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-01-16T23:32:12.360Z,19.3611660003662,-155.07633972168,3.32999992370605,1.70000005,md,27,164,,0.25999999,hv,hv73305382,2023-01-16T23:35:32.170Z,"13 km SSE of Fern Forest, Hawaii",earthquake,0.64,1.00999999,1.25,10,automatic,hv,hv
 2023-01-16T23:30:56.910Z,18.9401666666667,-65.0773333333333,20.28,3.32,md,15,264,0.5958,0.33,pr,pr71392973,2023-01-17T00:34:37.040Z,"68 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.41,28.69,0.0178079895077015,5,reviewed,pr,pr
@@ -187,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T23:11:38.910Z,38.7858315,-122.7503357,0.43,1.07,md,10,121,0.01095,0.03,nc,nc73832956,2023-01-16T23:49:13.529Z,"1km NNE of The Geysers, CA",earthquake,0.35,0.5,0.2,12,automatic,nc,nc
 2023-01-16T23:08:08.480Z,38.8323326,-122.8799973,1.8,1.08,md,23,64,0.006471,0.04,nc,nc73832951,2023-01-16T23:37:13.458Z,"12km ENE of Cloverdale, CA",earthquake,0.26,0.36,0.11,22,automatic,nc,nc
 2023-01-16T23:07:33.979Z,35.08016667,-95.51433333,7.23,1.08,ml,39,100,0.1268751028,0.24,ok,ok2023bdei,2023-01-17T20:05:11.211Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.7,0.39,4,reviewed,ok,ok
-2023-01-16T22:54:09.791Z,61.8633,-149.2572,15.5,1,ml,,,,1.23,ak,ak023qu0onn,2023-01-16T22:56:32.230Z,"13 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
