@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-19T10:35:01.270Z,32.916,-116.2403333,8.39,0.95,ml,21,84,0.06552,0.14,ci,ci40403920,2023-01-19T10:38:39.953Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.23,0.8,0.242,12,automatic,ci,ci
+2023-01-19T10:34:41.216Z,58.2216,-154.6642,35.9,1.3,ml,,,,0.62,ak,ak023vldayh,2023-01-19T10:36:43.770Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-01-19T10:24:18.731Z,65.2692,-149.405,6.5,1.9,ml,,,,0.45,ak,ak023vlb429,2023-01-19T10:25:54.178Z,"13 km N of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-19T10:07:05.460Z,34.102,-116.9738333,9.63,0.76,ml,14,59,0.0326,0.12,ci,ci40403912,2023-01-19T10:10:34.276Z,"10km NE of Yucaipa, CA",earthquake,0.3,0.53,0.166,13,automatic,ci,ci
 2023-01-19T10:03:19.120Z,19.1493339538574,-155.499328613281,30.9099998474121,1.82000005,md,38,144,,0.189999998,hv,hv73307497,2023-01-19T10:06:38.040Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.7,1.15999997,1.36000001,6,automatic,hv,hv
@@ -8,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T09:53:56.500Z,32.9133333,-116.2486667,5.09,1.38,ml,39,62,0.06173,0.25,ci,ci40403904,2023-01-19T10:04:55.940Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.32,1.05,0.15,27,automatic,ci,ci
 2023-01-19T09:52:44.420Z,38.8121681,-122.7949982,1.11,0.37,md,8,77,0.01124,0.02,nc,nc73833926,2023-01-19T10:08:12.800Z,"5km NW of The Geysers, CA",earthquake,0.33,0.81,0.31,8,automatic,nc,nc
 2023-01-19T09:39:01.450Z,38.8328323,-122.8174973,1.63,0.71,md,8,172,0.01106,0.01,nc,nc73833921,2023-01-19T09:58:11.538Z,"8km NW of The Geysers, CA",earthquake,0.63,0.98,0.17,8,automatic,nc,nc
-2023-01-19T09:29:43.630Z,38.7581673,-122.730835,2.7,1.17,md,14,108,0.005789,0.03,nc,nc73833916,2023-01-19T10:01:10.555Z,"3km SE of The Geysers, CA",earthquake,0.35,0.55,0.11,13,automatic,nc,nc
+2023-01-19T09:29:43.630Z,38.7581673,-122.730835,2.7,1.17,md,14,108,0.005789,0.03,nc,nc73833916,2023-01-19T10:34:13.738Z,"3km SE of The Geysers, CA",earthquake,0.35,0.55,0.11,13,automatic,nc,nc
 2023-01-19T09:29:41.433Z,35.7453804,-97.9778595,1.915454745,2.33,ml,39,36.60048676,0.2086779475,0.5776908523,ok,ok2023bhpv,2023-01-19T09:33:09.335Z,"2 km N of Okarche, Oklahoma",earthquake,1.768517585,1.610464967,,30,automatic,ok,ok
 2023-01-19T09:14:29.711Z,6.0677,125.6309,133.144,4.7,mb,53,110,0.997,0.95,us,us7000j5fu,2023-01-19T10:16:21.040Z,"8 km WSW of Lamitan, Philippines",earthquake,9.44,1.627,0.055,100,reviewed,us,us
 2023-01-19T09:10:00.150Z,19.1984996795654,-155.379837036133,31.1299991607666,1.98000002,md,46,163,,0.129999995,hv,hv73307467,2023-01-19T09:15:31.560Z,"10 km E of Pāhala, Hawaii",earthquake,0.62,0.889999986,1.16999996,22,automatic,hv,hv
@@ -192,7 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T11:06:53.603Z,-13.3931,66.8185,10,5,mb,53,116,8.125,0.41,us,us7000j579,2023-01-18T11:30:06.040Z,"Mid-Indian Ridge",earthquake,11.86,1.907,0.082,47,reviewed,us,us
 2023-01-18T10:50:47.620Z,38.8243332,-122.8290024,3.63,0.67,md,7,193,0.01482,0.03,nc,nc73833536,2023-01-18T11:18:13.403Z,"8km NW of The Geysers, CA",earthquake,1.03,1.39,0.25,7,automatic,nc,nc
 2023-01-18T10:45:49.070Z,36.001667,-120.5618362,1.52,0.92,md,13,90,0.02187,0.06,nc,nc73833531,2023-01-18T11:07:13.343Z,"16km NW of Parkfield, CA",earthquake,0.29,0.51,0.29,4,automatic,nc,nc
-2023-01-18T10:42:40.971Z,38.4726,44.8342,17.719,4.4,mb,33,130,1.404,1.12,us,us7000j574,2023-01-18T11:06:00.040Z,"13 km SW of Khowy, Iran",earthquake,5.86,4.995,0.126,18,reviewed,us,us
-2023-01-18T10:42:17.185Z,62.6184,-151.7322,2.7,1.5,ml,,,,0.51,ak,ak023txvmc4,2023-01-18T10:45:38.622Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-18T10:41:14.006Z,62.1311,-149.0226,34.3,1.7,ml,,,,0.27,ak,ak023txvedk,2023-01-18T10:42:31.972Z,"41 km NNW of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-18T10:38:28.263Z,38.8622,-119.6643,5.6,0.6,ml,5,236.06,0.069,0.0989,nn,nn00854969,2023-01-18T18:22:43.303Z,"California-Nevada border region",earthquake,,12,0.13,2,reviewed,nn,nn
