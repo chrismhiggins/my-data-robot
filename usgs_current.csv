@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-21T05:45:12.390Z,33.4706667,-116.5735,9.35,0.63,ml,22,105,0.03391,0.2,ci,ci40417272,2023-02-21T05:48:42.658Z,"13km SE of Anza, CA",earthquake,0.38,0.6,0.161,15,automatic,ci,ci
 2023-02-21T05:35:27.240Z,33.5806667,-116.6058333,12.82,0.51,ml,19,60,0.0193,0.15,ci,ci40417264,2023-02-21T05:38:59.738Z,"7km ENE of Anza, CA",earthquake,0.34,0.4,0.154,10,automatic,ci,ci
-2023-02-21T05:35:27.110Z,56.9006,-153.1105,47.4,5.8,ml,,,,0.48,ak,ak0232e34rrl,2023-02-21T05:45:10.517Z,"35 km SSE of Old Harbor, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-02-21T05:35:24.645Z,57.024,-153.3384,0,5.5,mww,,,,0.97,ak,ak0232e34rrl,2023-02-21T05:58:12.257Z,"19 km S of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-21T05:32:29.350Z,33.5745,-116.6058333,12.6,0.77,ml,33,56,0.02207,0.18,ci,ci40417256,2023-02-21T05:36:00.583Z,"7km ENE of Anza, CA",earthquake,0.25,0.37,0.147,22,automatic,ci,ci
 2023-02-21T05:15:28.557Z,61.537,-150.9364,63.2,1.6,ml,,,,0.2,ak,ak0232e30hnb,2023-02-21T05:42:26.768Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-21T05:11:29.350Z,33.5725,-116.6081667,11.83,0.73,ml,29,47,0.01958,0.15,ci,ci40417248,2023-02-21T05:15:01.611Z,"6km ENE of Anza, CA",earthquake,0.25,0.35,0.201,19,automatic,ci,ci
@@ -197,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T06:22:35.730Z,32.9676667,-116.6983333,4.79,1.65,ml,42,38,0.1004,0.24,ci,ci40416744,2023-02-20T06:33:33.940Z,"9km ESE of San Diego Country Estates, CA",earthquake,0.25,0.89,0.161,25,automatic,ci,ci
 2023-02-20T06:05:17.802Z,56.9557,-157.7352,122,2,ml,,,,0.81,ak,ak0232cg0fgy,2023-02-20T06:26:25.701Z,"54 km E of Port Heiden, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-02-20T06:03:28.350Z,18.2466666666667,-67.8421666666667,105.07,3.39,md,8,323,0.7282,0.16,pr,pr71396818,2023-02-20T06:22:39.930Z,"63 km W of Rincón, Puerto Rico",earthquake,1.89,1.56,0.0849718746627934,8,reviewed,pr,pr
-2023-02-20T05:58:23.730Z,60.2094,-153.055,124.4,2.2,ml,,,,0.59,ak,ak0232cfqchu,2023-02-20T06:21:11.094Z,"69 km E of Port Alsworth, Alaska",earthquake,,0.4,,,reviewed,ak,ak
