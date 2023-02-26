@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-26T17:26:17.230Z,39.2348328,-123.0920029,-0.03,2.44,md,23,89,0.1054,0.2,nc,nc73852036,2023-02-26T17:27:54.741Z,"10km ESE of Redwood Valley, CA",earthquake,0.41,5.84,0.13,20,automatic,nc,nc
+2023-02-26T17:26:17.230Z,39.2348328,-123.0920029,-0.03,2.44,md,23,89,0.1054,0.2,nc,nc73852036,2023-02-26T17:33:13.815Z,"10km ESE of Redwood Valley, CA",earthquake,0.41,5.84,0.13,20,automatic,nc,nc
 2023-02-26T17:04:11.840Z,38.8160019,-122.8255005,2.17,0.75,md,9,109,0.007681,0.01,nc,nc73852031,2023-02-26T17:23:14.751Z,"7km NW of The Geysers, CA",earthquake,0.35,0.84,0.2,11,automatic,nc,nc
 2023-02-26T17:03:14.090Z,33.9886667,-116.67,17.79,0.95,ml,18,91,0.05299,0.22,ci,ci40418936,2023-02-26T17:06:57.889Z,"10km SW of Morongo Valley, CA",earthquake,0.55,0.93,0.16,19,automatic,ci,ci
 2023-02-26T16:47:42.316Z,60.2125,-151.3281,25.8,1.6,ml,,,,0.8,ak,ak0232mjfvqv,2023-02-26T16:53:45.030Z,"4 km ESE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
