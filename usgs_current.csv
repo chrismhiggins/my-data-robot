@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-11T11:56:25.480Z,38.7866669,-122.7453308,-0.04,0.89,md,10,170,0.007548,0.02,nc,nc73855350,2023-03-11T11:58:03.987Z,"1km NE of The Geysers, CA",earthquake,0.33,0.89,0.18,10,automatic,nc,nc
 2023-03-11T11:39:04.271Z,61.6295,-149.978,26.8,1.3,ml,,,,0.54,ak,ak02337yefh7,2023-03-11T11:41:04.911Z,"8 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-11T11:10:36.400Z,38.7980003,-122.7646637,1.63,0.25,md,6,128,0.004673,0.01,nc,nc73855345,2023-03-11T11:29:19.134Z,"2km NNW of The Geysers, CA",earthquake,0.55,1.33,0.03,7,automatic,nc,nc
 2023-03-11T10:52:21.340Z,33.6053333,-116.4466667,-0.26,0.6,ml,13,258,0.1248,0.23,ci,ci40183239,2023-03-11T10:55:53.265Z,"14km WSW of La Quinta, CA",earthquake,0.99,31.61,0.282,11,automatic,ci,ci
