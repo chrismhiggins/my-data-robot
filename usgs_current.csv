@@ -219,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-17T10:27:15.900Z,47.7869987487793,-122.8316650390625,20.6900005340576,2.2506980895996094,ml,37,63,0.0505,0.150000006,uw,uw61902877,2023-03-17T14:41:12.530Z,"5 km SE of Quilcene, Washington",earthquake,0.3,0.689999998,0.22509652376174927,32,reviewed,uw,uw
 2023-03-17T10:21:23.510Z,19.2563333333333,-155.39,32.05,1.58,md,28,121,,0.12,hv,hv73342077,2023-03-18T02:16:27.270Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.75,0.7,0.109727336128404,12,reviewed,hv,hv
 2023-03-17T10:19:50.477Z,62.8647,-151.2152,114.2,1.4,ml,,,,0.17,ak,ak0233huww2v,2023-03-17T10:21:25.836Z,"47 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-17T09:55:21.270Z,61.7411,-149.5701,36.2,1.9,ml,,,,0.36,ak,ak0233huj3zz,2023-03-17T09:56:50.532Z,"13 km N of Meadow Lakes, Alaska",earthquake,,0.7,,,automatic,ak,ak
