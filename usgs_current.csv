@@ -244,6 +244,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T11:32:37.309Z,-7.1076,125.9529,469.146,4.5,mb,64,48,3.981,0.61,us,us7000jmdp,2023-03-24T11:47:26.040Z,"155 km N of Manatutu, Timor Leste",earthquake,10.34,8.842,0.071,58,reviewed,us,us
 2023-03-24T11:27:41.190Z,51.8545,-178.089666666667,3.41,0.99,ml,4,212,,0.17,av,av91095878,2023-03-24T18:56:31.150Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,0.62,0.0595240639592294,4,reviewed,av,av
 2023-03-24T11:26:48.060Z,38.8333321,-122.8168335,1.49,1,md,17,56,0.01124,0.01,nc,nc73861525,2023-03-24T11:45:14.679Z,"8km NW of The Geysers, CA",earthquake,0.23,0.62,0.11,17,automatic,nc,nc
+2023-03-24T11:19:50.500Z,38.8298333,-122.8043333,1.95,0.43,md,25,41,0.007838,0.02,nc,nc73861520,2023-03-25T06:40:41.789Z,"7km W of Cobb, CA",earthquake,0.17,0.27,0.13,23,reviewed,nc,nc
 2023-03-24T11:18:22.570Z,38.8166656,-122.8249969,2.01,0.39,md,7,110,0.008444,0.01,nc,nc73861515,2023-03-24T12:51:11.109Z,"7km NW of The Geysers, CA",earthquake,0.59,1.73,0.18,8,automatic,nc,nc
 2023-03-24T11:16:58.460Z,40.3238,-119.6151,14.4,0.8,ml,4,328.96,0.178,0.1098,nn,nn00857448,2023-03-24T18:19:40.033Z,"36 km SW of Empire, Nevada",earthquake,,4.9,0.42,3,reviewed,nn,nn
 2023-03-24T11:16:00.330Z,34.1721667,-117.3855,10.68,1.29,ml,65,72,0.03693,0.17,ci,ci40189079,2023-03-24T22:29:14.944Z,"4km WNW of Muscoy, CA",earthquake,0.17,0.25,0.157,38,reviewed,ci,ci
@@ -308,4 +309,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T07:09:04.242Z,40.1694,-119.8155,1.1,0.5,ml,3,215.21,0.064,0.082,nn,nn00857442,2023-03-24T17:42:29.220Z,"27 km E of Herlong, California",earthquake,,40.8,0.23,2,reviewed,nn,nn
 2023-03-24T07:01:51.230Z,33.9773333,-117.051,16.68,0.76,ml,19,100,0.1503,0.13,ci,ci40188983,2023-03-24T20:20:04.249Z,"1km S of Calimesa, CA",earthquake,0.27,0.93,0.134,9,reviewed,ci,ci
 2023-03-24T06:49:41.000Z,51.8636666666667,-178.089,2.65,0.75,ml,4,205,,0.24,av,av91817511,2023-03-25T02:45:17.210Z,"100 km W of Adak, Alaska",earthquake,0.93,1.79,0.323926903658841,4,reviewed,av,av
-2023-03-24T06:34:35.660Z,33.9656667,-117.9448333,13.44,1.49,ml,46,109,0.02678,0.16,ci,ci40188975,2023-03-24T20:07:18.794Z,"1km NE of La Habra Heights, CA",earthquake,0.2,0.29,0.193,25,reviewed,ci,ci
