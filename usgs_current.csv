@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-25T14:55:19.713Z,61.2532,-151.4226,66.4,2.4,ml,,,,0.3,ak,ak0233v5t1ur,2023-03-25T14:56:48.234Z,"22 km NW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-25T14:48:16.900Z,33.6863333,-116.7291667,14.96,0.76,ml,28,40,0.02775,0.18,ci,ci40189759,2023-03-25T14:57:35.725Z,"6km S of Idyllwild, CA",earthquake,0.31,0.53,0.157,19,reviewed,ci,ci
+2023-03-25T14:45:58.980Z,38.5699997,-122.6548309,15.54,1.28,md,9,231,0.1955,0.08,nc,nc73862085,2023-03-25T14:47:35.346Z,"7km W of Calistoga, CA",earthquake,2.65,3.87,0.1,2,automatic,nc,nc
 2023-03-25T14:43:54.065Z,62.7102,-151.2132,81.7,1.7,ml,,,,0.52,ak,ak0233v5qjwu,2023-03-25T14:46:08.941Z,"33 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-25T14:29:42.570Z,19.3810005187988,-155.215667724609,27.9099998474121,2.07999992,md,37,104,,0.140000001,hv,hv73349037,2023-03-25T14:32:53.420Z,"7 km SSE of Volcano, Hawaii",earthquake,0.81,0.600000024,1.24000001,23,automatic,hv,hv
 2023-03-25T13:51:26.770Z,33.8045,-117.6491667,4.96,0.99,ml,18,58,0.03463,0.2,ci,ci40189751,2023-03-25T13:55:04.030Z,"10km SW of Corona, CA",earthquake,0.34,0.56,0.271,16,automatic,ci,ci
@@ -16,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T11:41:54.670Z,33.7636667,-116.9343333,13.62,1.15,ml,37,29,0.05232,0.18,ci,ci40189727,2023-03-25T11:52:52.180Z,"3km SE of San Jacinto, CA",earthquake,0.22,0.47,0.155,29,automatic,ci,ci
 2023-03-25T11:37:26.960Z,38.8359985,-122.7903366,1.69,0.21,md,7,98,0.002407,0.01,nc,nc73862050,2023-03-25T11:39:04.927Z,"6km WNW of Cobb, CA",earthquake,0.43,1.21,0.12,6,automatic,nc,nc
 2023-03-25T11:36:49.100Z,38.8261681,-122.8519974,1.14,0.4,md,8,100,0.0136,0.04,nc,nc73862045,2023-03-25T12:01:10.352Z,"10km WNW of The Geysers, CA",earthquake,0.35,1.07,0.26,9,automatic,nc,nc
-2023-03-25T11:27:27.430Z,36.6100006,-121.1269989,10.36,1.23,md,7,162,0.06058,0.18,nc,nc73862040,2023-03-25T13:52:10.981Z,"9km N of Pinnacles, CA",earthquake,1.1,2.6,0.27,6,automatic,nc,nc
+2023-03-25T11:27:27.430Z,36.6100006,-121.1269989,10.36,1.23,md,7,162,0.06058,0.18,nc,nc73862040,2023-03-25T14:57:17.434Z,"9km N of Pinnacles, CA",earthquake,1.1,2.6,0.27,6,automatic,nc,nc
 2023-03-25T11:15:46.729Z,63.4913,-151.2946,1.8,1.6,ml,,,,0.36,ak,ak0233v3s8hc,2023-03-25T11:17:38.032Z,"22 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-25T11:12:11.003Z,61.0095,-145.3096,20.6,2,ml,,,,0.33,ak,ak0233v3riks,2023-03-25T11:13:46.608Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-25T11:06:02.310Z,38.8243332,-122.7958298,0.97,0.29,md,6,106,0.01117,0.01,nc,nc73862030,2023-03-25T11:30:15.165Z,"6km NNW of The Geysers, CA",earthquake,0.72,2.64,0.09,5,automatic,nc,nc
@@ -234,4 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-24T15:04:04.130Z,33.1806679,-116.4111633,11.72,3,ml,96,17,0.08744,0.21,ci,ci40189359,2023-03-25T04:22:25.891Z,"9km SSW of Borrego Springs, CA",earthquake,0.19,0.76,0.348,22,automatic,ci,ci
 2023-03-24T15:00:16.579Z,62.0099,-149.7836,34.7,1.6,ml,,,,0.57,ak,ak0233tijcc9,2023-03-24T15:02:17.551Z,"17 km SSE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-24T14:58:02.520Z,46.096833333333336,-122.136,5.44,0.34,md,8,145,0.0656,0.4,uw,uw61904617,2023-03-24T17:08:14.470Z,"31 km NE of Amboy, Washington",earthquake,1,3.47,0.14971329108536202,3,reviewed,uw,uw
-2023-03-24T14:53:16.400Z,51.8635,-178.080166666667,1.95,0.95,ml,4,194,,0.27,av,av91095848,2023-03-24T17:28:05.470Z,"99 km W of Adak, Alaska",earthquake,0.94,2.19,0.133597145977115,4,reviewed,av,av
