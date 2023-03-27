@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-27T11:24:31.039Z,62.9615,-149.6967,68.8,1.4,ml,,,,0.51,ak,ak0233yewtpb,2023-03-27T11:26:29.084Z,"60 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-03-27T11:11:14.730Z,60.158,-152.84,117.9,1.6,ml,,,,0.37,ak,ak0233yeu04x,2023-03-27T11:13:18.507Z,"66 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-27T11:09:33.641Z,60.1693,-150.4493,37.9,2.1,ml,,,,0.36,ak,ak0233yetm5w,2023-03-27T11:11:18.746Z,"40 km SSE of Funny River, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-03-27T11:03:51.390Z,35.7346667,-117.7356667,7.28,1.86,ml,26,54,0.04392,0.16,ci,ci40190479,2023-03-27T11:14:50.110Z,"12km NE of Inyokern, CA",earthquake,0.25,0.61,0.216,26,automatic,ci,ci
@@ -201,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T11:49:06.630Z,38.8274994,-122.7945023,0.72,0.42,md,6,139,0.01137,0.01,nc,nc73862510,2023-03-26T12:09:11.816Z,"6km W of Cobb, CA",earthquake,0.47,1.23,0.3,8,automatic,nc,nc
 2023-03-26T11:42:52.310Z,33.6918333,-116.7091667,15.93,0.65,ml,16,103,0.01973,0.12,ci,ci40190199,2023-03-26T14:07:04.608Z,"5km S of Idyllwild, CA",earthquake,0.34,0.56,0.15,11,reviewed,ci,ci
 2023-03-26T11:39:00.915Z,-25.6955,-69.1855,6.319,5,mww,83,63,0.645,0.7,us,us7000jmuh,2023-03-26T11:57:32.040Z,"114 km NE of Diego de Almagro, Chile",earthquake,1.56,3.776,0.063,24,reviewed,us,us
-2023-03-26T11:24:30.630Z,36.2408333,-120.8131638,6.58,2.19,md,31,77,0.02667,0.13,nc,nc73862505,2023-03-26T13:53:17.479Z,"22km NE of San Lucas, CA",earthquake,0.33,0.52,0.2,26,automatic,nc,nc
