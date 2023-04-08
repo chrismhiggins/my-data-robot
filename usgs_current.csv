@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-08T14:41:30.550Z,36.5669,-115.1788,2.3,1.1,ml,8,238.15,0.065,0.4037,nn,nn00857974,2023-04-08T14:43:36.986Z,"37 km NNW of Nellis Air Force Base, Nevada",earthquake,,15.8,0.96,6,automatic,nn,nn
-2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11,78,0.01006,0.02,nc,nc73869240,2023-04-08T14:46:10.455Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11,automatic,nc,nc
+2023-04-08T14:34:30.280Z,38.7906685,-122.7616653,2.79,0.73,md,11,78,0.01006,0.02,nc,nc73869240,2023-04-08T14:56:11.529Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.78,0.29,11,automatic,nc,nc
 2023-04-08T14:27:15.980Z,38.795166,-122.7653351,3.15,1.27,md,25,67,0.007001,0.02,nc,nc73869235,2023-04-08T14:45:13.448Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.57,0.2,24,automatic,nc,nc
 2023-04-08T14:23:52.269Z,62.0073,-149.6765,22.5,1.5,ml,,,,0.31,ak,ak0234ib54d6,2023-04-08T14:26:20.581Z,"19 km SSE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T14:20:17.240Z,33.7075,-116.8083333,14.47,0.61,ml,13,176,0.07858,0.14,ci,ci40438328,2023-04-08T14:23:40.033Z,"9km WSW of Idyllwild, CA",earthquake,0.51,0.41,0.194,12,automatic,ci,ci
