@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-18T15:24:18.040Z,38.793499,-122.7225037,2.33,2.59,md,55,41,0.01512,0.08,nc,nc73875125,2023-04-18T15:31:10.956Z,"3km S of Cobb, CA",earthquake,0.18,0.33,0.18,71,automatic,nc,nc
+2023-04-18T15:24:18.040Z,38.793499,-122.7225037,2.33,2.59,md,55,41,0.01512,0.08,nc,nc73875125,2023-04-18T15:42:07.683Z,"3km S of Cobb, CA",earthquake,0.18,0.33,0.18,71,automatic,nc,nc
 2023-04-18T15:14:40.460Z,32.693,-115.6766667,14.45,2.65,ml,38,31,0.06045,0.3,ci,ci40442384,2023-04-18T15:25:26.870Z,"14km WSW of Heber, CA",earthquake,0.54,1.13,0.303,25,automatic,ci,ci
 2023-04-18T15:12:01.920Z,38.7936668,-122.7805023,0.64,0.74,md,9,109,0.005816,0.02,nc,nc73875115,2023-04-18T15:13:37.426Z,"3km NW of The Geysers, CA",earthquake,0.32,0.63,0.22,11,automatic,nc,nc
 2023-04-18T15:09:13.039Z,57.5521,-152.851,0,2.5,ml,,,,0.92,ak,ak0234yv0xuv,2023-04-18T15:12:03.840Z,"18 km SW of Womens Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-18T15:04:52.020Z,35.5550003,-120.7910004,18.16,1.61,md,7,129,0.1032,0.35,nc,nc73875105,2023-04-18T15:21:10.892Z,"8km W of Templeton, CA",earthquake,2.07,5.14,0.11,7,automatic,nc,nc
-2023-04-18T15:00:28.670Z,38.8391685,-122.8221664,1.51,0.85,md,19,83,0.01042,0.04,nc,nc73875100,2023-04-18T15:02:06.798Z,"9km WNW of Cobb, CA",earthquake,0.23,0.39,0.24,18,automatic,nc,nc
+2023-04-18T15:00:28.670Z,38.8391685,-122.8221664,1.51,0.85,md,19,83,0.01042,0.04,nc,nc73875100,2023-04-18T15:39:17.005Z,"9km WNW of Cobb, CA",earthquake,0.23,0.39,0.24,18,automatic,nc,nc
 2023-04-18T14:54:05.520Z,38.8136673,-122.8071671,1.4,1.07,md,22,43,0.009975,0.02,nc,nc73875095,2023-04-18T15:28:13.939Z,"6km NW of The Geysers, CA",earthquake,0.19,0.45,0.17,22,automatic,nc,nc
 2023-04-18T14:52:45.690Z,38.8476677,-122.8171692,1.18,1.07,md,14,99,0.008487,0.02,nc,nc73875090,2023-04-18T15:18:15.874Z,"9km WNW of Cobb, CA",earthquake,0.28,0.46,0.17,15,automatic,nc,nc
 2023-04-18T14:40:57.620Z,38.8311653,-122.817337,1.6,1.09,md,22,51,0.009612,0.01,nc,nc73875080,2023-04-18T15:24:15.912Z,"8km NW of The Geysers, CA",earthquake,0.2,0.38,0.19,24,automatic,nc,nc
