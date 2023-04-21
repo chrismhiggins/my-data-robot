@@ -255,5 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T16:49:24.250Z,19.1163333333333,-155.390666666667,31.09,1.52,md,29,230,,0.12,hv,hv73370442,2023-04-20T22:39:28.060Z,"13 km SE of Pāhala, Hawaii",earthquake,0.6,0.79,0.0932167966609014,13,reviewed,hv,hv
 2023-04-20T16:47:59.761Z,64.4844,-147.8013,0,1.1,ml,,,,0.29,ak,ak023526xb9k,2023-04-20T16:49:36.031Z,"36 km S of South Van Horn, Alaska",earthquake,,29.5,,,automatic,ak,ak
 2023-04-20T16:47:19.090Z,38.838501,-122.8251648,2.34,0.71,md,12,93,0.008062,0.01,nc,nc73875885,2023-04-20T17:21:13.209Z,"9km WNW of Cobb, CA",earthquake,0.32,0.86,0.23,13,automatic,nc,nc
-2023-04-20T16:41:23.917Z,42.1479,-120.1745,7.2,0.1,ml,3,243.6,0.156,0.0615,nn,nn00858466,2023-04-20T17:49:42.910Z,"14 km ESE of Lakeview, Oregon",earthquake,,6,0.5,2,reviewed,nn,nn
-2023-04-20T16:37:22.923Z,61.223,-147.0429,0.1,1.6,ml,,,,0.32,ak,ak023526v39g,2023-04-20T16:39:22.711Z,"38 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
