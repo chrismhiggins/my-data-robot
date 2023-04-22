@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-22T18:18:41.496Z,60.8456,-152.2765,101.4,1.6,ml,,,,0.5,ak,ak02355j0mad,2023-04-22T18:20:40.280Z,"56 km WNW of Nikiski, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-04-22T18:04:10.973Z,61.3513,-141.0991,0,1.5,ml,,,,0.73,ak,ak02355ixjwp,2023-04-22T18:06:19.558Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-22T18:03:31.080Z,38.8218346,-122.8253326,2.05,1.5,md,33,48,0.007682,0.04,nc,nc73876635,2023-04-22T18:15:11.144Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.14,33,automatic,nc,nc
+2023-04-22T18:03:31.080Z,38.8218346,-122.8253326,2.05,1.5,md,33,48,0.007682,0.04,nc,nc73876635,2023-04-22T18:20:13.176Z,"8km NW of The Geysers, CA",earthquake,0.17,0.3,0.14,33,automatic,nc,nc
 2023-04-22T17:59:57.010Z,62.7806,-143.2857,0,1.5,ml,,,,0.65,ak,ak02355io08l,2023-04-22T18:02:10.331Z,"29 km ESE of Mentasta Lake, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-22T17:46:30.770Z,34.013,-116.7106667,17.32,0.82,ml,14,110,0.05798,0.16,ci,ci40444224,2023-04-22T17:49:59.699Z,"13km WSW of Morongo Valley, CA",earthquake,0.42,0.76,0.118,19,automatic,ci,ci
 2023-04-22T17:45:12.340Z,35.9315,-117.6673333,1.73,1.2,ml,11,137,0.1287,0.17,ci,ci40444216,2023-04-22T17:48:43.363Z,"22km E of Little Lake, CA",earthquake,0.41,0.61,0.155,14,automatic,ci,ci
