@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-27T14:37:52.010Z,59.7737,-152.6634,82.1,1.4,ml,,,,0.24,ak,ak0235dqfpr5,2023-04-27T14:39:16.617Z,"46 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-27T14:18:14.621Z,58.3274,-154.8582,1.1,0.8,ml,,,,0.16,ak,ak0235dqbk9i,2023-04-27T14:19:39.679Z,"87 km NNW of Karluk, Alaska",earthquake,,3,,,automatic,ak,ak
 2023-04-27T14:16:04.496Z,59.1127,-153.3738,142.7,1.4,ml,,,,0.51,ak,ak0235dqb41t,2023-04-27T14:18:39.942Z,"80 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-27T14:02:12.136Z,54.5733,-156.8407,16.116,4,mb,28,167,2.236,0.54,us,us7000jwag,2023-04-27T14:20:19.040Z,"208 km SE of Perryville, Alaska",earthquake,7.43,6.728,0.231,8,reviewed,us,us
@@ -233,8 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-26T14:58:06.999Z,61.5047,-152.611,0,0.7,ml,,,,1.2,ak,ak0235c30s1w,2023-04-26T15:07:38.739Z,"83 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-26T14:46:26.920Z,19.4915,-155.464166666667,0.06,2.94,ml,49,37,,0.14,hv,hv73377467,2023-04-27T02:45:57.707Z,"Island of Hawaii, Hawaii",earthquake,0.24,0.58,0.178779046669715,29,reviewed,hv,hv
 2023-04-26T14:46:02.420Z,19.1205005645752,-155.408996582031,31.0100002288818,3.2,ml,19,228,,0.119999997,hv,hv73377462,2023-04-27T06:14:27.830Z,"11 km SE of Pāhala, Hawaii",earthquake,1.13,1.54999995,1.89,24,automatic,hv,hv
-2023-04-26T14:45:37.410Z,34.2055,-116.8256667,7.23,1.25,ml,28,59,0.09704,0.12,ci,ci40445872,2023-04-26T20:07:18.578Z,"6km SSE of Big Bear City, CA",earthquake,0.21,0.76,0.223,21,reviewed,ci,ci
-2023-04-26T14:44:30.920Z,35.7765,-117.59,7.6,1.08,ml,18,65,0.03963,0.11,ci,ci40445864,2023-04-26T20:02:23.984Z,"17km W of Searles Valley, CA",earthquake,0.19,0.43,0.097,8,reviewed,ci,ci
-2023-04-26T14:39:15.870Z,19.4986666666667,-155.467166666667,0.04,1.96,md,29,99,,0.14,hv,hv73377457,2023-04-26T20:24:49.510Z,"25 km WNW of Volcano, Hawaii",earthquake,0.25,0.59,0.0426974046265556,7,reviewed,hv,hv
-2023-04-26T14:36:52.120Z,38.7795,-122.7553333,0.74,0.65,md,20,67,0.01196,0.02,nc,nc73877970,2023-04-26T21:26:15.743Z,"0km NNE of The Geysers, CA",earthquake,0.18,0.32,0.249,15,reviewed,nc,nc
-2023-04-26T14:35:16.638Z,57.7694,-155.532,83.6,1.7,ml,,,,0.17,ak,ak0235c2vv3j,2023-04-26T14:37:24.786Z,"68 km WNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
