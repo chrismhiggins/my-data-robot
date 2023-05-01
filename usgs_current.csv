@@ -27,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T00:23:50.454Z,63.1804,-151.3332,0.1,1.3,ml,,,,0.54,ak,ak0235k46145,2023-05-01T00:25:56.662Z,"44 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-01T00:21:15.720Z,46.84583333333333,-121.76183333333333,0.85,0.01,ml,11,72,0.02194,0.08,uw,uw61920646,2023-05-01T02:12:52.590Z,"22 km ENE of Ashford, Washington",earthquake,0.33,0.61,0.05219035494673463,5,reviewed,uw,uw
 2023-05-01T00:16:21.305Z,-29.8271,-177.4789,32.745,5.1,mww,66,121,0.682,0.59,us,us7000jx9j,2023-05-01T00:59:42.040Z,"Kermadec Islands, New Zealand",earthquake,8.21,1.635,0.098,10,reviewed,us,us
-2023-05-01T00:16:03.850Z,38.8263321,-122.7956696,2.5,1.16,md,27,44,0.01163,0.03,nc,nc73882521,2023-05-01T03:35:17.784Z,"6km W of Cobb, CA",earthquake,0.23,0.43,0.18,27,automatic,nc,nc
+2023-05-01T00:16:03.850Z,38.8263321,-122.7956696,2.5,1.16,md,27,44,0.01163,0.03,nc,nc73882521,2023-05-01T03:47:11.838Z,"6km W of Cobb, CA",earthquake,0.23,0.43,0.18,27,automatic,nc,nc
 2023-05-01T00:13:40.500Z,27.6953,56.7208,10,4.2,mb,37,145,2.778,0.67,us,us7000jx9i,2023-05-01T00:25:04.040Z,"71 km NE of Bandar Abbas, Iran",earthquake,12,1.968,0.096,30,reviewed,us,us
 2023-05-01T00:07:41.128Z,62.3844,-149.1149,15.2,1,ml,,,,0.25,ak,ak0235k42kxs,2023-05-01T00:09:16.565Z,"45 km ENE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-05-01T00:06:42.270Z,36.8003349,-121.4943314,5.13,1.37,md,6,147,0.01961,0.02,nc,nc73882516,2023-05-01T03:19:10.698Z,"6km SE of San Juan Bautista, CA",earthquake,0.6,0.5,0.14,6,automatic,nc,nc
@@ -294,4 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T04:07:43.797Z,-10.7958,113.3698,25.735,4.5,mb,17,123,2.436,1.32,us,us7000jx3k,2023-04-30T04:24:09.040Z,"277 km S of Kencong, Indonesia",earthquake,8.84,2.632,0.22,7,reviewed,us,us
 2023-04-30T04:01:23.580Z,38.8631668,-122.7848358,2.08,0.76,md,10,174,0.0256,0.03,nc,nc73882131,2023-04-30T06:34:15.144Z,"7km NW of Cobb, CA",earthquake,0.66,0.78,0.47,10,automatic,nc,nc
 2023-04-30T04:00:43.710Z,19.1926670074463,-155.512664794922,35.1199989318848,2.17,ml,39,88,,0.119999997,hv,hv73383942,2023-04-30T04:06:14.790Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.66,0.930000007,2.81,10,automatic,hv,hv
-2023-04-30T03:51:55.730Z,58.231,-155.1655,3.63,-0.31,ml,6,218,,0.04,av,av91868661,2023-04-30T14:26:46.330Z,"84 km NNW of Karluk, Alaska",earthquake,0.35,0.71,0.227569204071471,6,reviewed,av,av
