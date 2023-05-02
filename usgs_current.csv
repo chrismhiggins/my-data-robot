@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-02T11:26:35.520Z,38.8311653,-122.8573303,2.22,1.1,md,21,64,0.003633,0.02,nc,nc73882986,2023-05-02T11:28:12.642Z,"11km NW of The Geysers, CA",earthquake,0.27,0.39,0.23,23,automatic,nc,nc
+2023-05-02T11:25:12.030Z,33.6715,-116.7598333,16.12,0.74,ml,20,105,0.05491,0.14,ci,ci40217159,2023-05-02T11:28:47.154Z,"8km SSW of Idyllwild, CA",earthquake,0.31,0.53,0.174,17,automatic,ci,ci
+2023-05-02T11:23:41.151Z,61.8749,-146.8582,32.7,1.4,ml,,,,1.31,ak,ak0235ly94jn,2023-05-02T11:25:35.772Z,"13 km SSW of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-02T11:08:13.090Z,33.9785,-116.8775,19.08,1.41,ml,46,36,0.08092,0.19,ci,ci40217151,2023-05-02T11:18:40.970Z,"6km N of Banning, CA",earthquake,0.21,0.55,0.179,27,automatic,ci,ci
 2023-05-02T10:44:03.190Z,34.133,-117.4553333,10.07,1.31,ml,37,56,0.08311,0.19,ci,ci40217143,2023-05-02T10:54:24.490Z,"4km N of Fontana, CA",earthquake,0.3,0.63,0.14,28,automatic,ci,ci
 2023-05-02T10:37:05.770Z,38.7579994,-122.7180023,0.62,1.15,md,6,201,0.006452,0.16,nc,nc73882981,2023-05-02T10:59:19.377Z,"3km SW of Anderson Springs, CA",earthquake,1.92,1.35,0.31,6,automatic,nc,nc
@@ -12,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T08:21:46.670Z,33.6745,-116.8268333,5.04,0.31,ml,10,143,0.04771,0.27,ci,ci40217127,2023-05-02T08:25:30.059Z,"10km SE of Valle Vista, CA",earthquake,0.75,1.54,0.102,5,automatic,ci,ci
 2023-05-02T08:03:20.420Z,19.2560005187988,-155.375671386719,31.3099994659424,1.83000004,md,34,157,,0.119999997,hv,hv73386537,2023-05-02T08:06:29.840Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.55,0.769999981,,4,automatic,hv,hv
 2023-05-02T07:34:24.984Z,-2.9853,142.0563,27.26,4.8,mb,28,115,8.148,0.87,us,us7000jxgp,2023-05-02T09:02:22.040Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,11.99,6.121,0.121,21,reviewed,us,us
-2023-05-02T07:30:42.648Z,65.0357,-147.0472,0,1.6,ml,,,,0.45,ak,ak0235lvww94,2023-05-02T07:32:36.875Z,"18 km N of Two Rivers, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-02T07:30:42.648Z,65.0357,-147.0472,0,1.6,ml,,,,0.45,ak,ak0235lvww94,2023-05-02T07:32:36.875Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-02T07:09:39.090Z,35.607,-117.4133333,7.46,2,ml,24,53,0.0586,0.16,ci,ci40217119,2023-05-02T07:20:06.720Z,"18km S of Trona, CA",earthquake,0.3,0.75,0.164,26,automatic,ci,ci
 2023-05-02T07:09:35.110Z,38.8171654,-122.8221664,2.04,1.08,md,19,50,0.009932,0.02,nc,nc73882956,2023-05-02T09:07:11.628Z,"7km NW of The Geysers, CA",earthquake,0.24,0.44,0.11,20,automatic,nc,nc
 2023-05-02T07:01:45.277Z,61.4178,-151.7179,73.1,0.6,ml,,,,0.15,ak,ak0235lvqoov,2023-05-02T07:03:25.982Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
