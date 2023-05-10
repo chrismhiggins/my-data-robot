@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-10T08:29:02.220Z,38.8428345,-122.8755035,1.96,1.36,md,23,123,0.006076,0.03,nc,nc73886036,2023-05-10T08:30:36.516Z,"13km NW of The Geysers, CA",earthquake,0.26,0.35,0.12,24,automatic,nc,nc
-2023-05-10T08:16:42.060Z,34.0258333,-117.4953333,17.87,2.86,ml,118,17,0.05899,0.24,ci,ci40222087,2023-05-10T08:32:33.454Z,"2km NNW of Glen Avon, CA",earthquake,0.2,0.46,0.137,25,automatic,ci,ci
+2023-05-10T08:40:31.690Z,32.8323326,-116.697998,4.38,1.46,ml,36,44,0.09466,0.19,ci,ci40222095,2023-05-10T08:43:00.690Z,"6km E of Alpine, CA",earthquake,0.25,0.65,0.257,4,automatic,ci,ci
+2023-05-10T08:38:17.050Z,38.8208351,-122.7868347,1.55,1.88,md,36,33,0.008962,0.05,nc,nc73886041,2023-05-10T08:42:05.583Z,"6km NNW of The Geysers, CA",earthquake,0.17,0.25,0.18,35,automatic,nc,nc
+2023-05-10T08:29:02.220Z,38.8428345,-122.8755035,1.96,1.36,md,23,123,0.006076,0.03,nc,nc73886036,2023-05-10T08:41:11.105Z,"13km NW of The Geysers, CA",earthquake,0.26,0.35,0.12,24,automatic,nc,nc
+2023-05-10T08:16:42.060Z,34.0258333,-117.4953333,17.87,2.86,ml,118,17,0.05899,0.24,ci,ci40222087,2023-05-10T08:42:38.526Z,"2km NNW of Glen Avon, CA",earthquake,0.2,0.46,0.137,25,automatic,ci,ci
 2023-05-10T08:06:09.751Z,37.2038,-104.7596,2.811,2.3,ml,11,112,0.084,0.4,us,us6000kat7,2023-05-10T08:21:07.040Z,"8 km N of Segundo, Colorado",earthquake,1.51,3.49,0.105,12,reviewed,us,us
 2023-05-10T07:22:31.830Z,33.7075,-116.8315,14.12,1.17,ml,46,59,0.07848,0.21,ci,ci40222079,2023-05-10T07:26:04.740Z,"7km SE of Valle Vista, CA",earthquake,0.3,0.44,0.171,28,automatic,ci,ci
 2023-05-10T07:21:12.080Z,33.7068333,-116.8285,15.3,1.03,ml,36,39,0.08187,0.24,ci,ci40222071,2023-05-10T07:24:48.297Z,"8km SE of Valle Vista, CA",earthquake,0.35,0.58,0.179,28,automatic,ci,ci
@@ -218,8 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T09:18:51.409Z,60.5663,-145.2088,18.1,1.6,ml,,,,0.57,ak,ak0235xhsn04,2023-05-09T09:21:22.524Z,"30 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T09:15:54.342Z,-22.5145,-66.075,295.673,4.1,mb,13,98,1.991,0.29,us,us6000kak8,2023-05-09T12:25:24.040Z,"45 km WNW of Abra Pampa, Argentina",earthquake,6.66,18.071,0.261,4,reviewed,us,us
 2023-05-09T09:02:58.536Z,39.9739,-120.0878,7.9,0,ml,4,171.23,0.204,0.0192,nn,nn00859239,2023-05-09T18:20:59.165Z,"6 km SSE of Doyle, California",earthquake,,12.9,0.35,3,reviewed,nn,nn
-2023-05-09T08:38:41.140Z,33.8586667,-117.8963333,8.81,0.79,ml,23,152,0.03249,0.27,ci,ci40221471,2023-05-09T18:52:15.762Z,"3km NNW of Anaheim, CA",earthquake,0.6,0.79,0.096,4,reviewed,ci,ci
-2023-05-09T08:35:36.728Z,55.4164,163.1783,42.728,4.6,mb,59,123,3.958,0.74,us,us6000kak7,2023-05-09T13:29:18.040Z,"100 km SSE of Ust’-Kamchatsk Staryy, Russia",earthquake,12.51,8.222,0.046,142,reviewed,us,us
-2023-05-09T08:35:31.130Z,34.0955,-117.308,16.18,0.89,ml,36,90,0.1161,0.16,ci,ci40221463,2023-05-09T18:08:50.686Z,"2km NNE of Colton, CA",earthquake,0.23,0.53,0.082,9,reviewed,ci,ci
-2023-05-09T08:35:09.120Z,33.6815,-116.7318333,16.41,0.52,ml,18,95,0.03305,0.11,ci,ci37537892,2023-05-09T17:45:13.538Z,"7km S of Idyllwild, CA",earthquake,0.36,0.5,0.078,9,reviewed,ci,ci
-2023-05-09T08:35:08.070Z,33.6863333,-116.733,16.55,0.43,ml,25,97,0.02933,0.13,ci,ci40221455,2023-05-09T17:40:12.879Z,"6km SSW of Idyllwild, CA",earthquake,0.27,0.39,0.142,11,reviewed,ci,ci
