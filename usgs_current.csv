@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-17T06:49:04.120Z,35.6995,-118.3963333,4.85,1.16,ml,16,68,0.03649,0.1,ci,ci40226487,2023-05-17T06:52:47.338Z,"6km E of Wofford Heights, CA",earthquake,0.25,0.3,0.086,15,automatic,ci,ci
 2023-05-17T06:35:25.241Z,61.9574,-149.0113,39.7,1.2,ml,,,,0.81,ak,ak0236aoepak,2023-05-17T06:38:16.970Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-05-17T06:27:28.458Z,62.2325,-150.4977,22.4,1.2,ml,,,,0.4,ak,ak0236aoczt9,2023-05-17T06:29:24.076Z,"16 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-17T06:09:36.980Z,19.2421666666667,-155.389,32.83,3.39,ml,51,140,,0.12,hv,hv73405822,2023-05-17T06:42:41.557Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.46,0.41,0.173561758417342,32,reviewed,hv,hv
+2023-05-17T06:09:36.980Z,19.2421666666667,-155.389,32.83,3.39,ml,51,140,,0.12,hv,hv73405822,2023-05-17T07:21:17.040Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.46,0.41,0.173561758417342,32,reviewed,hv,hv
 2023-05-17T06:04:57.450Z,17.9698333333333,-66.9828333333333,8.47,3.1,md,27,181,0.05843,0.2,pr,pr71409693,2023-05-17T06:30:36.260Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.34,0.83,0.0575237416895578,8,reviewed,pr,pr
 2023-05-17T05:53:56.510Z,37.4893,-115.1926,4.6,1.5,ml,11,233.13,0.139,0.287,nn,nn00859614,2023-05-17T05:56:22.877Z,"12 km SSE of Hiko, Nevada",earthquake,,9.6,1.22,6,automatic,nn,nn
 2023-05-17T05:34:51.361Z,57.3636,-150.1259,0,3.7,ml,,,,0.62,ak,ak0236ant441,2023-05-17T05:43:24.657Z,"Gulf of Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -207,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-16T07:48:30.670Z,19.2433338165283,-155.382827758789,31.6000003814697,2.16,ml,40,157,,0.170000002,hv,hv73404502,2023-05-16T08:24:52.040Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.55,0.479999989,2.93,9,automatic,hv,hv
 2023-05-16T07:45:19.320Z,38.8390007,-122.8286667,2.41,1.09,md,21,76,0.005342,0.02,nc,nc73888696,2023-05-16T08:11:19.655Z,"9km NW of The Geysers, CA",earthquake,0.25,0.48,0.16,23,automatic,nc,nc
 2023-05-16T07:28:14.020Z,19.2701663970947,-155.382827758789,31.4699993133545,2.46,ml,47,128,,0.150000006,hv,hv73404472,2023-05-16T07:37:59.040Z,"12 km NE of Pāhala, Hawaii",earthquake,0.6,0.689999998,1.98,20,automatic,hv,hv
-2023-05-16T07:15:52.950Z,44.7963333,-110.8298333,4.68,0.36,md,10,108,0.01675,0.16,uu,uu60540156,2023-05-16T13:55:16.160Z,"Yellowstone National Park, Wyoming",earthquake,0.47,0.39,0.197,6,reviewed,uu,uu
