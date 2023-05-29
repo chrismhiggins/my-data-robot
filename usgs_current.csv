@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-29T05:36:39.180Z,33.2384987,-116.0996704,7.53,1.45,ml,47,55,0.1005,0.24,ci,ci40236607,2023-05-29T05:38:45.759Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.28,0.94,0.118,7,automatic,ci,ci
+2023-05-29T05:42:43.472Z,62.5415,-150.1332,13.6,1.6,ml,,,,0.59,ak,ak0236uiaz17,2023-05-29T05:44:42.695Z,"10 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-29T05:36:39.250Z,33.2396667,-116.0961667,7.44,1.27,ml,37,56,0.1031,0.26,ci,ci40236607,2023-05-29T05:47:45.630Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.3,1.09,0.163,26,automatic,ci,ci
 2023-05-29T05:28:05.790Z,34.2656667,-116.8793333,10.43,1.07,ml,23,75,0.03447,0.22,ci,ci40236599,2023-05-29T05:31:46.758Z,"3km W of Big Bear City, CA",earthquake,0.47,0.77,0.23,24,automatic,ci,ci
 2023-05-29T05:18:46.190Z,38.8250008,-122.8498306,2.16,1.17,md,22,60,0.006059,0.01,nc,nc73891210,2023-05-29T05:35:19.204Z,"10km WNW of The Geysers, CA",earthquake,0.21,0.41,0.14,21,automatic,nc,nc
 2023-05-29T05:18:35.020Z,35.6486667,-118.3185,7.48,1.32,ml,21,68,0.05372,0.15,ci,ci40236591,2023-05-29T05:22:19.479Z,"14km ESE of Wofford Heights, CA",earthquake,0.26,0.58,0.177,16,automatic,ci,ci
