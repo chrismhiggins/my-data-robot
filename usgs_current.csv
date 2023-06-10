@@ -55,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T09:51:05.191Z,61.2696,-150.6475,49.7,1.4,ml,,,,0.62,ak,ak0237ef6pvb,2023-06-10T09:52:45.985Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-10T09:44:34.300Z,38.7513351,-122.7243347,1.51,0.96,md,7,164,0.01025,0.02,nc,nc73899486,2023-06-10T11:52:13.397Z,"4km SW of Anderson Springs, CA",earthquake,0.39,0.52,0.29,9,automatic,nc,nc
 2023-06-10T09:44:05.200Z,38.7506676,-122.7231674,1.26,1.19,md,11,168,0.01099,0.03,nc,nc73899476,2023-06-10T11:09:15.124Z,"4km SW of Anderson Springs, CA",earthquake,0.31,0.39,0.14,12,automatic,nc,nc
-2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T11:25:12.219Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
+2023-06-10T09:43:04.110Z,38.7426682,-122.7220001,1.54,2.63,md,61,30,0.01903,0.08,nc,nc73899481,2023-06-10T17:35:56.673Z,"4km SW of Anderson Springs, CA",earthquake,0.15,0.29,0.18,72,automatic,nc,nc
 2023-06-10T09:30:31.110Z,35.6543333,-117.4253333,14.5,0.94,ml,9,159,0.1302,0.15,ci,ci40482416,2023-06-10T09:34:01.655Z,"13km S of Searles Valley, CA",earthquake,0.69,1.38,0.192,6,automatic,ci,ci
 2023-06-10T09:29:18.749Z,61.9047,-148.5777,36.5,1.2,ml,,,,0.71,ak,ak0237ef215u,2023-06-10T09:31:26.992Z,"13 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-06-10T09:12:50.868Z,-15.977,-179.1556,10,5.8,mww,94,49,3.199,0.67,us,us7000k7m3,2023-06-10T11:16:41.463Z,"Fiji region",earthquake,11.05,1.762,0.069,20,reviewed,us,us
@@ -121,6 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T03:26:51.240Z,19.2334995269775,-155.420837402344,35.3400001525879,2.18,ml,34,156,,0.119999997,hv,hv73447807,2023-06-10T03:32:21.590Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.55,0.720000029,0.27,3,automatic,hv,hv
 2023-06-10T02:56:31.675Z,63.9259,-146.8669,8.3,1.2,ml,,,,0.37,ak,ak0237eb1t9b,2023-06-10T02:58:37.654Z,"51 km SSW of Harding-Birch Lakes, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-06-10T02:55:07.365Z,35.34039688,-98.06634521,6.155894279,1.7,ml,13,98.15934753,0.08902271092,0.7644290367,ok,ok2023lgog,2023-06-10T02:58:20.843Z,"11 km WNW of Minco, Oklahoma",earthquake,3.567666201,3.696671789,0.29,7,automatic,ok,ok
+2023-06-10T02:45:54.740Z,58.2293333333333,-155.148166666667,32.82,0.18,ml,10,115,,0.13,av,av91918771,2023-06-10T17:40:25.850Z,"84 km NNW of Karluk, Alaska",earthquake,0.56,0.87,0.296631430320184,11,reviewed,av,av
 2023-06-10T02:44:54.150Z,58.247,-155.149666666667,32.32,0.23,ml,11,105,,0.17,av,av91918766,2023-06-10T17:22:33.220Z,"Alaska Peninsula",earthquake,0.54,0.89,0.232727521996732,10,reviewed,av,av
 2023-06-10T02:41:41.320Z,38.8191681,-122.8255005,1.78,0.76,md,7,103,0.008423,0.01,nc,nc73899391,2023-06-10T05:22:16.157Z,"8km NW of The Geysers, CA",earthquake,0.53,1.02,0.27,8,automatic,nc,nc
 2023-06-10T02:37:04.320Z,40.4956667,-124.3228333,16.83,1.64,md,19,184,0.2075,0.12,nc,nc73899386,2023-06-10T07:39:16.955Z,"10km SSW of Ferndale, CA",earthquake,0.46,0.67,0.1,13,reviewed,nc,nc
