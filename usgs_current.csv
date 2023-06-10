@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-10T06:55:14.390Z,33.4511681,-116.4193344,2.12,1.05,ml,13,127,0.1549,0.25,ci,ci40482320,2023-06-10T06:57:19.503Z,"22km N of Borrego Springs, CA",earthquake,0.79,2.86,0.678,9,automatic,ci,ci
+2023-06-10T06:54:10.290Z,33.4516667,-116.4248333,3.76,0.54,ml,23,122,0.1518,0.22,ci,ci40482312,2023-06-10T06:57:45.812Z,"22km NNW of Borrego Springs, CA",earthquake,0.39,1.18,0.138,12,automatic,ci,ci
+2023-06-10T06:50:43.058Z,65.8702,-147.1151,2,1.1,ml,,,,1.03,ak,ak0237edea7s,2023-06-10T06:53:12.650Z,"56 km SSE of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-10T06:39:28.500Z,33.401,-116.4223333,13.36,0.74,ml,36,96,0.1221,0.23,ci,ci40482304,2023-06-10T06:43:05.299Z,"17km NNW of Borrego Springs, CA",earthquake,0.39,0.72,0.163,18,automatic,ci,ci
 2023-06-10T06:18:02.417Z,35.34374237,-98.0737381,6.747761726,1.73,ml,10,100.6142578,0.08820143342,0.5748988088,ok,ok2023lguy,2023-06-10T06:20:37.392Z,"12 km WNW of Minco, Oklahoma",earthquake,4.648227079,4.648414073,0.35,7,automatic,ok,ok
 2023-06-10T06:15:39.210Z,38.7856674,-122.73983,0.73,1.1,md,9,119,0.003432,0.01,nc,nc73899446,2023-06-10T06:33:16.556Z,"2km ENE of The Geysers, CA",earthquake,0.32,0.63,0.15,8,automatic,nc,nc
@@ -44,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-10T00:19:26.890Z,38.7958336,-122.7665024,3.75,0.75,md,8,104,0.007145,0.01,nc,nc73899341,2023-06-10T01:06:16.099Z,"2km NNW of The Geysers, CA",earthquake,0.52,1.5,0.05,11,automatic,nc,nc
 2023-06-10T00:12:11.920Z,19.1784992218018,-155.484497070312,28.2900009155273,1.97000003,md,29,130,,0.189999998,hv,hv73447727,2023-06-10T00:15:39.170Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.89,1.12,1.38999999,14,automatic,hv,hv
 2023-06-10T00:11:19.150Z,33.9346667,-116.3688333,4.39,1.03,ml,20,58,0.03373,0.22,ci,ci40482096,2023-06-10T00:14:56.373Z,"13km ESE of Desert Hot Springs, CA",earthquake,0.34,0.59,0.183,24,automatic,ci,ci
+2023-06-10T00:04:49.420Z,38.8055,-122.7923333,1.77,-0.04,md,13,51,0.003385,0.02,nc,nc73899331,2023-06-10T06:51:52.493Z,"4km NW of The Geysers, CA",earthquake,0.29,0.47,0.314,12,reviewed,nc,nc
 2023-06-09T23:52:46.560Z,33.8488333,-116.385,1.58,0.88,ml,9,129,0.09372,0.36,ci,ci40482080,2023-06-09T23:56:14.348Z,"3km N of Thousand Palms, CA",earthquake,0.89,1.49,0.179,20,automatic,ci,ci
 2023-06-09T23:45:19.060Z,38.8273315,-122.8141632,1.52,0.27,md,8,117,0.005065,0.02,nc,nc73899336,2023-06-10T00:54:13.030Z,"8km NW of The Geysers, CA",earthquake,0.4,0.87,0.08,8,automatic,nc,nc
 2023-06-09T23:32:47.020Z,36.5666656,-121.1638336,2.54,2.51,md,28,121,0.01808,0.1,nc,nc73899326,2023-06-10T02:36:15.739Z,"4km NNW of Pinnacles, CA",earthquake,0.3,0.55,0.11,30,automatic,nc,nc
