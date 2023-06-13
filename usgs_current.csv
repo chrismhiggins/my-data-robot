@@ -39,14 +39,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T17:59:05.490Z,37.277832,-121.6429977,8.67,1.33,md,11,83,0.03052,0.04,nc,nc73900396,2023-06-12T21:08:15.226Z,"16km N of Morgan Hill, CA",earthquake,0.48,0.79,0.23,6,automatic,nc,nc
 2023-06-12T17:56:52.980Z,37.6366667,-119.0488333,-0.99,0.36,md,7,111,0.01684,0.02,nc,nc73900401,2023-06-12T22:52:37.467Z,"6km W of Mammoth Lakes, CA",earthquake,0.28,0.59,0.087,6,reviewed,nc,nc
 2023-06-12T17:56:10.960Z,37.6366667,-119.0495,-0.56,0.35,md,6,154,0.01733,0.01,nc,nc73900391,2023-06-12T22:51:07.383Z,"6km W of Mammoth Lakes, CA",earthquake,0.38,1.85,0.403,5,reviewed,nc,nc
-2023-06-12T17:47:58.590Z,37.6356667,-119.0493333,-0.6,0.24,md,6,149,0.0176,0.01,nc,nc73900381,2023-06-12T22:49:06.983Z,"6km W of Mammoth Lakes, CA",earthquake,0.32,1.29,0.154,4,reviewed,nc,nc
+2023-06-12T17:47:58.590Z,37.6356667,-119.0493333,-0.6,0.24,md,6,149,0.0176,0.01,nc,nc73900381,2023-06-12T23:49:15.141Z,"6km W of Mammoth Lakes, CA",earthquake,0.32,1.29,0.154,4,reviewed,nc,nc
 2023-06-12T17:45:18.758Z,61.858,-151.0877,69.3,1.5,ml,,,,0.31,ak,ak0237huzmgv,2023-06-12T17:47:42.209Z,"21 km SE of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-12T17:43:36.380Z,33.3506667,-116.3506667,7.29,1.03,ml,34,74,0.0363,0.21,ci,ci40484112,2023-06-12T17:47:10.043Z,"11km NNE of Borrego Springs, CA",earthquake,0.3,0.72,0.177,26,automatic,ci,ci
 2023-06-12T17:38:49.640Z,17.9725,-67.0518333333333,8.47,2.48,md,12,213,0.06449,0.13,pr,pr71413133,2023-06-12T17:47:25.560Z,"0 km WSW of La Parguera, Puerto Rico",earthquake,0.39,0.91,0.09856388212267,5,reviewed,pr,pr
 2023-06-12T17:28:35.120Z,38.7915001,-122.7593307,2.26,1.25,md,16,80,0.0195,0.03,nc,nc73900371,2023-06-12T19:18:16.584Z,"2km N of The Geysers, CA",earthquake,0.28,0.61,0.2,15,automatic,nc,nc
 2023-06-12T17:13:44.530Z,44.73,-114.341166666667,7.16,1.66,ml,14,69,0.4088,0.15,mb,mb90017703,2023-06-12T21:11:38.760Z,"26 km NNW of Challis, Idaho",earthquake,0.47,0.9,0.257806890798501,16,reviewed,mb,mb
 2023-06-12T17:04:10.340Z,33.038,-114.993,1.32,1.5,ml,13,64,0.06679,0.32,ci,ci40484072,2023-06-12T17:07:57.849Z,"44km NE of Holtville, CA",earthquake,0.68,1.53,0.188,11,automatic,ci,ci
-2023-06-12T16:49:10.860Z,44.8003333,-111.0043333,6.46,1.11,md,10,205,0.04102,0.1,uu,uu60542046,2023-06-12T20:56:37.710Z,"15 km ENE of Hebgen Lake Estates, Montana",earthquake,0.77,0.76,0.208,8,reviewed,uu,uu
+2023-06-12T16:49:10.860Z,44.8003333,-111.0043333,6.46,1.11,md,10,205,0.04102,0.1,uu,uu60542046,2023-06-12T20:56:37.710Z,"Yellowstone National Park, Wyoming",earthquake,0.77,0.76,0.208,8,reviewed,uu,uu
 2023-06-12T16:34:47.377Z,58.2145,-155.3593,1.1,0.8,ml,,,,0.82,ak,ak0237hubw69,2023-06-12T16:37:04.311Z,"89 km NW of Karluk, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-06-12T16:32:54.564Z,58.1975,-155.3743,3.1,1.4,ml,,,,0.75,ak,ak0237hubhby,2023-06-12T16:34:54.621Z,"88 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-12T16:31:43.458Z,62.6257,-143.0967,2.7,1.9,ml,,,,0.94,ak,ak0237hub8q1,2023-06-12T16:33:56.972Z,"28 km N of Nabesna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -91,7 +91,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T10:42:44.130Z,38.5123333,-119.5386667,3.22,2.42,md,22,81,0.04624,0.08,nc,nc73900311,2023-06-12T23:36:10.070Z,"5km W of Walker, CA",earthquake,0.22,0.46,0.261,47,reviewed,nc,nc
 2023-06-12T10:40:19.120Z,19.1700000762939,-155.490829467773,31.3299999237061,1.80999994,md,31,104,,0.129999995,hv,hv73449277,2023-06-12T10:43:34.100Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.6,0.980000019,0.569999993,7,automatic,hv,hv
 2023-06-12T10:40:13.291Z,59.3696,-152.7937,76.1,1.7,ml,,,,0.31,ak,ak0237hqsi7l,2023-06-12T10:42:31.626Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-06-12T10:35:46.400Z,45.5883333333333,-112.384166666667,4.99,0.62,ml,5,126,0.2385,0.07,mb,mb90017783,2023-06-12T20:22:02.680Z,"6 km NW of Twin Bridges, Montana",earthquake,0.61,7.09,0.271720754103549,4,reviewed,mb,mb
+2023-06-12T10:35:46.400Z,45.5883333333333,-112.384166666667,4.99,0.62,ml,5,126,0.2385,0.07,mb,mb90017783,2023-06-12T20:22:02.680Z,"western Montana",earthquake,0.61,7.09,0.271720754103549,4,reviewed,mb,mb
 2023-06-12T10:35:34.870Z,33.145,-116.4995,10.87,0.65,ml,32,66,0.08488,0.16,ci,ci40483744,2023-06-12T18:24:02.564Z,"12km NE of Julian, CA",earthquake,0.26,0.4,0.126,7,reviewed,ci,ci
 2023-06-12T09:55:40.710Z,38.8258333,-122.8001667,2.37,0.48,md,19,45,0.01824,0.01,nc,nc73900306,2023-06-12T23:08:13.912Z,"7km NW of The Geysers, CA",earthquake,0.19,0.38,0.169,18,reviewed,nc,nc
 2023-06-12T09:51:31.035Z,63.1166,-151.3714,0,1.4,ml,,,,0.9,ak,ak0237hq9gun,2023-06-12T09:54:00.948Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -164,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-12T00:42:32.923Z,47.044,-66.5789,5,2,mb_lg,15,66,0.424,0.64,us,us7000k7wx,2023-06-12T01:56:08.040Z,"New Brunswick, Canada",earthquake,2.59,1.995,0.228,5,reviewed,us,us
 2023-06-12T00:34:28.170Z,33.9628333,-116.845,20.16,0.77,ml,27,76,0.07044,0.17,ci,ci40483584,2023-06-12T13:15:49.783Z,"5km NE of Banning, CA",earthquake,0.27,0.69,0.069,4,reviewed,ci,ci
 2023-06-12T00:26:05.740Z,38.7483333,-122.698,0.87,1,md,28,88,0.005814,0.06,nc,nc73900191,2023-06-12T04:27:14.223Z,"3km S of Anderson Springs, CA",earthquake,0.25,0.25,0.163,21,reviewed,nc,nc
-2023-06-11T23:56:26.457Z,58.5812,-156.1291,176.877,2.7,ml,33,103,0.637,0.34,us,us7000k7wv,2023-06-12T21:08:12.040Z,"33 km ESE of King Salmon, Alaska",earthquake,7.31,8.461,0.055,44,reviewed,us,us
