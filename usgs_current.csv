@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-06-19T08:36:47.141Z,61.048,-149.4543,34,1.5,ml,,,,0.94,ak,ak0237taca7e,2023-06-19T08:40:12.231Z,"17 km NE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-06-19T08:34:51.310Z,37.9393349,-118.5963364,2.73,2.09,md,10,152,0.2744,0.04,nc,nc73902821,2023-06-19T08:41:18.446Z,"42km S of Qualeys Camp, NV",earthquake,0.85,7.42,0.11,11,automatic,nc,nc
+2023-06-19T08:34:51.310Z,37.9393349,-118.5963364,2.73,2.09,md,10,152,0.2744,0.04,nc,nc73902821,2023-06-19T08:43:10.454Z,"42km S of Qualeys Camp, NV",earthquake,0.85,7.42,0.11,11,automatic,nc,nc
 2023-06-19T08:33:04.389Z,63.9592,-148.8206,111.8,1.8,ml,,,,0.3,ak,ak0237tabjra,2023-06-19T08:35:14.090Z,"13 km NNE of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-06-19T08:18:30.908Z,58.1972,-155.2438,0,1.4,ml,,,,0.41,ak,ak0237ta8e2a,2023-06-19T08:20:11.415Z,"84 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-19T08:15:30.105Z,58.2833,-155.0789,3.6,0.4,ml,,,,0.5,ak,ak0237ta7quq,2023-06-19T08:16:27.830Z,"87 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
