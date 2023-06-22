@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T10:26:44.119Z,62.1947,-149.4246,39.8,1.2,ml,,,,0.82,ak,ak0237ya31i3,2023-06-22T10:28:40.296Z,"Central Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-06-22T10:11:30.320Z,34.1473333,-116.6965,-0.21,0.76,ml,11,118,0.1158,0.23,ci,ci40491744,2023-06-22T10:15:07.326Z,"15km NW of Morongo Valley, CA",earthquake,0.5,1.27,0.196,12,automatic,ci,ci
 2023-06-22T10:04:12.596Z,36.7301,-115.8246,16,0.3,ml,14,257.36,0.129,0.2685,nn,nn00861545,2023-06-22T10:06:09.485Z,"22 km NW of Indian Springs, Nevada",earthquake,,1.6,0.34,9,automatic,nn,nn
 2023-06-22T09:34:44.630Z,34.4848333,-120.3891667,0.94,1.35,ml,16,265,0.1817,0.26,ci,ci40491736,2023-06-22T09:38:20.846Z,"18km SSE of Lompoc, CA",earthquake,1.21,31.61,0.11,8,automatic,ci,ci
@@ -18,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-22T07:28:54.080Z,36.5584984,-121.090332,9.62,1.79,md,9,136,0.04548,0.07,nc,nc73903851,2023-06-22T08:20:12.186Z,"6km ENE of Pinnacles, CA",earthquake,1.09,1.74,0.25,6,automatic,nc,nc
 2023-06-22T07:14:49.817Z,58.2459,-155.1933,1.2,0.6,ml,,,,0.27,ak,ak0237y886j9,2023-06-22T07:15:49.325Z,"87 km NNW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-06-22T07:04:19.670Z,33.3453333,-116.3343333,11.17,0.86,ml,27,134,0.1036,0.22,ci,ci40491720,2023-06-22T07:08:06.062Z,"11km NNE of Borrego Springs, CA",earthquake,0.53,1.16,0.086,18,automatic,ci,ci
+2023-06-22T06:47:05.420Z,40.5216667,-124.336,20.3,1.62,md,20,209,0.04606,0.15,nc,nc73903841,2023-06-22T10:28:09.970Z,"9km SW of Ferndale, CA",earthquake,0.71,0.41,0.098,11,reviewed,nc,nc
 2023-06-22T06:37:10.920Z,19.2311668395996,-155.352493286133,30.0499992370605,2.17,ml,43,156,,0.119999997,hv,hv73458072,2023-06-22T06:42:42.870Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.52,0.639999986,0.09,3,automatic,hv,hv
 2023-06-22T06:16:02.690Z,62.7756,-150.7428,87,1.2,ml,,,,0.97,ak,ak0237y7n2pk,2023-06-22T06:18:47.170Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-06-22T06:06:14.393Z,64.9522,-148.6626,22.7,0.6,ml,,,,0.34,ak,ak0237y7kygv,2023-06-22T06:07:44.930Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -107,7 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T19:03:35.150Z,46.0063333333333,-112.462833333333,-2,1.95,ml,14,107,0.06402,0.07,mb,mb90019278,2023-06-21T19:21:08.150Z,"5 km E of Butte, Montana",quarry blast,0.37,31.61,0.205311352506138,16,reviewed,mb,mb
 2023-06-21T18:58:17.200Z,39.1961667,-123.5163333,-0.41,1.73,md,19,89,0.07332,0.15,nc,nc73903701,2023-06-22T09:26:13.565Z,"21km E of Navarro Head, CA",earthquake,0.24,0.89,0.144,19,reviewed,nc,nc
 2023-06-21T18:57:18.953Z,52.5501,-174.4417,182.875,4.3,mb,65,118,0.219,0.67,us,us7000ka6c,2023-06-21T20:10:30.040Z,"42 km NNW of Atka, Alaska",earthquake,11.49,6.668,0.063,71,reviewed,us,us
-2023-06-21T18:56:01.750Z,39.1953333,-123.5163333,0.77,2.12,md,29,58,0.07261,0.09,nc,nc73903696,2023-06-22T09:13:10.481Z,"21km E of Navarro Head, CA",earthquake,0.13,0.77,0.131,37,reviewed,nc,nc
+2023-06-21T18:56:01.750Z,39.1953333,-123.5163333,0.77,2.12,md,29,58,0.07261,0.09,nc,nc73903696,2023-06-22T10:32:09.996Z,"21km E of Navarro Head, CA",earthquake,0.13,0.77,0.131,37,reviewed,nc,nc
 2023-06-21T18:49:58.380Z,34.5823333,-117.7845,9.75,0.53,ml,6,110,0.05383,0.04,ci,ci40491240,2023-06-21T19:08:45.888Z,"5km SE of Lake Los Angeles, CA",earthquake,0.26,0.43,0.19,4,reviewed,ci,ci
 2023-06-21T18:44:08.520Z,34.2215,-117.4961667,8.07,0.7,ml,10,100,0.01685,0.1,ci,ci40491224,2023-06-21T18:59:24.819Z,"4km S of Lytle Creek, CA",earthquake,0.24,0.5,0.11,4,reviewed,ci,ci
 2023-06-21T18:39:39.032Z,59.6908,-152.4001,61.4,1.1,ml,,,,0.62,ak,ak0237wrdxrj,2023-06-21T18:41:22.175Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -123,7 +125,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T17:43:02.460Z,19.1765003204346,-155.491333007812,31.4300003051758,2.23,ml,45,149,,0.129999995,hv,hv73457497,2023-06-21T19:29:27.040Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.58,0.810000002,2.36,14,automatic,hv,hv
 2023-06-21T17:42:59.470Z,33.494,-116.4805,12.53,0.68,ml,28,63,0.05437,0.15,ci,ci40491152,2023-06-21T18:59:09.342Z,"19km ESE of Anza, CA",earthquake,0.21,0.53,0.095,11,reviewed,ci,ci
 2023-06-21T17:31:29.460Z,33.5038333,-116.5096667,13.74,0.92,ml,45,69,0.07281,0.17,ci,ci40491136,2023-06-21T18:36:32.360Z,"16km ESE of Anza, CA",earthquake,0.18,0.36,0.209,24,reviewed,ci,ci
-2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"80 km NNW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-06-21T17:16:40.051Z,58.2144,-155.0824,0,1.6,ml,,,,0.61,ak,ak0237wqnkrp,2023-06-21T17:18:43.708Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-06-21T17:07:54.310Z,35.613,-117.4413333,6.24,0.31,ml,7,86,0.03144,0.15,ci,ci40491088,2023-06-21T20:56:54.443Z,"18km S of Searles Valley, CA",earthquake,0.39,0.72,0.048,2,reviewed,ci,ci
 2023-06-21T17:02:09.360Z,38.8416667,-122.8258333,1.72,-0.07,md,14,100,0.008141,0.02,nc,nc73903676,2023-06-22T09:05:41.457Z,"9km WNW of Cobb, CA",earthquake,0.34,0.6,0.328,12,reviewed,nc,nc
 2023-06-21T16:37:57.770Z,38.8366661,-122.810997,1.79,1.09,md,20,84,0.01327,0.02,nc,nc73903666,2023-06-21T18:36:15.346Z,"8km WNW of Cobb, CA",earthquake,0.22,0.39,0.08,22,automatic,nc,nc
@@ -191,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T10:59:12.500Z,64.2177,-150.4741,14.8,2,ml,,,,0.71,ak,ak0237wmqp76,2023-06-21T11:01:08.802Z,"62 km W of Clear, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-06-21T10:58:53.990Z,19.037,-67.9611666666667,18.49,3.32,md,8,330,0.7937,0.36,pr,pr71414248,2023-06-21T13:38:54.934Z,"68 km NE of Punta Cana, Dominican Republic",earthquake,13.01,26.22,0.0407920044606154,6,reviewed,pr,pr
 2023-06-21T10:38:41.420Z,40.518,-124.4051667,18.8,1.89,md,25,234,0.06679,0.11,nc,nc73903576,2023-06-22T08:38:10.290Z,"14km WSW of Ferndale, CA",earthquake,0.52,0.35,0.07,15,reviewed,nc,nc
-2023-06-21T10:31:07.859Z,31.65954525,-104.4047254,6.131567383,2,ml,35,70,0.02352077058,0.2,tx,tx2023mbfw,2023-06-21T19:44:05.876Z,"western Texas",earthquake,0.6990019515,0.6225850341,0,6,reviewed,tx,tx
