@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-22T21:43:52.250Z,38.1033,-118.1579,2.1,1.7,ml,10,99.8,0.31,0.1929,nn,nn00861589,2023-06-22T21:46:32.249Z,"32 km S of Mina, Nevada",earthquake,,1.6,0.72,9,automatic,nn,nn
 2023-06-22T21:16:58.340Z,33.1428333,-116.4083333,28.41,0.84,ml,18,128,0.1252,0.33,ci,ci40492336,2023-06-22T21:20:30.509Z,"13km SSW of Borrego Springs, CA",earthquake,1.58,1.35,0.208,13,automatic,ci,ci
 2023-06-22T21:14:07.850Z,33.9056667,-116.7038333,16.48,0.82,ml,21,50,0.06723,0.17,ci,ci40492320,2023-06-22T21:17:35.346Z,"8km E of Cabazon, CA",earthquake,0.28,0.7,0.161,19,automatic,ci,ci
 2023-06-22T21:12:03.583Z,63.8819,-148.7889,110,1,ml,,,,0.5,ak,ak0237ygjq1p,2023-06-22T21:14:48.111Z,"9 km ENE of Healy, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -224,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-21T22:54:33.770Z,18.0058333333333,-66.8236666666667,14.07,2.31,md,8,182,0.2101,0.08,pr,pr71414308,2023-06-21T23:01:02.190Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.4,4.6,0.126932789942722,6,reviewed,pr,pr
 2023-06-21T21:58:10.530Z,38.8133333,-122.8193333,2.87,0.42,md,9,116,0.00889,0.01,nc,nc73903756,2023-06-22T10:06:48.163Z,"7km NW of The Geysers, CA",earthquake,0.69,0.38,0.209,9,reviewed,nc,nc
 2023-06-21T21:54:19.845Z,61.4031,-149.9193,47.3,1.8,ml,,,,0.3,ak,ak0237wt9eu8,2023-06-21T21:56:31.815Z,"5 km NNE of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-06-21T21:47:39.450Z,34.4593333,-117.9588333,8.97,0.84,ml,15,74,0.01075,0.07,ci,ci40491464,2023-06-21T22:31:02.901Z,"7km SW of Pearblossom, CA",earthquake,0.17,0.27,0.178,12,reviewed,ci,ci
-2023-06-21T21:40:48.460Z,33.2688333,-116.4203333,5.05,0.7,ml,22,73,0.002733,0.13,ci,ci40491456,2023-06-21T21:53:29.511Z,"4km WNW of Borrego Springs, CA",earthquake,0.29,0.28,0.093,14,reviewed,ci,ci
