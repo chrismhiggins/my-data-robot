@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-06-29T09:51:31.016Z,64.4125,-150.6701,10.5,0.9,ml,,,,0.75,ak,ak02389ued8t,2023-06-29T09:53:25.360Z,"65 km S of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-06-29T09:47:32.745Z,58.1778,-155.3844,0,-0.1,ml,,,,0.28,ak,ak02389udiii,2023-06-29T09:49:42.061Z,"87 km NW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-06-29T09:33:09.175Z,61.735,-149.474,0,1.1,ml,,,,0.43,ak,ak02389uago5,2023-06-29T09:34:44.305Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-06-29T09:32:35.970Z,33.6333333,-116.7035,16.99,0.53,ml,21,87,0.06419,0.1,ci,ci40498800,2023-06-29T09:36:08.714Z,"9km NNW of Anza, CA",earthquake,0.24,0.55,0.179,14,automatic,ci,ci
@@ -6,14 +7,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-29T09:20:09.841Z,58.1774,-155.235,0,0.4,ml,,,,0.47,ak,ak02389u7oew,2023-06-29T09:22:26.267Z,"Alaska Peninsula",earthquake,,3.8,,,automatic,ak,ak
 2023-06-29T09:15:40.792Z,58.3743,-155.1626,12,0.3,ml,,,,1.68,ak,ak02389u6o3k,2023-06-29T09:17:40.771Z,"Alaska Peninsula",earthquake,,1,,,automatic,ak,ak
 2023-06-29T09:15:39.310Z,38.8193321,-122.8031693,2.42,0.81,md,17,51,0.006749,0.02,nc,nc73906621,2023-06-29T09:35:17.801Z,"6km NW of The Geysers, CA",earthquake,0.29,0.48,0.2,17,automatic,nc,nc
-2023-06-29T09:10:15.190Z,37.9121666,-122.2948303,4.59,2.1,md,46,34,0.04677,0.08,nc,nc73906616,2023-06-29T09:48:05.354Z,"1km W of Kensington, CA",earthquake,0.15,0.35,0.14,32,automatic,nc,nc
+2023-06-29T09:10:15.190Z,37.9121666,-122.2948303,4.59,2.1,md,46,34,0.04677,0.08,nc,nc73906616,2023-06-29T10:09:55.722Z,"1km W of Kensington, CA",earthquake,0.15,0.35,0.14,32,automatic,nc,nc
 2023-06-29T09:00:57.270Z,33.463,-116.5621667,12.58,0.5,ml,15,157,0.04603,0.1,ci,ci40498792,2023-06-29T09:04:29.574Z,"14km SE of Anza, CA",earthquake,0.31,0.48,0.094,8,automatic,ci,ci
 2023-06-29T08:47:13.202Z,58.1933,-155.2819,0,0.1,ml,,,,0.58,ak,ak02389ts1eg,2023-06-29T08:48:16.671Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-06-29T08:38:32.760Z,57.0937,-156.2035,11.9,3.1,ml,,,,0.63,ak,ak02389tq5gs,2023-06-29T08:53:01.040Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
 2023-06-29T08:38:24.740Z,32.4121667,-115.185,3.35,2.06,ml,22,56,0.07358,0.39,ci,ci40498784,2023-06-29T08:42:02.730Z,"6km N of Delta, B.C., MX",earthquake,0.66,1.2,0.163,18,automatic,ci,ci
 2023-06-29T08:24:42.095Z,35.86960983,-98.04782104,4.559867859,1.88,ml,15,82.75839806,0.09742604196,0.3541799248,ok,ok2023mprs,2023-06-29T08:27:39.893Z,"Oklahoma",earthquake,3.350673162,2.745598887,0.26,9,automatic,ok,ok
 2023-06-29T08:19:42.320Z,18.9351666666667,-67.2565,20.05,3.31,md,6,314,0.4851,0.16,pr,pr71415083,2023-06-29T08:34:20.000Z,"Mona Passage",earthquake,1.54,15.92,0.136720239948122,3,reviewed,pr,pr
-2023-06-29T08:17:56.650Z,38.8328323,-122.7993317,2.18,0.27,md,8,98,0.00896,0.01,nc,nc73906611,2023-06-29T08:34:13.429Z,"7km W of Cobb, CA",earthquake,0.47,1.39,0.17,8,automatic,nc,nc
+2023-06-29T08:17:56.650Z,38.8328323,-122.7993317,2.18,0.27,md,8,98,0.00896,0.01,nc,nc73906611,2023-06-29T09:53:17.924Z,"7km W of Cobb, CA",earthquake,0.47,1.39,0.17,8,automatic,nc,nc
 2023-06-29T08:12:44.778Z,39.6478,-119.6618,15.5,1.7,ml,14,72.34,0.193,0.2813,nn,nn00861942,2023-06-29T08:15:08.994Z,"3 km E of Spanish Springs, Nevada",earthquake,,0.7,0.11,7,automatic,nn,nn
 2023-06-29T08:09:00.211Z,2.1386,126.5861,43.738,4.7,mb,56,60,5.891,0.62,us,us6000knub,2023-06-29T08:31:42.040Z,"164 km WNW of Tobelo, Indonesia",earthquake,6.72,6.926,0.055,113,reviewed,us,us
 2023-06-29T07:57:15.798Z,65.1535,-149.1897,10.7,1,ml,,,,0.33,ak,ak02389t8r5n,2023-06-29T07:59:08.477Z,"7 km E of Minto, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -231,7 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-06-28T10:21:28.900Z,36.895668,-121.408165,8.1,2.33,md,52,51,,0.13,nc,nc73906306,2023-06-28T14:13:14.745Z,"6km N of Hollister, CA",earthquake,0.21,0.52,0.11,41,automatic,nc,nc
 2023-06-28T10:17:19.270Z,38.8069992,-122.8146667,3.44,0.72,md,11,106,0.01149,0.01,nc,nc73906301,2023-06-28T10:42:14.485Z,"6km WNW of The Geysers, CA",earthquake,0.42,0.95,0.11,11,automatic,nc,nc
 2023-06-28T10:11:08.310Z,40.3961667,-122.0768333,8.8,2.79,md,33,50,0.1283,0.16,nc,nc73906296,2023-06-28T20:31:12.038Z,"18km W of Manton, CA",earthquake,0.22,0.91,0.203,66,reviewed,nc,nc
-2023-06-28T09:56:59.360Z,33.8308333,-117.6586667,3.71,0.95,ml,34,50,0.05442,0.18,ci,ci40497888,2023-06-28T19:50:11.489Z,"10km WSW of Corona, CA",earthquake,0.21,0.51,0.107,14,reviewed,ci,ci
-2023-06-28T09:54:30.440Z,33.8308333,-117.6613333,3.29,1.81,ml,79,29,0.05508,0.18,ci,ci40497880,2023-06-28T19:10:46.770Z,"10km WSW of Corona, CA",earthquake,0.12,0.19,0.145,64,reviewed,ci,ci
-2023-06-28T09:54:17.460Z,38.8256683,-122.7971649,2.64,1.14,md,26,34,0.01034,0.02,nc,nc73906291,2023-06-28T12:22:15.139Z,"6km W of Cobb, CA",earthquake,0.24,0.38,0.18,22,automatic,nc,nc
-2023-06-28T09:53:45.600Z,33.3131667,-116.7553333,13.2,0.88,ml,39,34,0.07703,0.14,ci,ci40497872,2023-06-28T13:00:38.640Z,"8km N of Lake Henshaw, CA",earthquake,0.18,0.44,0.2,24,reviewed,ci,ci
