@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-07T11:30:15.620Z,33.5535,-116.755,4.47,0.47,ml,16,60,0.01896,0.12,ci,ci39606394,2023-07-07T11:33:47.477Z,"8km W of Anza, CA",earthquake,0.23,0.31,0.144,10,automatic,ci,ci
+2023-07-07T11:30:07.210Z,34.0456667,-116.9445,13.34,0.9,ml,15,231,0.1275,0.29,ci,ci39606386,2023-07-07T11:33:41.818Z,"9km E of Yucaipa, CA",earthquake,1.71,3.13,0.196,9,automatic,ci,ci
 2023-07-07T11:18:49.880Z,33.3613333,-116.248,8.84,0.73,ml,20,125,0.1694,0.18,ci,ci39606370,2023-07-07T11:22:17.746Z,"17km NE of Borrego Springs, CA",earthquake,0.41,1.37,0.185,15,automatic,ci,ci
 2023-07-07T10:59:57.530Z,33.9085,-117.253,8.84,0.67,ml,10,104,0.1325,0.29,ci,ci39606362,2023-07-07T11:03:37.766Z,"2km NNE of March Air Reserve Base, CA",earthquake,0.9,3.07,0.253,6,automatic,ci,ci
 2023-07-07T10:57:09.280Z,38.7874985,-122.7679977,1.01,0.96,md,17,81,0.01462,0.04,nc,nc73909866,2023-07-07T11:16:12.797Z,"2km NW of The Geysers, CA",earthquake,0.24,0.46,0.22,15,automatic,nc,nc
