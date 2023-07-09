@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-09T10:32:43.600Z,33.4813333,-116.5235,7.58,0.43,ml,15,88,0.06711,0.16,ci,ci39608186,2023-07-09T10:36:18.578Z,"16km ESE of Anza, CA",earthquake,0.29,0.92,0.115,9,automatic,ci,ci
 2023-07-09T10:25:34.227Z,60.2947,-141.2384,5.5,2.2,ml,,,,0.84,ak,ak0238qe7pf2,2023-07-09T10:27:22.360Z,"118 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-09T10:18:57.910Z,38.8218346,-122.8221664,2.43,0.71,md,10,119,0.009574,0.07,nc,nc73910641,2023-07-09T10:20:32.533Z,"8km NW of The Geysers, CA",earthquake,0.71,1.19,0.33,10,automatic,nc,nc
+2023-07-09T10:18:57.910Z,38.8218346,-122.8221664,2.43,0.71,md,10,119,0.009574,0.07,nc,nc73910641,2023-07-09T10:35:17.547Z,"8km NW of The Geysers, CA",earthquake,0.71,1.19,0.33,10,automatic,nc,nc
 2023-07-09T10:12:22.027Z,61.5401,-149.8969,34.6,1.1,ml,,,,0.8,ak,ak0238qe4w62,2023-07-09T10:14:26.226Z,"3 km NE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-09T10:12:20.522Z,58.0954,-155.5715,21.6,1.5,ml,,,,0.91,ak,ak0238qe4w1w,2023-07-09T10:14:28.776Z,"88 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-09T10:09:21.525Z,63.0446,-150.3879,103.1,1.7,ml,,,,0.56,ak,ak0238qe48zc,2023-07-09T10:24:19.589Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
