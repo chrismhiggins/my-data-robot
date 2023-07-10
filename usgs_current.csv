@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-10T04:47:20.980Z,38.8481674,-122.8201675,0.38,0.32,md,8,108,0.006943,0.03,nc,nc73911001,2023-07-10T04:48:56.919Z,"9km WNW of Cobb, CA",earthquake,0.38,0.92,0.15,9,automatic,nc,nc
 2023-07-10T04:14:37.435Z,63.8169,-153.3345,0,1.1,ml,,,,0.82,ak,ak0238ry43nj,2023-07-10T04:16:43.680Z,"50 km W of Lake Minchumina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-10T04:10:25.259Z,59.9881,-153.5145,157,2.2,ml,,,,0.44,ak,ak0238ry37vw,2023-07-10T04:12:23.772Z,"39 km NE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-10T03:59:11.590Z,38.8013344,-122.8191681,2.73,0.84,md,7,101,0.01085,0.01,nc,nc73910996,2023-07-10T04:46:12.170Z,"6km WNW of The Geysers, CA",earthquake,0.51,1.78,0.14,6,automatic,nc,nc
@@ -244,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-09T04:58:50.930Z,52.0773333333333,-176.162833333333,14.94,0.69,ml,4,147,,0.12,av,av91954621,2023-07-09T14:36:47.930Z,"39 km NE of Adak, Alaska",earthquake,2.13,1.16,0.198170355831246,5,reviewed,av,av
 2023-07-09T04:58:34.110Z,38.7548332,-122.7354965,0.03,1.4,md,11,138,0.03129,0.05,nc,nc73910476,2023-07-09T08:13:13.730Z,"3km SE of The Geysers, CA",earthquake,0.26,1.21,0.13,10,automatic,nc,nc
 2023-07-09T04:57:31.970Z,38.7488327,-122.7363358,0.99,3.14,ml,65,36,0.007493,0.1,nc,nc73910471,2023-07-09T07:45:15.560Z,"4km SSE of The Geysers, CA",earthquake,0.15,0.26,0.295,13,automatic,nc,nc
-2023-07-09T04:54:16.939Z,61.7661,-151.9389,85.4,0.8,ml,,,,0.88,ak,ak0238qata7x,2023-07-09T04:56:34.428Z,"37 km SW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
