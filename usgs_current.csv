@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-13T08:50:44.680Z,33.3716667,-116.4091667,12.22,1.33,ml,52,42,0.1034,0.21,ci,ci39611578,2023-07-13T08:54:12.424Z,"13km NNW of Borrego Springs, CA",earthquake,0.27,0.82,0.161,26,automatic,ci,ci
+2023-07-13T08:44:27.541Z,63.1766,-151.5315,0,1.4,ml,,,,1.25,ak,ak0238wzaa9u,2023-07-13T08:47:40.974Z,"41 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-13T08:39:57.154Z,58.1951,-155.2893,14.7,0.2,ml,,,,0.5,ak,ak0238wz99z7,2023-07-13T08:41:30.375Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
 2023-07-13T08:35:44.380Z,19.199333190918,-155.384338378906,29.5599994659424,2.11999989,md,42,167,,0.119999997,hv,hv73480332,2023-07-13T08:39:07.060Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.850000024,1.48000002,22,automatic,hv,hv
 2023-07-13T08:32:47.455Z,57.7651,-155.9233,6,1.7,ml,,,,0.57,ak,ak0238wz7r7t,2023-07-13T08:34:42.413Z,"90 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-07-13T08:31:27.560Z,38.8436661,-122.8378296,1.2,0.99,md,19,93,0.00539,0.04,nc,nc73912171,2023-07-13T08:34:09.036Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.48,0.19,19,automatic,nc,nc
+2023-07-13T08:31:27.560Z,38.8436661,-122.8378296,1.2,0.99,md,19,93,0.00539,0.04,nc,nc73912171,2023-07-13T08:50:13.378Z,"10 km NW of The Geysers, CA",earthquake,0.24,0.48,0.19,19,automatic,nc,nc
 2023-07-13T08:31:12.830Z,19.1293334960938,-155.40299987793,31.5599994659424,2.11,ml,46,182,,0.100000001,hv,hv73480327,2023-07-13T08:36:42.600Z,"11 km SE of Pāhala, Hawaii",earthquake,0.61,0.720000029,4.62,4,automatic,hv,hv
+2023-07-13T08:26:40.460Z,17.9875,-66.8366666666667,14.91,2.92,md,25,163,0.04024,0.21,pr,pr71417673,2023-07-13T08:45:52.740Z,"Puerto Rico",earthquake,0.44,0.44,0.0902764981147977,11,reviewed,pr,pr
 2023-07-13T08:15:30.120Z,33.4018333,-116.379,4.88,0.7,ml,17,117,0.1371,0.17,ci,ci39611570,2023-07-13T08:19:02.700Z,"16km N of Borrego Springs, CA",earthquake,0.36,0.93,0.178,14,automatic,ci,ci
 2023-07-13T08:14:58.340Z,38.7874985,-122.7633362,1.79,1,md,9,118,0.01341,0.02,nc,nc73912166,2023-07-13T08:32:12.241Z,"1 km NNW of The Geysers, CA",earthquake,0.4,0.69,0.37,9,automatic,nc,nc
 2023-07-13T08:14:39.995Z,61.343,-151.9955,8.3,0.9,ml,,,,0.31,ak,ak0238wz3vr3,2023-07-13T08:15:56.235Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
