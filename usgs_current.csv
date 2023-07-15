@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T10:03:57.466Z,59.7895,-153.4616,122.9,1.9,ml,,,,0.31,ak,ak02390bb4g0,2023-07-15T10:05:42.033Z,"36 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T10:02:21.400Z,36.6930008,-121.3608322,0.53,2.13,md,31,49,,0.16,nc,nc73913176,2023-07-15T10:10:14.321Z,"11 km SSW of Tres Pinos, CA",earthquake,0.28,0.82,0.11,10,automatic,nc,nc
 2023-07-15T09:49:21.815Z,62.4455,-150.5312,80.4,1.2,ml,,,,1.12,ak,ak02390azh05,2023-07-15T09:51:23.228Z,"13 km ESE of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-07-15T09:39:32.825Z,37.3842,-117.1961,3.2,0.3,ml,8,219.99,0.388,0.4086,nn,nn00862660,2023-07-15T09:42:46.049Z,"36 km S of Goldfield, Nevada",earthquake,,14.1,0.65,4,automatic,nn,nn
 2023-07-15T09:34:52.870Z,33.8693333,-117.757,9.19,0.9,ml,21,47,0.04897,0.19,ci,ci39613514,2023-07-15T09:38:24.536Z,"6km ESE of Yorba Linda, CA",earthquake,0.36,0.8,0.126,14,automatic,ci,ci
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T10:17:32.393Z,61.5087,-146.9326,25.1,1.6,ml,,,,0.45,ak,ak0238ynuq0n,2023-07-14T10:18:51.395Z,"49 km SSE of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-07-14T10:14:38.120Z,33.5363333,-116.681,9.18,0.4,ml,23,46,0.05186,0.1,ci,ci39612514,2023-07-14T19:44:10.901Z,"2km SSW of Anza, CA",earthquake,0.16,0.33,0.142,9,reviewed,ci,ci
 2023-07-14T10:14:35.152Z,64.6392,-150.9991,9.3,1.8,ml,,,,0.46,ak,ak0238ynu32z,2023-07-14T10:16:31.302Z,"43 km SSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-14T10:07:51.656Z,58.2009,-155.3849,0,0.3,ml,,,,0.39,ak,ak0238ynsmcd,2023-07-14T10:09:11.057Z,"89 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
