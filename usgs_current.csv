@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-15T17:23:39.100Z,33.409,-116.4418333,8.69,0.5,ml,14,124,0.1419,0.16,ci,ci39613730,2023-07-15T17:27:13.074Z,"18km NNW of Borrego Springs, CA",earthquake,0.34,1.06,0.11,12,automatic,ci,ci
+2023-07-15T17:21:27.938Z,63.242,-151.5652,6.2,1,ml,,,,0.57,ak,ak02390fky9q,2023-07-15T17:24:12.536Z,"34 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-15T16:41:39.000Z,33.8206667,-116.9951667,12.15,0.9,ml,25,54,0.1124,0.19,ci,ci39613706,2023-07-15T16:45:10.333Z,"5km NW of San Jacinto, CA",earthquake,0.28,0.81,0.136,25,automatic,ci,ci
-2023-07-15T16:39:53.370Z,38.815834,-122.7943344,2.21,1.07,md,18,60,0.007891,0.01,nc,nc73913331,2023-07-15T16:42:37.637Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.45,0.23,16,automatic,nc,nc
-2023-07-15T16:35:49.083Z,59.5452,-152.7404,78.4,1.5,ml,,,,0.26,ak,ak02390f2kbg,2023-07-15T16:37:20.775Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-07-15T16:39:53.370Z,38.815834,-122.7943344,2.21,1.07,md,18,60,0.007891,0.01,nc,nc73913331,2023-07-15T17:22:12.832Z,"5 km NW of The Geysers, CA",earthquake,0.24,0.45,0.23,16,automatic,nc,nc
+2023-07-15T16:35:49.083Z,59.5452,-152.7404,78.4,1.5,ml,,,,0.26,ak,ak02390f2kbg,2023-07-15T16:37:20.775Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-07-15T16:31:18.980Z,36.8028336,-121.5240021,3.18,1.05,md,7,112,,0.05,nc,nc73913321,2023-07-15T17:01:12.725Z,"5 km SSE of San Juan Bautista, CA",earthquake,0.41,0.88,0.28,4,automatic,nc,nc
 2023-07-15T16:29:25.609Z,62.9715,-148.6816,61.6,1.5,ml,,,,0.47,ak,ak02390f187k,2023-07-15T16:30:58.338Z,"48 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-15T16:25:48.640Z,34.0541667,-117.1186667,27.64,1.41,ml,14,149,0.1752,0.29,ci,ci39613690,2023-07-15T16:29:26.995Z,"2km SE of Mentone, CA",earthquake,0.87,1.25,0.353,18,automatic,ci,ci
@@ -230,6 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-14T17:42:30.370Z,38.836,-122.7973333,1.81,0.38,md,19,67,0.005965,0.01,nc,nc73912956,2023-07-14T23:26:59.343Z,"7 km WNW of Cobb, CA",earthquake,0.22,0.44,0.155,18,reviewed,nc,nc
 2023-07-14T17:34:44.200Z,38.8230019,-122.7996674,3.86,0.27,md,7,157,0.01539,0.02,nc,nc73912951,2023-07-14T17:53:18.482Z,"6 km NW of The Geysers, CA",earthquake,0.73,2.21,0.06,8,automatic,nc,nc
 2023-07-14T17:30:20.646Z,39.5065,-119.1723,12.4,0.9,ml,8,108.98,0.262,0.1919,nn,nn00862651,2023-07-15T02:47:48.225Z,"11 km NNE of Silver Springs, Nevada",earthquake,,5.5,0.21,6,reviewed,nn,nn
-2023-07-14T17:24:51.570Z,35.6981667,-117.5198333,8.73,1.29,ml,25,58,0.08492,0.12,ci,ci39612922,2023-07-14T18:06:40.120Z,"13km SW of Searles Valley, CA",earthquake,0.21,0.65,0.114,11,reviewed,ci,ci
-2023-07-14T17:21:46.760Z,33.0406667,-116.0153333,5.6,0.88,ml,11,205,0.1583,0.28,ci,ci39612914,2023-07-14T17:25:14.967Z,"16km SE of Ocotillo Wells, CA",earthquake,1.81,31.61,0.231,9,automatic,ci,ci
-2023-07-14T17:15:34.430Z,36.7856667,-121.5338333,5.46,0.78,md,10,60,0.03274,0.09,nc,nc73912941,2023-07-14T23:34:30.245Z,"7 km S of San Juan Bautista, CA",earthquake,0.34,0.83,0.166,9,reviewed,nc,nc
