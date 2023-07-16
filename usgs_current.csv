@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-16T18:34:22.520Z,19.1389999389648,-155.386840820312,31.9899997711182,2.4,ml,46,181,,0.109999999,hv,hv73483992,2023-07-16T18:39:54.000Z,"11 km SE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.16,22,automatic,hv,hv
 2023-07-16T18:24:59.127Z,65.5987,-149.1239,8.5,1.1,ml,,,,0.77,ak,ak023923qfx4,2023-07-16T18:26:37.335Z,"28 km WNW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-16T18:23:03.804Z,64.8543,-149.0853,12,0.1,ml,,,,0.37,ak,ak023923q3xo,2023-07-16T18:24:13.720Z,"28 km N of Four Mile Road, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-07-16T18:18:38.141Z,-22.9155,-66.6127,213.583,4.4,mb,75,48,1.444,0.89,us,us7000kg6p,2023-07-16T18:35:17.040Z,"96 km WSW of Abra Pampa, Argentina",earthquake,5.32,6.939,0.064,70,reviewed,us,us
@@ -46,7 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-16T13:44:35.575Z,18.4397,-100.8293,75.43,5.1,mww,84,121,1.797,0.8,us,us7000kg5l,2023-07-16T16:39:14.149Z,"10 km N of Santa Teresa, Mexico",earthquake,9.14,6.49,0.098,10,reviewed,us,us
 2023-07-16T13:42:35.246Z,39.3962,-119.7199,4.8,0.2,ml,5,123.85,0.035,0.1093,nn,nn00862768,2023-07-16T14:39:28.507Z,"11 km NNW of Virginia City, Nevada",earthquake,,2,0.14,3,reviewed,nn,nn
 2023-07-16T13:40:18.103Z,55.0132,-157.5961,36.05,3.3,ml,22,217,1.4,0.47,us,us7000kg5i,2023-07-16T16:00:55.040Z,"139 km SE of Perryville, Alaska",earthquake,9.37,24.067,0.085,18,reviewed,us,us
-2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T17:50:59.404Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
+2023-07-16T13:36:38.788Z,39.3942,-119.7142,6.4,2.8,ml,25,58.8,0.039,0.1261,nn,nn00862754,2023-07-16T18:46:47.010Z,"Nevada",earthquake,,0.9,0.32,5,reviewed,nn,nn
 2023-07-16T13:33:22.614Z,39.3944,-119.7186,6.6,0.8,ml,10,124.2,0.036,0.146,nn,nn00862767,2023-07-16T14:36:21.339Z,"11 km NNW of Virginia City, Nevada",earthquake,,1.2,0.16,4,reviewed,nn,nn
 2023-07-16T13:32:24.780Z,33.039,-116.427,8.55,0.7,ml,13,85,0.0684,0.19,ci,ci39614162,2023-07-16T13:51:17.167Z,"17km ESE of Julian, CA",earthquake,0.39,1.25,0.198,6,reviewed,ci,ci
 2023-07-16T13:31:37.560Z,38.8096657,-122.8235016,2.15,0.74,md,7,111,0.004506,0.01,nc,nc73913646,2023-07-16T13:49:13.406Z,"7 km WNW of The Geysers, CA",earthquake,0.54,1.1,0.23,7,automatic,nc,nc
@@ -227,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-15T19:31:50.500Z,34.2918333,-116.8315,5.86,1.08,ml,14,100,0.07956,0.23,ci,ci39613786,2023-07-15T19:46:05.812Z,"4km NNE of Big Bear City, CA",earthquake,0.44,1.11,0.145,24,automatic,ci,ci
 2023-07-15T19:28:48.179Z,57.928,-154.7402,58.1,0.9,ml,,,,0.21,ak,ak02390gtd1t,2023-07-15T19:30:21.908Z,"43 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-07-15T19:28:25.749Z,62.6607,-150.5693,7,1.2,ml,,,,0.44,ak,ak02390gtbbi,2023-07-15T19:30:23.777Z,"20 km NNE of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-07-15T18:40:17.345Z,68.653,-148.1621,0,2,ml,,,,0.96,ak,ak02390gafnq,2023-07-15T18:42:29.186Z,"122 km WNW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-15T18:39:32.960Z,38.786499,-122.7249985,0.89,1.07,md,7,117,0.009726,0.01,nc,nc73913366,2023-07-15T19:15:14.566Z,"3 km ENE of The Geysers, CA",earthquake,0.69,2.44,0.18,7,automatic,nc,nc
-2023-07-15T18:38:00.958Z,56.6536,-156.434,34.4,2.5,ml,,,,0.63,ak,ak02390g9yyn,2023-07-15T20:28:36.040Z,"Alaska Peninsula",earthquake,,1.9,,,automatic,ak,ak
