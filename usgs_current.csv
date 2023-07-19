@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-19T10:58:46.990Z,38.8378334,-122.7828369,1.95,0.71,md,11,74,0.005891,0.01,nc,nc73914536,2023-07-19T11:00:23.444Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.56,0.19,12,automatic,nc,nc
+2023-07-19T10:57:52.510Z,34.026,-116.437,8.65,1.1,ml,36,52,0.05826,0.16,ci,ci39616090,2023-07-19T11:01:39.815Z,"9km NE of Desert Hot Springs, CA",earthquake,0.22,0.59,0.148,26,automatic,ci,ci
 2023-07-19T10:12:28.587Z,-7.9671,-74.3087,137.583,5,mb,68,95,4.71,0.48,us,us7000kgth,2023-07-19T10:27:17.040Z,"52 km NNE of Pucallpa, Peru",earthquake,10.56,7.346,0.049,134,reviewed,us,us
 2023-07-19T10:11:37.005Z,12.8349,-88.1827,79.6,4.7,mb,122,167,0.645,0.74,us,us7000kgtg,2023-07-19T10:41:34.863Z,"42 km SSW of Intipucá, El Salvador",earthquake,9.7,9.946,0.041,178,reviewed,us,us
 2023-07-19T10:07:42.160Z,58.2901,-155.2302,13.2,0.9,ml,,,,1.27,ak,ak02396xhbtb,2023-07-19T10:10:28.514Z,"Alaska Peninsula",earthquake,,0.2,,,automatic,ak,ak
@@ -75,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-19T00:42:33.835Z,59.3574,-152.6683,72,1.6,ml,,,,0.56,ak,ak02396rqhg7,2023-07-19T00:45:02.868Z,"42 km W of Nanwalek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-07-19T00:22:18.638Z,67.3569,-156.1456,0,2.2,ml,,,,0.77,ak,ak02396rm5xs,2023-07-19T00:25:16.798Z,"59 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-19T00:22:07.747Z,12.814,-88.1265,69.727,6.5,mww,92,40,0.679,1.32,us,us7000kgpb,2023-07-19T08:17:32.849Z,"43 km S of Intipucá, El Salvador",earthquake,6.05,5.085,0.05,38,reviewed,us,us
-2023-07-19T00:10:31.916Z,38.6861,-119.5471,3.5,1.6,ml,11,91.64,0.102,0.2408,nn,nn00862946,2023-07-19T00:12:54.729Z,"California-Nevada border region",earthquake,,0.8,0.09,7,automatic,nn,nn
+2023-07-19T00:10:31.916Z,38.6861,-119.5471,3.5,1.6,ml,11,91.64,0.102,0.2408,nn,nn00862946,2023-07-19T00:12:54.729Z,"1 km SSW of Topaz Lake, Nevada",earthquake,,0.8,0.09,7,automatic,nn,nn
 2023-07-18T23:47:27.703Z,62.1765,-145.471,31.4,1.3,ml,,,,0.23,ak,ak02395hx5z6,2023-07-18T23:48:59.948Z,"Central Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-07-18T23:36:43.063Z,60.5046,-152.0502,79.2,1.4,ml,,,,0.48,ak,ak02395huuaa,2023-07-18T23:38:41.213Z,"41 km WSW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-18T23:29:33.480Z,38.8161659,-122.796669,2.78,1.12,md,6,110,0.008255,0.02,nc,nc73914391,2023-07-19T02:41:14.872Z,"6 km NW of The Geysers, CA",earthquake,0.8,1.34,0.13,7,automatic,nc,nc
@@ -166,5 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-18T11:33:59.427Z,62.9407,-150.8316,27.8,1.2,ml,,,,1.02,ak,ak02395ap152,2023-07-18T11:36:02.919Z,"49 km N of Petersville, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2023-07-18T11:23:13.730Z,38.8223333,-122.8001667,3.28,0.45,md,23,50,0.01484,0.03,nc,nc73914261,2023-07-18T22:06:15.588Z,"6 km NW of The Geysers, CA",earthquake,0.19,0.28,0.154,18,reviewed,nc,nc
 2023-07-18T11:06:32.887Z,54.6246,-160.7377,35,4.4,mb,79,148,0.742,1.06,us,us7000kgjj,2023-07-18T19:43:42.892Z,"Alaska Peninsula",earthquake,6.59,1.918,0.066,66,reviewed,us,us
-2023-07-18T10:59:09.447Z,61.0681,-152.4666,24.3,0.7,ml,,,,0.88,ak,ak02395a92ao,2023-07-18T11:01:11.879Z,"71 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-18T10:53:54.274Z,37.071,-116.1968,5.1,0.6,ml,32,48.95,0.071,0.139,nn,nn00862912,2023-07-18T23:02:03.851Z,"53 km ENE of Beatty, Nevada",earthquake,,1.4,0.25,21,reviewed,nn,nn
