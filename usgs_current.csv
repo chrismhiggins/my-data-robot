@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-23T15:33:11.082Z,63.0184,-149.1733,73.9,0.8,ml,,,,0.23,ak,ak0239dmreas,2023-07-23T15:34:43.749Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-07-23T15:22:13.550Z,19.3899993896484,-155.275665283203,0.800000011920929,2.66,ml,36,51,,0.189999998,hv,hv73494227,2023-07-23T15:27:44.030Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.230000004,2.72,24,automatic,hv,hv
 2023-07-23T15:05:15.307Z,64.9652,-149.7203,18.9,0.6,ml,,,,0.2,ak,ak0239dmlekq,2023-07-23T15:07:40.847Z,"27 km SW of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-07-23T15:03:21.175Z,63.2749,-151.0223,8.5,1,ml,,,,0.81,ak,ak0239dmkzlc,2023-07-23T15:06:02.486Z,"45 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -175,4 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-22T15:58:14.700Z,33.3101667,-116.2565,0.76,1.02,ml,33,62,0.1172,0.27,ci,ci39619362,2023-07-22T16:02:03.506Z,"13km ENE of Borrego Springs, CA",earthquake,0.49,31.61,0.174,21,automatic,ci,ci
 2023-07-22T15:57:37.214Z,60.8686,-146.9842,18.7,1.1,ml,,,,0.88,ak,ak0239bzd8ys,2023-07-22T15:59:31.005Z,"16 km W of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-22T15:47:08.860Z,37.7098351,-122.1190033,4.99,2.21,md,56,27,0.0143,0.1,nc,nc73915551,2023-07-22T18:37:46.883Z,"3 km N of San Lorenzo, CA",earthquake,0.14,0.33,0.14,36,automatic,nc,nc
-2023-07-22T15:40:28.450Z,19.4204998016357,-155.27783203125,-0.779999971389771,2.04,ml,18,77,,0.180000007,hv,hv73492612,2023-07-22T15:45:58.300Z,"5 km WSW of Volcano, Hawaii",earthquake,0.15,0.239999995,0.5,9,automatic,hv,hv
