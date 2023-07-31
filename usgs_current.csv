@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T02:55:42.810Z,38.7781677,-122.7421646,2.21,0.78,md,13,74,0.01988,0.03,nc,nc73918556,2023-07-31T02:57:15.539Z,"1 km E of The Geysers, CA",earthquake,0.35,0.86,0.09,11,automatic,nc,nc
+2023-07-31T02:54:56.885Z,58.1984,-155.279,1.1,0.1,ml,,,,0.93,ak,ak0239qng4yg,2023-07-31T02:57:24.315Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
+2023-07-31T02:54:03.740Z,35.595,-118.1045,18.57,1.01,ml,6,136,0.2249,0.09,ci,ci39625882,2023-07-31T02:57:43.472Z,"27 km WSW of Inyokern, CA",earthquake,0.57,2.62,0.199,9,automatic,ci,ci
 2023-07-31T02:48:28.120Z,38.8105011,-122.7815018,1.17,0.76,md,10,95,0.002827,0.01,nc,nc73918551,2023-07-31T02:50:06.030Z,"4 km NNW of The Geysers, CA",earthquake,0.36,0.68,0.1,11,automatic,nc,nc
-2023-07-31T02:46:39.700Z,40.3398323,-124.2323303,25.71,2.28,md,14,147,0.04355,0.08,nc,nc73918546,2023-07-31T02:48:15.491Z,"5 km ENE of Petrolia, CA",earthquake,0.94,1.38,0.01,7,automatic,nc,nc
+2023-07-31T02:46:39.700Z,40.3398323,-124.2323303,25.71,2.28,md,14,147,0.04355,0.08,nc,nc73918546,2023-07-31T03:08:09.852Z,"5 km ENE of Petrolia, CA",earthquake,0.94,1.38,0.01,7,automatic,nc,nc
 2023-07-31T02:43:19.750Z,19.4238338470459,-155.273330688477,0.0700000002980232,1.95,ml,15,96,,0.119999997,hv,hv73504277,2023-07-31T02:48:50.530Z,"4 km WSW of Volcano, Hawaii",earthquake,0.17,0.239999995,0.24,6,automatic,hv,hv
 2023-07-31T02:18:49.650Z,33.3045,-116.2798333,9.64,1.01,ml,33,53,0.1136,0.23,ci,ci39625866,2023-07-31T02:22:28.312Z,"10 km ENE of Borrego Springs, CA",earthquake,0.33,0.88,0.177,24,automatic,ci,ci
 2023-07-31T02:16:03.995Z,-20.3578,-177.4589,397.969,4.5,mb,24,153,2.26,0.92,us,us6000kwsa,2023-07-31T02:28:20.040Z,"241 km WNW of Houma, Tonga",earthquake,13.39,14.642,0.111,24,reviewed,us,us
@@ -96,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T14:03:27.730Z,19.4701671600342,-155.888168334961,9.19999980926514,2.17,ml,34,128,,0.219999999,hv,hv73503552,2023-07-30T19:03:28.792Z,"2 km WNW of Honaunau-Napoopoo, Hawaii",earthquake,0.84,0.5,3.8,5,automatic,hv,hv
 2023-07-30T13:57:26.010Z,33.6686667,-116.7645,13.84,0.89,ml,36,57,0.05965,0.18,ci,ci39625610,2023-07-30T14:15:31.110Z,"9 km SSW of Idyllwild, CA",earthquake,0.24,0.4,0.173,26,reviewed,ci,ci
 2023-07-30T13:54:41.037Z,61.311,-152.5109,10.3,1.4,ml,,,,0.14,ak,ak0239p6giw7,2023-07-30T13:55:52.857Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-30T13:49:04.320Z,37.2561667,-121.6323333,5.88,3.61,mw,141,34,0.03266,0.09,nc,nc73918291,2023-07-31T01:57:05.236Z,"14 km N of Morgan Hill, CA",earthquake,0.08,0.17,,6,reviewed,nc,nc
+2023-07-30T13:49:04.320Z,37.2561667,-121.6323333,5.88,3.61,mw,141,34,0.03266,0.09,nc,nc73918291,2023-07-31T03:04:06.194Z,"14 km N of Morgan Hill, CA",earthquake,0.08,0.17,,6,reviewed,nc,nc
 2023-07-30T13:48:58.520Z,36.456,-89.5308333333333,8.87,1.94,md,28,35,0.06759,0.07,nm,nm60540321,2023-07-30T15:20:02.670Z,"10 km NNW of Tiptonville, Tennessee",earthquake,0.43,0.6,0.058940284020365,21,reviewed,nm,nm
 2023-07-30T13:43:01.028Z,68.6604,-148.4505,0,2.2,ml,,,,0.83,ak,ak0239p6e2xi,2023-07-30T13:45:47.127Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-07-30T13:37:43.239Z,58.1742,-155.3887,1.1,0.2,ml,,,,0.69,ak,ak0239p6cvw3,2023-07-30T13:47:30.385Z,"87 km NW of Karluk, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -207,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-07-30T03:48:24.260Z,38.8263321,-122.8544998,2.48,0.92,md,20,93,0.002214,0.01,nc,nc73918136,2023-07-30T06:23:14.601Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.19,21,automatic,nc,nc
 2023-07-30T03:44:19.260Z,38.8338318,-122.8050003,2.19,0.53,md,11,64,0.01115,0.02,nc,nc73918126,2023-07-30T05:56:11.461Z,"7 km W of Cobb, CA",earthquake,0.41,1.17,0.38,11,automatic,nc,nc
 2023-07-30T03:38:26.531Z,65.4358,-144.7724,1.1,2.2,ml,,,,0.77,ak,ak0239p0eq9p,2023-07-30T03:40:46.053Z,"15 km S of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-07-30T03:06:51.219Z,60.0221,-151.5126,77,1.2,ml,,,,0.71,ak,ak0239p07x9d,2023-07-30T03:08:18.031Z,"9 km ESE of Ninilchik, Alaska",earthquake,,1.7,,,automatic,ak,ak
