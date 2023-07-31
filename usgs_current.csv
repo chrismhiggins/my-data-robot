@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-07-31T14:47:48.730Z,33.9514999,-116.8345032,16.31,0.98,ml,17,68,0.08634,0.17,ci,ci39626106,2023-07-31T14:49:53.562Z,"5 km NE of Banning, CA",earthquake,0.54,0.94,0.283,7,automatic,ci,ci
 2023-07-31T14:07:50.463Z,58.1786,-155.3967,1.1,-0.1,ml,,,,0.61,ak,ak0239qub92e,2023-07-31T14:09:37.351Z,"87 km NW of Karluk, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-07-31T14:05:48.007Z,60.9612,-152.2758,105.1,1.4,ml,,,,0.41,ak,ak0239quatg0,2023-07-31T14:08:06.529Z,"61 km WNW of Nikiski, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-07-31T13:55:49.457Z,60.3377,-143.4923,3.7,1.1,ml,,,,0.56,ak,ak0239qu03ue,2023-07-31T14:04:01.809Z,"125 km SSW of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
