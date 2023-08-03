@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-03T16:41:09.170Z,35.2508316,-118.5031662,7.93,1.62,ml,13,72,0.07857,0.08,ci,ci40528912,2023-08-03T16:43:26.607Z,"14 km NNW of Tehachapi, CA",earthquake,0.37,0.84,0.189,2,automatic,ci,ci
+2023-08-03T16:04:36.170Z,44.285,-114.8,10.39,1.94,ml,5,102,0.7743,0.08,mb,mb90023393,2023-08-03T16:38:23.450Z,"13 km NE of Stanley, Idaho",earthquake,0.44,1.32,0.295779812782477,5,reviewed,mb,mb
 2023-08-03T15:58:26.450Z,58.8812,-153.9336,13,1.2,ml,,,,0.5,ak,ak0239vttlth,2023-08-03T16:00:05.729Z,"78 km SE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-03T15:54:51.538Z,63.5335,-147.6569,17.1,1.1,ml,,,,0.33,ak,ak0239vtssw1,2023-08-03T15:56:30.269Z,"66 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-03T15:51:03.760Z,34.0231667,-117.1231667,12.28,0.91,ml,34,89,0.01518,0.18,ci,ci40528864,2023-08-03T16:13:33.072Z,"5 km SSE of Mentone, CA",earthquake,0.26,0.46,0.039,9,reviewed,ci,ci
@@ -220,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-02T17:24:21.460Z,38.836834,-122.8031693,1.73,0.7,md,9,73,0.01014,0.01,nc,nc73919441,2023-08-02T19:36:14.314Z,"7 km WNW of Cobb, CA",earthquake,0.39,0.72,0.17,9,automatic,nc,nc
 2023-08-02T17:23:10.200Z,44.6556667,-110.0225,13.4,0.83,md,7,109,0.1046,0.06,uu,uu60546882,2023-08-02T17:36:22.490Z,"39 km S of Silver Gate, Montana",earthquake,0.49,0.89,0.1,5,reviewed,uu,uu
 2023-08-02T16:47:43.480Z,44.7185,-111.021,9.4,0.68,ml,14,78,0.04217,0.16,uu,uu60546862,2023-08-02T17:11:11.340Z,"9 km NE of West Yellowstone, Montana",earthquake,0.46,0.94,0.082,2,reviewed,uu,uu
-2023-08-02T16:40:48.340Z,36.2313333,-120.7968333,7.22,0.87,md,19,141,0.01581,0.09,nc,nc73919431,2023-08-02T20:49:11.713Z,"23 km ENE of San Lucas, CA",earthquake,0.46,0.29,0.245,12,reviewed,nc,nc
-2023-08-02T16:40:39.210Z,46.9056666666667,-112.596666666667,10.79,0.72,ml,9,111,0.04575,0.08,mb,mb90023318,2023-08-02T17:39:20.990Z,"8 km SE of Lincoln, Montana",earthquake,0.34,0.48,0.123845898969488,5,reviewed,mb,mb
