@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-06T13:57:46.880Z,33.7198334,-116.9181671,14.38,1.18,ml,20,55,0.03301,0.23,ci,ci40530824,2023-08-06T13:59:52.255Z,"4 km SW of Valle Vista, CA",earthquake,0.54,0.81,0.409,4,automatic,ci,ci
+2023-08-06T13:55:33.767Z,61.3589,-151.3748,72.9,1.4,ml,,,,0.75,ak,ak023a0r85i8,2023-08-06T13:57:49.223Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-06T13:43:37.530Z,36.0308333,-117.8086667,0.43,1.01,ml,7,104,0.04824,0.15,ci,ci40530808,2023-08-06T13:47:04.641Z,"13 km E of Coso Junction, CA",earthquake,0.55,0.61,0.059,5,automatic,ci,ci
 2023-08-06T13:34:03.500Z,19.1518325805664,-155.362670898438,27.3199996948242,2.33,ml,50,182,,0.129999995,hv,hv73512397,2023-08-06T13:42:32.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.55,0.74000001,3.58,24,automatic,hv,hv
 2023-08-06T13:31:29.060Z,31.5281667,-115.6221667,8.9,2.12,ml,8,100,0.1942,0.27,ci,ci40530792,2023-08-06T13:34:56.286Z,"89 km SSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.7,4.28,0.169,6,automatic,ci,ci
 2023-08-06T13:23:13.960Z,36.5287,70.9295,75.733,5.2,mb,135,57,2.51,0.67,us,us6000ky9w,2023-08-06T13:39:47.040Z,"Hindu Kush region, Afghanistan",earthquake,6.73,6.404,0.042,183,reviewed,us,us
-2023-08-06T13:11:17.991Z,61.1956,-150.7385,14.7,2.2,ml,,,,0.44,ak,ak023a0qyos7,2023-08-06T13:12:42.710Z,"19 km ENE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-08-06T13:11:17.991Z,61.1956,-150.7385,14.7,2.2,ml,,,,0.44,ak,ak023a0qyos7,2023-08-06T13:51:32.040Z,"19 km ENE of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-06T13:08:37.860Z,38.8235016,-122.8068314,2.58,1.07,md,22,49,0.002535,0.02,nc,nc73921036,2023-08-06T13:25:11.122Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.48,0.17,23,automatic,nc,nc
 2023-08-06T13:00:23.906Z,66.1518,-147.5699,0,1.4,ml,,,,0.67,ak,ak023a0qwcd2,2023-08-06T13:02:38.201Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-08-06T12:36:21.808Z,-21.591,-178.3961,413.498,4.4,mb,41,90,3.005,0.97,us,us6000ky9s,2023-08-06T12:55:08.040Z,"Fiji region",earthquake,11.26,7.203,0.046,133,reviewed,us,us
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T12:18:48.730Z,61.2865,-152.4365,0,1.4,ml,,,,0.96,ak,ak023a0qetgl,2023-08-06T12:20:27.965Z,"74 km WNW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-08-06T12:12:33.420Z,38.7943344,-122.8088303,2.82,1.28,md,27,76,0.007501,0.04,nc,nc73921026,2023-08-06T13:11:12.047Z,"5 km WNW of The Geysers, CA",earthquake,0.24,0.43,0.14,28,automatic,nc,nc
 2023-08-06T12:05:34.450Z,38.8300018,-122.8051682,1.39,0.71,md,9,109,0.007629,0.01,nc,nc73921021,2023-08-06T12:33:12.851Z,"7 km W of Cobb, CA",earthquake,0.4,0.88,0.28,10,automatic,nc,nc
-2023-08-06T12:05:33.525Z,36.9973,-114.9608,16,1.2,ml,11,326.12,0.863,0.5137,nn,nn00864041,2023-08-06T12:07:55.879Z,"Nevada",earthquake,,7.3,0.21,6,automatic,nn,nn
+2023-08-06T12:05:33.525Z,36.9973,-114.9608,16,1.2,ml,11,326.12,0.863,0.5137,nn,nn00864041,2023-08-06T12:07:55.879Z,"44 km SSE of Alamo, Nevada",earthquake,,7.3,0.21,6,automatic,nn,nn
 2023-08-06T12:04:11.850Z,38.5066681,-122.5975037,8.45,1.55,md,10,196,0.1103,0.04,nc,nc73921016,2023-08-06T13:37:13.188Z,"8 km S of Calistoga, CA",earthquake,0.79,1.9,0.25,10,automatic,nc,nc
 2023-08-06T11:52:37.069Z,38.1546,-117.9083,9.9,1.5,ml,11,120.97,0.075,0.2746,nn,nn00864039,2023-08-06T11:55:35.878Z,"31 km SE of Mina, Nevada",earthquake,,0.4,0.36,7,automatic,nn,nn
 2023-08-06T11:50:03.985Z,61.4739,-151.8244,84.7,1.4,ml,,,,0.49,ak,ak023a0q05f2,2023-08-06T11:52:04.281Z,"54 km NW of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -155,6 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-05T14:19:33.710Z,36.3953333,-117.8813333,-0.24,1.77,ml,15,116,0.2656,0.16,ci,ci40530312,2023-08-05T14:23:02.902Z,"17 km NE of Olancha, CA",earthquake,0.53,2.18,0.199,11,automatic,ci,ci
 2023-08-05T14:18:14.970Z,37.5063333,-118.8545,6.96,0.73,md,17,163,0.08595,0.04,nc,nc73920666,2023-08-05T19:50:45.907Z,"17 km WSW of Toms Place, CA",earthquake,0.75,1.28,0.132,12,reviewed,nc,nc
 2023-08-05T14:10:22.164Z,52.3881,-31.8157,10,5.3,mww,239,24,11.505,0.71,us,us6000ky40,2023-08-05T15:18:04.040Z,"northern Mid-Atlantic Ridge",earthquake,9.23,1.737,0.04,59,reviewed,us,us
-2023-08-05T13:58:47.334Z,39.6226,-119.6512,8.7,1,ml,10,73.09,0.183,0.2926,nn,nn00864008,2023-08-05T14:00:41.750Z,"Nevada",earthquake,,1.4,0.27,5,automatic,nn,nn
-2023-08-05T13:53:29.590Z,33.4611667,-116.5771667,9.46,0.96,ml,33,77,0.03945,0.17,ci,ci40530296,2023-08-05T13:57:09.697Z,"14 km SE of Anza, CA",earthquake,0.23,0.55,0.163,26,automatic,ci,ci
-2023-08-05T13:53:29.510Z,33.4611664,-116.5759964,10.04,1.09,ml,40,77,0.03998,0.2,ci,ci40530304,2023-08-05T13:55:42.340Z,"14 km SE of Anza, CA",earthquake,0.29,0.65,0.197,13,automatic,ci,ci
