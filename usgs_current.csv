@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-07T14:22:57.220Z,62.9794,-150.6348,93.3,1.4,ml,,,,0.2,ak,ak023a2f5wsa,2023-08-07T14:24:55.848Z,"54 km N of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-08-07T14:19:25.040Z,33.8518333,-117.1806667,23.25,1.44,ml,12,74,0.1997,0.34,ci,ci40531168,2023-08-07T14:23:01.846Z,"6 km NNW of Nuevo, CA",earthquake,1.09,3.77,0.371,18,automatic,ci,ci
 2023-08-07T14:15:30.920Z,38.8243332,-122.7893295,1.2,0.29,md,8,110,0.01408,0.01,nc,nc73921456,2023-08-07T14:17:04.520Z,"6 km W of Cobb, CA",earthquake,0.5,1.17,0.14,9,automatic,nc,nc
 2023-08-07T14:05:45.110Z,38.8144989,-122.8160019,2.86,1.08,md,20,53,0.01002,0.01,nc,nc73921451,2023-08-07T14:07:21.137Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.56,0.15,20,automatic,nc,nc
 2023-08-07T14:01:44.800Z,38.8354988,-122.8096695,1.65,0.64,md,11,97,0.01209,0.03,nc,nc73921446,2023-08-07T14:03:19.384Z,"8 km WNW of Cobb, CA",earthquake,0.32,1.31,0.34,12,automatic,nc,nc
@@ -151,7 +153,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-06T14:32:30.952Z,-19.5764,-172.9671,10,4.5,mb,12,172,1.326,0.38,us,us6000kyac,2023-08-06T14:49:28.040Z,"143 km E of Fangale’ounga, Tonga",earthquake,9.71,1.958,0.181,9,reviewed,us,us
 2023-08-06T14:30:22.210Z,17.9753333333333,-66.8415,15.92,1.95,md,6,201,0.193,0.13,pr,pr71420663,2023-08-06T15:35:17.500Z,"3 km SW of Indios, Puerto Rico",earthquake,0.73,3.13,0.0427505148887413,5,reviewed,pr,pr
 2023-08-06T14:29:09.570Z,34.1186667,-117.4701667,6.76,0.64,ml,21,95,0.05792,0.16,ci,ci40530840,2023-08-06T16:21:39.733Z,"3 km NNW of Fontana, CA",earthquake,0.29,0.5,0.171,4,reviewed,ci,ci
-2023-08-06T14:27:37.841Z,61.2977,-152.6102,0,2,ml,,,,0.7,ak,ak023a0rnldk,2023-08-06T14:29:30.326Z,"83 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-08-06T14:26:31.470Z,67.8755,-18.3422,10,4.6,mb,43,52,2.92,0.66,us,us6000kya7,2023-08-06T14:43:04.040Z,"193 km N of Siglufjörður, Iceland",earthquake,7.91,1.906,0.098,31,reviewed,us,us
-2023-08-06T14:25:10.235Z,-55.6361,-27.0296,34.234,5.1,mb,46,95,5.616,0.68,us,us6000kya8,2023-08-06T14:40:10.040Z,"South Sandwich Islands region",earthquake,11.1,5.739,0.078,53,reviewed,us,us
-2023-08-06T14:17:52.981Z,-55.7194,-27.0998,29.729,5.7,mww,78,67,5.592,0.77,us,us6000kya4,2023-08-06T16:23:09.961Z,"South Sandwich Islands region",earthquake,10.93,5.369,0.098,10,reviewed,us,us
