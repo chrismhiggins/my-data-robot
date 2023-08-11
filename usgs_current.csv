@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-11T05:36:49.710Z,35.112,-119.0858333,16.89,1.35,ml,17,77,0.2244,0.33,ci,ci40533968,2023-08-11T05:40:24.717Z,"23 km SW of Lamont, CA",earthquake,0.68,2.92,0.114,18,automatic,ci,ci
 2023-08-11T05:32:33.620Z,58.3444,-153.6878,54.2,2,ml,,,,0.3,ak,ak023a8w0hnm,2023-08-11T05:34:09.070Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-08-11T05:29:05.159Z,60.9281,-150.9177,21.4,1.1,ml,,,,0.19,ak,ak023a8vzsb7,2023-08-11T05:31:14.951Z,"Kenai Peninsula, Alaska",earthquake,,10.9,,,automatic,ak,ak
 2023-08-11T05:16:27.325Z,61.5354,-149.8739,34.2,1.7,ml,,,,0.45,ak,ak023a8vx1po,2023-08-11T05:18:42.738Z,"4 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -49,7 +50,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-11T00:10:10.450Z,19.4850006103516,-155.485336303711,1.21000003814697,2.34,ml,25,49,,0.200000003,hv,hv73519087,2023-08-11T00:15:41.850Z,"26 km W of Volcano, Hawaii",earthquake,0.44,2.03999996,0.16,4,automatic,hv,hv
 2023-08-11T00:04:05.811Z,61.5194,-149.9021,32.3,1.4,ml,,,,0.63,ak,ak023a8sv9fp,2023-08-11T00:06:16.238Z,"2 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-10T23:59:09.885Z,-0.1117,97.2974,10,4.6,mb,31,238,1.433,0.49,us,us6000kz5p,2023-08-11T00:53:43.040Z,"Kepulauan Batu, Indonesia",earthquake,5.99,1.97,0.114,23,reviewed,us,us
-2023-08-10T23:53:19.537Z,-40.1882,173.5724,183.847,5.1,mww,74,38,1.019,1.21,us,us6000kz5m,2023-08-11T03:25:20.684Z,"84 km SSW of Opunake, New Zealand",earthquake,6.36,4.806,0.069,20,reviewed,us,us
+2023-08-10T23:53:19.537Z,-40.1882,173.5724,183.847,5.1,mww,74,38,1.019,1.21,us,us6000kz5m,2023-08-11T05:36:09.542Z,"84 km SSW of Opunake, New Zealand",earthquake,6.36,4.806,0.069,20,reviewed,us,us
 2023-08-10T23:50:58.640Z,36.117,-117.8715,3.29,1.88,ml,25,123,0.01349,0.12,ci,ci40533816,2023-08-11T00:31:10.916Z,"11 km NE of Coso Junction, CA",earthquake,0.24,0.3,0.342,10,reviewed,ci,ci
 2023-08-10T23:50:32.850Z,36.1221667,-117.8858333,2.92,1.7,ml,23,126,0.02549,0.12,ci,ci40533808,2023-08-11T00:27:26.382Z,"10 km NNE of Coso Junction, CA",earthquake,0.26,0.35,0.312,15,reviewed,ci,ci
 2023-08-10T23:41:03.050Z,46.207,-123.03383333333333,-0.5,1.45,ml,20,65,0.1252,0.32,uw,uw61940267,2023-08-11T00:43:51.270Z,"5 km NNW of West Longview, Washington",explosion,0.57,31.61,0.2347661723867942,11,reviewed,uw,uw
