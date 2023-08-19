@@ -249,5 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-18T05:01:46.740Z,19.3758335113525,-155.287170410156,2.00999999046326,1.98,ml,18,93,,0.119999997,hv,hv73532197,2023-08-18T05:07:17.820Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.300000012,0.19,5,automatic,hv,hv
 2023-08-18T04:58:45.050Z,62.0211,-147.9235,31.4,1.2,ml,,,,0.69,ak,ak023akgc309,2023-08-18T05:00:24.968Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-18T04:57:07.830Z,33.9863333,-116.8331667,12.83,0.91,ml,35,46,0.05306,0.13,ci,ci39643426,2023-08-18T18:28:15.457Z,"8 km NNE of Banning, CA",earthquake,0.19,0.51,0.117,24,reviewed,ci,ci
-2023-08-18T04:43:29.814Z,60.0145,-152.9236,98.1,1.7,ml,,,,0.9,ak,ak023akg8u34,2023-08-18T04:46:24.639Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-18T04:37:05.050Z,36.1456667,-118.1871667,4.42,1.98,ml,21,134,0.2705,0.12,ci,ci39643418,2023-08-18T18:21:41.524Z,"22 km SW of Olancha, CA",earthquake,0.23,2.11,0.179,16,reviewed,ci,ci
