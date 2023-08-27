@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-08-27T15:15:49.380Z,61.0434,-151.0733,57.2,1.4,ml,,,,0.38,ak,ak023azigrne,2023-08-27T15:17:21.558Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-08-27T15:08:42.457Z,63.0047,-150.9429,107.1,1.6,ml,,,,0.46,ak,ak023azif93p,2023-08-27T15:11:12.251Z,"57 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-08-27T14:58:10.790Z,35.7875,-117.638,12.98,0.64,ml,8,159,0.1053,0.22,ci,ci39652442,2023-08-27T15:01:37.131Z,"19 km N of Ridgecrest, CA",earthquake,0.78,2.03,0.09,4,automatic,ci,ci
 2023-08-27T14:46:03.510Z,34.0336667,-117.2401667,17.54,1.31,ml,54,36,0.09382,0.26,ci,ci39652426,2023-08-27T14:49:42.504Z,"2 km SE of Loma Linda, CA",earthquake,0.29,0.61,0.16,26,automatic,ci,ci
 2023-08-27T14:43:38.930Z,33.6595,-116.72,15.05,0.51,ml,19,59,0.05488,0.21,ci,ci39652418,2023-08-27T14:47:09.177Z,"9 km S of Idyllwild, CA",earthquake,0.55,0.76,0.064,12,automatic,ci,ci
@@ -192,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-26T15:48:07.014Z,59.9082,-152.3854,91.1,2,ml,,,,0.31,ak,ak023axv4eil,2023-08-26T15:50:03.967Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-26T15:26:20.990Z,19.3985004425049,-155.279495239258,-0.239999994635582,1.80999994,md,11,115,,0.170000002,hv,hv73545702,2023-08-26T15:29:14.090Z,"6 km SW of Volcano, Hawaii",earthquake,0.33,0.280000001,1.01999998,7,automatic,hv,hv
 2023-08-26T15:26:19.160Z,19.3666667938232,-155.300003051758,0.550000011920929,1.84,ml,27,102,,0.270000011,hv,hv73545707,2023-08-26T15:31:54.920Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.600000024,0.33,9,automatic,hv,hv
-2023-08-26T15:19:12.350Z,33.8578333,-116.9338333,0.92,0.29,ml,7,152,0.07437,0.17,ci,ci39651826,2023-08-26T15:22:44.065Z,"8 km NNE of San Jacinto, CA",earthquake,0.61,0.96,0.163,4,automatic,ci,ci
-2023-08-26T15:14:49.450Z,19.1891,-67.2208,44,3.74,md,21,208,0.7299,0.38,pr,pr2023238000,2023-08-26T20:42:31.723Z,"78 km N of San Antonio, Puerto Rico",earthquake,1.86,7.83,0.09,17,reviewed,pr,pr
-2023-08-26T15:14:39.443Z,61.5098,-141.0496,2.6,1.4,ml,,,,1.48,ak,ak023axux6iz,2023-08-26T15:17:17.280Z,"100 km E of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
