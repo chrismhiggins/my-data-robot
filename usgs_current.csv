@@ -17,6 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-30T05:49:06.371Z,39.3506,-120.0025,3.6,0.9,ml,9,127.67,0.063,0.2174,nn,nn00865265,2023-08-30T05:51:41.498Z,"5 km SSE of Floriston, California",earthquake,,1.1,0.46,6,automatic,nn,nn
 2023-08-30T05:45:04.184Z,39.3501,-120.0087,3.5,0.9,ml,9,131.98,0.061,0.2441,nn,nn00865263,2023-08-30T05:47:41.862Z,"5 km SSE of Floriston, California",earthquake,,1,0.24,7,automatic,nn,nn
 2023-08-30T05:08:35.646Z,61.4894,-147.7744,20.8,1.2,ml,,,,0.58,ak,ak023b4b2y0c,2023-08-30T05:10:36.098Z,"36 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-08-30T05:05:42.548Z,31.60325829,-104.102984,6.234399414,2.2,ml,20,58,0.03176024668,0.1,tx,tx2023qysi,2023-08-30T08:39:52.655Z,"43 km NW of Toyah, Texas",earthquake,0.6939308466,0.5510098019000002,0.1,21,reviewed,tx,tx
 2023-08-30T04:55:53.980Z,38.7970009,-122.7388306,1.96,0.74,md,8,118,0.01384,0.01,nc,nc73930801,2023-08-30T06:01:11.983Z,"3 km NE of The Geysers, CA",earthquake,0.45,1.03,0.05,9,automatic,nc,nc
 2023-08-30T04:54:57.743Z,66.1213,-149.0597,2,1.1,ml,,,,1.63,ak,ak023b4arf1x,2023-08-30T04:57:51.707Z,"12 km N of Stevens Village, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-08-30T04:38:14.792Z,55.428,162.7043,35,4.8,mb,70,83,3.386,0.81,us,us7000ks0i,2023-08-30T05:03:00.040Z,"90 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,8.42,1.904,0.032,303,reviewed,us,us
