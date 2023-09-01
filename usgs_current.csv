@@ -105,6 +105,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-01T02:13:26.970Z,19.371166229248,-155.290496826172,1.01999998092651,1.99,ml,18,108,,0.189999998,hv,hv73555697,2023-09-01T02:48:47.593Z,"9 km SW of Volcano, Hawaii",earthquake,0.25,0.340000004,0.21,5,automatic,hv,hv
 2023-09-01T01:53:53.350Z,33.2701667,-116.4335,3.6,0.96,ml,31,69,0.01383,0.24,ci,ci39656410,2023-09-01T01:57:27.435Z,"6 km WNW of Borrego Springs, CA",earthquake,0.45,0.99,0.163,23,automatic,ci,ci
 2023-09-01T01:50:14.290Z,37.4188347,-121.7894974,2.58,1.88,md,23,71,0.03263,0.08,nc,nc73931511,2023-09-01T02:28:13.327Z,"7 km NNE of Alum Rock, CA",earthquake,0.19,0.51,0.12,18,automatic,nc,nc
+2023-09-01T01:44:32.140Z,52.0731666666667,-176.153166666667,-1.8,-0.03,ml,5,134,,0.31,av,av91114488,2023-09-01T18:21:16.660Z,"39 km ENE of Adak, Alaska",earthquake,1.06,1.93,0.31730892342412,5,reviewed,av,av
 2023-09-01T01:35:48.710Z,37.4153328,-121.7900009,2.1,2.64,md,59,30,0.03591,0.08,nc,nc73931501,2023-09-01T06:45:47.791Z,"6 km NNE of Alum Rock, CA",earthquake,0.13,0.43,0.11,64,automatic,nc,nc
 2023-09-01T01:24:32.410Z,33.3221667,-116.9008333,17.54,1.85,ml,58,32,0.04478,0.2,ci,ci39656402,2023-09-01T01:35:15.390Z,"5 km SW of Palomar Observatory, CA",earthquake,0.22,0.52,0.252,26,automatic,ci,ci
 2023-09-01T01:23:18.770Z,38.8136673,-122.8310013,9.67,0.76,md,8,205,0.005,0.04,nc,nc73931491,2023-09-01T01:46:12.186Z,"8 km WNW of The Geysers, CA",earthquake,1.86,7.09,0.1,11,automatic,nc,nc
@@ -123,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T23:32:31.021Z,32.00672923,-103.8260399,7.519799805,2.5,ml,20,59,0.02236491663,0.2,tx,tx2023rbyj,2023-09-01T02:38:49.412Z,"33 km SE of Malaga, New Mexico",earthquake,0.746794003,0.9875815183,0.1,13,reviewed,tx,tx
 2023-08-31T23:29:35.698Z,62.1332,-147.5165,32,2,ml,,,,0.81,ak,ak023b69glfl,2023-08-31T23:31:37.477Z,"28 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-08-31T23:23:51.260Z,38.8408318,-122.8371658,1.67,1.07,md,20,87,0.002595,0.02,nc,nc73931486,2023-08-31T23:40:17.380Z,"10 km NW of The Geysers, CA",earthquake,0.23,0.42,0.2,22,automatic,nc,nc
-2023-08-31T23:18:54.560Z,33.035,-117.8643333,0.94,1.95,ml,12,230,0.4392,0.26,ci,ci39656378,2023-08-31T23:22:29.535Z,"50 km SSW of San Clemente, CA",earthquake,2.16,31.61,0.146,28,automatic,ci,ci
+2023-08-31T23:18:54.030Z,33.0181667,-117.9088333,5.71,1.98,ml,23,175,0.4761,0.22,ci,ci39656378,2023-09-01T18:21:06.464Z,"46 km ENE of San Clemente Is. (SE tip), CA",earthquake,0.64,31.61,0.101,18,reviewed,ci,ci
 2023-08-31T23:06:35.380Z,35.34283333,-97.94616667,5.93,1.13,ml,19,100,0.05308958201,0.23,ok,ok2023rbxm,2023-09-01T18:18:05.920Z,"Oklahoma",earthquake,,0.8,0.2,4,reviewed,ok,ok
 2023-08-31T23:03:28.790Z,33.3495,-116.383,8.15,0.47,ml,13,119,0.02631,0.1,ci,ci39656370,2023-09-01T18:10:41.397Z,"10 km N of Borrego Springs, CA",earthquake,0.29,0.55,0.087,7,reviewed,ci,ci
 2023-08-31T22:40:12.780Z,38.7786674,-122.7665024,1,1.53,md,19,87,0.007957,0.04,nc,nc73931471,2023-09-01T00:14:15.585Z,"1 km W of The Geysers, CA",earthquake,0.25,0.42,0.2,21,automatic,nc,nc
@@ -176,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T18:45:19.406Z,38.2008,73.0488,45.708,4.8,mb,76,45,1.605,1.25,us,us7000ksgl,2023-08-31T19:13:33.040Z,"80 km W of Murghob, Tajikistan",earthquake,6.68,7.124,0.06,84,reviewed,us,us
 2023-08-31T18:33:56.553Z,-6.0322,128.9942,245.198,4.6,mb,28,67,4.482,0.85,us,us7000ksgk,2023-08-31T19:10:18.040Z,"273 km SSE of Ambon, Indonesia",earthquake,9.71,9.315,0.136,16,reviewed,us,us
 2023-08-31T18:31:40.770Z,37.9875,-122.4535,-0.03,1.14,md,19,48,0.02211,0.1,nc,nc73931396,2023-08-31T20:57:41.616Z,"6 km E of Santa Venetia, CA",quarry blast,0.28,31.61,0.169,17,reviewed,nc,nc
-2023-08-31T18:28:56.536Z,62.779,-149.898,66.8,1.7,ml,,,,0.81,ak,ak023b66h9at,2023-08-31T18:30:59.893Z,"38 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-08-31T18:28:41.431Z,31.68831785,-104.2833061,8.548120117,2.448087279,mlv,21,60,0.02294771103,0.2,tx,tx2023rboi,2023-09-01T03:05:25.222Z,"54 km S of Whites City, New Mexico",earthquake,0.8370597583,0.828511296,0.166064253,16,reviewed,tx,tx
