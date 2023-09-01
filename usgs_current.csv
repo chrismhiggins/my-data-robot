@@ -186,5 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-08-31T15:21:01.260Z,36.4135,-96.87883333,6.03,1.39,ml,66,59,0.04229170093,0.32,ok,ok2023rbid,2023-08-31T15:31:51.514Z,"Oklahoma",earthquake,,0.4,0.24,25,reviewed,ok,ok
 2023-08-31T15:19:13.726Z,49.8916,155.98,79.142,4.4,mb,68,136,3.396,0.47,us,us7000ksen,2023-08-31T18:09:58.040Z,"87 km S of Severo-Kuril’sk, Russia",earthquake,11.25,8.079,0.07,62,reviewed,us,us
 2023-08-31T14:59:43.952Z,63.6929,-149.3984,28.7,1.4,ml,,,,0.82,ak,ak023b64a53v,2023-08-31T15:02:00.067Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-08-31T14:58:46.389Z,-17.6807,-178.7787,554.854,4.4,mb,33,83,4.644,0.83,us,us7000ksei,2023-08-31T15:22:44.040Z,"206 km ENE of Levuka, Fiji",earthquake,9.73,9.668,0.089,36,reviewed,us,us
-2023-08-31T14:56:25.940Z,19.1714992523193,-155.481826782227,28.0300006866455,1.91999996,md,30,164,,0.100000001,hv,hv73554837,2023-08-31T14:59:34.050Z,"3 km S of Pāhala, Hawaii",earthquake,0.72,1.17999995,0.660000026,7,automatic,hv,hv
