@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-02T20:14:31.450Z,60.4757,-151.6008,31.8,1.2,ml,,,,1.81,ak,ak023b9inrjd,2023-09-02T20:15:52.533Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-02T20:04:29.920Z,19.3886661529541,-155.276672363281,0.360000014305115,1.84,ml,12,122,,0.159999996,hv,hv73558737,2023-09-02T20:10:01.550Z,"7 km SW of Volcano, Hawaii",earthquake,0.24,0.189999998,0.25,6,automatic,hv,hv
 2023-09-02T20:02:22.137Z,62.3387,-149.6013,43.9,2.2,ml,,,,0.56,ak,ak023b9il685,2023-09-02T20:04:28.260Z,"23 km NNE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-09-02T19:53:42.100Z,38.8411674,-122.824501,1.59,0.61,md,11,94,0.008958,0.01,nc,nc73932321,2023-09-02T20:10:13.723Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.77,0.16,11,automatic,nc,nc
