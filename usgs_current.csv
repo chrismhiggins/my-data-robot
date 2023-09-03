@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-03T09:16:16.490Z,33.0298333,-116.3355,11.25,0.43,ml,11,86,0.07973,0.12,ci,ci39657682,2023-09-03T09:19:47.516Z,"23 km WSW of Ocotillo Wells, CA",earthquake,0.29,0.44,0.161,4,automatic,ci,ci
 2023-09-03T09:11:42.100Z,33.3515,-116.225,3.58,0.68,ml,22,130,0.1602,0.24,ci,ci39657674,2023-09-03T09:15:13.695Z,"17 km SW of Oasis, CA",earthquake,0.53,1.87,0.184,11,automatic,ci,ci
 2023-09-03T09:06:50.716Z,61.2123,-147.0132,0.1,1.7,ml,,,,0.8,ak,ak023bazlo4v,2023-09-03T09:08:53.667Z,"36 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-03T09:06:12.980Z,35.5021667,-118.3933333,6.11,1.21,ml,18,66,0.1732,0.2,ci,ci39657666,2023-09-03T09:09:44.107Z,"13 km SE of Bodfish, CA",earthquake,0.36,1.72,0.189,11,automatic,ci,ci
