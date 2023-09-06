@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-06T23:30:28.000Z,33.7773333,-117.0941667,0.46,0.76,ml,11,162,0.06624,0.37,ci,ci39660066,2023-09-06T23:34:00.685Z,"5 km NNW of Green Acres, CA",earthquake,1.27,31.61,0.181,15,automatic,ci,ci
 2023-09-06T23:18:24.620Z,33.429,-116.4223333,9.61,0.7,ml,20,130,0.09419,0.18,ci,ci39660058,2023-09-06T23:21:54.801Z,"20 km NNW of Borrego Springs, CA",earthquake,0.33,0.88,0.119,15,automatic,ci,ci
 2023-09-06T23:17:57.740Z,33.4288333,-116.4215,11.74,0.73,ml,23,101,0.09438,0.18,ci,ci39660050,2023-09-06T23:21:36.192Z,"20 km NNW of Borrego Springs, CA",earthquake,0.33,0.9,0.136,18,automatic,ci,ci
+2023-09-06T23:11:31.410Z,-17.9261,-178.5194,580.727,4.3,mb,43,85,3.27,0.51,us,us7000ktt2,2023-09-06T23:30:10.040Z,"229 km E of Levuka, Fiji",earthquake,11.09,7.873,0.091,34,reviewed,us,us
 2023-09-06T23:04:42.678Z,61.3426,-147.0887,19.1,1.9,ml,,,,0.47,ak,ak023bg6jc17,2023-09-06T23:06:15.249Z,"46 km WNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-06T22:59:15.018Z,63.9662,-149.5119,0,1.8,ml,,,,0.67,ak,ak023bg69mod,2023-09-06T23:00:52.958Z,"20 km WSW of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-06T22:42:23.710Z,19.0698,-66.7621,52,3.64,md,19,196,0.6962,0.35,pr,pr2023249005,2023-09-06T23:25:02.504Z,"64 km N of Hatillo, Puerto Rico",earthquake,2.18,7.12,0.1,14,reviewed,pr,pr
@@ -212,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-05T23:52:08.820Z,39.3051667,-111.8886667,5.79,1.67,ml,17,79,0.2091,0.2,uu,uu60549272,2023-09-06T13:27:18.740Z,"Utah",earthquake,0.42,2.04,0.2,4,reviewed,uu,uu
 2023-09-05T23:52:07.650Z,35.0348333,-117.6891667,-0.79,1.63,ml,36,41,0.1004,0.17,ci,ci39659162,2023-09-06T20:59:03.937Z,"5 km NW of Boron, CA",quarry blast,0.29,31.61,0.123,28,reviewed,ci,ci
 2023-09-05T23:42:41.740Z,32.9826667,-116.3141667,10.06,0.71,ml,14,122,0.02942,0.12,ci,ci39659154,2023-09-06T20:54:12.389Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.27,0.47,0.078,6,reviewed,ci,ci
-2023-09-05T23:28:20.543Z,59.8517,-152.8983,85.8,1.4,ml,,,,0.86,ak,ak023bej530m,2023-09-05T23:31:12.324Z,"60 km W of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-09-05T23:28:08.450Z,19.3969993591309,-155.27766418457,1.61000001430511,1.74,ml,19,44,,0.140000001,hv,hv73564522,2023-09-05T23:33:37.970Z,"6 km SW of Volcano, Hawaii",earthquake,0.3,0.25,0.27,9,automatic,hv,hv
