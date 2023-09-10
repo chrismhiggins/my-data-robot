@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-10T10:06:58.383Z,58.1817,-155.3811,1.2,0.8,ml,,,,0.29,ak,ak023bmkyjse,2023-09-10T10:08:14.295Z,"87 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2023-09-10T09:55:07.377Z,-27.9571,-66.6123,164.382,4.6,mb,55,39,3.23,1.05,us,us7000kusn,2023-09-10T10:11:27.040Z,"50 km SW of Andalgalá, Argentina",earthquake,3.43,7.346,0.079,47,reviewed,us,us
 2023-09-10T09:53:34.570Z,38.7876663,-122.7463303,1.58,0.73,md,11,84,0.008713,0.03,nc,nc73935356,2023-09-10T09:55:10.376Z,"1 km NE of The Geysers, CA",earthquake,0.29,0.79,0.24,12,automatic,nc,nc
 2023-09-10T09:52:24.320Z,34.1451667,-117.4206667,4.14,0.88,ml,29,72,0.04765,0.17,ci,ci39662226,2023-09-10T09:55:50.977Z,"6 km NNE of Fontana, CA",earthquake,0.32,0.73,0.156,23,automatic,ci,ci
 2023-09-10T09:11:32.840Z,35.9944992,-120.5513306,2.81,0.81,md,7,145,0.01908,0.01,nc,nc73935351,2023-09-10T09:13:08.947Z,"15 km NW of Parkfield, CA",earthquake,0.52,1,0.07,3,automatic,nc,nc
@@ -188,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-09T10:46:30.480Z,19.390832901001,-155.275833129883,1.58000004291534,2.01,ml,27,50,,0.180000007,hv,hv73571437,2023-09-09T10:52:01.700Z,"7 km SW of Volcano, Hawaii",earthquake,0.31,0.25,0.29,10,automatic,hv,hv
 2023-09-09T10:32:40.150Z,38.8310013,-122.8161697,1.71,1.63,md,19,50,0.008964,0.02,nc,nc73934996,2023-09-09T11:03:13.867Z,"8 km NW of The Geysers, CA",earthquake,0.22,0.39,0.11,21,automatic,nc,nc
 2023-09-09T10:24:26.140Z,38.7804985,-122.7646637,1.51,1.09,md,17,75,0.0098,0.03,nc,nc73934991,2023-09-09T10:26:03.129Z,"1 km WNW of The Geysers, CA",earthquake,0.24,0.45,0.26,18,automatic,nc,nc
-2023-09-09T10:18:41.660Z,19.3886661529541,-155.278503417969,0.980000019073486,1.74,ml,18,57,,0.129999995,hv,hv73571377,2023-09-09T10:24:12.150Z,"7 km SW of Volcano, Hawaii",earthquake,0.18,0.150000006,0.25,8,automatic,hv,hv
-2023-09-09T10:18:30.031Z,24.6523,92.7875,45.813,4.8,mb,111,58,5.244,0.56,us,us7000kuka,2023-09-09T19:02:06.322Z,"19 km S of Silchar, India",earthquake,6.65,6.271,0.044,158,reviewed,us,us
-2023-09-09T10:10:51.170Z,38.8059998,-122.8065033,1.31,0.76,md,9,132,0.008969,0.02,nc,nc73934986,2023-09-09T10:12:27.664Z,"5 km NW of The Geysers, CA",earthquake,0.34,0.72,0.07,9,automatic,nc,nc
