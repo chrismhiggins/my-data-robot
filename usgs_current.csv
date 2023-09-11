@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-11T14:13:53.910Z,34.7176666,-120.180336,7.74,1.68,ml,11,95,0.08397,0.21,ci,ci39662626,2023-09-11T14:16:18.134Z,"8 km NW of Los Olivos, CA",earthquake,0.8,3.28,0.219,8,automatic,ci,ci
+2023-09-11T14:13:53.990Z,34.7236667,-120.1708333,2.45,1.52,ml,17,87,0.09065,0.25,ci,ci39662626,2023-09-11T14:17:25.758Z,"8 km NW of Los Olivos, CA",earthquake,0.4,0.73,0.142,19,automatic,ci,ci
 2023-09-11T13:57:43.350Z,38.8198318,-122.8206635,5.02,0.79,md,7,139,0.009005,0.01,nc,nc73935741,2023-09-11T13:59:17.877Z,"7 km NW of The Geysers, CA",earthquake,1.4,1.33,0.11,7,automatic,nc,nc
-2023-09-11T13:52:41.853Z,64.36,-147.5256,8.1,2.8,ml,,,,0.81,ak,ak023boak0rd,2023-09-11T14:01:49.015Z,"35 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-11T13:52:41.853Z,64.36,-147.5256,8.1,2.8,ml,,,,0.81,ak,ak023boak0rd,2023-09-11T14:21:04.040Z,"35 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-11T13:49:55.826Z,64.3482,-147.5248,8.3,1.8,ml,,,,0.58,ak,ak023boajeou,2023-09-11T13:51:44.922Z,"35 km WSW of Salcha, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-11T13:48:32.322Z,64.3915,-147.4557,1.5,1,ml,,,,0.82,ak,ak023boaj55s,2023-09-11T13:50:20.051Z,"30 km WSW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-11T13:45:18.010Z,33.9881667,-116.963,5.09,0.88,ml,18,113,0.1075,0.21,ci,ci39662602,2023-09-11T13:48:56.088Z,"7 km NNE of Beaumont, CA",earthquake,0.43,2.1,0.131,20,automatic,ci,ci
@@ -204,7 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-10T14:44:14.407Z,64.151,-147.3288,3.9,1.2,ml,,,,0.48,ak,ak023bmnkc0w,2023-09-10T14:46:04.719Z,"43 km SW of Harding-Birch Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-10T14:43:40.870Z,46.92,-120.56066666666666,-0.3,1.84,ml,29,91,0.0115,0.76,uw,uw61949742,2023-09-10T18:22:36.220Z,"8 km S of Ellensburg, Washington",earthquake,0.86,1.49,0.1254076489178445,22,reviewed,uw,uw
 2023-09-10T14:42:54.160Z,40.7915001,-121.8860016,8.61,1.8,md,11,148,0.1162,0.1,nc,nc73935391,2023-09-10T15:30:15.250Z,"5 km E of Round Mountain, CA",earthquake,0.86,1.82,0.24,5,automatic,nc,nc
-2023-09-10T14:28:43.230Z,33.234333,-116.7779999,11.69,2.95,ml,106,13,0.01621,0.23,ci,ci39662258,2023-09-11T06:05:56.062Z,"2 km WSW of Lake Henshaw, CA",earthquake,0.21,0.72,0.287,18,automatic,ci,ci
-2023-09-10T14:26:46.030Z,40.7915001,-121.8833313,5.71,2.17,md,17,82,0.1182,0.09,nc,nc73935381,2023-09-10T14:48:10.031Z,"5 km E of Round Mountain, CA",earthquake,0.31,2.12,0.14,7,automatic,nc,nc
-2023-09-10T14:21:45.861Z,61.1157,-151.9187,92.2,1.1,ml,,,,0.34,ak,ak023bmnfgze,2023-09-10T14:23:47.309Z,"42 km W of Tyonek, Alaska",earthquake,,2,,,automatic,ak,ak
-2023-09-10T14:20:43.089Z,60.8706,-152.6422,129.7,1.8,ml,,,,0.33,ak,ak023bmnf91w,2023-09-10T14:23:27.955Z,"76 km WNW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
