@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T15:25:57.690Z,35.4546661,-118.0806656,7.83,1.42,ml,13,86,0.09519,0.25,ci,ci39665954,2023-09-15T15:28:17.885Z,"32 km SW of Inyokern, CA",earthquake,0.77,2.16,0.332,6,automatic,ci,ci
+2023-09-15T15:36:51.860Z,35.9225006,-120.470665,5,1.76,md,21,55,0.02416,0.07,nc,nc73937086,2023-09-15T15:38:29.583Z,"4 km NW of Parkfield, CA",earthquake,0.27,0.43,0.13,15,automatic,nc,nc
+2023-09-15T15:35:43.330Z,38.3583336,-122.5695038,10.3,2.48,md,56,29,0.07967,0.08,nc,nc73937081,2023-09-15T15:38:49.613Z,"3 km WSW of Glen Ellen, CA",earthquake,0.16,0.47,0.16,57,automatic,nc,nc
+2023-09-15T15:25:57.150Z,35.4336667,-118.0821667,2.56,0.73,ml,13,69,0.09677,0.24,ci,ci39665954,2023-09-15T15:29:24.815Z,"34 km SW of Inyokern, CA",earthquake,0.51,0.97,0.089,7,automatic,ci,ci
 2023-09-15T15:04:50.470Z,38.8354988,-122.8154984,1.6,1.09,md,21,61,0.01281,0.03,nc,nc73937076,2023-09-15T15:06:24.988Z,"8 km W of Cobb, CA",earthquake,0.23,0.38,0.16,22,automatic,nc,nc
 2023-09-15T14:52:38.330Z,17.9655,-67.0806666666667,7.2,2.75,md,14,220,0.03491,0.11,pr,pr71424833,2023-09-15T15:21:39.810Z,"Puerto Rico region",earthquake,0.4,0.2,0.328408751037825,4,reviewed,pr,pr
+2023-09-15T14:06:47.900Z,46.55283333333333,-122.42966666666666,14.32,0.85,ml,13,106,0.09505,0.14,uw,uw61960011,2023-09-15T15:37:50.880Z,"4 km ENE of Mossyrock, Washington",earthquake,0.43,1.11,0.15058586726034096,5,reviewed,uw,uw
 2023-09-15T13:48:07.110Z,34.073,-117.2493333,18.04,0.83,ml,19,178,0.1188,0.13,ci,ci39665866,2023-09-15T15:22:08.771Z,"3 km NNE of Loma Linda, CA",earthquake,0.31,0.56,0.071,10,reviewed,ci,ci
 2023-09-15T13:46:48.750Z,33.4353333,-116.3845,9.53,0.61,ml,16,112,0.1689,0.16,ci,ci39665850,2023-09-15T13:50:19.359Z,"20 km N of Borrego Springs, CA",earthquake,0.35,2.11,0.136,15,automatic,ci,ci
 2023-09-15T13:41:03.680Z,38.8325005,-122.8164978,1.77,0.94,md,9,87,0.01038,0.01,nc,nc73937051,2023-09-15T13:42:39.960Z,"8 km NW of The Geysers, CA",earthquake,0.36,1.21,0.24,9,automatic,nc,nc
@@ -121,6 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T22:35:05.820Z,59.314,-153.5044,103.6,4,ml,,,,0.62,ak,ak023btef8mo,2023-09-14T23:15:28.809Z,"62 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-09-14T22:20:57.590Z,38.8321648,-122.8144989,1.32,0.74,md,9,102,0.009414,0.02,nc,nc73936851,2023-09-14T22:22:32.186Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.03,0.28,10,automatic,nc,nc
 2023-09-14T22:14:09.110Z,35.88,-117.696,7.79,1.4,ml,22,97,0.09063,0.16,ci,ci39665546,2023-09-14T22:41:10.142Z,"20 km ESE of Little Lake, CA",earthquake,0.24,0.7,0.159,9,reviewed,ci,ci
+2023-09-14T21:49:53.180Z,38.8158333,-122.8245,2.34,0.36,md,26,60,0.007857,0.03,nc,nc73936846,2023-09-15T15:31:33.996Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.23,0.291,25,reviewed,nc,nc
 2023-09-14T21:29:24.520Z,38.8176651,-122.8231659,2.36,0.96,md,12,75,0.009961,0.02,nc,nc73936841,2023-09-14T21:30:59.468Z,"7 km NW of The Geysers, CA",earthquake,0.32,0.75,0.21,15,automatic,nc,nc
 2023-09-14T21:00:45.196Z,63.0448,-150.6734,118.3,1.5,ml,,,,0.36,ak,ak023btdme3r,2023-09-14T21:03:14.308Z,"61 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-14T20:45:04.320Z,47.347,-122.323,25.24,1.51,ml,32,68,0.014,0.21,uw,uw61951022,2023-09-15T13:54:57.080Z,"Seattle-Tacoma urban area, Washington",earthquake,0.38,0.52,0.21616456678729312,15,reviewed,uw,uw
@@ -136,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T19:18:10.890Z,38.8323326,-122.8150024,1.84,0.72,md,12,104,0.009719,0.01,nc,nc73936816,2023-09-14T19:19:47.067Z,"8 km NW of The Geysers, CA",earthquake,0.31,0.74,0.36,12,automatic,nc,nc
 2023-09-14T19:05:43.880Z,38.8361664,-122.7945023,1.74,1.04,md,11,142,0.003945,0.02,nc,nc73936811,2023-09-14T19:07:17.137Z,"6 km WNW of Cobb, CA",earthquake,0.41,0.99,0.32,11,automatic,nc,nc
 2023-09-14T19:02:13.010Z,33.1066667,-116.3441667,13.92,0.7,ml,20,83,0.0842,0.15,ci,ci39665306,2023-09-14T22:35:33.035Z,"17 km S of Borrego Springs, CA",earthquake,0.27,0.63,0.205,5,reviewed,ci,ci
-2023-09-14T18:50:41.793Z,29.07531738,-97.86465993,5.428955078000001,4,ml,27,50,0.0968863031,0.3,tx,tx2023sbec,2023-09-15T15:07:42.221Z,"18 km NE of Falls City, Texas",earthquake,1.486079629,2.0866699,0,6,reviewed,tx,tx
+2023-09-14T18:50:41.793Z,29.07531738,-97.86465993,5.428955078000001,4,ml,27,50,0.0968863031,0.3,tx,tx2023sbec,2023-09-15T15:36:58.722Z,"18 km NE of Falls City, Texas",earthquake,1.486079629,2.0866699,0,6,reviewed,tx,tx
 2023-09-14T18:33:16.156Z,58.2367,-155.209,1.1,0.3,ml,,,,0.29,ak,ak023btc13of,2023-09-15T01:59:31.880Z,"Alaska Peninsula",earthquake,,1.7,,,automatic,ak,ak
 2023-09-14T18:23:52.630Z,38.8095,-122.76,1,0.4,md,10,165,0.008865,0.05,nc,nc73936806,2023-09-14T22:44:03.068Z,"4 km WSW of Cobb, CA",earthquake,0.54,0.39,0.034,6,reviewed,nc,nc
 2023-09-14T18:20:55.920Z,60.0557,-152.9099,105.1,1.7,ml,,,,0.38,ak,ak023btbyefs,2023-09-14T18:22:39.347Z,"66 km W of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
