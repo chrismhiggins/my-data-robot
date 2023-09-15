@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-09-15T21:45:20.520Z,39.4633331,-122.6108322,13.75,2.92,ml,7,140,0.7943,0.3,nc,nc73937211,2023-09-15T21:47:22.489Z,"15 km SSW of Stony Gorge Reservoir, CA",earthquake,2.78,20.6,0.227,4,automatic,nc,nc
-2023-09-15T21:41:15.010Z,40.9948349,-121.5323334,14.09,2.88,md,34,33,0.09763,0.15,nc,nc73937206,2023-09-15T21:44:28.847Z,"8 km W of Fall River Mills, CA",earthquake,0.28,0.98,0.13,36,automatic,nc,nc
+2023-09-15T21:54:08.550Z,38.7970009,-122.7720032,3.13,1.84,md,34,79,0.01026,0.06,nc,nc73937231,2023-09-15T21:57:31.080Z,"3 km NNW of The Geysers, CA",earthquake,0.24,0.38,0.16,34,automatic,nc,nc
+2023-09-15T21:48:43.580Z,38.7763329,-122.7176666,1.82,1.24,md,14,84,0.01576,0.02,nc,nc73937226,2023-09-15T21:50:21.611Z,"2 km W of Anderson Springs, CA",earthquake,0.29,0.56,0.18,16,automatic,nc,nc
+2023-09-15T21:46:23.220Z,38.7763329,-122.7194977,1.59,1.52,md,19,70,0.01513,0.04,nc,nc73937216,2023-09-15T21:48:00.889Z,"2 km W of Anderson Springs, CA",earthquake,0.26,0.43,0.15,19,automatic,nc,nc
+2023-09-15T21:45:20.520Z,39.4633331,-122.6108322,13.75,2.92,ml,7,140,0.7943,0.3,nc,nc73937211,2023-09-15T21:52:11.419Z,"15 km SSW of Stony Gorge Reservoir, CA",earthquake,2.78,20.6,0.227,4,automatic,nc,nc
+2023-09-15T21:41:15.010Z,40.9948349,-121.5323334,14.09,2.88,md,34,33,0.09763,0.15,nc,nc73937206,2023-09-15T21:49:12.535Z,"8 km W of Fall River Mills, CA",earthquake,0.28,0.98,0.13,36,automatic,nc,nc
 2023-09-15T21:29:19.891Z,39.4227,-119.936,7.4,1.8,ml,13,101.41,0.099,0.0925,nn,nn00865874,2023-09-15T21:31:14.292Z,"7 km ENE of Floriston, California",earthquake,,0.9,0.17,7,automatic,nn,nn
 2023-09-15T21:23:00.052Z,59.942,-148.5703,0,2.3,ml,,,,0.7,ak,ak023bv1akl1,2023-09-15T21:26:28.657Z,"34 km WSW of Chenega, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-15T21:01:31.630Z,38.8364983,-122.7996674,1.99,0.76,md,13,69,0.007527,0.02,nc,nc73937196,2023-09-15T21:03:06.204Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.69,0.15,14,automatic,nc,nc
@@ -17,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T20:11:26.179Z,65.1025,-148.6492,7.1,1.9,ml,,,,1.11,ak,ak023bv0mmeh,2023-09-15T20:13:17.274Z,"33 km E of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T20:05:54.100Z,38.7616653,-122.7401657,1.4,1.38,md,18,105,0.009558,0.04,nc,nc73937171,2023-09-15T20:23:13.918Z,"2 km SE of The Geysers, CA",earthquake,0.42,0.49,0.1,16,automatic,nc,nc
 2023-09-15T20:00:13.830Z,38.8463326,-122.8183365,2.52,0.71,md,7,145,0.00919,0.01,nc,nc73937166,2023-09-15T20:01:50.544Z,"9 km WNW of Cobb, CA",earthquake,1.22,1.35,0.26,7,automatic,nc,nc
+2023-09-15T19:51:29.396Z,-5.4592,128.9409,295.504,4.4,mb,75,55,1.337,0.74,us,us7000kw25,2023-09-15T21:57:13.040Z,"212 km SSE of Ambon, Indonesia",earthquake,8.73,6.448,0.067,69,reviewed,us,us
 2023-09-15T19:42:15.530Z,63.1455,-150.5067,114.6,1.9,ml,,,,0.35,ak,ak023bv07t69,2023-09-15T19:44:23.543Z,"73 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T19:38:34.150Z,32.6271667,-116.9683333,-0.43,1.19,ml,11,217,0.03758,0.24,ci,ci39666306,2023-09-15T21:32:49.859Z,"7 km ESE of Bonita, CA",quarry blast,1.81,31.61,0.178,5,reviewed,ci,ci
 2023-09-15T19:35:56.718Z,37.148,141.6422,37.633,4.6,mb,76,138,2.82,1,us,us7000kw21,2023-09-15T21:27:01.040Z,"59 km ESE of Tomioka, Japan",earthquake,5.16,7.358,0.066,68,reviewed,us,us
@@ -108,12 +112,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T09:21:36.097Z,63.1443,-150.8921,132.1,1.7,ml,,,,0.29,ak,ak023buu50o9,2023-09-15T09:24:08.442Z,"60 km SE of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-15T09:18:32.570Z,17.9435,-66.9618333333333,14.32,3.35,md,33,212,0.05812,0.14,pr,pr71424813,2023-09-15T13:37:47.040Z,"Puerto Rico",earthquake,0.35,0.39,0.153742099614452,16,reviewed,pr,pr
 2023-09-15T09:13:28.910Z,38.8356667,-122.8151703,1.38,0.39,md,8,110,0.01288,0.02,nc,nc73936996,2023-09-15T09:15:04.875Z,"8 km W of Cobb, CA",earthquake,0.36,1.02,0.3,8,automatic,nc,nc
+2023-09-15T09:13:03.960Z,61.139,-152.520666666667,2.16,-0.16,ml,7,278,,0.1,av,av92045711,2023-09-15T21:56:58.100Z,"Southern Alaska",earthquake,0.59,1.1,0.259533744574795,7,reviewed,av,av
 2023-09-15T09:07:53.210Z,37.367,-118.692,12.84,1.14,md,20,144,0.2079,0.04,nc,nc73936991,2023-09-15T19:05:18.498Z,"10 km WSW of Round Valley, CA",earthquake,0.37,2.6,0.149,16,reviewed,nc,nc
 2023-09-15T09:07:45.724Z,56.7684,-154.0311,35,3.3,ml,58,197,1.286,0.71,us,us7000kvx4,2023-09-15T09:39:14.040Z,"Kodiak Island region, Alaska",earthquake,3.66,2.013,0.048,56,reviewed,us,us
 2023-09-15T09:05:49.756Z,63.3719,-150.0961,7.8,1.2,ml,,,,0.84,ak,ak023buu1m9r,2023-09-15T09:08:26.112Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T09:04:19.440Z,39.5818333,-111.3651667,11.22,1.33,ml,18,86,0.1376,0.13,uu,uu60550192,2023-09-15T15:06:30.140Z,"8 km SE of Fairview, Utah",earthquake,0.3,1.17,0.05,4,reviewed,uu,uu
 2023-09-15T08:56:07.580Z,19.7136,-64.7113,39,3.9,md,15,290,1.3831,0.35,pr,pr2023258000,2023-09-15T12:33:55.040Z,"153 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.96,26.24,0.12,10,reviewed,pr,pr
 2023-09-15T08:52:03.420Z,38.8378333,-122.8081667,2.31,1.03,md,36,33,0.01393,0.16,nc,nc73936986,2023-09-15T19:09:25.937Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.42,0.165,25,reviewed,nc,nc
+2023-09-15T08:44:17.840Z,53.9321666666667,-166.554833333333,10.12,0.82,ml,13,158,,0.2,av,av92045686,2023-09-15T21:49:36.390Z,"4 km N of Dutch Harbor, Alaska",earthquake,0.86,1.31,0.181707325828865,13,reviewed,av,av
 2023-09-15T08:33:30.620Z,34.0891667,-118.2076667,11.05,0.61,ml,11,210,0.08276,0.1,ci,ci39665698,2023-09-15T16:55:03.849Z,"4 km SSW of Highland Park, CA",earthquake,0.44,0.45,0.109,3,reviewed,ci,ci
 2023-09-15T08:24:59.610Z,48.936166666666665,-120.7745,9,1.74,ml,15,162,0.6014,0.6,uw,uw61959951,2023-09-15T18:18:11.400Z,"61 km SSW of Princeton, Canada",earthquake,1.89,7.37,0.1522131067758481,12,reviewed,uw,uw
 2023-09-15T08:17:36.120Z,38.8123322,-122.8296661,1.37,0.72,md,9,95,0.00348,0.01,nc,nc73936981,2023-09-15T08:19:09.777Z,"7 km WNW of The Geysers, CA",earthquake,0.33,0.76,0.3,9,automatic,nc,nc
@@ -229,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-14T22:35:05.820Z,59.314,-153.5044,103.6,4,ml,,,,0.62,ak,ak023btef8mo,2023-09-14T23:15:28.809Z,"62 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2023-09-14T22:20:57.590Z,38.8321648,-122.8144989,1.32,0.74,md,9,102,0.009414,0.02,nc,nc73936851,2023-09-14T22:22:32.186Z,"8 km NW of The Geysers, CA",earthquake,0.34,1.03,0.28,10,automatic,nc,nc
 2023-09-14T22:14:09.110Z,35.88,-117.696,7.79,1.4,ml,22,97,0.09063,0.16,ci,ci39665546,2023-09-14T22:41:10.142Z,"20 km ESE of Little Lake, CA",earthquake,0.24,0.7,0.159,9,reviewed,ci,ci
-2023-09-14T21:49:53.180Z,38.8158333,-122.8245,2.34,0.36,md,26,60,0.007857,0.03,nc,nc73936846,2023-09-15T15:31:33.996Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.23,0.291,25,reviewed,nc,nc
