@@ -195,9 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-15T18:22:34.420Z,33.6746667,-116.7645,14.73,0.64,ml,21,127,0.05891,0.11,ci,ci39666210,2023-09-15T18:49:00.471Z,"8 km SSW of Idyllwild, CA",earthquake,0.3,0.3,0.121,16,reviewed,ci,ci
 2023-09-15T18:22:16.195Z,62.3825,-148.7726,18.2,1.3,ml,,,,0.34,ak,ak023buzi3ar,2023-09-15T19:35:04.103Z,"61 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-15T18:21:13.660Z,38.8143349,-122.8248367,2.41,0.76,md,11,75,0.006427,0.02,nc,nc73937136,2023-09-15T18:22:49.644Z,"7 km NW of The Geysers, CA",earthquake,0.34,0.72,0.16,14,automatic,nc,nc
-2023-09-15T18:17:29.979Z,63.0459,-151.5355,0,1.3,ml,,,,1.21,ak,ak023buzh1s2,2023-09-15T18:19:47.965Z,"55 km S of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-15T18:16:51.420Z,37.6581667,-122.0333333,1.95,1,md,9,183,0.02163,0.02,nc,nc73937131,2023-09-16T07:45:35.728Z,"2 km SSE of Fairview, CA",earthquake,1.03,0.46,0.077,4,reviewed,nc,nc
-2023-09-15T18:16:00.163Z,1.1214,126.3254,6.17,5,mb,134,44,1.098,0.75,us,us7000kw16,2023-09-16T15:58:54.040Z,"123 km WNW of Ternate, Indonesia",earthquake,5.76,3.736,0.054,123,reviewed,us,us
-2023-09-15T18:07:39.035Z,-27.3076,-71.5699,5.209,5.7,mww,117,70,1.082,0.67,us,us7000kw0l,2023-09-16T15:28:22.636Z,"122 km W of Copiapó, Chile",earthquake,4.47,2.945,0.043,53,reviewed,us,us
-2023-09-15T18:02:26.810Z,40.231,-121.1586667,0.03,2.71,md,62,32,0.2421,0.19,nc,nc73937126,2023-09-15T20:44:12.043Z,"2 km NE of Almanor, CA",earthquake,0.21,1.57,0.164,83,reviewed,nc,nc
-2023-09-15T18:00:46.520Z,19.5216,-64.7276,85,3.86,md,12,331,1.1914,0.11,pr,pr2023258003,2023-09-15T19:31:23.040Z,"131 km N of Cruz Bay, U.S. Virgin Islands",earthquake,3.16,6.17,0.06,3,reviewed,pr,pr
