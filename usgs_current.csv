@@ -48,7 +48,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-16T21:08:40.720Z,38.8166656,-122.8171692,2.43,0.92,md,15,104,0.00871,0.02,nc,nc73937611,2023-09-16T21:10:14.028Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.63,0.2,17,automatic,nc,nc
 2023-09-16T20:53:13.395Z,-13.5637,167.1791,225.529,4.7,mb,72,57,8.529,0.57,us,us7000kw8f,2023-09-16T21:57:51.040Z,"53 km NW of Sola, Vanuatu",earthquake,11.42,7.336,0.068,65,reviewed,us,us
 2023-09-16T20:36:19.510Z,39.427166,-121.6758347,1.08,2.9,md,5,153,0.0895,0.15,nc,nc73937591,2023-09-16T20:57:14.728Z,"4 km ENE of Biggs, CA",earthquake,1.05,13.41,0.22,5,automatic,nc,nc
-2023-09-16T20:28:18.302Z,58.2483,-155.0794,9.9,0.5,ml,,,,0.19,ak,ak023bwo9lgm,2023-09-16T20:30:19.768Z,"84 km NNW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-16T20:21:11.381Z,36.7637,-116.2601,6.6,-0.5,ml,8,116.2,0.027,0.0405,nn,nn00865922,2023-09-16T22:22:46.007Z,"47 km ESE of Beatty, Nevada",earthquake,,1.8,0.52,6,reviewed,nn,nn
 2023-09-16T20:10:24.430Z,46.77466583251953,-121.97016906738281,8.47000026702881,1.6842713356018066,ml,48,65,0.043,0.150000006,uw,uw61960331,2023-09-17T04:07:54.000Z,"4 km ENE of Ashford, Washington",earthquake,0.28,0.389999986,0.3138725757598877,30,reviewed,uw,uw
 2023-09-16T20:04:53.050Z,38.8271675,-122.8013306,1.72,1.68,md,26,34,0.0078,0.01,nc,nc73937581,2023-09-16T20:42:13.658Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.31,0.15,26,automatic,nc,nc
