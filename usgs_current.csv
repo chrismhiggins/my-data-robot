@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-18T09:30:42.030Z,33.6763333,-116.7368333,13.97,0.67,ml,10,109,0.04302,0.14,ci,ci39667834,2023-09-18T09:34:05.583Z,"7 km SSW of Idyllwild, CA",earthquake,0.67,1.06,0.394,9,automatic,ci,ci
+2023-09-18T09:30:00.098Z,62.2695,-148.9344,34.5,2.1,ml,,,,0.46,ak,ak023bzsswtl,2023-09-18T09:31:45.456Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-18T09:02:14.330Z,64.8488,-148.7279,15.2,1.6,ml,,,,0.69,ak,ak023bzsmxvd,2023-09-18T09:05:02.089Z,"33 km NE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-18T08:48:36.900Z,38.8226662,-122.8033371,2.39,1.33,md,18,49,0.005313,0.02,nc,nc73938301,2023-09-18T09:05:15.044Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.4,0.56,18,automatic,nc,nc
 2023-09-18T08:46:27.150Z,35.8978333,-117.7411667,2.51,0.58,ml,8,153,0.08065,0.16,ci,ci39667826,2023-09-18T08:50:02.088Z,"16 km ESE of Little Lake, CA",earthquake,0.78,0.54,0.104,3,automatic,ci,ci
