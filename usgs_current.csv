@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-20T04:25:11.280Z,37.1761,-116.7347,0.8,0.5,ml,10,177.73,0.034,0.2101,nn,nn00866110,2023-09-20T04:27:26.062Z,"29 km N of Beatty, Nevada",earthquake,,0.3,1.36,5,automatic,nn,nn
 2023-09-20T04:05:48.920Z,35.669,-117.4751667,1.62,0.64,ml,10,135,0.04208,0.21,ci,ci39669346,2023-09-20T04:09:18.225Z,"13 km SSW of Searles Valley, CA",earthquake,1.02,2.27,0.026,3,automatic,ci,ci
 2023-09-20T04:00:42.626Z,36.9829,-116.462,9.4,0.9,ml,18,76.74,0.046,0.1188,nn,nn00866109,2023-09-20T04:02:57.177Z,"27 km ENE of Beatty, Nevada",earthquake,,0.7,0.85,10,automatic,nn,nn
 2023-09-20T03:58:44.811Z,37.9472,-115.7803,6,1,ml,8,269.73,0.791,0.3461,nn,nn00866108,2023-09-20T04:02:05.751Z,"33 km N of Rachel, Nevada",earthquake,,7.4,0.95,4,automatic,nn,nn
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T22:01:05.199Z,31.3588,141.7629,10,4.4,mb,18,156,2.407,0.38,us,us7000kws5,2023-09-19T22:18:40.040Z,"Izu Islands, Japan region",earthquake,12.85,1.8,0.179,9,reviewed,us,us
 2023-09-19T21:51:05.918Z,62.817,-151.3453,109.5,2,ml,,,,0.6,ak,ak023c1nlz27,2023-09-19T21:53:40.842Z,"46 km NW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-19T21:26:47.029Z,59.9027,-152.8972,82.1,1.9,ml,,,,0.49,ak,ak023c1ngpby,2023-09-19T21:28:26.127Z,"61 km WNW of Anchor Point, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-09-19T21:14:49.137Z,-43.7064,171.118,11.737,5.6,mww,51,99,0.047,0.81,us,us7000kwrq,2023-09-20T03:47:34.247Z,"43 km W of Methven, New Zealand",earthquake,3.07,1.555,0.052,35,reviewed,us,us
+2023-09-19T21:14:49.137Z,-43.7064,171.118,11.737,5.6,mww,51,99,0.047,0.81,us,us7000kwrq,2023-09-20T04:22:37.869Z,"43 km W of Methven, New Zealand",earthquake,3.07,1.555,0.052,35,reviewed,us,us
 2023-09-19T21:10:54.526Z,10.8543,144.0759,10,4.8,mb,37,87,2.827,0.57,us,us7000kwrt,2023-09-19T21:44:35.040Z,"274 km SSW of Merizo Village, Guam",earthquake,12.71,1.92,0.111,25,reviewed,us,us
 2023-09-19T20:47:26.710Z,60.2994,-152.5095,102.5,1.5,ml,,,,0.59,ak,ak023c1mzq73,2023-09-19T21:10:43.712Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-19T20:38:32.169Z,62.1646,-149.5788,35.2,1.8,ml,,,,0.48,ak,ak023c1mxt68,2023-09-19T20:40:20.438Z,"14 km E of Susitna North, Alaska",earthquake,,7.4,,,automatic,ak,ak
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-19T04:45:34.896Z,58.1659,-155.409,0,0.7,ml,,,,0.71,ak,ak023c1dgdpt,2023-09-20T02:47:41.830Z,"Alaska Peninsula",earthquake,,25.8,,,automatic,ak,ak
 2023-09-19T04:43:19.370Z,37.4640007,-121.2651672,3.81,1.78,md,18,110,0.07985,0.37,nc,nc73938786,2023-09-19T05:20:13.847Z,"11 km SSW of Westley, CA",earthquake,0.83,3.31,0.06,8,automatic,nc,nc
 2023-09-19T04:40:58.620Z,37.4225006,-121.2945023,1.44,3.15,ml,69,162,0.03818,0.23,nc,nc73938781,2023-09-19T08:01:52.612Z,"16 km WSW of Patterson, CA",earthquake,0.45,1.12,0.434,29,automatic,nc,nc
-2023-09-19T04:17:54.640Z,37.4076653,-121.3133316,2.35,1.86,md,5,193,0.03272,0.11,nc,nc73938746,2023-09-19T05:22:34.405Z,"18 km WSW of Patterson, CA",earthquake,1.08,1.47,0.09,5,automatic,nc,nc
