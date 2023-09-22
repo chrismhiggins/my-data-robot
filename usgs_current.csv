@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T14:41:13.009Z,63.9454,-151.5699,0.7,1.7,ml,,,,1.21,ak,ak023c6hzup0,2023-09-22T14:43:27.483Z,"37 km E of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-22T14:30:02.738Z,58.8475,-154.5513,127.8,1.4,ml,,,,0.26,ak,ak023c6hxh0x,2023-09-22T14:32:07.684Z,"67 km S of Kokhanok, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-09-22T14:13:05.893Z,61.9964,-151.0981,68.1,1.4,ml,,,,0.29,ak,ak023c6htu3h,2023-09-22T14:15:20.124Z,"15 km E of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-22T14:10:49.396Z,62.9237,-151.2328,112.1,1.6,ml,,,,2.82,ak,ak023c6htaaz,2023-09-22T14:13:14.557Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
@@ -142,8 +143,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T20:42:41.660Z,46.19616666666667,-122.19466666666666,2.8,0.24,ml,14,98,0.007538,0.08,uw,uw61961361,2023-09-22T03:42:55.880Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.41,0.10219678655985631,9,reviewed,uw,uw
 2023-09-21T20:25:07.180Z,44.733,-112.4735,13.2,1.03,ml,5,227,0.1507,0.03,mb,mb90027953,2023-09-21T23:25:27.840Z,"Idaho-Montana border region",earthquake,0.93,1.93,0.0587795331203771,5,reviewed,mb,mb
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
-2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"4 km SSE of Willow, Alaska",earthquake,,3.8,,,automatic,ak,ak
+2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-09-21T20:08:29.082Z,61.7058,-150.0075,38.4,1.2,ml,,,,0.59,ak,ak023c4xu2fw,2023-09-21T20:10:30.548Z,"Southern Alaska",earthquake,,3.8,,,automatic,ak,ak
 2023-09-21T19:57:42.180Z,39.7426667,-120.5628333,3.42,2.4,md,16,81,0.1009,0.11,nc,nc73939981,2023-09-22T09:51:14.493Z,"1 km NE of Valley Ranch, CA",earthquake,0.28,0.93,0.187,27,reviewed,nc,nc
 2023-09-21T19:57:18.950Z,38.8224983,-122.7901688,0.2,0.77,md,8,78,0.01183,0.11,nc,nc73939976,2023-09-21T19:58:55.455Z,"6 km W of Cobb, CA",earthquake,0.48,1.37,0.32,8,automatic,nc,nc
 2023-09-21T19:37:41.730Z,38.8351669,-122.7891693,1.81,0.99,md,11,68,0.003365,0.02,nc,nc73939971,2023-09-21T19:39:16.185Z,"6 km WNW of Cobb, CA",earthquake,0.38,0.51,0.27,12,automatic,nc,nc
@@ -191,6 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T15:05:14.470Z,37.5948334,-118.8608322,5.73,2.18,md,22,142,0.02418,0.03,nc,nc73939846,2023-09-21T19:45:14.057Z,"11 km ESE of Mammoth Lakes, CA",earthquake,0.29,0.44,0.18,25,automatic,nc,nc
 2023-09-21T15:01:35.680Z,38.8160019,-122.8271637,1.83,0.69,md,6,101,0.007295,0.01,nc,nc73939841,2023-09-21T15:03:09.695Z,"8 km NW of The Geysers, CA",earthquake,0.47,1.03,0.23,9,automatic,nc,nc
 2023-09-21T14:46:12.480Z,51.9201666666667,179.4605,11.3,1.2,ml,6,275,,0.21,av,av92052746,2023-09-21T23:42:34.710Z,"268 km W of Adak, Alaska",earthquake,1.04,1.19,0.257170711432395,6,reviewed,av,av
-2023-09-21T14:43:11.488Z,57.6975,-154.0812,21.7,1.5,ml,,,,0.46,ak,ak023c4ugxv7,2023-09-21T14:45:20.550Z,"18 km NNW of Larsen Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-21T14:43:08.267Z,38.5573,45.4365,10,4.4,mb,21,91,1.068,0.81,us,us7000kx4i,2023-09-21T20:33:53.040Z,"32 km WNW of Marand, Iran",earthquake,5.96,1.795,0.17,10,reviewed,us,us
-2023-09-21T14:41:22.870Z,38.4321667,-112.3035,5.87,1.2,md,10,115,0.1274,0.08,uu,uu60550572,2023-09-21T19:51:50.760Z,"6 km WSW of Marysvale, Utah",earthquake,0.49,31.61,0.365,6,reviewed,uu,uu
