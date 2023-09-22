@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-22T03:37:49.183Z,62.086,-149.1619,36.1,1.6,ml,,,,0.52,ak,ak023c6bfayu,2023-09-22T03:39:32.544Z,"36 km ESE of Susitna North, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-09-22T03:18:12.479Z,6.2467,123.7894,574.518,4.4,mb,49,51,1.957,0.66,us,us7000kxac,2023-09-22T03:33:19.040Z,"Moro Gulf, Mindanao, Philippines",earthquake,9.96,7.864,0.069,62,reviewed,us,us
 2023-09-22T03:06:57.850Z,37.5738335,-118.480835,8.17,2.25,md,20,131,0.03937,0.05,nc,nc73940136,2023-09-22T03:28:14.359Z,"18 km E of Toms Place, CA",earthquake,0.45,0.91,0.19,20,automatic,nc,nc
 2023-09-22T02:43:43.080Z,38.8344994,-122.8071671,2.16,1.09,md,14,75,0.01132,0.01,nc,nc73940126,2023-09-22T02:45:17.038Z,"7 km W of Cobb, CA",earthquake,0.31,0.76,0.37,7,automatic,nc,nc
@@ -58,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T21:11:49.950Z,-14.0039,167.1898,188.419,6.1,mww,76,26,7.076,0.83,us,us7000kx7j,2023-09-21T23:17:30.631Z,"41 km WSW of Sola, Vanuatu",earthquake,8.86,4.898,0.054,33,reviewed,us,us
 2023-09-21T20:44:15.350Z,60.031,-153.103666666667,4.92,-0.65,ml,4,194,,0.1,av,av91116363,2023-09-22T01:02:06.870Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.8,1.56,0.211639055150445,4,reviewed,av,av
 2023-09-21T20:43:11.280Z,51.7416666666667,-178.1025,9.31,1.64,ml,6,264,,0.21,av,av92053016,2023-09-22T00:59:33.750Z,"102 km W of Adak, Alaska",earthquake,0.99,1.84,0.33276841493288,6,reviewed,av,av
+2023-09-21T20:42:41.660Z,46.19616666666667,-122.19466666666666,2.8,0.24,ml,14,98,0.007538,0.08,uw,uw61961361,2023-09-22T03:42:55.880Z,"37 km NNE of Amboy, Washington",earthquake,0.3,0.41,0.10219678655985631,9,reviewed,uw,uw
 2023-09-21T20:25:07.180Z,44.733,-112.4735,13.2,1.03,ml,5,227,0.1507,0.03,mb,mb90027953,2023-09-21T23:25:27.840Z,"14 km NE of Lima, Montana",earthquake,0.93,1.93,0.0587795331203771,5,reviewed,mb,mb
 2023-09-21T20:20:57.020Z,38.8481674,-122.8166656,1.62,0.82,md,9,112,0.008323,0.02,nc,nc73939991,2023-09-21T20:22:31.529Z,"9 km WNW of Cobb, CA",earthquake,0.41,1.05,0.23,10,automatic,nc,nc
 2023-09-21T20:12:31.975Z,61.1096,-151.1682,69.1,1.1,ml,,,,0.6,ak,ak023c4xuxhj,2023-09-21T20:14:49.909Z,"4 km NNW of Tyonek, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-21T03:51:52.600Z,38.8230019,-122.8266678,3.74,0.86,md,7,175,0.006533,0.01,nc,nc73939646,2023-09-21T03:53:26.548Z,"8 km NW of The Geysers, CA",earthquake,1.21,2.02,0.24,6,automatic,nc,nc
 2023-09-21T03:51:17.280Z,58.2455,-155.150333333333,33.7,0.17,ml,16,72,,0.25,av,av92052306,2023-09-21T19:17:29.420Z,"85 km NNW of Karluk, Alaska",earthquake,0.73,1.01,0.328416373980745,16,reviewed,av,av
 2023-09-21T03:50:00.690Z,58.2471666666667,-155.1465,31.52,0.91,ml,18,74,,0.27,av,av92052296,2023-09-21T17:15:05.340Z,"85 km NNW of Karluk, Alaska",earthquake,0.75,0.96,0.30341909916519,17,reviewed,av,av
-2023-09-21T03:41:39.184Z,39.7398,-120.5715,6.4,0.3,ml,4,274.92,0.207,0.1481,nn,nn00866199,2023-09-21T19:55:57.151Z,"0 km WNW of Valley Ranch, California",earthquake,,7.4,0.01,2,reviewed,nn,nn
