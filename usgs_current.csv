@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T23:29:34.900Z,38.7796669,-122.7161636,1.75,1.25,md,6,196,0.01646,0.01,nc,nc73941906,2023-09-25T23:31:10.331Z,"2 km WNW of Anderson Springs, CA",earthquake,1.12,2.22,0.38,7,automatic,nc,nc
+2023-09-25T23:28:11.070Z,34.039,-117.2658333,16.84,1.3,ml,38,42,0.1017,0.18,ci,ci40572480,2023-09-25T23:31:41.504Z,"1 km SSW of Loma Linda, CA",earthquake,0.24,0.55,0.203,29,automatic,ci,ci
+2023-09-25T23:27:06.090Z,38.8320007,-122.8180008,1.57,0.73,md,11,83,0.01059,0.02,nc,nc73941901,2023-09-25T23:28:40.258Z,"8 km NW of The Geysers, CA",earthquake,0.39,0.8,0.37,11,automatic,nc,nc
+2023-09-25T23:24:21.913Z,58.1674,-155.2312,0,0.9,ml,,,,0.57,ak,ak023cblv64v,2023-09-25T23:26:16.927Z,"Alaska Peninsula",earthquake,,4,,,automatic,ak,ak
 2023-09-25T23:11:17.735Z,64.9947,-147.4879,0,1.5,ml,,,,0.99,ak,ak023cblsdi5,2023-09-25T23:13:01.768Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-25T23:10:54.910Z,35.6831667,-117.5551667,6.63,0.78,ml,8,137,0.1085,0.18,ci,ci40572472,2023-09-25T23:14:31.284Z,"13 km ENE of Ridgecrest, CA",earthquake,0.91,1.87,0.102,5,automatic,ci,ci
+2023-09-25T23:10:54.760Z,35.6766667,-117.555,9.95,0.8,ml,13,129,0.09128,0.13,ci,ci40572472,2023-09-25T23:33:41.108Z,"13 km ENE of Ridgecrest, CA",earthquake,0.46,0.82,0.116,5,reviewed,ci,ci
 2023-09-25T23:03:04.460Z,33.197,-116.3863333,13.56,0.85,ml,27,73,0.07556,0.2,ci,ci40572464,2023-09-25T23:21:49.802Z,"7 km S of Borrego Springs, CA",earthquake,0.31,0.8,0.165,12,reviewed,ci,ci
 2023-09-25T22:59:29.980Z,38.8226662,-122.8059998,2.56,1.07,md,15,41,0.003265,0.01,nc,nc73941891,2023-09-25T23:01:05.121Z,"7 km NW of The Geysers, CA",earthquake,0.28,1.07,0.17,17,automatic,nc,nc
 2023-09-25T22:48:43.143Z,62.0811,-150.9617,9.9,1.3,ml,,,,0.71,ak,ak023cblexcq,2023-09-25T22:50:42.710Z,"24 km ENE of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -206,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T23:47:58.612Z,62.2114,-148.3894,34,1.2,ml,,,,0.49,ak,ak023c9ygtxx,2023-09-24T23:50:04.185Z,"46 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-09-24T23:46:36.816Z,60.181,-152.7076,129.1,2,ml,,,,1.27,ak,ak023c9ygkjl,2023-09-24T23:56:43.210Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-24T23:44:16.328Z,62.2147,-148.4323,21.3,2.2,ml,,,,0.81,ak,ak023c9yg3jo,2023-09-24T23:45:52.359Z,"46 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-09-24T23:31:47.710Z,60.1946666666667,-152.864,10.47,0.35,ml,9,174,,0.14,av,av92057151,2023-09-25T01:23:58.770Z,"68 km WNW of Ninilchik, Alaska",earthquake,1.41,1.95,0.192075481219046,8,reviewed,av,av
