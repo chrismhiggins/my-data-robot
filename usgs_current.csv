@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-25T10:40:06.640Z,60.4908,-152.0709,76.2,1.4,ml,,,,0.36,ak,ak023cbe7xjs,2023-09-25T10:42:09.670Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-09-25T10:11:34.560Z,33.5206667,-116.5331667,13.09,0.54,ml,17,70,0.06323,0.18,ci,ci40572088,2023-09-25T10:15:00.963Z,"14 km ESE of Anza, CA",earthquake,0.33,0.68,0.145,13,automatic,ci,ci
 2023-09-25T10:06:05.180Z,38.8250008,-122.8571701,2.24,1.33,md,22,67,0.002551,0.02,nc,nc73941706,2023-09-25T10:07:41.913Z,"10 km WNW of The Geysers, CA",earthquake,0.24,0.4,0.24,22,automatic,nc,nc
 2023-09-25T09:47:47.466Z,63.1042,-151.5405,0,1.5,ml,,,,0.77,ak,ak023cbdo339,2023-09-25T09:50:16.955Z,"49 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -163,7 +164,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T16:21:10.660Z,33.468,-116.409,11.68,0.73,ml,25,50,0.05699,0.23,ci,ci40571640,2023-09-24T16:24:38.802Z,"24 km SSW of La Quinta, CA",earthquake,0.39,0.85,0.155,19,automatic,ci,ci
 2023-09-24T16:19:09.180Z,60.4319,-143.2425,13.7,0.6,ml,,,,0.45,ak,ak023c9u4oue,2023-09-24T16:20:18.986Z,"112 km S of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-24T16:18:54.810Z,34.0526667,-117.2381667,13.99,0.74,ml,17,57,0.09866,0.3,ci,ci40571632,2023-09-24T16:22:34.864Z,"2 km ENE of Loma Linda, CA",earthquake,0.63,1.19,0.191,13,automatic,ci,ci
-2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"108 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-09-24T16:13:40.261Z,60.4764,-143.2509,12.9,1.6,ml,,,,0.47,ak,ak023c9u3gy2,2023-09-24T16:15:51.100Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-24T16:02:21.570Z,17.98,-66.9376666666667,14.9,2.39,md,5,171,0.05581,0.09,pr,pr71425683,2023-09-24T16:19:33.910Z,"2 km WSW of Fuig, Puerto Rico",earthquake,0.74,1.34,0.0156285170132673,3,reviewed,pr,pr
 2023-09-24T16:00:30.200Z,62.3672,-151.3753,79.2,1.4,ml,,,,0.4,ak,ak023c9u0nv0,2023-09-24T16:02:26.744Z,"34 km WSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-24T15:52:21.960Z,36.1958351,-120.3026657,6.68,1.21,md,5,141,0.07674,0.14,nc,nc73941306,2023-09-24T15:53:58.294Z,"8 km NE of Coalinga, CA",earthquake,0.83,1.47,0.05,4,automatic,nc,nc
@@ -210,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T11:12:17.890Z,58.1725,-155.374666666667,1.95,-0.43,ml,9,77,,0.08,av,av92056371,2023-09-24T21:20:18.670Z,"86 km NW of Karluk, Alaska",earthquake,0.23,0.49,0.16435973459773,9,reviewed,av,av
 2023-09-24T11:09:43.104Z,58.1771,-155.3991,1.1,0.2,ml,,,,0.16,ak,ak023c9r3g9y,2023-09-24T21:18:36.300Z,"Alaska Peninsula",earthquake,,2.3,,,automatic,ak,ak
 2023-09-24T11:01:55.994Z,-18.0779,-178.3313,614.919,4.4,mb,54,40,4.152,0.78,us,us7000kxtc,2023-09-24T11:17:38.040Z,"248 km E of Levuka, Fiji",earthquake,10.38,8.012,0.038,200,reviewed,us,us
-2023-09-24T10:46:08.110Z,19.156665802002,-155.356994628906,26.5799999237061,2.27,ml,47,182,,0.119999997,hv,hv73584537,2023-09-24T10:52:11.040Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.5,0.889999986,3.54,11,automatic,hv,hv
-2023-09-24T10:42:03.670Z,33.5588333,-116.6506667,2.29,0.78,ml,30,44,0.01852,0.14,ci,ci40571480,2023-09-24T10:45:37.240Z,"2 km ENE of Anza, CA",earthquake,0.16,0.19,0.129,24,automatic,ci,ci
-2023-09-24T10:40:26.630Z,19.1663341522217,-155.488159179688,32.0400009155273,1.78999996,md,30,164,,0.119999997,hv,hv73584532,2023-09-24T10:43:44.750Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.59,0.920000017,0.889999986,3,automatic,hv,hv
