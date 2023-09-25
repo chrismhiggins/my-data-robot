@@ -212,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-24T12:02:26.250Z,38.8311653,-122.8183365,1.91,0.29,md,14,79,0.01009,0.01,nc,nc73941216,2023-09-24T12:04:01.424Z,"8 km NW of The Geysers, CA",earthquake,0.35,0.6,0.18,13,automatic,nc,nc
 2023-09-24T11:59:06.828Z,60.0465,-151.9425,67.9,1.5,ml,,,,0.64,ak,ak023c9re3a2,2023-09-24T12:01:08.721Z,"15 km W of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-24T11:57:45.460Z,33.0374985,-116.3915024,10.96,1.54,ml,26,93,0.0558,0.16,ci,ci40571496,2023-09-24T11:59:50.846Z,"20 km ESE of Julian, CA",earthquake,0.38,0.47,0.355,8,automatic,ci,ci
-2023-09-24T11:53:50.340Z,35.8675,-117.6995,8.11,1.12,ml,14,155,0.07925,0.21,ci,ci40571488,2023-09-24T12:04:58.860Z,"20 km ESE of Little Lake, CA",earthquake,0.59,1.39,0.21,8,automatic,ci,ci
-2023-09-24T11:50:39.120Z,58.192,-155.2685,1.99,0.02,ml,11,86,,0.09,av,av92056441,2023-09-24T21:32:14.960Z,"Alaska Peninsula",earthquake,0.24,0.46,0.39153386844842,11,reviewed,av,av
