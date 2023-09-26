@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-26T21:13:18.470Z,35.894001,-117.6863327,1.97,1,ml,10,163,0.1065,0.14,ci,ci40573088,2023-09-26T21:15:27.560Z,"20 km ESE of Little Lake, CA",earthquake,0.43,0.57,0.103,6,automatic,ci,ci
 2023-09-26T20:27:28.300Z,38.8349991,-122.8043365,1.89,0.3,md,9,75,0.01145,0.01,nc,nc73942251,2023-09-26T20:29:02.679Z,"7 km WNW of Cobb, CA",earthquake,0.42,0.95,0.17,11,automatic,nc,nc
 2023-09-26T20:08:55.170Z,38.836834,-122.8059998,1.99,1.04,md,16,55,0.01233,0.01,nc,nc73942246,2023-09-26T20:10:31.622Z,"7 km WNW of Cobb, CA",earthquake,0.24,0.53,0.1,17,automatic,nc,nc
 2023-09-26T20:00:15.161Z,62.0829,-151.056,67.8,1.7,ml,,,,0.31,ak,ak023cd7h23w,2023-09-26T20:02:39.459Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -15,6 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T18:15:27.770Z,33.8556667,-117.484,-0.5,1.36,ml,29,48,0.05008,0.28,ci,ci40573048,2023-09-26T19:04:15.661Z,"4 km SE of Home Gardens, CA",quarry blast,0.41,31.61,0.133,19,reviewed,ci,ci
 2023-09-26T17:49:53.120Z,33.4753333,-116.8876667,12.18,1.04,ml,27,36,0.02086,0.14,ci,ci40573024,2023-09-26T18:59:25.153Z,"4 km NNW of Aguanga, CA",earthquake,0.21,0.5,0.132,20,reviewed,ci,ci
 2023-09-26T17:40:52.282Z,17.3899,-94.6372,142.198,4.8,mb,102,113,2.636,1.31,us,us6000laxz,2023-09-26T19:54:33.838Z,"14 km SE of Vicente Guerrero, Mexico",earthquake,7.14,8.326,0.037,236,reviewed,us,us
+2023-09-26T17:25:06.671Z,-2.0758,99.962,35.694,4.4,mb,38,133,4.85,0.91,us,us6000lay2,2023-09-26T21:06:22.040Z,"41 km E of Tuapejat, Indonesia",earthquake,10.06,8.165,0.106,29,reviewed,us,us
 2023-09-26T17:23:31.250Z,36.4155,-96.87833333,7.28,1.42,ml,33,69,0.04319152435,0.21,ok,ok2023swzg,2023-09-26T17:56:26.530Z,"10 km NW of Pawnee, Oklahoma",earthquake,,0.4,0.08,5,reviewed,ok,ok
 2023-09-26T17:01:20.700Z,63.0427,-149.3183,67.5,1.6,ml,,,,0.93,ak,ak023cd5ozfy,2023-09-26T17:03:28.380Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-26T16:42:28.866Z,61.5517,-149.8315,32.4,1.6,ml,,,,0.72,ak,ak023cd5ccti,2023-09-26T16:44:31.471Z,"7 km ENE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -55,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T12:21:45.970Z,43.6046666666667,-110.499833333333,1.78,0.57,ml,7,272,0.07591,0.06,mb,mb90028258,2023-09-26T16:59:28.760Z,"10 km ESE of Kelly, Wyoming",earthquake,0.78,0.67,0.137472831418359,5,reviewed,mb,mb
 2023-09-26T12:20:26.620Z,38.8520012,-122.7768326,1.22,0.39,md,8,162,0.009392,0.03,nc,nc73942096,2023-09-26T12:22:00.673Z,"6 km NW of Cobb, CA",earthquake,0.4,0.52,0.29,8,automatic,nc,nc
 2023-09-26T12:15:28.568Z,36.7283,-116.1501,2.4,0,ml,6,138.37,0.018,0.0813,nn,nn00866370,2023-09-26T17:11:40.269Z,"46 km WNW of Indian Springs, Nevada",earthquake,,2.8,0.02,3,reviewed,nn,nn
-2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"16 km ESE of Lincoln, Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
+2023-09-26T12:14:21.130Z,46.8871666666667,-112.491833333333,8.28,0.98,ml,9,117,0.0368,0.05,mb,mb90028253,2023-09-26T20:14:01.170Z,"Western Montana",earthquake,0.34,0.47,0.24928358651145,5,reviewed,mb,mb
 2023-09-26T12:13:58.168Z,60.4814,-153.1314,155.3,1.5,ml,,,,0.49,ak,ak023cd2sgw8,2023-09-26T12:16:10.818Z,"72 km ENE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-09-26T12:10:14.491Z,61.4856,-149.9816,19.7,1.7,ml,,,,0.75,ak,ak023cd2rqej,2023-09-26T12:11:42.401Z,"4 km SSW of Big Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-09-26T11:56:40.230Z,37.8321648,-121.8024979,0.87,2,md,18,77,0.1126,0.22,nc,nc73942086,2023-09-26T11:58:15.880Z,"9 km E of Blackhawk, CA",earthquake,0.49,2.74,0.16,11,automatic,nc,nc
