@@ -190,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-25T08:12:17.320Z,35.6091667,-117.4218333,2.68,0.9,ml,13,101,0.05584,0.2,ci,ci40572064,2023-09-25T19:22:55.473Z,"18 km SSW of Trona, CA",earthquake,0.64,0.81,0.169,5,reviewed,ci,ci
 2023-09-25T08:01:14.890Z,60.8606,-152.4671,115.1,1.5,ml,,,,0.55,ak,ak023cbcsq0o,2023-09-25T08:03:49.209Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-09-25T08:00:10.860Z,35.8896667,-117.7106667,8.27,1.15,ml,19,148,0.09214,0.14,ci,ci40572056,2023-09-25T19:19:59.122Z,"18 km ESE of Little Lake, CA",earthquake,0.32,0.76,0.066,6,reviewed,ci,ci
-2023-09-25T07:50:52.863Z,64.9358,-148.6072,21.2,0.8,ml,,,,0.41,ak,ak023cbchvgm,2023-09-25T07:52:51.474Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-09-25T07:41:31.090Z,46.642,-121.67266666666667,7.42,0.84,ml,19,76,0.1134,0.1,uw,uw61962131,2023-09-25T16:35:44.170Z,"Washington",earthquake,0.28,0.38,0.12663782471485419,8,reviewed,uw,uw
