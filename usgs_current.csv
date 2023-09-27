@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-09-27T13:02:35.300Z,33.5436667,-116.5883333,1.01,0.46,ml,13,135,0.04207,0.3,ci,ci40573328,2023-09-27T13:06:13.502Z,"8 km E of Anza, CA",earthquake,0.74,0.89,0.144,7,automatic,ci,ci
 2023-09-27T12:34:05.800Z,19.1714992523193,-155.47966003418,33.8600006103516,1.90999997,md,28,163,,0.109999999,hv,hv73586432,2023-09-27T12:37:08.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.8,1.38999999,0.949999988,3,automatic,hv,hv
 2023-09-27T12:16:49.937Z,61.3563,-150.1079,32.9,1.9,ml,,,,0.69,ak,ak023ceqcfwh,2023-09-27T12:31:39.198Z,"6 km W of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-09-27T12:01:28.980Z,32.91,-116.2458333,8.57,1.03,ml,24,80,0.06573,0.29,ci,ci40573320,2023-09-27T12:05:00.094Z,"28 km SSW of Ocotillo Wells, CA",earthquake,0.44,1.33,0.116,15,automatic,ci,ci
@@ -184,8 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-26T13:34:39.995Z,61.4958,-151.5492,70.9,1.8,ml,,,,0.51,ak,ak023cd3id4v,2023-09-26T13:36:30.573Z,"46 km NNW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-09-26T13:25:42.340Z,38.8339996,-122.8148346,1.1,0.91,md,20,56,0.01122,0.01,nc,nc73942131,2023-09-26T13:27:16.731Z,"8 km W of Cobb, CA",earthquake,0.19,0.47,0.23,22,automatic,nc,nc
 2023-09-26T13:24:40.670Z,38.8341675,-122.8151703,1.04,1.08,md,19,57,0.01147,0.01,nc,nc73942126,2023-09-26T13:26:16.478Z,"8 km W of Cobb, CA",earthquake,0.18,0.36,0.16,19,automatic,nc,nc
-2023-09-26T13:19:17.510Z,35.8901667,-117.7198333,4.26,1.67,ml,26,114,0.08928,0.12,ci,ci40572768,2023-09-26T16:23:19.240Z,"18 km ESE of Little Lake, CA",earthquake,0.17,0.38,0.106,14,reviewed,ci,ci
-2023-09-26T13:13:51.760Z,59.5614,-152.7411,69.3,1.5,ml,,,,0.51,ak,ak023cd3dv1x,2023-09-26T14:19:01.911Z,"51 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,reviewed,ak,ak
-2023-09-26T13:01:51.100Z,58.2685,-154.944,2.55,0.23,ml,9,178,,0.12,av,av92059596,2023-09-27T02:24:02.570Z,"Alaska Peninsula",earthquake,0.41,0.47,0.386028122311549,9,reviewed,av,av
-2023-09-26T13:00:25.650Z,38.796833,-122.7488327,1.35,1.07,md,14,96,0.009306,0.02,nc,nc73942116,2023-09-26T13:02:00.438Z,"2 km NNE of The Geysers, CA",earthquake,0.28,0.49,0.08,14,automatic,nc,nc
-2023-09-26T12:57:15.620Z,34.419,-118.6368333,7.67,0.86,ml,15,67,0.02136,0.2,ci,ci40572760,2023-09-26T16:17:23.816Z,"7 km WSW of Valencia, CA",earthquake,0.4,0.82,0.016,4,reviewed,ci,ci
