@@ -207,6 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-28T17:51:03.653Z,60.4346,-143.2918,19.7,1,ml,,,,0.21,ak,ak023cgh2cwt,2023-09-28T17:52:35.041Z,"113 km S of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-09-28T17:50:10.000Z,35.9801667,-117.6805,2.06,1.15,ml,17,120,0.1041,0.18,ci,ci40573976,2023-09-28T18:33:05.013Z,"21 km ENE of Little Lake, CA",earthquake,0.35,0.42,0.048,7,reviewed,ci,ci
 2023-09-28T17:49:56.040Z,46.7585,-121.9245,3.88,0.68,ml,16,170,0.0191,0.06,uw,uw61962756,2023-09-29T02:29:11.570Z,"8 km E of Ashford, Washington",earthquake,0.3,0.49,0.148318387706611,3,reviewed,uw,uw
-2023-09-28T17:41:48.140Z,38.7921677,-122.8051682,3.3,1.97,md,36,77,0.004172,0.05,nc,nc73943076,2023-09-28T17:45:04.920Z,"4 km WNW of The Geysers, CA",earthquake,0.19,0.36,0.21,35,automatic,nc,nc
-2023-09-28T17:40:40.194Z,62.7826,-149.0214,61.3,1.3,ml,,,,0.54,ak,ak023cgh02ur,2023-09-28T17:42:38.049Z,"66 km ENE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-09-28T17:40:04.490Z,44.2539,148.635,15.126,5.8,mww,186,50,4.348,0.72,us,us6000lbgs,2023-09-28T19:44:56.792Z,"123 km SSE of Kuril’sk, Russia",earthquake,7.54,4.146,0.062,25,reviewed,us,us
