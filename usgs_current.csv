@@ -237,12 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-29T08:25:22.590Z,37.0036667,-121.1985,2.3,1.5,md,38,70,0.07098,0.17,nc,nc73943226,2023-09-29T16:40:11.228Z,"25 km NE of Hollister, CA",earthquake,0.23,1.31,0.17,32,reviewed,nc,nc
 2023-09-29T08:23:03.850Z,58.2668333333333,-154.766,30.57,0.78,ml,12,187,,0.16,av,av92066726,2023-09-29T23:40:44.410Z,"79 km NNW of Karluk, Alaska",earthquake,0.99,0.77,0.294680808138963,14,reviewed,av,av
 2023-09-29T08:22:37.333Z,57.9765,-154.4933,250,1.4,ml,,,,0.74,ak,ak023chz2nsl,2023-09-29T08:25:43.861Z,"45 km N of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-09-29T08:16:38.220Z,33.3115,-116.2376667,4.51,1.74,ml,52,24,0.1193,0.2,ci,ci40574288,2023-09-29T12:58:55.350Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.93,0.158,27,reviewed,ci,ci
-2023-09-29T08:14:19.400Z,18.0343333333333,-66.7975,17.05,2.08,md,6,146,0.09762,0.09,pr,pr71426458,2023-09-29T08:23:14.120Z,"1 km NNW of Guayanilla, Puerto Rico",earthquake,0.56,0.98,0.0216757970324064,5,reviewed,pr,pr
-2023-09-29T08:10:39.600Z,60.5173333333333,-152.7415,4.16,-0.28,ml,7,121,,0.04,av,av92066721,2023-09-29T23:34:22.840Z,"78 km W of Salamatof, Alaska",earthquake,0.29,0.7,0.250938177866698,7,reviewed,av,av
-2023-09-29T08:09:55.350Z,37.5701667,-118.827,5.39,0.37,md,9,279,0.0199,0.01,nc,nc73943221,2023-09-29T09:27:40.845Z,"13 km W of Toms Place, CA",earthquake,2.19,2.17,0.194,9,reviewed,nc,nc
-2023-09-29T08:05:50.078Z,61.437,-149.9849,164.6,2,ml,,,,1,ak,ak023chyz1lr,2023-09-29T08:09:03.725Z,"8 km N of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-29T08:00:12.742Z,37.5257,-117.9572,0,1.7,ml,12,94.49,0.158,0.1478,nn,nn00866534,2023-09-30T02:04:04.771Z,"California-Nevada border region",earthquake,,4.1,0.59,10,reviewed,nn,nn
-2023-09-29T07:58:12.570Z,-15.7285,-70.4541,218.576,4.3,mb,49,139,2.073,0.92,us,us6000lbmj,2023-09-29T12:27:53.040Z,"16 km ESE of Santa Lucía, Peru",earthquake,12.69,10.721,0.092,33,reviewed,us,us
-2023-09-29T07:57:51.936Z,36.8474,140.3369,115.362,4.5,mb,83,133,1.737,0.93,us,us6000lbmk,2023-09-29T11:03:22.180Z,"9 km N of Daigo, Japan",earthquake,8.37,6.908,0.067,65,reviewed,us,us
-2023-09-29T07:57:04.081Z,58.2522,-155.1338,0,1,ml,,,,0.59,ak,ak023chyonoo,2023-09-29T23:29:57.810Z,"Alaska Peninsula",earthquake,,7,,,automatic,ak,ak
