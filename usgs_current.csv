@@ -160,6 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-09-30T03:07:24.541Z,43.3862,143.8979,10,4.4,mb,36,144,1.196,0.67,us,us6000lbui,2023-09-30T04:02:45.040Z,"15 km SE of Rikubetsu, Japan",earthquake,7.52,1.888,0.114,22,reviewed,us,us
 2023-09-30T03:05:58.010Z,44.3553333333333,-115.198,6.36,1.34,ml,10,63,0.7863,0.15,mb,mb90028908,2023-09-30T14:19:10.370Z,"southern Idaho",earthquake,0.39,1.46,0.21430665374929,10,reviewed,mb,mb
 2023-09-30T02:57:50.850Z,61.5416,-150.5898,44.5,1.9,ml,,,,0.65,ak,ak023cjj8xqa,2023-09-30T02:59:32.102Z,"4 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-09-30T02:42:39.220Z,19.147,-155.372333333333,29.77,3.17,ml,62,182,,0.12,hv,hv73588382,2023-09-30T03:10:15.981Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.4,0.48,0.152552057449013,44,reviewed,hv,hv
-2023-09-30T02:41:32.185Z,63.3703,-150.1421,115.8,2.4,ml,,,,0.26,ak,ak023cjj5gv1,2023-09-30T03:52:17.040Z,"59 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-09-30T02:38:27.610Z,33.5755,-116.7213333,9.06,1.21,ml,26,55,0.01671,0.33,ci,ci40574712,2023-09-30T16:35:36.262Z,"5 km WNW of Anza, CA",earthquake,0.6,1.14,0.272,27,reviewed,ci,ci
