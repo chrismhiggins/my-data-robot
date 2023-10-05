@@ -22,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T20:41:09.840Z,17.935,-66.8211666666667,9.52,2.98,md,24,193,0.06815,0.09,pr,pr71427593,2023-10-05T22:38:33.907Z,"6 km S of Indios, Puerto Rico",earthquake,0.31,0.35,0.108580562009152,8,reviewed,pr,pr
 2023-10-05T20:31:35.140Z,36.0235,-96.52683333,0,1.35,ml,36,82,0.2258556794,0.36,ok,ok2023tnqz,2023-10-05T20:53:42.073Z,"7 km ENE of Drumright, Oklahoma",quarry blast,,0.4,0.1,3,reviewed,ok,ok
 2023-10-05T20:12:11.010Z,19.3638324737549,-155.299499511719,1,2.05,ml,19,102,,0.109999999,hv,hv73594152,2023-10-05T20:17:42.210Z,"11 km SW of Volcano, Hawaii",earthquake,0.23,0.319999993,0.16,3,automatic,hv,hv
-2023-10-05T20:11:33.090Z,19.3640003204346,-155.297164916992,0.949999988079071,1.94,ml,12,168,,0.150000006,hv,hv73594147,2023-10-05T20:17:03.560Z,"Island of Hawaii, Hawaii",earthquake,0.32,0.529999971,0.23,4,automatic,hv,hv
+2023-10-05T20:11:33.090Z,19.3640003204346,-155.297164916992,0.949999988079071,1.94,ml,12,168,,0.150000006,hv,hv73594147,2023-10-05T20:17:03.560Z,"10 km SW of Volcano, Hawaii",earthquake,0.32,0.529999971,0.23,4,automatic,hv,hv
 2023-10-05T20:09:43.290Z,44.792,-114.392,6.4,1.63,ml,17,68,0.4502,0.28,mb,mb90029148,2023-10-05T21:18:34.950Z,"34 km NNW of Challis, Idaho",earthquake,0.7,1.43,0.223286607805806,16,reviewed,mb,mb
 2023-10-05T20:00:42.490Z,19.3503341674805,-155.293334960938,2.77999997138977,1.72,ml,17,119,,0.140000001,hv,hv73594122,2023-10-05T20:06:13.350Z,"11 km SSW of Volcano, Hawaii",earthquake,0.35,0.529999971,0.19,6,automatic,hv,hv
 2023-10-05T20:00:36.440Z,66.8534,-146.2293,6.2,1.6,ml,,,,0.37,ak,ak023cs3b8h7,2023-10-05T21:34:49.217Z,"19 km SSE of Venetie, Alaska",earthquake,,0.3,,,reviewed,ak,ak
@@ -97,7 +97,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-05T14:16:59.040Z,44.5511666666667,-111.469833333333,12.32,1.19,ml,12,102,0.111,0.22,mb,mb90029138,2023-10-05T14:25:15.440Z,"16 km NNW of Island Park, Idaho",earthquake,1.02,4.08,0.203398345743703,4,reviewed,mb,mb
 2023-10-05T14:14:44.166Z,31.634,-104.177,7.7769,3,mlv,44,63,0.1,0.2,tx,tx2023tneo,2023-10-05T14:32:27.538Z,"50 km NW of Toyah, Texas",earthquake,0.7642540299,0.904673394,0.2,32,reviewed,tx,tx
 2023-10-05T14:14:26.130Z,35.9376678,-120.4923325,9.5,1.72,md,26,75,0.01901,0.06,nc,nc73945761,2023-10-05T16:16:15.779Z,"7 km NW of Parkfield, CA",earthquake,0.26,0.31,0.1,14,automatic,nc,nc
-2023-10-05T14:11:36.794Z,37.2682,-115.6106,0,1.2,ml,19,136.58,0.31,0.1506,nn,nn00866809,2023-10-05T17:23:21.533Z,"40 km WSW of Alamo, Nevada",earthquake,,0,0.21,11,reviewed,nn,nn
+2023-10-05T14:11:36.904Z,37.2666,-115.6188,0,1.2,ml,20,136.05,0.303,0.1914,nn,nn00866809,2023-10-05T23:23:15.258Z,"Nevada",earthquake,,0,0.2,12,reviewed,nn,nn
 2023-10-05T14:08:39.130Z,17.9405,-66.8273333333333,9.17,2.56,md,7,218,0.0602,0.08,pr,pr71427573,2023-10-05T14:22:07.230Z,"5 km S of Indios, Puerto Rico",earthquake,0.6,0.57,0.0918689427577843,4,reviewed,pr,pr
 2023-10-05T14:05:07.420Z,19.3815,-155.278333333333,1.62,0.129999995,md,17,120,,0.1,hv,hv73593347,2023-10-05T14:23:18.740Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.22,,1,reviewed,hv,hv
 2023-10-05T14:02:49.790Z,38.8181648,-122.7956696,0,1.69,md,32,28,0.01019,0.06,nc,nc73945751,2023-10-05T15:18:15.476Z,"6 km NW of The Geysers, CA",earthquake,0.15,0.3,0.13,32,automatic,nc,nc
@@ -266,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-04T23:44:53.136Z,61.7869,-149.5475,35.4,1.4,ml,,,,0.31,ak,ak023cqhtnb5,2023-10-04T23:47:01.127Z,"17 km WNW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-04T23:37:16.050Z,64.6311,-150.1616,3.3,1.8,ml,,,,0.6,ak,ak023cqhs2fp,2023-10-04T23:39:55.176Z,"46 km SSE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-10-04T23:34:18.457Z,59.4726,-152.6305,71.2,2.1,ml,,,,0.28,ak,ak023cqhrfh1,2023-10-04T23:39:35.040Z,"42 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-04T23:22:34.930Z,60.0901666666667,-152.988833333333,1,0.01,ml,5,304,,0.27,av,av92073981,2023-10-05T03:31:08.290Z,"70 km ENE of Pedro Bay, Alaska",earthquake,1.46,0.57,0.106228070577892,5,reviewed,av,av
