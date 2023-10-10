@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-09T23:03:17.965Z,61.265,-149.9639,39.4,1,ml,,,,0.25,ak,ak023cyr9i0r,2023-10-09T23:34:17.072Z,"Southern Alaska",earthquake,,1.2,,,reviewed,ak,ak
 2023-10-09T22:53:38.750Z,19.3638324737549,-155.292007446289,1.37999999523163,1.9,ml,26,111,,0.140000001,hv,hv73602372,2023-10-09T22:59:06.750Z,"10 km SW of Volcano, Hawaii",earthquake,0.23,0.360000014,0.34,9,automatic,hv,hv
 2023-10-09T22:53:21.420Z,40.2355003,-121.1340027,-0.25,2.42,md,16,86,0.2232,0.17,nc,nc73948281,2023-10-10T00:28:13.293Z,"4 km NNE of Prattville, CA",earthquake,0.53,12.28,0.08,13,automatic,nc,nc
-2023-10-09T22:45:33.850Z,19.4965000152588,-155.992660522461,4.65000009536743,2.23,ml,33,228,,0.360000014,hv,hv73602362,2023-10-09T23:06:07.040Z,"7 km W of Captain Cook, Hawaii",earthquake,1.19,0.949999988,4.36,4,automatic,hv,hv
