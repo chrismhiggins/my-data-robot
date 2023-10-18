@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-18T09:22:17.132Z,31.672,-104.374,4.9233,3.8,ml(texnet),12,69,0,0.2,tx,tx2023ukol,2023-10-18T09:32:26.062Z,"55 km S of Whites City, New Mexico",earthquake,1.588244835,1.743400654,0.1,8,reviewed,tx,tx
 2023-10-18T08:52:40.810Z,37.6193352,-122.3743362,11.39,1.79,md,30,43,0.051,0.07,nc,nc73948555,2023-10-18T09:17:18.893Z,"3 km NNE of Millbrae, CA",earthquake,0.2,0.42,0.21,21,automatic,nc,nc
 2023-10-18T08:37:44.574Z,57.939,-154.7972,59.4,1.6,ml,,,,0.18,ak,ak023ddedhh5,2023-10-18T08:39:49.200Z,"Kodiak Island region, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-10-18T08:30:52.447Z,62.9243,-151.0584,1.1,2,ml,,,,0.79,ak,ak023ddebzdg,2023-10-18T08:39:43.475Z,"49 km NNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -200,6 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-17T09:54:26.880Z,36.2351666666667,-82.1496666666667,8.18,2.24,md,13,84,0.3037,0.13,se,se60501203,2023-10-17T23:21:42.327Z,"8 km WNW of Roan Mountain, Tennessee",earthquake,0.49,1.42,0.0560163709641541,12,reviewed,se,se
 2023-10-17T09:42:16.110Z,19.3423328399658,-155.302673339844,0.129999995231628,1.87,md,22,111,,0.180000007,hv,hv73611532,2023-10-17T09:45:23.150Z,"Island of Hawaii, Hawaii",earthquake,0.33,0.579999983,0.670000017,11,automatic,hv,hv
 2023-10-17T09:38:26.974Z,65.1259,-146.5127,15.2,1.2,ml,,,,0.76,ak,ak023dbrfqy1,2023-10-17T09:39:51.722Z,"32 km NNE of Pleasant Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-17T09:29:28.339Z,-7.4036,119.9459,422.678,4.3,mb,42,43,2.572,0.55,us,us6000lg3u,2023-10-18T08:17:25.040Z,"121 km N of Labuan Bajo, Indonesia",earthquake,11.19,8.723,0.109,24,reviewed,us,us
-2023-10-17T09:26:59.190Z,17.939,-66.9928333333333,15.14,2.29,md,4,231,0.05752,0.04,pr,pr71428963,2023-10-17T10:08:19.890Z,"6 km SE of La Parguera, Puerto Rico",earthquake,1.34,0.73,0.0553984450977236,4,reviewed,pr,pr
-2023-10-17T09:25:18.650Z,19.3661670684814,-155.294326782227,1,1.74000001,md,18,107,,0.159999996,hv,hv73611487,2023-10-17T09:28:15.110Z,"10 km SW of Volcano, Hawaii",earthquake,0.27,0.400000006,0.660000026,12,automatic,hv,hv
