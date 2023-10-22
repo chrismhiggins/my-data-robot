@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-22T10:31:49.120Z,19.1023330688477,-155.451171875,28.4400005340576,1.76999998,md,45,202,,0.159999996,hv,hv73617737,2023-10-22T10:35:05.070Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.59,0.819999993,1.13999999,7,automatic,hv,hv
+2023-10-22T10:30:12.227Z,61.6221,-151.5915,84.9,0.7,ml,,,,0.17,ak,ak023dk1o65i,2023-10-22T10:31:36.798Z,"42 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-10-22T10:09:46.980Z,38.6871681,-122.4954987,7.34,1.56,md,11,110,0.09331,0.06,nc,nc73949970,2023-10-22T10:19:10.923Z,"13 km SE of Middletown, CA",earthquake,0.35,1.85,0.12,11,automatic,nc,nc
 2023-10-22T10:09:33.090Z,34.1593333,-117.4256667,4.35,0.72,ml,20,149,0.03322,0.21,ci,ci40584888,2023-10-22T10:13:21.697Z,"7 km SSW of Devore, CA",earthquake,0.48,1.01,0.079,15,automatic,ci,ci
 2023-10-22T10:00:20.080Z,60.0742,-150.5663,42.4,2.8,ml,,,,0.22,ak,ak023dk1hra0,2023-10-22T10:04:57.040Z,"32 km NE of Fox River, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -197,4 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-21T10:45:58.982Z,9.5147,-83.6125,10,5.1,mww,63,136,0.69,0.95,us,us6000lh55,2023-10-22T00:35:51.719Z,"18 km NNE of San Isidro, Costa Rica",earthquake,5.33,1.883,0.058,29,reviewed,us,us
 2023-10-21T10:38:25.770Z,19.372,-155.301,1.64,1.21,md,18,95,,0.13,hv,hv73615952,2023-10-21T10:53:45.430Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.24,0.0982498717951811,2,reviewed,hv,hv
 2023-10-21T10:36:43.870Z,19.3598333333333,-155.2995,1.22,0.71,md,19,102,,0.11,hv,hv73615947,2023-10-21T11:01:33.670Z,"11 km SW of Volcano, Hawaii",earthquake,0.23,0.31,0.0836694302088766,2,reviewed,hv,hv
-2023-10-21T10:29:10.370Z,19.3626670837402,-155.299331665039,0.0799999982118607,1.75999999,md,15,105,,0.200000003,hv,hv73615927,2023-10-21T10:32:33.920Z,"Hawaii region, Hawaii",earthquake,0.24,0.400000006,0.400000006,11,automatic,hv,hv
