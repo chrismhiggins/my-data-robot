@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-10-23T10:09:16.600Z,38.8353348,-122.8166656,1.4,0.73,md,12,88,0.01299,0.01,nc,nc73950300,2023-10-23T10:10:53.023Z,"8 km W of Cobb, CA",earthquake,0.29,0.69,0.34,13,automatic,nc,nc
+2023-10-23T10:14:15.310Z,19.3766670227051,-155.27783203125,0.870000004768372,2.07,ml,33,90,,0.289999992,hv,hv73619932,2023-10-23T10:19:47.070Z,"8 km SSW of Volcano, Hawaii",earthquake,0.29,0.349999994,0.35,10,automatic,hv,hv
+2023-10-23T10:10:15.384Z,-29.9476,-177.5191,23.092,6,mww,64,68,0.767,1.18,us,us6000lhgd,2023-10-23T10:27:19.040Z,"Kermadec Islands, New Zealand",earthquake,8.17,4.349,0.056,31,reviewed,us,us
+2023-10-23T10:09:49.687Z,66.7617,-153.1875,5.9,2.5,ml,,,,0.7,ak,ak023dlp337f,2023-10-23T10:13:39.895Z,"31 km NW of Alatna, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-10-23T10:09:16.600Z,38.8353348,-122.8166656,1.4,0.73,md,12,88,0.01299,0.01,nc,nc73950300,2023-10-23T10:25:11.251Z,"8 km W of Cobb, CA",earthquake,0.29,0.69,0.34,13,automatic,nc,nc
 2023-10-23T09:48:00.266Z,60.607,-150.2586,62.4,1.4,ml,,,,0.62,ak,ak023dlopx0a,2023-10-23T09:50:44.497Z,"27 km WNW of Cooper Landing, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-10-23T09:26:40.685Z,62.4888,-151.6562,90.9,1.3,ml,,,,0.52,ak,ak023dloladg,2023-10-23T09:29:09.021Z,"45 km W of Petersville, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-10-23T09:17:44.547Z,61.9304,-147.0653,31.5,2.8,ml,,,,0.71,ak,ak023dlojcga,2023-10-23T09:19:29.046Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -8,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T09:07:21.740Z,38.8305016,-122.8166656,1.78,0.55,md,9,74,0.008767,0.02,nc,nc73950285,2023-10-23T09:17:11.867Z,"8 km NW of The Geysers, CA",earthquake,0.44,1.2,0.39,10,automatic,nc,nc
 2023-10-23T09:01:52.600Z,64.5736,-149.211,19.9,0.9,ml,,,,1.09,ak,ak023dlofye4,2023-10-23T09:04:05.224Z,"5 km SW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-10-23T09:00:03.750Z,38.7851677,-122.7366638,1.48,1.15,md,12,84,0.001928,0.02,nc,nc73950280,2023-10-23T09:10:09.827Z,"2 km ENE of The Geysers, CA",earthquake,0.28,0.82,0.2,12,automatic,nc,nc
-2023-10-23T08:51:51.740Z,38.8498344,-122.8151703,-0.71,1.4,md,24,59,0.008,0.14,nc,nc73950275,2023-10-23T09:02:11.783Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.82,0.08,25,automatic,nc,nc
+2023-10-23T08:51:51.740Z,38.8498344,-122.8151703,-0.71,1.4,md,24,59,0.008,0.14,nc,nc73950275,2023-10-23T10:25:10.251Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.82,0.08,25,automatic,nc,nc
 2023-10-23T08:48:17.020Z,17.9488,-66.293,3,3.55,md,13,188,0.1869,0.17,pr,pr2023296000,2023-10-23T09:37:27.735Z,"Puerto Rico region",earthquake,0.56,0.48,0.22,13,reviewed,pr,pr
 2023-10-23T08:20:12.860Z,18.0041666666667,-66.8091666666667,11.14,1.91,md,10,184,0.1969,0.08,pr,pr71429493,2023-10-23T08:31:14.120Z,"1 km NE of Indios, Puerto Rico",earthquake,0.42,1.9,0.132926993270502,4,reviewed,pr,pr
 2023-10-23T08:15:14.570Z,18.0056666666667,-66.8098333333333,13.2,2.7,md,10,182,0.1972,0.08,pr,pr71429483,2023-10-23T08:29:08.760Z,"1 km NE of Indios, Puerto Rico",earthquake,0.34,0.4,0.078438115108959,7,reviewed,pr,pr
@@ -179,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T10:38:02.873Z,-22.928,-69.3263,87.396,4.3,mb,22,114,0.317,0.61,us,us6000lhah,2023-10-22T10:48:52.040Z,"66 km SW of Calama, Chile",earthquake,5.38,5.474,0.188,8,reviewed,us,us
 2023-10-22T10:35:57.862Z,60.3676,-152.2948,88.4,2.5,ml,,,,0.41,ak,ak023dk1pc8d,2023-10-22T10:41:06.040Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-10-22T10:31:49.120Z,19.1023330688477,-155.451171875,28.4400005340576,1.76999998,md,45,202,,0.159999996,hv,hv73617737,2023-10-22T10:35:05.070Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.59,0.819999993,1.13999999,7,automatic,hv,hv
-2023-10-22T10:30:12.227Z,61.6221,-151.5915,84.9,0.7,ml,,,,0.17,ak,ak023dk1o65i,2023-10-22T10:31:36.798Z,"42 km SSW of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
