@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T14:42:15.503Z,38.1152,-121.6381,13.117,2.9,ml,26,43,0.451,1.04,us,us6000lhhw,2023-10-23T16:32:21.193Z,"5 km SSW of Isleton, California",earthquake,1.37,8.155,0.044,67,reviewed,us,us
 2023-10-23T14:33:17.449Z,60.6688,-149.0063,184.2,1.6,ml,,,,0.89,ak,ak023dlrlwm8,2023-10-23T14:35:36.068Z,"Kenai Peninsula, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-10-23T14:30:37.694Z,59.4189,-152.2466,42.2,1.7,ml,,,,0.54,ak,ak023dlrlb15,2023-10-23T14:32:20.123Z,"19 km WNW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
+2023-10-23T14:27:20.513Z,36.7044,-116.3339,9.3,-0.3,ml,8,269.99,0.024,0.057,nn,nn00867781,2023-10-23T16:39:49.154Z,"44 km ESE of Beatty, Nevada",earthquake,,1.9,0.76,6,reviewed,nn,nn
 2023-10-23T14:23:38.583Z,58.5834,-153.9204,39.9,0.3,ml,,,,0.81,ak,ak023dlrjtt9,2023-10-23T14:26:16.984Z,"83 km NW of Aleneva, Alaska",earthquake,,9.6,,,automatic,ak,ak
 2023-10-23T14:19:17.370Z,40.2851677,-124.4889984,15.1,2.4,md,14,272,0.112,0.1,nc,nc73950370,2023-10-23T16:11:12.295Z,"18 km WSW of Petrolia, CA",earthquake,2.25,0.62,0.16,13,automatic,nc,nc
 2023-10-23T14:15:16.750Z,38.8346672,-122.8166656,1.29,0.7,md,15,60,0.01238,0.03,nc,nc73950365,2023-10-23T15:56:11.211Z,"8 km W of Cobb, CA",earthquake,0.26,0.7,0.42,16,automatic,nc,nc
@@ -38,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-23T13:10:31.320Z,17.9998333333333,-66.8141666666667,11.38,2.45,md,7,186,0.2024,0.05,pr,pr71429538,2023-10-23T13:59:54.730Z,"0 km NE of Indios, Puerto Rico",earthquake,0.56,2.45,0.125139536082465,5,reviewed,pr,pr
 2023-10-23T13:05:54.050Z,17.9918333333333,-66.8066666666667,10.33,3.35,md,18,173,0.1973,0.18,pr,pr71429528,2023-10-23T14:40:40.040Z,"1 km E of Indios, Puerto Rico",earthquake,0.53,0.57,0.106694187187872,11,reviewed,pr,pr
 2023-10-23T13:00:37.269Z,65.1182,-151.5766,6.5,1.3,ml,,,,0.49,ak,ak023dlqtfwu,2023-10-23T13:02:45.404Z,"northern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-23T12:58:02.440Z,17.9988,-66.8058,10,4.45,md,17,171,0.239,0.19,pr,pr2023296001,2023-10-23T16:18:11.174Z,"Puerto Rico region",earthquake,0.68,0.85,0.19,9,reviewed,pr,pr
+2023-10-23T12:58:02.440Z,17.9988,-66.8058,10,4.45,md,17,171,0.239,0.19,pr,pr2023296001,2023-10-23T16:46:13.097Z,"Puerto Rico region",earthquake,0.68,0.85,0.19,9,reviewed,pr,pr
 2023-10-23T12:54:45.200Z,19.3120002746582,-155.365005493164,1.30999994277954,2.03999996,md,17,143,,0.209999993,hv,hv73620222,2023-10-23T12:57:56.170Z,"16 km NE of Pāhala, Hawaii",earthquake,0.41,0.409999996,2.03999996,4,automatic,hv,hv
 2023-10-23T12:48:00.799Z,61.2717,-151.5937,68,1.2,ml,,,,0.65,ak,ak023dlqi306,2023-10-23T12:50:07.790Z,"31 km WNW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-10-23T12:46:03.055Z,60.1316,-141.2608,19.1,1.6,ml,,,,0.99,ak,ak023dlqhslt,2023-10-23T12:48:18.660Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -165,4 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-22T17:14:39.796Z,64.2393,-147.7563,11,1.8,ml,,,,0.26,ak,ak023dk5qt19,2023-10-22T17:16:55.279Z,"52 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-22T17:03:34.470Z,19.3403333333333,-155.3075,3.45,2.15,ml,40,53,,0.1,hv,hv73618332,2023-10-22T22:44:57.770Z,"Hawaii region, Hawaii",earthquake,0.25,0.6,0.205996324797581,20,reviewed,hv,hv
 2023-10-22T16:53:48.890Z,19.3781661987305,-155.278839111328,1.19000005722046,1.85,ml,18,85,,0.119999997,hv,hv73618297,2023-10-22T16:59:19.060Z,"8 km SSW of Volcano, Hawaii",earthquake,0.2,0.219999999,0.31,8,automatic,hv,hv
-2023-10-22T16:45:01.250Z,19.1403331756592,-155.399337768555,31.1200008392334,1.78,ml,46,178,,0.109999999,hv,hv73618287,2023-10-22T16:50:33.060Z,"10 km SE of Pāhala, Hawaii",earthquake,0.56,0.720000029,4.97,5,automatic,hv,hv
