@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-10-25T08:20:33.542Z,60.1808,-152.6458,113.9,2.5,ml,,,,0.39,ak,ak023doz18wy,2023-10-25T08:22:14.927Z,"56 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-10-25T08:07:19.410Z,36.4313316,-121.7841644,8.87,1.56,md,11,121,0.04941,0.1,nc,nc73951100,2023-10-25T08:21:11.843Z,"8 km S of Carmel Valley Village, CA",earthquake,0.39,0.78,0.19,8,automatic,nc,nc
 2023-10-25T07:59:06.470Z,32.7121667,-115.8105,4.78,1.34,ml,20,59,0.09465,0.29,ci,ci40586968,2023-10-25T08:02:41.140Z,"17 km E of Ocotillo, CA",earthquake,0.48,1.37,0.21,17,automatic,ci,ci
 2023-10-25T07:51:18.150Z,34.1448333,-117.4216667,6.88,2.07,ml,89,24,0.04732,0.19,ci,ci40586960,2023-10-25T08:02:16.340Z,"6 km NNE of Fontana, CA",earthquake,0.16,0.5,0.184,24,automatic,ci,ci
 2023-10-25T07:42:35.835Z,61.1329,-148.2807,12.2,0.7,ml,,,,1.18,ak,ak023doykj9b,2023-10-25T07:44:56.892Z,"45 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -30,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-25T05:45:32.599Z,65.4553,-144.736,0.8,1.7,ml,,,,0.81,ak,ak023doxeax7,2023-10-25T05:48:40.472Z,"13 km SSE of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-10-25T05:44:05.580Z,32.7843333,-116.9725,16.61,1.19,ml,21,158,0.0548,0.14,ci,ci40586872,2023-10-25T05:47:38.870Z,"2 km SW of El Cajon, CA",earthquake,0.33,0.57,0.243,11,automatic,ci,ci
 2023-10-25T05:36:53.748Z,34.40821838,-97.52186584,1.469940186,2.37,ml,43,41.36181641,0.05991603807,0.8967471009,ok,ok2023uxbn,2023-10-25T05:42:15.370Z,"4 km SSW of Ratliff City, Oklahoma",earthquake,2.128257861,1.487508365,0.16,23,automatic,ok,ok
-2023-10-25T05:35:40.053Z,63.8318,-21.9759,10,3.5,mb_lg,5,249,0.962,0.27,us,us7000l661,2023-10-25T06:20:37.040Z,"Iceland region",earthquake,8.18,2.024,0.361,2,reviewed,us,us
+2023-10-25T05:35:40.053Z,63.8318,-21.9759,10,3.5,mb_lg,5,249,0.962,0.27,us,us7000l661,2023-10-25T08:16:43.396Z,"Iceland region",earthquake,8.18,2.024,0.361,2,reviewed,us,us
 2023-10-25T05:20:18.530Z,34.6835,-116.2878333,2.33,1.64,ml,14,65,0.1124,0.21,ci,ci40586864,2023-10-25T05:23:57.733Z,"12 km WSW of Ludlow, CA",earthquake,0.44,1,0.139,21,automatic,ci,ci
 2023-10-25T05:11:34.740Z,34.467,-116.5043333,0.07,1.14,ml,20,68,0.202,0.16,ci,ci40586856,2023-10-25T05:15:17.547Z,"39 km NE of Big Bear City, CA",earthquake,0.28,31.61,0.118,16,automatic,ci,ci
 2023-10-25T05:06:32.921Z,64.6998,-148.0645,27.3,0.9,ml,,,,0.34,ak,ak023dox5y0s,2023-10-25T05:09:25.864Z,"16 km S of Ester, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -220,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-10-24T09:04:18.848Z,61.3581,-152.2274,0,0.6,ml,,,,0.85,ak,ak023dnbzvfg,2023-10-24T09:07:23.778Z,"66 km WNW of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-10-24T08:41:02.930Z,45.4973333333333,-111.885666666667,4.57,1.2,ml,10,79,0.2056,0.12,mb,mb90030753,2023-10-24T14:31:55.600Z,"17 km S of Pony, Montana",earthquake,0.39,8.13,0.192911847531112,10,reviewed,mb,mb
 2023-10-24T08:29:50.320Z,38.840168,-122.810997,1.9,0.84,md,14,90,0.01622,0.01,nc,nc73950650,2023-10-24T10:05:12.361Z,"8 km WNW of Cobb, CA",earthquake,0.29,0.48,0.13,16,automatic,nc,nc
-2023-10-24T08:21:16.720Z,59.9168,-153.0444,110.9,1.6,ml,,,,0.34,ak,ak023dnbi2u0,2023-10-24T08:23:04.513Z,"61 km ENE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-10-24T08:14:19.006Z,60.3906,-148.1799,3.5,1.6,ml,,,,0.75,ak,ak023dnbgkzw,2023-10-24T08:16:25.323Z,"37 km NNW of Chenega, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-10-24T08:10:46.720Z,18.2245,-64.7723,116,4,md,11,232,0.2242,0.09,pr,pr2023297000,2023-10-24T08:43:06.254Z,"12 km S of Cruz Bay, U.S. Virgin Islands",earthquake,3.11,1.73,0.02,3,reviewed,pr,pr
