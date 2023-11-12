@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-12T09:25:54.820Z,38.5299988,-122.4445038,9.55,1.42,md,7,101,0.1054,0.05,nc,nc73961996,2023-11-12T09:27:27.862Z,"4 km NE of Saint Helena, CA",earthquake,0.64,3.62,0.07,8,automatic,nc,nc
+2023-11-12T09:25:54.820Z,38.5299988,-122.4445038,9.55,1.42,md,7,101,0.1054,0.05,nc,nc73961996,2023-11-12T09:36:10.726Z,"4 km NE of Saint Helena, CA",earthquake,0.64,3.62,0.07,8,automatic,nc,nc
 2023-11-12T09:21:15.293Z,63.5365,-148.7126,13.6,1.4,ml,,,,0.76,ak,ak023eirb3pl,2023-11-12T09:23:06.813Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-12T09:11:12.709Z,39.6374,-119.6469,10.6,1.4,ml,12,76.9,0.195,0.2253,nn,nn00868793,2023-11-12T09:13:07.626Z,"5 km ESE of Spanish Springs, Nevada",earthquake,,1.1,0.36,6,automatic,nn,nn
 2023-11-12T08:53:32.317Z,-3.6703,151.4524,11.982,4.9,mb,40,98,0.878,0.74,us,us7000lage,2023-11-12T09:12:05.040Z,"New Ireland region, Papua New Guinea",earthquake,7.21,3.999,0.101,31,reviewed,us,us
@@ -193,4 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-11T09:55:33.270Z,33.0765,-116.5523333,5.79,1.15,ml,60,23,0.03823,0.18,ci,ci39711554,2023-11-11T10:01:51.362Z,"5 km E of Julian, CA",earthquake,0.14,0.4,0.111,27,automatic,ci,ci
 2023-11-11T09:53:16.100Z,38.8168335,-122.7961655,2.46,1.01,md,16,50,0.008878,0.01,nc,nc73961501,2023-11-11T10:04:10.105Z,"6 km NW of The Geysers, CA",earthquake,0.24,0.53,0.24,18,automatic,nc,nc
 2023-11-11T09:49:19.910Z,38.802166,-122.7926636,7.41,0.31,md,7,155,0.00615,0.01,nc,nc73961496,2023-11-11T10:00:11.085Z,"4 km NW of The Geysers, CA",earthquake,1.44,3.21,0.16,9,automatic,nc,nc
-2023-11-11T09:38:22.020Z,38.8253326,-122.7993317,2.7,1.2,md,28,32,0.008611,0.02,nc,nc73961491,2023-11-11T12:37:10.911Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.42,0.16,27,automatic,nc,nc
