@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-14T20:40:54.720Z,38.786499,-122.7505035,0.56,1.12,md,14,88,0.01125,0.03,nc,nc73962931,2023-11-14T20:42:28.636Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.48,0.15,16,automatic,nc,nc
+2023-11-14T20:55:10.283Z,61.7206,-149.898,35.7,1.4,ml,,,,0.75,ak,ak023em94ub8,2023-11-14T20:57:20.040Z,"Southern Alaska",earthquake,,6.8,,,automatic,ak,ak
+2023-11-14T20:40:54.720Z,38.786499,-122.7505035,0.56,1.12,md,14,88,0.01125,0.03,nc,nc73962931,2023-11-14T20:59:11.697Z,"1 km NNE of The Geysers, CA",earthquake,0.27,0.48,0.15,16,automatic,nc,nc
 2023-11-14T20:30:39.190Z,32.7623333,-116.906,4.51,1.45,ml,25,78,0.04064,0.24,ci,ci39713162,2023-11-14T20:37:08.404Z,"3 km ENE of Rancho San Diego, CA",earthquake,0.31,0.76,0.246,13,automatic,ci,ci
 2023-11-14T20:24:52.850Z,38.8388329,-122.8355026,1.23,0.57,md,6,155,0.0002438,0.01,nc,nc73962926,2023-11-14T20:45:11.623Z,"10 km NW of The Geysers, CA",earthquake,0.53,0.99,0.44,7,automatic,nc,nc
 2023-11-14T20:20:41.408Z,57.2078,-155.1071,55,1.9,ml,,,,0.25,ak,ak023em8xeng,2023-11-14T20:48:33.276Z,"56 km SW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
@@ -210,6 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T21:18:48.930Z,58.1703333333333,-155.342,2.06,0.05,ml,7,179,,0.08,av,av91121498,2023-11-14T04:51:03.310Z,"85 km NW of Karluk, Alaska",earthquake,0.3,0.58,0.24333498196833,8,reviewed,av,av
 2023-11-13T21:14:28.430Z,53.8873333333333,-166.9455,6.14,-0.4,ml,6,208,,0.13,av,av91121493,2023-11-14T04:45:20.970Z,"26 km W of Dutch Harbor, Alaska",earthquake,0.58,1.48,0.0996604418258261,5,reviewed,av,av
 2023-11-13T21:09:38.400Z,47.4938333333333,-113.7595,14.56,1.18,ml,16,93,0.163,0.12,mb,mb90032723,2023-11-13T23:07:44.350Z,"western Montana",earthquake,0.45,0.64,0.192039166694473,5,reviewed,mb,mb
-2023-11-13T21:04:44.540Z,49.06633333333333,-120.58383333333333,10.57,1.9100000000000001,ml,10,126,0.6357,0.3,uw,uw61972121,2023-11-14T00:44:08.330Z,"43 km S of Princeton, Canada",earthquake,0.91,24.9,0.14335925655336368,8,reviewed,uw,uw
-2023-11-13T20:59:59.852Z,56.3443,-156.5204,35,3.1,ml,34,193,1.125,0.48,us,us7000lash,2023-11-13T22:02:47.040Z,"116 km E of Chignik, Alaska",earthquake,3.95,2.009,0.066,30,reviewed,us,us
-2023-11-13T20:52:07.770Z,33.6371667,-116.6911667,11.37,0.22,ml,15,73,0.03481,0.08,ci,ci39712730,2023-11-14T18:02:08.128Z,"9 km N of Anza, CA",earthquake,0.24,0.42,0.172,8,reviewed,ci,ci
