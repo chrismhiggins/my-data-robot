@@ -218,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-13T08:52:18.630Z,61.9041666666667,-143.947166666667,0.14,0.03,ml,4,292,,0.17,av,av91121398,2023-11-13T23:34:01.770Z,"Southern Alaska",earthquake,0.99,1.21,0.206410912245326,4,reviewed,av,av
 2023-11-13T08:51:13.480Z,32.985,-115.5508333,6.31,1.14,ml,20,75,0.05919,0.2,ci,ci39712402,2023-11-13T20:43:13.088Z,"2 km WNW of Brawley, CA",earthquake,0.28,0.65,0.165,9,reviewed,ci,ci
 2023-11-13T08:41:49.555Z,62.458,-149.3136,15.2,1.4,ml,,,,0.33,ak,ak023ekeddkb,2023-11-13T08:43:55.236Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-13T08:27:14.916Z,31.619,-104.011,4.8673,1.6,ml(texnet),15,44,0,0.2,tx,tx2023wfzt,2023-11-13T09:05:20.789Z,"western Texas",earthquake,0,1.273090385,0.2,13,automatic,tx,tx
