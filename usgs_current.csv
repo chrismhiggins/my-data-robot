@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-11-22T11:14:34.590Z,59.7785,-152.5876,80.2,2.4,ml,,,,0.18,ak,ak023ezbtzc3,2023-11-22T11:15:56.687Z,"42 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-11-22T11:13:10.210Z,36.149334,-118.0531693,1.39,1.41,ml,10,162,0.1636,0.1,ci,ci39716546,2023-11-22T11:15:28.680Z,"15 km NW of Coso Junction, CA",earthquake,0.5,1.55,0.328,3,automatic,ci,ci
+2023-11-22T11:13:10.230Z,36.1553333,-118.0498333,1.85,1.03,ml,23,76,0.1623,0.15,ci,ci39716546,2023-11-22T11:19:10.298Z,"15 km SSW of Olancha, CA",earthquake,0.25,0.81,0.184,10,automatic,ci,ci
 2023-11-22T11:10:23.870Z,19.3619995117188,-155.287338256836,1.78999996185303,1.75,md,22,68,,0.109999999,hv,hv73657562,2023-11-22T11:13:33.340Z,"Island of Hawaii, Hawaii",earthquake,0.26,0.379999995,0.560000002,12,automatic,hv,hv
 2023-11-22T11:04:02.690Z,19.3371658325195,-155.29817199707,2.70000004768372,1.74,ml,39,65,,0.219999999,hv,hv73657542,2023-11-22T11:09:32.260Z,"13 km SSW of Volcano, Hawaii",earthquake,0.34,0.629999995,2.39,8,automatic,hv,hv
 2023-11-22T11:00:22.560Z,33.182,-116.4146667,12.8,0.83,ml,48,56,0.08599,0.19,ci,ci39716538,2023-11-22T11:06:45.349Z,"9 km SSW of Borrego Springs, CA",earthquake,0.21,0.51,0.166,11,automatic,ci,ci
