@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-26T18:21:50.637Z,64.8897,-151.4758,5.3,1.5,ml,,,,0.54,ak,ak023f626xsn,2023-11-26T18:23:39.137Z,"41 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-26T17:49:43.920Z,38.8260002,-122.8531647,2.65,1.04,md,8,104,0.003282,0.01,nc,nc73967816,2023-11-26T18:02:10.276Z,"10 km WNW of The Geysers, CA",earthquake,0.45,1.22,0.22,6,automatic,nc,nc
 2023-11-26T17:49:39.520Z,38.8260002,-122.8528366,2.29,1.5,md,20,60,0.00351,0.01,nc,nc73967811,2023-11-26T17:59:12.252Z,"10 km WNW of The Geysers, CA",earthquake,0.25,0.51,0.14,20,automatic,nc,nc
 2023-11-26T17:45:29.220Z,64.9249,-151.4768,20,2.5,ml,,,,0.64,ak,ak023f61qlq2,2023-11-26T17:47:54.875Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-11-26T17:44:18.440Z,38.8221664,-122.8121643,2.9,0.75,md,16,49,0.002042,0.02,nc,nc73967806,2023-11-26T17:51:10.205Z,"7 km NW of The Geysers, CA",earthquake,0.27,0.73,0.27,17,automatic,nc,nc
-2023-11-26T17:41:41.130Z,38.8148346,-122.8191681,0.97,1.14,md,19,50,0.009831,0.02,nc,nc73967801,2023-11-26T17:51:10.465Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.4,0.19,21,automatic,nc,nc
+2023-11-26T17:41:41.130Z,38.8148346,-122.8191681,0.97,1.14,md,19,50,0.009831,0.02,nc,nc73967801,2023-11-26T18:19:14.364Z,"7 km NW of The Geysers, CA",earthquake,0.2,0.4,0.19,21,automatic,nc,nc
 2023-11-26T17:41:06.506Z,58.2201,-155.2656,2.7,1.1,ml,,,,1.74,ak,ak023f61pp3u,2023-11-26T17:43:13.027Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-11-26T17:40:17.183Z,60.9727,-149.3614,24.1,1.9,ml,,,,0.39,ak,ak023f61pi7q,2023-11-26T17:42:03.837Z,"10 km NNE of Sunrise, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-11-26T17:32:00.091Z,59.55,-152.873,94.9,2,ml,,,,0.2,ak,ak023f61nr61,2023-11-26T17:34:30.497Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-26T16:59:36.860Z,38.8226662,-122.8525009,2.42,1.05,md,21,63,0.005949,0.03,nc,nc73967766,2023-11-26T17:25:15.058Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.46,0.27,20,automatic,nc,nc
 2023-11-26T16:58:36.440Z,38.8303337,-122.8148346,1.73,1.41,md,23,47,0.007863,0.02,nc,nc73967761,2023-11-26T17:15:16.004Z,"8 km NW of The Geysers, CA",earthquake,0.19,0.35,0.17,24,automatic,nc,nc
 2023-11-26T16:46:17.850Z,38.7486649,-122.7463303,3.56,0.96,md,7,138,0.004291,0.12,nc,nc73967756,2023-11-26T17:04:15.943Z,"3 km SSE of The Geysers, CA",earthquake,1.01,1.22,0.18,7,automatic,nc,nc
-2023-11-26T16:37:44.420Z,38.8216667,-122.8526688,2.6,0.77,md,16,90,0.01385,0.02,nc,nc73967746,2023-11-26T16:54:13.883Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.54,0.17,15,automatic,nc,nc
+2023-11-26T16:37:44.420Z,38.8216667,-122.8526688,2.6,0.77,md,16,90,0.01385,0.02,nc,nc73967746,2023-11-26T18:25:10.393Z,"10 km WNW of The Geysers, CA",earthquake,0.28,0.54,0.17,15,automatic,nc,nc
 2023-11-26T16:15:58.740Z,19.2956657409668,-155.384002685547,3.08999991416931,1.76999998,md,17,163,,0.100000001,hv,hv73663952,2023-11-26T16:18:57.350Z,"14 km NE of Pāhala, Hawaii",earthquake,0.42,0.889999986,0.879999995,3,automatic,hv,hv
 2023-11-26T16:00:30.750Z,38.8436661,-122.8174973,1.73,1.09,md,16,67,0.01189,0.02,nc,nc73967736,2023-11-26T18:08:13.307Z,"8 km WNW of Cobb, CA",earthquake,0.26,0.46,0.27,17,automatic,nc,nc
 2023-11-26T15:56:54.380Z,72.6325,3.1088,10,4.5,mb,37,76,6.481,1.03,us,us6000lqvz,2023-11-26T17:40:21.040Z,"Norwegian Sea",earthquake,7.54,1.906,0.099,30,reviewed,us,us
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-25T18:27:32.721Z,31.669,-104.399,4.6075,1.6,ml(texnet),16,70,0,0.3,tx,tx2023xcro,2023-11-25T19:09:14.627Z,"western Texas",earthquake,0,1.37049357,0.2,11,automatic,tx,tx
 2023-11-25T18:27:17.791Z,31.668,-104.373,4.4294,1.5,ml(texnet),6,169,0.1,0.1,tx,tx2023xcrn,2023-11-25T19:09:06.621Z,"western Texas",earthquake,0,2.205683744,0.3,6,automatic,tx,tx
 2023-11-25T18:26:32.460Z,38.8125,-122.8193359,2.21,0.75,md,12,72,0.008502,0.03,nc,nc73967306,2023-11-25T19:11:17.050Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.77,0.26,15,automatic,nc,nc
-2023-11-25T18:18:54.510Z,40.4630013,-124.3248367,21.04,3.11,ml,20,138,0.01583,0.1,nc,nc73967296,2023-11-26T07:19:29.191Z,"14 km SSW of Ferndale, CA",earthquake,0.74,0.38,0.313,10,automatic,nc,nc
