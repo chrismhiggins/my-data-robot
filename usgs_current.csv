@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-28T02:47:41.880Z,35.6836662,-121.1228333,5,1.44,md,10,105,0.02514,0.04,nc,nc73968856,2023-11-28T02:50:42.309Z,"8 km NE of San Simeon, CA",earthquake,0.73,0.96,0.07,7,automatic,nc,nc
 2023-11-28T02:33:25.430Z,19.1481666564941,-155.480163574219,12.1199998855591,1.94,ml,36,160,,0.219999999,hv,hv73665337,2023-11-28T02:38:55.950Z,"6 km S of Pāhala, Hawaii",earthquake,0.54,0.439999998,3.26,4,automatic,hv,hv
 2023-11-28T02:33:21.080Z,19.1616668701172,-155.488830566406,12.2700004577637,2.22000003,md,27,114,,0.180000007,hv,hv73665332,2023-11-28T02:38:51.590Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.48,0.409999996,2.22000003,4,automatic,hv,hv
 2023-11-28T02:26:54.610Z,7.6592,-82.4311,10,4.9,mb,69,135,1.156,0.81,us,us7000le8b,2023-11-28T02:47:53.040Z,"south of Panama",earthquake,4.39,1.87,0.034,265,reviewed,us,us
-2023-11-28T02:16:26.528Z,31.675,-104.482,8.7714,1.8,ml(texnet),8,73,0,0.2,tx,tx2023xgya,2023-11-28T02:41:33.404Z,"western Texas",earthquake,0,3.130411422,0.2,6,automatic,tx,tx
+2023-11-28T02:16:26.622Z,31.665,-104.486,7.3554,1.7,ml(texnet),17,82,0,0.4,tx,tx2023xgya,2023-11-28T02:58:40.788Z,"western Texas",earthquake,0,2.936952093,0.1,13,automatic,tx,tx
+2023-11-28T02:14:32.246Z,31.664,-104.459,6.5983,1.7,mlv,7,169,0,0.2,tx,tx2023xgxy,2023-11-28T02:54:41.441Z,"57 km S of Whites City, New Mexico",earthquake,0,8.042183762,0.3,7,automatic,tx,tx
 2023-11-28T02:11:18.700Z,38.788166,-122.7453308,1.41,0.94,md,12,85,0.01677,0.03,nc,nc73968851,2023-11-28T02:28:10.414Z,"2 km NE of The Geysers, CA",earthquake,0.28,0.62,0.25,12,automatic,nc,nc
 2023-11-28T01:32:08.208Z,62.9799,-149.3926,68.9,1.2,ml,,,,1.01,ak,ak023f937j2u,2023-11-28T01:35:07.411Z,"51 km SSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-11-28T01:20:34.259Z,35.12583333,-97.566,6.75,2.64,ml,93,41,0,0.21,ok,ok2023xgwe,2023-11-28T02:46:53.302Z,"Oklahoma",earthquake,,0.3,0.27,42,reviewed,ok,ok
@@ -20,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-27T23:55:49.460Z,31.686,-104.428,7.2436,1.6,ml(texnet),10,64,0,0.2,tx,tx2023xgtj,2023-11-28T00:38:51.696Z,"western Texas",earthquake,0,3.158381734,0.3,8,automatic,tx,tx
 2023-11-27T23:49:48.560Z,38.8383331,-122.8356705,1.58,0.24,md,12,76,0.000293,0.02,nc,nc73968791,2023-11-28T00:06:14.473Z,"10 km NW of The Geysers, CA",earthquake,0.28,0.59,0.14,12,automatic,nc,nc
 2023-11-27T23:28:57.348Z,63.2923,-151.3094,0,1.4,ml,,,,0.61,ak,ak023f7sqyux,2023-11-27T23:31:04.586Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-11-27T23:11:57.570Z,19.2898333333333,-155.384166666667,2.58,2.27,ml,40,101,,0.14,hv,hv73665127,2023-11-28T00:19:29.130Z,"13 km NE of Pāhala, Hawaii",earthquake,0.24,0.54,0.139563466686914,11,reviewed,hv,hv
+2023-11-27T23:11:57.570Z,19.2898333333333,-155.384166666667,2.58,2.27,ml,40,101,,0.14,hv,hv73665127,2023-11-28T00:19:29.130Z,"Hawaii region, Hawaii",earthquake,0.24,0.54,0.139563466686914,11,reviewed,hv,hv
 2023-11-27T23:10:50.600Z,18.6561666666667,-156.309333333333,42.28,2.32,md,38,313,,0.25,hv,hv73665122,2023-11-28T00:54:09.040Z,"73 km SW of Hawaiian Ocean View, Hawaii",earthquake,1.17,2.41,0.0873302186595326,18,reviewed,hv,hv
 2023-11-27T22:55:23.788Z,-59.3972,-25.8722,47.808,4.9,mb,38,92,18.793,0.6,us,us7000le7g,2023-11-27T23:11:01.040Z,"South Sandwich Islands region",earthquake,13.24,7.998,0.082,47,reviewed,us,us
 2023-11-27T22:54:12.963Z,60.2432,-143.3104,1.1,1.7,ml,,,,1.12,ak,ak023f7sb0fk,2023-11-27T22:56:39.142Z,"Southern Alaska",earthquake,,1.5,,,automatic,ak,ak
