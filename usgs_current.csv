@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-11-29T06:16:29.050Z,33.2876663,-116.2220001,10.77,1.23,ml,25,49,0.1392,0.21,ci,ci39719442,2023-11-29T06:18:34.207Z,"15 km ENE of Borrego Springs, CA",earthquake,0.35,1.06,0.285,17,automatic,ci,ci
+2023-11-29T06:24:42.930Z,32.753,-115.8716667,2.64,1.69,ml,47,40,0.1135,0.25,ci,ci39719450,2023-11-29T06:35:49.410Z,"12 km E of Ocotillo, CA",earthquake,0.21,0.39,0.183,28,automatic,ci,ci
+2023-11-29T06:16:29.130Z,33.2903333,-116.2225,6.81,0.95,ml,52,27,0.1264,0.21,ci,ci39719442,2023-11-29T06:23:19.677Z,"15 km ENE of Borrego Springs, CA",earthquake,0.17,0.74,0.122,20,automatic,ci,ci
 2023-11-29T06:16:15.470Z,33.2878333,-116.2253333,9.9,0.78,ml,46,26,0.1249,0.21,ci,ci39719434,2023-11-29T06:22:31.132Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.59,0.194,16,automatic,ci,ci
 2023-11-29T06:09:58.546Z,61.4332,-146.544,28.1,1.6,ml,,,,0.54,ak,ak023fatl81a,2023-11-29T06:12:16.332Z,"35 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T05:52:09.990Z,37.7041664,-122.1218338,7.73,2.12,md,58,34,0.02006,0.1,nc,nc73969386,2023-11-29T06:12:28.698Z,"3 km N of San Lorenzo, CA",earthquake,0.15,0.39,0.13,52,automatic,nc,nc
@@ -204,6 +205,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T06:45:53.080Z,34.0148333,-116.754,16.32,0.87,ml,42,77,0.04905,0.12,ci,ci39718722,2023-11-28T14:26:37.485Z,"11 km NNE of Cabazon, CA",earthquake,0.16,0.39,0.121,19,reviewed,ci,ci
 2023-11-28T06:45:20.107Z,59.7089,-152.6278,88.2,1.8,ml,,,,0.31,ak,ak023f969icq,2023-11-28T06:47:51.787Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T06:38:50.320Z,37.0968333,-112.9003333,16.13,2.93,ml,23,110,0.1017,0.27,uu,uu60555372,2023-11-28T19:32:03.719Z,"Utah",earthquake,0.55,0.64,0.299,13,reviewed,uu,uu
-2023-11-28T06:28:06.250Z,33.4435,-116.6063333,5.99,0.52,ml,31,75,0.05118,0.13,ci,ci39718714,2023-11-28T17:26:23.011Z,"14 km SSE of Anza, CA",earthquake,0.19,0.36,0.078,16,reviewed,ci,ci
-2023-11-28T06:26:55.823Z,61.1222,-145.4971,146.3,2.1,ml,,,,0.8,ak,ak023f965ii6,2023-11-28T06:29:38.674Z,"45 km E of Valdez, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-11-28T06:23:40.377Z,52.6678,-167.0366,35,4.5,mb,42,168,0.913,0.59,us,us7000le9l,2023-11-28T08:00:44.507Z,"126 km ESE of Nikolski, Alaska",earthquake,7.26,1.955,0.061,79,reviewed,us,us
