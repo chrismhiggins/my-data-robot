@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-29T07:25:45.830Z,38.621666,-122.809166,7.24,1.26,md,10,118,0.09347,0.04,nc,nc73969401,2023-11-29T07:35:11.061Z,"5 km ENE of Healdsburg, CA",earthquake,0.35,1.04,0.12,6,automatic,nc,nc
 2023-11-29T07:02:20.700Z,62.2854,-149.419,6.8,2.1,ml,,,,0.55,ak,ak023fau52pi,2023-11-29T07:04:09.112Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-11-29T06:37:29.554Z,-11.2132,-76.5661,94.641,4.8,mb,74,122,0.816,0.54,us,us7000lehj,2023-11-29T07:21:10.601Z,"central Peru",earthquake,9.72,8.039,0.048,131,reviewed,us,us
+2023-11-29T06:37:29.554Z,-11.2132,-76.5661,94.641,4.8,mb,74,122,0.816,0.54,us,us7000lehj,2023-11-29T07:31:42.132Z,"central Peru",earthquake,9.72,8.039,0.048,131,reviewed,us,us
 2023-11-29T06:24:42.930Z,32.753,-115.8716667,2.64,1.69,ml,47,40,0.1135,0.25,ci,ci39719450,2023-11-29T06:35:49.410Z,"12 km E of Ocotillo, CA",earthquake,0.21,0.39,0.183,28,automatic,ci,ci
 2023-11-29T06:16:29.130Z,33.2903333,-116.2225,6.81,0.95,ml,52,27,0.1264,0.21,ci,ci39719442,2023-11-29T06:23:19.677Z,"15 km ENE of Borrego Springs, CA",earthquake,0.17,0.74,0.122,20,automatic,ci,ci
 2023-11-29T06:16:15.470Z,33.2878333,-116.2253333,9.9,0.78,ml,46,26,0.1249,0.21,ci,ci39719434,2023-11-29T06:22:31.132Z,"14 km ENE of Borrego Springs, CA",earthquake,0.19,0.59,0.194,16,automatic,ci,ci
@@ -18,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T04:42:45.010Z,31.671,-104.189,3.9216,1.8,ml(texnet),19,104,0.1,0.4,tx,tx2023xiyi,2023-11-29T05:10:11.177Z,"54 km NW of Toyah, Texas",earthquake,0,1.362963883,0.2,15,automatic,tx,tx
 2023-11-29T04:22:53.600Z,33.2418333,-116.0868333,4.89,0.92,ml,50,50,0.09282,0.2,ci,ci39719402,2023-11-29T04:29:05.886Z,"12 km NNE of Ocotillo Wells, CA",earthquake,0.17,0.64,0.156,20,automatic,ci,ci
 2023-11-29T04:13:24.787Z,59.9823,-152.6047,60.3,1.2,ml,,,,0.31,ak,ak023fasf4wv,2023-11-29T04:15:56.157Z,"Southern Alaska",earthquake,,3.5,,,automatic,ak,ak
-2023-11-29T04:08:13.980Z,32.9286667,-116.2485,8.39,2.54,ml,89,43,0.0529,0.26,ci,ci39719394,2023-11-29T04:41:02.251Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.72,0.093,26,automatic,ci,ci
+2023-11-29T04:08:13.980Z,32.9286667,-116.2485,8.39,2.54,ml,89,43,0.0529,0.26,ci,ci39719394,2023-11-29T07:29:13.850Z,"26 km SSW of Ocotillo Wells, CA",earthquake,0.16,0.72,0.093,26,automatic,ci,ci
 2023-11-29T04:02:10.283Z,-3.4736,139.7437,19.022,4.5,mb,19,83,1.351,0.57,us,us7000legr,2023-11-29T04:24:48.040Z,"138 km SW of Abepura, Indonesia",earthquake,7.83,3.571,0.163,11,reviewed,us,us
 2023-11-29T04:00:43.789Z,62.1102,-147.4936,20.5,2.8,ml,,,,0.7,ak,ak023fasce9i,2023-11-29T04:07:07.040Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-29T03:58:26.046Z,61.3495,-150.0193,27.1,1.6,ml,,,,0.59,ak,ak023fas3css,2023-11-29T04:00:11.237Z,"2 km WSW of Point MacKenzie, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -128,7 +129,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T15:02:24.080Z,19.1401672363281,-155.511337280273,33.0299987792969,2.1099999,md,47,143,,0.129999995,hv,hv73665962,2023-11-28T15:05:32.340Z,"7 km SSW of Pāhala, Hawaii",earthquake,0.49,0.850000024,0.75,20,automatic,hv,hv
 2023-11-28T15:01:09.724Z,31.629,-104.156,1.9155,1.5,ml(texnet),16,63,0.1,0.2,tx,tx2023xhxg,2023-11-28T20:27:57.644Z,"western Texas",earthquake,0.737702942,0.6563459685,0.2,12,reviewed,tx,tx
 2023-11-28T14:57:39.492Z,31.608,-103.964,8.7024,2,ml(texnet),25,55,0,0.1,tx,tx2023xhxd,2023-11-28T20:13:59.218Z,"36 km WSW of Mentone, Texas",earthquake,0.3917097842,0.3722394919,0.2,20,reviewed,tx,tx
-2023-11-28T14:55:58.055Z,31.608,-103.963,8.9209,1.9,ml(texnet),25,55,0,0.1,tx,tx2023xhxb,2023-11-28T20:18:27.668Z,"western Texas",earthquake,0.3983007231,0.3975293367,0.1,22,reviewed,tx,tx
+2023-11-28T14:55:58.055Z,31.608,-103.963,8.9209,1.9,ml(texnet),25,55,0,0.1,tx,tx2023xhxb,2023-11-28T20:18:27.668Z,"36 km WSW of Mentone, Texas",earthquake,0.3983007231,0.3975293367,0.1,22,reviewed,tx,tx
 2023-11-28T14:45:14.718Z,61.9277,-149.0896,40.3,1.4,ml,,,,0.37,ak,ak023f9b0yrz,2023-11-28T14:47:04.793Z,"21 km NNE of Fishhook, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-11-28T14:19:11.856Z,57.9897,-154.7162,74.9,2,ml,,,,0.19,ak,ak023f9avdxt,2023-11-28T14:21:33.842Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-11-28T14:08:03.277Z,61.3898,-146.6616,15.9,1.2,ml,,,,0.75,ak,ak023f9at0ef,2023-11-28T14:16:58.606Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -145,7 +146,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T12:56:30.760Z,38.8311653,-122.81633,2.01,0.29,md,10,132,0.009169,0.01,nc,nc73969001,2023-11-28T15:13:12.970Z,"8 km NW of The Geysers, CA",earthquake,0.43,1.14,0.15,11,automatic,nc,nc
 2023-11-28T12:49:34.554Z,32.418,-102.029,8.5347,3,ml(texnet),19,56,0.1,0.1,tx,tx2023xhsx,2023-11-28T15:22:15.036Z,"31 km WSW of Ackerly, Texas",earthquake,0.7538311997,1.19374902,0.1,7,reviewed,tx,tx
 2023-11-28T12:04:27.610Z,36.7691667,-121.4236667,7.89,0.74,md,20,59,0.0196,0.1,nc,nc73968991,2023-11-29T07:16:13.962Z,"7 km SW of Ridgemark, CA",earthquake,0.25,0.5,0.243,19,reviewed,nc,nc
-2023-11-28T11:54:18.371Z,61.3202,-146.7517,39.7,3.5,ml,,,,0.62,ak,ak023f99alme,2023-11-29T06:45:06.018Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2023-11-28T11:54:18.371Z,61.3202,-146.7517,39.7,3.5,ml,,,,0.62,ak,ak023f99alme,2023-11-29T07:33:00.728Z,"30 km NW of Valdez, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2023-11-28T11:41:23.970Z,47.6996666666667,-114.195166666667,9.95,0.98,ml,15,81,0.07543,0.09,mb,mb90034108,2023-11-28T15:04:14.610Z,"1 km S of Jette, Montana",earthquake,0.31,0.75,0.0879805105480919,4,reviewed,mb,mb
 2023-11-28T11:38:49.759Z,64.855,-148.9635,1.8,0.9,ml,,,,0.5,ak,ak023f9978ni,2023-11-28T11:41:31.253Z,"Central Alaska",earthquake,,7.7,,,automatic,ak,ak
 2023-11-28T11:38:45.693Z,62.8093,-148.6827,59.8,1.7,ml,,,,0.33,ak,ak023f9978c9,2023-11-28T11:40:36.361Z,"66 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-28T07:40:16.140Z,52.2715,-174.059166666667,10.94,1.18,ml,7,227,,0.12,av,av92135491,2023-11-29T03:39:30.600Z,"12 km NE of Atka, Alaska",earthquake,0.77,0.72,0.206868200868094,7,reviewed,av,av
 2023-11-28T07:39:35.837Z,-21.1261,174.0749,10,5.8,mww,55,111,5.04,0.63,us,us7000lea4,2023-11-28T09:43:06.244Z,"Vanuatu region",earthquake,9.44,1.866,0.049,40,reviewed,us,us
 2023-11-28T07:37:29.105Z,-20.3752,-178.2389,547.243,4.6,mb,35,72,2.948,0.65,us,us7000lea3,2023-11-28T07:54:53.040Z,"Fiji region",earthquake,15.07,10.492,0.105,27,reviewed,us,us
-2023-11-28T07:26:51.512Z,31.929,-103.364,4.9747,1.9,ml(texnet),8,136,0.1,0.2,tx,tx2023xhih,2023-11-28T16:22:34.285Z,"26 km SW of Jal, New Mexico",earthquake,4.754319299,2.563983734,0.2,7,reviewed,tx,tx
