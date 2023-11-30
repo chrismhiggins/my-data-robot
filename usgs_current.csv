@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-11-30T18:18:53.755Z,31.598,-103.95,6.9323,1.8,ml,15,74,0,0.3,tx,tx2023xluu,2023-11-30T18:56:16.877Z,"western Texas",earthquake,0,2.947771821,0.2,11,automatic,tx,tx
 2023-11-30T18:10:57.140Z,45.0268333333333,-111.674333333333,9.86,0.79,ml,8,134,0.2619,0.02,mb,mb90034403,2023-11-30T18:43:51.390Z,"western Montana",earthquake,0.35,0.57,0.137074527651619,2,reviewed,mb,mb
 2023-11-30T18:06:44.335Z,63.1762,-151.1183,0,1.9,ml,,,,0.72,ak,ak023fco93jl,2023-11-30T18:08:56.530Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-11-30T18:06:16.883Z,31.611,-104.376,4.2915,2.6,ml,18,86,0.1,0.2,tx,tx2023xluj,2023-11-30T18:46:21.786Z,"62 km S of Whites City, New Mexico",earthquake,0,1.366771613,0.2,14,automatic,tx,tx
@@ -205,4 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-11-29T19:37:50.793Z,32.758,-100.61,7.2142,2.2,ml(texnet),14,81,0,0.2,tx,tx2023xkbw,2023-11-30T12:29:43.445Z,"western Texas",earthquake,1.193724296,2.236014239,0.1,11,reviewed,tx,tx
 2023-11-29T19:30:21.700Z,19.2565002441406,-155.408660888672,28.9200000762939,1.85000002,md,35,141,,0.150000006,hv,hv73667072,2023-11-29T19:33:33.140Z,"Island of Hawaii, Hawaii",earthquake,0.56,1,0.800000012,13,automatic,hv,hv
 2023-11-29T19:20:09.730Z,32.8871667,-115.4765,7.91,1.48,ml,23,72,0.04241,0.15,ci,ci39719738,2023-11-29T19:26:34.478Z,"10 km ENE of Imperial, CA",earthquake,0.25,0.34,0.264,16,automatic,ci,ci
-2023-11-29T18:49:22.780Z,33.3356667,-116.3645,7.4,0.6,ml,13,210,0.08045,0.13,ci,ci39719706,2023-11-29T21:32:08.226Z,"9 km N of Borrego Springs, CA",earthquake,0.5,1.02,0.095,6,reviewed,ci,ci
