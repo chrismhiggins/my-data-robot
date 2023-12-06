@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T15:04:25.500Z,35.8230019,-116.796669,0.25,2.59,ml,38,62,0.3766,0.22,ci,ci40616856,2023-12-06T15:06:39.433Z,"50 km WSW of Shoshone, CA",earthquake,0.3,1.07,0.183,29,automatic,ci,ci
 2023-12-06T14:46:55.200Z,61.0744,-152.1654,103.9,2.2,ml,,,,0.35,ak,ak023fmjc1kg,2023-12-06T14:48:55.070Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-12-06T14:15:21.800Z,60.6129,-151.981,76.7,2.1,ml,,,,0.75,ak,ak023fmj5bsk,2023-12-06T14:17:28.443Z,"Kenai Peninsula, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-12-06T13:47:13.099Z,35.11166667,-97.5615,6.52,1.88,ml,90,41,0.05039011174,0.33,ok,ok2023xwkv,2023-12-06T14:00:10.164Z,"Oklahoma",earthquake,,0.5,0.21,38,reviewed,ok,ok
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T12:53:47.421Z,61.6697,-148.5232,31.4,2.5,ml,,,,0.41,ak,ak023fmi6nrq,2023-12-06T13:04:40.040Z,"14 km SSW of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-12-06T12:50:11.614Z,-31.3728,-68.6943,116.112,4.3,mb,34,113,0.173,1.03,us,us7000lgmz,2023-12-06T13:25:19.040Z,"17 km WNW of Albardón, Argentina",earthquake,4.22,8.852,0.16,11,reviewed,us,us
 2023-12-06T12:37:28.903Z,61.8896,-149.4419,31.4,2.1,ml,,,,0.61,ak,ak023fmi36vu,2023-12-06T12:39:20.989Z,"19 km NW of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-12-06T12:28:15.250Z,37.3996658,-121.7628326,3.32,2.45,md,60,29,0.05876,0.07,nc,nc73972466,2023-12-06T13:16:21.607Z,"7 km ENE of Alum Rock, CA",earthquake,0.12,0.42,0.15,71,automatic,nc,nc
+2023-12-06T12:28:15.250Z,37.3996658,-121.7628326,3.32,2.45,md,60,29,0.05876,0.07,nc,nc73972466,2023-12-06T14:51:10.895Z,"7 km ENE of Alum Rock, CA",earthquake,0.12,0.42,0.15,71,automatic,nc,nc
 2023-12-06T12:16:12.890Z,17.9025,-66.8516666666667,14.83,2.64,md,18,207,0.07679,0.24,pr,pr71433303,2023-12-06T12:42:27.350Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.58,0.6,0.102960388010486,7,reviewed,pr,pr
 2023-12-06T12:08:25.339Z,59.2924,-152.0977,63.4,2.2,ml,,,,0.43,ak,ak023fmhwyud,2023-12-06T12:10:06.199Z,"12 km SW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-06T12:07:07.995Z,62.8601,-150.6348,9.2,2,ml,,,,0.56,ak,ak023fmhwpsf,2023-12-06T12:09:00.610Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -66,6 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-06T03:16:06.709Z,31.631,-104.135,3.8954,1.8,ml,19,64,0.1,0.4,tx,tx2023xvqa,2023-12-06T03:45:54.649Z,"47 km NW of Toyah, Texas",earthquake,0,1.264488746,0.2,14,automatic,tx,tx
 2023-12-06T03:08:31.800Z,32.7673333,-115.8375,2.16,1.31,ml,30,57,0.1238,0.21,ci,ci40616736,2023-12-06T03:14:49.798Z,"15 km ENE of Ocotillo, CA",earthquake,0.2,0.36,0.148,17,automatic,ci,ci
 2023-12-06T03:07:56.427Z,58.5437,-154.4871,0,3.7,ml,,,,0.54,ak,ak023fmcjwt3,2023-12-06T03:15:45.497Z,"101 km S of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-12-06T03:06:49.969Z,35.105,-97.5725,7.41,1.04,ml,41,49,0.05308958201,0.44,ok,ok2023xvps,2023-12-06T15:05:21.819Z,"0 km N of Cole, Oklahoma",earthquake,,0.8,0.21,16,reviewed,ok,ok
 2023-12-06T03:01:16.875Z,31.676,-104.196,4.7948,1.7,ml,25,61,0.1,0.2,tx,tx2023xvpn,2023-12-06T13:42:10.126Z,"55 km NW of Toyah, Texas",earthquake,0.8888447827,1.531067944,0,7,reviewed,tx,tx
 2023-12-06T02:53:19.062Z,31.667,-104.207,6.3629,1.9,ml,20,62,0,0.2,tx,tx2023xvpi,2023-12-06T14:01:05.241Z,"western Texas",earthquake,0.8878046651,1.581949643,0,6,reviewed,tx,tx
 2023-12-06T02:48:01.270Z,35.9598333,-117.9208333,8.13,2.25,ml,34,43,0.0538,0.12,ci,ci40616728,2023-12-06T09:16:09.587Z,"3 km NNW of Little Lake, CA",earthquake,0.13,0.33,0.211,25,automatic,ci,ci
@@ -188,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T15:22:26.320Z,38.8366661,-122.8030014,2.29,1.14,md,21,81,0.01004,0.02,nc,nc73972136,2023-12-05T16:54:13.269Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.46,0.11,24,automatic,nc,nc
 2023-12-05T15:16:23.581Z,60.7025,-151.5207,79.7,1.7,ml,,,,0.24,ak,ak023fkw7mra,2023-12-05T15:18:17.963Z,"12 km W of Nikiski, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-12-05T15:08:05.480Z,38.7806664,-122.7555008,1.33,1.12,md,12,99,0.0149,0.02,nc,nc73972131,2023-12-05T16:23:18.069Z,"0 km NNE of The Geysers, CA",earthquake,0.28,0.54,0.14,10,automatic,nc,nc
-2023-12-05T15:02:32.333Z,59.8909,-152.5276,80.2,2,ml,,,,0.11,ak,ak023fkw4nep,2023-12-05T15:52:35.040Z,"Southern Alaska",earthquake,,1.4,,,automatic,ak,ak
-2023-12-05T15:01:04.315Z,31.675,-104.38,4.2594,1.7,ml,14,69,0,0.1,tx,tx2023xurs,2023-12-05T15:25:24.982Z,"55 km S of Whites City, New Mexico",earthquake,0,1.353895566,0.1,12,automatic,tx,tx
