@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-06T09:26:14.370Z,35.651001,-121.0618362,4.22,1.16,md,8,114,0.08103,0.03,nc,nc73972446,2023-12-06T09:36:10.158Z,"10 km N of Cambria, CA",earthquake,0.4,1.18,0.05,5,automatic,nc,nc
 2023-12-06T08:57:35.722Z,62.0432,-149.7962,34.4,2.2,ml,,,,0.29,ak,ak023fmftrb8,2023-12-06T08:59:08.287Z,"13 km SSE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-12-06T08:54:59.115Z,64.7426,-149.2184,7.7,1.6,ml,,,,0.4,ak,ak023fmft5yv,2023-12-06T08:56:20.826Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-06T08:37:56.510Z,32.7818333,-115.831,7.58,1,ml,30,64,0.1103,0.24,ci,ci40616840,2023-12-06T08:44:00.797Z,"16 km ENE of Ocotillo, CA",earthquake,0.29,0.86,0.105,9,automatic,ci,ci
@@ -218,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T09:56:11.923Z,59.6979,-152.8526,89.7,2.6,ml,,,,0.71,ak,ak023fksvkvc,2023-12-05T09:58:30.267Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-05T09:52:38.665Z,9.1558,126.7482,56.752,4.9,mb,82,115,2.374,0.59,us,us7000lgdp,2023-12-05T10:12:55.040Z,"Mindanao, Philippines",earthquake,9.62,7.022,0.066,72,reviewed,us,us
 2023-12-05T09:42:54.918Z,9.1263,126.7094,45.905,5.4,mww,94,88,2.33,0.72,us,us7000lgdg,2023-12-05T21:49:25.040Z,"50 km ENE of Bacolod, Philippines",earthquake,8.85,6.251,0.078,16,reviewed,us,us
-2023-12-05T09:29:17.500Z,38.8123322,-122.819664,2.65,0.75,md,11,94,0.008199,0.01,nc,nc73972061,2023-12-05T11:59:15.519Z,"7 km NW of The Geysers, CA",earthquake,0.43,0.99,0.28,12,automatic,nc,nc
