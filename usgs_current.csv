@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-06T03:51:46.110Z,38.8181648,-122.817337,2.43,0.71,md,14,49,0.007711,0.01,nc,nc73972396,2023-12-06T03:53:22.676Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.66,0.34,15,automatic,nc,nc
+2023-12-06T04:15:36.200Z,32.7371674,-115.8693314,5.2,1.84,ml,37,42,0.09992,0.23,ci,ci40616752,2023-12-06T04:18:04.115Z,"12 km E of Ocotillo, CA",earthquake,0.31,0.81,0.244,26,automatic,ci,ci
+2023-12-06T04:11:51.420Z,32.7378349,-115.8769989,6.93,3.48,ml,98,28,0.09782,0.27,ci,ci40616744,2023-12-06T04:20:12.736Z,"11 km E of Ocotillo, CA",earthquake,0.19,0.74,0.311,17,automatic,ci,ci
+2023-12-06T03:51:46.110Z,38.8181648,-122.817337,2.43,0.71,md,14,49,0.007711,0.01,nc,nc73972396,2023-12-06T04:10:14.258Z,"7 km NW of The Geysers, CA",earthquake,0.33,0.66,0.34,15,automatic,nc,nc
 2023-12-06T03:33:04.590Z,38.786499,-122.7661667,2.18,0.71,md,10,114,0.01498,0.02,nc,nc73972391,2023-12-06T03:50:14.170Z,"1 km NW of The Geysers, CA",earthquake,0.39,0.75,0.31,10,automatic,nc,nc
 2023-12-06T03:21:26.160Z,38.840168,-122.8789978,2.38,0.47,md,11,112,0.003985,0.01,nc,nc73972386,2023-12-06T03:40:14.113Z,"13 km ENE of Cloverdale, CA",earthquake,0.39,0.52,0.22,11,automatic,nc,nc
 2023-12-06T03:19:46.250Z,60.2742,-152.9902,124.2,2.7,ml,,,,0.59,ak,ak023fmcmguu,2023-12-06T03:22:13.755Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -150,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T13:10:55.240Z,38.8240013,-122.8121643,1.46,0.76,md,15,49,0.01788,0.02,nc,nc73972096,2023-12-05T14:57:14.509Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.78,0.08,15,automatic,nc,nc
 2023-12-05T12:59:31.820Z,38.8235016,-122.8111649,1.46,1.06,md,22,38,0.0008588,0.02,nc,nc73972086,2023-12-05T14:30:14.361Z,"7 km NW of The Geysers, CA",earthquake,0.18,0.5,0.16,23,automatic,nc,nc
 2023-12-05T12:53:14.130Z,33.0175,-116.3456667,9.98,1.1,ml,54,35,0.0721,0.19,ci,ci40616288,2023-12-05T12:59:12.581Z,"24 km SW of Ocotillo Wells, CA",earthquake,0.18,0.45,0.161,23,automatic,ci,ci
-2023-12-05T12:49:00.999Z,31.745,-104.116,6.0287,1.9,ml,19,52,0,0.2,tx,tx2023xunk,2023-12-05T16:48:53.439Z,"western Texas",earthquake,0.5898022272,1.069939001,0.1,7,reviewed,tx,tx
+2023-12-05T12:49:00.999Z,31.745,-104.116,6.0287,1.9,ml,19,52,0,0.2,tx,tx2023xunk,2023-12-05T16:48:53.439Z,"49 km W of Mentone, Texas",earthquake,0.5898022272,1.069939001,0.1,7,reviewed,tx,tx
 2023-12-05T12:43:35.290Z,32.7705,-115.6883333,11.97,1.54,ml,37,48,0.05706,0.24,ci,ci40616280,2023-12-05T21:27:50.959Z,"12 km W of El Centro, CA",earthquake,0.25,0.41,0.274,16,reviewed,ci,ci
 2023-12-05T12:42:35.170Z,8.4858,126.6427,60.278,5.1,mb,76,45,1.758,0.68,us,us7000lgeh,2023-12-05T13:45:25.957Z,"36 km ENE of Hinatuan, Philippines",earthquake,9.02,1.742,0.054,110,reviewed,us,us
 2023-12-05T12:36:38.780Z,2.5566,128.2563,67.028,5.1,mww,103,34,1.983,0.59,us,us7000lgee,2023-12-05T12:53:16.040Z,"Halmahera, Indonesia",earthquake,7.65,6.409,0.093,11,reviewed,us,us
@@ -248,9 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-05T04:28:59.620Z,33.878,-117.9025,6.2,2.32,ml,115,24,0.01779,0.27,ci,ci40616040,2023-12-06T02:49:15.820Z,"2 km E of Fullerton, CA",earthquake,0.15,0.45,0.188,26,automatic,ci,ci
 2023-12-05T04:27:36.039Z,8.6801,126.6729,74.415,4.8,mb,60,68,1.932,0.51,us,us7000lgbk,2023-12-06T03:53:09.040Z,"Mindanao, Philippines",earthquake,9.87,7.259,0.083,45,reviewed,us,us
 2023-12-05T04:26:32.329Z,35.1,-97.569,7.69,0.68,ml,23,81,0.04769064147,0.59,ok,ok2023xtwv,2023-12-05T20:26:32.132Z,"0 km SE of Cole, Oklahoma",earthquake,,1.4,0.24,10,reviewed,ok,ok
-2023-12-05T04:16:25.440Z,38.7804985,-122.7434998,-0.11,0.94,md,8,86,0.005959,0.02,nc,nc73971961,2023-12-05T04:39:15.702Z,"1 km ENE of The Geysers, CA",earthquake,0.25,1.55,0.19,8,automatic,nc,nc
-2023-12-05T04:09:58.340Z,33.8783333,-117.908,9.84,3.33,ml,120,21,0.01377,0.24,ci,ci40616032,2023-12-06T03:46:13.040Z,"2 km E of Fullerton, CA",earthquake,0.15,0.34,0.221,148,reviewed,ci,ci
-2023-12-05T04:06:19.346Z,31.662,-104.332,6.2601,2.8,ml,19,68,0.1,0.2,tx,tx2023xtwe,2023-12-06T03:30:44.040Z,"57 km S of Whites City, New Mexico",earthquake,1.062698787,1.046623122,0.1,6,reviewed,tx,tx
-2023-12-05T04:00:06.683Z,31.678,-104.38,6.6971,2.4,ml,18,56,0,0.1,tx,tx2023xtvz,2023-12-06T02:51:13.040Z,"western Texas",earthquake,1.077722528,1.025214343,0.1,22,reviewed,tx,tx
-2023-12-05T03:58:37.860Z,31.678,-104.389,6.1316,2.1,ml,21,68,0,0.2,tx,tx2023xtvx,2023-12-05T22:51:00.980Z,"55 km S of Whites City, New Mexico",earthquake,1.235442218,1.007942946,0.1,12,reviewed,tx,tx
-2023-12-05T03:58:19.280Z,19.3276666666667,-155.193333333333,1.85,3.14,ml,38,113,,0.12,hv,hv73673307,2023-12-06T02:31:48.040Z,"Hawaii region, Hawaii",earthquake,0.25,0.38,0.106301719111521,13,reviewed,hv,hv
