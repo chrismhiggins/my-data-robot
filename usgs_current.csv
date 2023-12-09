@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-12-09T20:30:39.670Z,33.1689987,-115.6521683,2.77,1.73,ml,23,53,0.02854,0.17,ci,ci40618240,2023-12-09T20:33:10.085Z,"14 km WNW of Calipatria, CA",earthquake,0.35,0.57,0.336,24,automatic,ci,ci
+2023-12-09T20:41:53.000Z,39.3128319,-122.8071671,2.72,2.05,md,14,142,0.158,0.07,nc,nc73973866,2023-12-09T20:43:25.855Z,"17 km SE of Lake Pillsbury, CA",earthquake,0.36,2.51,0.2,8,automatic,nc,nc
+2023-12-09T20:30:39.640Z,33.1663333,-115.6515,3.38,1.49,ml,42,53,0.02948,0.22,ci,ci40618240,2023-12-09T20:37:22.190Z,"14 km WNW of Calipatria, CA",earthquake,0.25,0.35,0.154,27,automatic,ci,ci
 2023-12-09T20:20:37.540Z,32.7371667,-115.869,3.54,1.62,ml,24,48,0.1,0.22,ci,ci40618224,2023-12-09T20:27:01.138Z,"12 km E of Ocotillo, CA",earthquake,0.24,0.59,0.271,19,automatic,ci,ci
 2023-12-09T20:12:23.480Z,38.8144989,-122.819664,2.55,2.25,md,44,46,0.00932,0.06,nc,nc73973841,2023-12-09T20:19:11.601Z,"7 km NW of The Geysers, CA",earthquake,0.17,0.28,0.16,48,automatic,nc,nc
 2023-12-09T20:06:49.470Z,33.1678333,-115.6531667,3.26,2.53,ml,29,52,0.02985,0.21,ci,ci40618216,2023-12-09T20:17:24.622Z,"14 km WNW of Calipatria, CA",earthquake,0.33,0.45,0.146,30,automatic,ci,ci
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-09T20:04:46.530Z,33.1629982,-115.6524963,3.79,3.18,ml,80,34,0.03214,0.25,ci,ci40618200,2023-12-09T20:15:56.320Z,"14 km WNW of Calipatria, CA",earthquake,0.21,0.45,0.361,22,automatic,ci,ci
 2023-12-09T19:59:51.122Z,56.777,-34.1687,10,4.9,mb,86,69,7.284,0.6,us,us7000lhsw,2023-12-09T20:14:30.040Z,"Reykjanes Ridge",earthquake,10.64,1.883,0.053,112,reviewed,us,us
 2023-12-09T19:57:53.300Z,38.8161659,-122.7634964,1.55,2.01,md,43,49,0.01374,0.05,nc,nc73973826,2023-12-09T20:33:14.693Z,"4 km W of Cobb, CA",earthquake,0.16,0.25,0.1,42,automatic,nc,nc
-2023-12-09T19:56:11.748Z,61.7532,-152.7762,141.4,2.1,ml,,,,0.47,ak,ak023frkzbio,2023-12-09T19:58:58.564Z,"77 km WSW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-12-09T19:56:18.717Z,61.5674,-152.3112,95.2,1.5,ml,,,,1.31,ak,ak023frkzbio,2023-12-09T20:36:00.392Z,"67 km SW of Skwentna, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2023-12-09T19:52:10.983Z,31.595,-103.965,6.917,1.8,ml,14,67,0.1,0.3,tx,tx2023ycjj,2023-12-09T20:23:27.328Z,"35 km NNW of Toyah, Texas",earthquake,0,2.652556061,0.2,11,automatic,tx,tx
 2023-12-09T19:44:47.829Z,1.8499,126.3595,50.072,5,mb,48,67,1.47,0.94,us,us7000lhsr,2023-12-09T20:09:28.040Z,"144 km ENE of Bitung, Indonesia",earthquake,9.38,6.184,0.064,79,reviewed,us,us
 2023-12-09T19:32:18.801Z,37.0135,-117.6304,0.6,1,ml,11,217.5,0.22,0.287,nn,nn00869932,2023-12-09T19:35:13.718Z,"55 km ENE of Independence, California",earthquake,,40.9,0.4,8,automatic,nn,nn
