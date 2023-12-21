@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-21T14:53:50.240Z,38.8424988,-122.840332,1.73,0.72,md,15,91,0.01798,0.02,nc,nc73978991,2023-12-21T14:55:27.352Z,"10 km NW of The Geysers, CA",earthquake,0.29,0.45,0.44,15,automatic,nc,nc
 2023-12-21T14:41:31.064Z,61.3224,-150.0812,35.8,1.9,ml,,,,0.42,ak,ak023gbcd4j6,2023-12-21T14:43:12.892Z,"6 km SW of Point MacKenzie, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2023-12-21T14:37:35.810Z,38.8346672,-122.8066635,2.25,0.44,md,8,66,0.01157,0.01,nc,nc73978971,2023-12-21T14:39:11.929Z,"7 km W of Cobb, CA",earthquake,0.42,2.12,0.29,10,automatic,nc,nc
+2023-12-21T14:37:35.810Z,38.8346672,-122.8066635,2.25,0.44,md,8,66,0.01157,0.01,nc,nc73978971,2023-12-21T14:52:09.972Z,"7 km W of Cobb, CA",earthquake,0.42,2.12,0.29,10,automatic,nc,nc
 2023-12-21T14:33:10.685Z,63.0768,-151.5609,1.9,1.8,ml,,,,0.18,ak,ak023gbcbd8c,2023-12-21T14:34:47.863Z,"52 km S of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-12-21T14:28:26.210Z,19.2724990844727,-155.392837524414,29.5100002288818,2.12,ml,43,124,,0.150000006,hv,hv73692897,2023-12-21T14:34:03.610Z,"11 km NE of Pāhala, Hawaii",earthquake,0.46,0.639999986,0.33,3,automatic,hv,hv
 2023-12-21T14:17:23.748Z,35.1797,141.217,10,4.8,mb,35,135,2.365,0.77,us,usd0010b49,2023-12-21T14:43:02.040Z,"70 km SSE of Hasaki, Japan",earthquake,4.14,1.885,0.107,29,reviewed,us,us
@@ -24,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-21T12:11:33.170Z,36.40200806,-98.42564392,5.772406101,1.87,ml,12,123.8720551,0.1262819767,0.2243723747,ok,ok2023yxsf,2023-12-21T12:15:21.910Z,"1 km ESE of Cleo Springs, Oklahoma",earthquake,4.00565802,5.485660495,0.2,7,automatic,ok,ok
 2023-12-21T12:09:31.212Z,59.7113,-153.377,105.6,1.4,ml,,,,0.07,ak,ak023gbazef5,2023-12-21T12:10:41.631Z,"41 km ESE of Pedro Bay, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2023-12-21T11:48:20.390Z,19.267333984375,-155.373504638672,30.0200004577637,2.04999995,md,41,132,,0.129999995,hv,hv73692812,2023-12-21T11:51:38.480Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.53,0.579999983,0.819999993,16,automatic,hv,hv
-2023-12-21T11:45:28.682Z,38.6682,-97.5226,3.506,3.1,mb_lg,27,74,0.712,0.29,us,us7000lkkf,2023-12-21T14:19:41.106Z,"7 km E of Assaria, Kansas",earthquake,2.08,6.047,0.046,124,reviewed,us,us
+2023-12-21T11:45:28.682Z,38.6682,-97.5226,3.506,3.1,mb_lg,27,74,0.712,0.29,us,us7000lkkf,2023-12-21T14:58:43.590Z,"7 km E of Assaria, Kansas",earthquake,2.08,6.047,0.046,124,reviewed,us,us
 2023-12-21T11:36:09.036Z,-8.4952,-74.5106,12.631,5,mb,46,77,4.16,0.97,us,us7000lkke,2023-12-21T12:08:38.756Z,"11 km SSE of San Fernando, Peru",earthquake,8.85,4.741,0.039,207,reviewed,us,us
 2023-12-21T11:29:50.780Z,35.1793,141.1241,20.554,4.9,mb,48,131,2.328,0.93,us,us7000lkkc,2023-12-21T14:24:39.908Z,"66 km SSE of Hasaki, Japan",earthquake,7.73,5.436,0.056,99,reviewed,us,us
 2023-12-21T11:28:46.370Z,18.116,-67.2518333333333,19.54,2.57,md,7,301,0.1209,0.16,pr,pr71434668,2023-12-21T11:37:36.450Z,"8 km WNW of Puerto Real, Puerto Rico",earthquake,1.26,0.51,0.0453284628140018,5,reviewed,pr,pr
