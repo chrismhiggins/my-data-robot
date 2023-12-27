@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-12-27T16:26:14.832Z,61.9642,-150.9932,60.9,2.2,ml,,,,0.4,ak,ak023glaotpn,2023-12-27T16:28:13.164Z,"21 km E of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-12-27T16:00:22.341Z,36.7091,-115.945,6.8,0.6,ml,9,195.38,0.038,0.1456,nn,nn00870723,2023-12-27T16:02:06.964Z,"29 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.35,3,automatic,nn,nn
 2023-12-27T15:58:12.760Z,19.255500793457,-155.399169921875,29.9699993133545,1.92999995,md,42,128,,0.140000001,hv,hv73698297,2023-12-27T16:01:31.280Z,"10 km NE of Pāhala, Hawaii",earthquake,0.42,0.769999981,0.769999981,15,automatic,hv,hv
 2023-12-27T15:43:57.299Z,36.6966,-115.9155,8.1,0.8,ml,14,234.23,0.051,0.1998,nn,nn00870721,2023-12-27T15:45:39.793Z,"26 km WNW of Indian Springs, Nevada",earthquake,,1,0.36,3,automatic,nn,nn
@@ -177,5 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-12-26T17:15:35.448Z,61.5518,-144.01,48.5,1.9,ml,,,,0.71,ak,ak023gjnoljc,2023-12-26T17:18:38.219Z,"23 km E of Chitina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-12-26T16:55:40.874Z,38.1849,-117.8398,12.1,1.7,ml,11,89.78,0.115,0.1188,nn,nn00870676,2023-12-26T20:07:53.136Z,"32 km SE of Mina, Nevada",earthquake,,1.2,0.78,6,reviewed,nn,nn
 2023-12-26T16:52:55.220Z,35.602,-117.4881667,6.29,1.33,ml,29,50,0.02621,0.12,ci,ci40451303,2023-12-26T17:22:18.694Z,"17 km E of Ridgecrest, CA",earthquake,0.16,0.31,0.191,10,reviewed,ci,ci
-2023-12-26T16:27:54.166Z,63.0724,-150.8237,120.1,1.6,ml,,,,0.14,ak,ak023gjn5ryw,2023-12-26T16:29:30.104Z,"64 km N of Petersville, Alaska",earthquake,,2.1,,,automatic,ak,ak
-2023-12-26T16:13:46.790Z,38.8263321,-122.8578339,2.25,1.12,md,24,66,0.001425,0.02,nc,nc73981346,2023-12-26T17:37:09.728Z,"10 km WNW of The Geysers, CA",earthquake,0.23,0.36,0.18,26,automatic,nc,nc
