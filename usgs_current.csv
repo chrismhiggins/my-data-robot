@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-22T11:15:04.261Z,63.25,-144.9179,2.8,1.6,ml,,,,0.52,ak,ak02410kgml1,2024-01-22T11:17:45.286Z,"39 km ENE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-22T11:11:22.533Z,36.8355,-115.9122,10.4,0.3,ml,17,204.67,0.045,0.1579,nn,nn00872069,2024-01-22T11:13:14.053Z,"36 km NW of Indian Springs, Nevada",earthquake,,0.9,0.32,11,automatic,nn,nn
 2024-01-22T11:03:58.290Z,35.6625,-117.5358333,8.09,0.95,ml,28,57,0.09134,0.19,ci,ci40463983,2024-01-22T11:10:00.741Z,"14 km ENE of Ridgecrest, CA",earthquake,0.27,0.74,0.148,8,automatic,ci,ci
 2024-01-22T11:03:02.340Z,19.4053325653076,-155.288665771484,0.899999976158142,1.83,ml,22,46,,0.100000001,hv,hv73724557,2024-01-22T11:08:33.770Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.159999996,2.1,9,automatic,hv,hv
@@ -207,6 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-21T12:02:57.750Z,38.7661667,-122.7268295,1.49,1.15,md,11,76,0.004819,0.05,nc,nc73992141,2024-01-21T12:57:15.027Z,"3 km ESE of The Geysers, CA",earthquake,0.4,0.5,0.14,12,automatic,nc,nc
 2024-01-21T11:55:01.460Z,33.031,-115.9998333,6.17,0.75,ml,32,56,0.1433,0.19,ci,ci40463623,2024-01-21T16:11:25.580Z,"18 km SE of Ocotillo Wells, CA",earthquake,0.21,1.54,0.065,6,reviewed,ci,ci
 2024-01-21T11:37:27.083Z,64.4879,-146.9588,3.5,1.5,ml,,,,0.34,ak,ak024yx21lw,2024-01-21T11:39:17.205Z,"4 km SW of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-01-21T11:23:15.953Z,59.8627,-153.0913,124.1,2.2,ml,,,,0.23,ak,ak024ywz0py,2024-01-21T11:26:16.940Z,"57 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-01-21T11:22:54.404Z,62.9343,-148.5472,60.8,2.8,ml,,,,0.53,ak,ak024ywyvyh,2024-01-21T11:31:44.040Z,"54 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-01-21T11:22:51.109Z,31.523,-104.012,4.8452,1.6,ml,14,60,0,0.2,tx,tx2024blkp,2024-01-21T11:52:34.954Z,"31 km NW of Toyah, Texas",earthquake,0,1.376235927,0.1,12,automatic,tx,tx
