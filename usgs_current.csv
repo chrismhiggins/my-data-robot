@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-01-28T23:16:27.006Z,64.9745,-147.4083,0,1.1,ml,,,,1.08,ak,ak0241aou6ad,2024-01-28T23:26:11.780Z,"10 km E of Fox, Alaska",earthquake,,40.5,,,automatic,ak,ak
 2024-01-28T22:49:17.183Z,62.466,-149.3056,7.2,1.8,ml,,,,0.5,ak,ak0241aofsjq,2024-01-28T22:51:27.454Z,"41 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-01-28T22:47:02.441Z,61.9389,-150.5024,61.4,1.7,ml,,,,0.31,ak,ak0241aofbz8,2024-01-28T22:49:24.631Z,"32 km NW of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2024-01-28T22:45:55.885Z,62.8601,-151.2142,114.5,1.8,ml,,,,0.35,ak,ak0241aof0o4,2024-01-28T22:48:15.606Z,"46 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -274,6 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-01-27T23:37:28.844Z,38.1858,-117.8339,8.8,1.6,ml,10,142.35,0.119,0.3111,nn,nn00872487,2024-01-27T23:40:20.887Z,"33 km SE of Mina, Nevada",earthquake,,0.9,0.22,7,automatic,nn,nn
 2024-01-27T23:33:10.673Z,64.48,-146.9737,3.9,1,ml,,,,0.47,ak,ak024191efp7,2024-01-27T23:35:05.290Z,"5 km SW of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-01-27T23:30:43.190Z,19.3856666666667,-155.279333333333,0.94,0.89,md,19,44,,0.06,hv,hv73728997,2024-01-27T23:43:02.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.13,0.13,0.0271652494913361,3,reviewed,hv,hv
-2024-01-27T23:24:54.370Z,33.5271667,-116.5376667,12.21,1.15,ml,24,104,0.03076,0.1,ci,ci39758498,2024-01-28T15:13:33.610Z,"13 km ESE of Anza, CA",earthquake,0.38,0.57,0.254,28,reviewed,ci,ci
-2024-01-27T23:21:03.202Z,63.0228,-144.2741,0,2.4,ml,,,,0.89,ak,ak024191buj9,2024-01-27T23:38:48.040Z,"28 km WNW of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-01-27T23:21:00.333Z,-22.1054,-68.7523,116.802,4.2,mb,21,46,0.549,0.67,us,us7000luf8,2024-01-27T23:45:17.040Z,"42 km NNE of Calama, Chile",earthquake,3.78,6.619,0.2,7,reviewed,us,us
