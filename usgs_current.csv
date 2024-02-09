@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-02-09T09:06:14.195Z,64.7837,-151.3425,9.3,1.9,ml,,,,0.76,ak,ak0241uaw3l7,2024-02-09T09:08:18.032Z,"41 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-02-09T09:03:55.010Z,38.7374992,-122.9144974,6.63,1.15,md,15,148,0.06166,0.04,nc,nc73999996,2024-02-09T09:16:09.715Z,"12 km SE of Cloverdale, CA",earthquake,0.42,1.23,0.13,15,automatic,nc,nc
+2024-02-09T09:03:55.010Z,38.7374992,-122.9144974,6.63,1.15,md,15,148,0.06166,0.04,nc,nc73999996,2024-02-09T09:20:12.738Z,"12 km SE of Cloverdale, CA",earthquake,0.42,1.23,0.13,15,automatic,nc,nc
 2024-02-09T08:44:15.809Z,-1.0157,-80.9817,10,4.4,mb,29,166,1.313,1.16,us,us7000lxy9,2024-02-09T09:15:15.040Z,"30 km W of Manta, Ecuador",earthquake,3.86,1.955,0.149,13,reviewed,us,us
 2024-02-09T08:42:33.540Z,34.9384,139.1734,166.22,4.7,mb,93,112,1.782,0.79,us,us7000lxy8,2024-02-09T09:04:37.540Z,"8 km ESE of Itō, Japan",earthquake,7.42,6.717,0.073,57,reviewed,us,us
 2024-02-09T08:25:12.400Z,33.3976667,-116.3915,2.94,1.02,ml,63,28,0.07363,0.21,ci,ci40664360,2024-02-09T08:36:09.450Z,"16 km N of Borrego Springs, CA",earthquake,0.16,0.33,0.137,28,automatic,ci,ci
@@ -195,9 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-08T09:39:31.950Z,57.0456666666667,-135.6435,6.57,0.28,ml,4,172,,0.08,av,av91131048,2024-02-08T21:19:59.590Z,"18 km W of Sitka, Alaska",earthquake,1.11,0.85,0.339124037514554,4,reviewed,av,av
 2024-02-08T09:35:52.770Z,33.6703333,-116.7146667,15.59,0.6,ml,20,92,0.03411,0.1,ci,ci40664048,2024-02-08T14:35:43.710Z,"8 km S of Idyllwild, CA",earthquake,0.29,0.37,0.011,3,reviewed,ci,ci
 2024-02-08T09:35:14.070Z,51.8523333333333,-177.917833333333,-1.8,0.32,ml,4,161,,0.15,av,av91131043,2024-02-08T21:16:32.860Z,"88 km W of Adak, Alaska",earthquake,0.44,1.29,0.512851656106179,4,reviewed,av,av
-2024-02-08T09:27:32.240Z,31.692,-104.303,5.2061,1.6,ml,10,65,0,0.2,tx,tx2024csdv,2024-02-08T15:58:59.920Z,"54 km S of Whites City, New Mexico",earthquake,0.7476941223,1.174109812,0.2,9,reviewed,tx,tx
-2024-02-08T09:22:05.487Z,26.153,-110.7022,10,4.6,mb,70,169,1.801,1.07,us,us7000lxq4,2024-02-08T10:09:50.040Z,"66 km ENE of Loreto, Mexico",earthquake,7.6,1.926,0.044,153,reviewed,us,us
-2024-02-08T09:19:12.050Z,57.043,-135.641,6.63,0.84,ml,4,175,,0.09,av,av91131038,2024-02-08T21:13:02.890Z,"18 km W of Sitka, Alaska",earthquake,1.14,0.93,0.301928453905669,4,reviewed,av,av
-2024-02-08T09:18:59.830Z,57.0205,-135.636,4.6,0.3,ml,4,199,,0.13,av,av91131033,2024-02-08T21:07:51.560Z,"18 km W of Sitka, Alaska",earthquake,1.43,2.21,0.424476682035935,4,reviewed,av,av
-2024-02-08T09:18:44.380Z,57.0846666666667,-135.748333333333,6.08,-0.23,ml,4,255,,0.27,av,av91131028,2024-02-08T21:03:39.500Z,"25 km W of Sitka, Alaska",earthquake,2.35,1.46,0.115155160596923,4,reviewed,av,av
-2024-02-08T09:18:23.090Z,57.0326666666667,-135.641833333333,7.01,-0.42,ml,4,186,,0.09,av,av91131023,2024-02-08T20:56:05.810Z,"19 km W of Sitka, Alaska",earthquake,1.18,1.1,0.121466983340319,4,reviewed,av,av
