@@ -285,4 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-02-22T04:01:03.331Z,28.937,-98.182,9.1553,2,ml,13,85,0.2,0.2,tx,tx2024drig,2024-02-22T21:45:33.425Z,"16 km WSW of Falls City, Texas",earthquake,1.1561475499600404,4.855694127777309,0.1,14,reviewed,tx,tx
 2024-02-22T03:59:47.950Z,38.4941666666667,-112.893666666667,2.25,0.78,md,14,57,0.009229,0.1,uu,uu80045981,2024-02-22T22:42:15.780Z,"14 km NE of Milford, Utah",earthquake,0.34,0.45,0.505833574880225,6,reviewed,uu,uu
 2024-02-22T03:59:40.410Z,57.0468333333333,-135.656166666667,6.53,-0.13,ml,4,170,,0.03,av,av91133123,2024-02-22T20:16:28.070Z,"19 km W of Sitka, Alaska",earthquake,0.86,0.65,0.211507754858701,4,reviewed,av,av
-2024-02-22T03:56:59.428Z,64.4736,-146.8923,5.1,1.2,ml,,,,0.55,ak,ak0242fplto6,2024-02-22T03:58:29.488Z,"5 km S of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
