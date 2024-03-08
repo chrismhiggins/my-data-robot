@@ -235,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-03-07T06:18:45.489Z,58.1048,-154.3302,61.2,1.5,ml,,,,0.47,ak,ak02432wot44,2024-03-07T06:20:29.829Z,"60 km N of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-03-07T05:52:32.680Z,19.2965,-66.4633333333333,47.59,3.3,md,10,302,0.8175,0.17,pr,pr71442248,2024-03-07T07:02:13.040Z,"92 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.87,5.46,0.0461792386902555,5,reviewed,pr,pr
 2024-03-07T05:36:39.440Z,33.7196667,-116.8411667,14.5,0.55,ml,30,91,0.07618,0.13,ci,ci40682768,2024-03-07T14:22:52.373Z,"6 km ESE of Valle Vista, CA",earthquake,0.21,0.29,0.145,8,reviewed,ci,ci
-2024-03-07T05:22:19.350Z,47.74666666666667,-124.13666666666667,25.24,2.6,ml,44,59,0.02629,0.28,uw,uw61988156,2024-03-08T02:18:27.904Z,"27 km NNE of Queets, Washington",earthquake,0.4,0.67,0.12200394830468486,38,reviewed,uw,uw
