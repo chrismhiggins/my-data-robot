@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-12T23:46:00.520Z,38.1155014,-122.2861633,-0.28,2.16,md,6,155,0.3467,0.13,nc,nc74033516,2024-04-12T23:47:36.236Z,"4 km W of Vallejo, CA",earthquake,0.87,3.3,,1,automatic,nc,nc
 2024-04-12T23:37:47.090Z,38.840168,-122.8228302,2,1.68,md,30,65,0.01001,0.05,nc,nc74033511,2024-04-12T23:40:57.720Z,"9 km WNW of Cobb, CA",earthquake,0.2,0.35,0.2,30,automatic,nc,nc
 2024-04-12T23:32:29.430Z,19.2933330535889,-155.255493164062,0.699999988079071,2.11,ml,48,142,0.03153,0.200000003,hv,hv74169592,2024-04-12T23:35:07.950Z,"16 km S of Volcano, Hawaii",earthquake,0.28,0.280000001,0.32,9,automatic,hv,hv
 2024-04-12T23:21:04.564Z,60.7652,-151.3374,46.9,1.8,ml,,,,0.93,ak,ak0244qq6860,2024-04-12T23:23:56.151Z,"8 km NNW of Nikiski, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -40,7 +41,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-12T17:57:20.110Z,46.95433333333333,-120.35483333333333,-0.87,1.75,ml,15,148,0.1044,0.31,uw,uw61988182,2024-04-12T18:55:50.040Z,"5 km SE of Kittitas, Washington",explosion,0.99,31.61,0.0967771962924302,12,reviewed,uw,uw
 2024-04-12T17:44:24.520Z,19.0438327789307,-155.376007080078,40.5699996948242,2.04999995,md,20,280,0.1377,0.180000007,hv,hv74169472,2024-04-12T17:46:09.800Z,"20 km SSE of Pāhala, Hawaii",earthquake,1.63,1.46000004,0.239999995,3,automatic,hv,hv
 2024-04-12T17:41:16.190Z,44.01433333333333,-122.99233333333333,-0.37,1.1300000000000001,ml,9,116,0.02341,0.09,uw,uw61988177,2024-04-12T18:42:45.470Z,"4 km SE of Springfield, Oregon",explosion,0.4,31.61,0.1300406673182013,4,reviewed,uw,uw
-2024-04-12T17:35:05.100Z,35.7811667,-117.5993333,10.73,0.51,ml,10,156,0.1373,0.11,ci,ci40711728,2024-04-12T17:40:56.830Z,"18 km W of Searles Valley, CA",earthquake,0.36,0.89,0.143,4,automatic,ci,ci
+2024-04-12T17:35:05.090Z,35.7783333,-117.6016667,10.97,0.5,ml,12,139,0.1361,0.18,ci,ci40711728,2024-04-12T23:46:45.153Z,"18 km W of Searles Valley, CA",earthquake,0.55,0.9,0.159,5,reviewed,ci,ci
 2024-04-12T17:29:34.550Z,47.60183333333333,-121.90633333333334,18.13,1.69,ml,41,58,0.06591,0.19,uw,uw61988172,2024-04-12T18:24:59.220Z,"4 km NNW of Fall City, Washington",earthquake,0.21,0.39,0.1545737072708937,29,reviewed,uw,uw
 2024-04-12T17:12:58.503Z,37.3002,-114.7871,0,1.7,ml,9,140.46,0.236,0.2027,nn,nn00876104,2024-04-12T18:08:56.492Z,"34 km ESE of Alamo, Nevada",earthquake,,0,0.33,7,reviewed,nn,nn
 2024-04-12T17:11:32.511Z,62.8901,-149.2551,74.2,1.8,ml,,,,0.35,ak,ak0244qmjjj7,2024-04-12T17:13:37.979Z,"57 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-12T12:11:14.940Z,35.8545,-117.6805,8.24,0.67,ml,24,115,0.08248,0.14,ci,ci40711512,2024-04-12T16:28:05.985Z,"22 km ESE of Little Lake, CA",earthquake,0.19,0.53,0.088,7,reviewed,ci,ci
 2024-04-12T11:59:46.940Z,37.625,-119.029335,-2.82,0.54,md,6,120,0.01376,0.05,nc,nc74033221,2024-04-12T12:01:20.882Z,"5 km WSW of Mammoth Lakes, CA",earthquake,0.82,1,0.06,8,automatic,nc,nc
 2024-04-12T11:57:12.765Z,36.7534,-116.2687,8,0,ml,18,93.63,0.052,0.0734,nn,nn00876097,2024-04-12T12:45:23.159Z,"47 km ESE of Beatty, Nevada",earthquake,,0.8,0.42,10,reviewed,nn,nn
-2024-04-12T11:57:09.130Z,34.4311667,-119.4286667,2.03,1.41,ml,28,117,0.07872,0.21,ci,ci40711504,2024-04-12T12:03:49.162Z,"9 km ENE of Carpinteria, CA",earthquake,0.25,0.48,0.21,30,automatic,ci,ci
+2024-04-12T11:57:09.090Z,34.431,-119.4266667,2.22,1.34,ml,24,116,0.08017,0.18,ci,ci40711504,2024-04-12T23:53:46.886Z,"9 km ENE of Carpinteria, CA",earthquake,0.22,0.4,0.147,20,reviewed,ci,ci
 2024-04-12T11:28:50.012Z,61.7785,-151.1651,72.7,1.4,ml,,,,0.52,ak,ak0244qj2mfd,2024-04-12T11:31:04.426Z,"26 km SSE of Skwentna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2024-04-12T11:12:43.788Z,62.6227,-150.1438,18.5,1.9,ml,,,,0.93,ak,ak0244qiz6hm,2024-04-12T11:15:38.328Z,"19 km N of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-12T10:52:41.710Z,38.7736664,-122.7178345,1.94,1.07,md,13,95,0.01325,0.05,nc,nc74033206,2024-04-12T10:54:15.204Z,"2 km W of Anderson Springs, CA",earthquake,0.29,0.48,0.11,12,automatic,nc,nc
