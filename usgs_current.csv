@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-04-23T21:30:38.950Z,33.8676682,-117.4991684,1.29,1.29,ml,24,47,0.05212,0.17,ci,ci40556359,2024-04-23T21:32:51.975Z,"2 km ESE of Home Gardens, CA",earthquake,0.34,0.59,0.199,8,automatic,ci,ci
+2024-04-23T21:30:38.930Z,33.8626667,-117.5025,2.57,1.27,ml,36,52,0.05044,0.15,ci,ci40556359,2024-04-23T21:37:09.201Z,"2 km SE of Home Gardens, CA",earthquake,0.19,0.26,0.233,35,automatic,ci,ci
 2024-04-23T21:05:44.480Z,38.7953339,-122.7675018,2.43,0.78,md,13,112,0.0161,0.02,nc,nc74039991,2024-04-23T21:07:21.761Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.73,0.21,14,automatic,nc,nc
 2024-04-23T21:01:25.406Z,62.7367,-151.3071,29.7,1.7,ml,,,,1.37,ak,ak02458vrxoc,2024-04-23T21:03:31.161Z,"38 km NW of Petersville, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2024-04-23T21:01:19.470Z,33.0416667,-116.4191667,14.22,2.18,ml,80,27,0.03897,0.2,ci,ci40556335,2024-04-23T21:12:04.940Z,"18 km ESE of Julian, CA",earthquake,0.14,0.34,0.169,26,automatic,ci,ci
@@ -21,6 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-23T19:00:06.440Z,45.9265,-111.476833333333,-2,1.56,ml,13,119,0.2909,0.1,mb,mb90047843,2024-04-23T19:58:26.950Z,"6 km NW of Logan, Montana",quarry blast,0.36,31.61,0.22028809514941,8,reviewed,mb,mb
 2024-04-23T18:58:37.320Z,38.8045006,-122.803833,19.02,0.94,md,9,171,0.00751,0.06,nc,nc74039891,2024-04-23T19:00:10.391Z,"5 km NW of The Geysers, CA",earthquake,2.11,1.42,0.24,3,automatic,nc,nc
 2024-04-23T18:37:55.525Z,59.1252,-152.9365,74.8,1.7,ml,,,,1.39,ak,ak02458u7eyo,2024-04-23T18:40:15.110Z,"63 km WSW of Nanwalek, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2024-04-23T18:27:32.230Z,44.7938333333333,-111.065166666667,7.96,1.49,ml,14,146,0.02952,0.15,uu,uu80067191,2024-04-23T21:46:29.750Z,"10 km ENE of Hebgen Lake Estates, Montana",earthquake,0.49,0.44,0.226374182437607,3,reviewed,uu,uu
 2024-04-23T18:26:29.504Z,61.4005,-149.922,29.5,1.3,ml,,,,0.45,ak,ak02458u502u,2024-04-23T18:28:41.171Z,"5 km NNE of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-04-23T18:22:59.820Z,63.2762,-151.1295,6.4,1.6,ml,,,,0.66,ak,ak02458u47jy,2024-04-23T18:25:54.212Z,"41 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-04-23T18:02:20.870Z,39.4836666666667,-110.954333333333,2.62,1.03,md,11,90,0.1662,0.14,uu,uu80067181,2024-04-23T18:23:16.110Z,"4 km E of Hiawatha, Utah",earthquake,0.41,31.61,0.13875273460116,9,reviewed,uu,uu
@@ -238,4 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-22T22:11:40.456Z,-7.648,127.5951,155.908,4.5,mb,24,101,3.862,0.79,us,us6000mt27,2024-04-22T22:27:49.040Z,"116 km NE of Lospalos, Timor Leste",earthquake,9.73,9.416,0.115,22,reviewed,us,us
 2024-04-22T22:08:01.000Z,33.5185,-116.7561667,3.01,0.61,ml,16,173,0.03742,0.12,ci,ci40555303,2024-04-22T22:14:13.389Z,"9 km WSW of Anza, CA",earthquake,0.38,0.88,0.131,12,automatic,ci,ci
 2024-04-22T21:57:40.938Z,-39.1397,176.4184,35,4.3,mb,19,89,0.469,0.56,us,us6000mt26,2024-04-23T10:16:37.076Z,"49 km NW of Bay View, New Zealand",earthquake,2.85,1.955,0.218,6,reviewed,us,us
-2024-04-22T21:38:04.380Z,38.8366661,-122.7896652,1.81,0.53,md,8,91,0.001819,0,nc,nc74039416,2024-04-22T21:39:39.924Z,"6 km WNW of Cobb, CA",earthquake,0.48,1.61,0.19,8,automatic,nc,nc
