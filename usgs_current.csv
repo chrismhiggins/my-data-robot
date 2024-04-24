@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-24T20:51:18.600Z,32.0953333,-117.4383333,5.3,2.47,ml,10,257,0.3575,0.13,ci,ci40557415,2024-04-24T20:58:23.930Z,"46 km SW of Rosarito, B.C., MX",earthquake,1.57,4.15,0.194,27,automatic,ci,ci
 2024-04-24T20:48:29.440Z,38.8288345,-122.8161697,1.05,0.77,md,13,54,0.007223,0.03,nc,nc74040496,2024-04-24T20:50:05.057Z,"8 km NW of The Geysers, CA",earthquake,0.27,0.66,0.16,13,automatic,nc,nc
 2024-04-24T20:39:57.759Z,62.955,-149.3355,72.3,1.5,ml,,,,0.77,ak,ak0245aiy29r,2024-04-24T20:42:43.409Z,"52 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-04-24T20:18:30.715Z,36.1776,22.2223,32.106,4.2,mb,58,153,1.027,0.76,us,us6000mtjv,2024-04-24T20:45:54.040Z,"69 km W of Kýthira, Greece",earthquake,7.99,7.729,0.082,42,reviewed,us,us
@@ -11,7 +12,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-24T19:28:07.987Z,38.1795,-117.8869,11,1.1,ml,9,93.83000000000001,0.08,0.172,nn,nn00876804,2024-04-24T20:32:15.231Z,"30 km SE of Mina, Nevada",earthquake,,2.4,0.33,5,reviewed,nn,nn
 2024-04-24T19:27:41.610Z,46.3033333333333,-111.601,-2,1.37,ml,10,93,0.3127,0.35,mb,mb90047978,2024-04-24T20:52:21.030Z,"6 km WSW of Townsend, Montana",quarry blast,1.42,31.61,0.245167121300626,8,reviewed,mb,mb
 2024-04-24T19:19:20.682Z,62.1409,-150.8727,62.3,1.6,ml,,,,0.34,ak,ak0245ai89hg,2024-04-24T19:21:52.492Z,"32 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-04-24T19:14:32.500Z,33.8761667,-117.0341667,2.09,1.35,ml,35,73,0.1431,0.16,ci,ci40557303,2024-04-24T19:21:22.065Z,"8 km SW of Beaumont, CA",earthquake,0.29,1.32,0.153,35,automatic,ci,ci
 2024-04-24T19:13:44.802Z,61.5123,-149.9586,33.2,1.7,ml,,,,0.29,ak,ak0245ai711s,2024-04-24T19:15:31.083Z,"1 km SSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-24T19:05:14.920Z,18.0845,-64.9568333333333,15.98,2.94,md,13,113,0.2664,0.28,pr,pr71446433,2024-04-24T19:27:43.520Z,"28 km S of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.2,2.67,0.0308268114915968,6,reviewed,pr,pr
 2024-04-24T18:55:03.134Z,64.9264,-151.3551,6.6,1.1,ml,,,,0.83,ak,ak0245ahuiay,2024-04-24T18:57:26.830Z,"35 km WSW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -285,7 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-23T21:56:28.860Z,38.8251648,-122.8433304,1.64,0.26,md,10,121,0.006799,0.01,nc,nc74040016,2024-04-23T21:58:01.323Z,"9 km NW of The Geysers, CA",earthquake,0.36,0.78,0.14,11,automatic,nc,nc
 2024-04-23T21:56:23.150Z,35.7306667,-117.5443333,3.25,1.98,ml,34,127,0.118,0.15,ci,ci40556375,2024-04-24T13:39:17.400Z,"13 km WSW of Searles Valley, CA",earthquake,0.18,0.76,0.151,27,reviewed,ci,ci
 2024-04-23T21:30:38.930Z,33.8626667,-117.5025,2.57,1.27,ml,36,52,0.05044,0.15,ci,ci40556359,2024-04-23T21:37:09.201Z,"2 km SE of Home Gardens, CA",earthquake,0.19,0.26,0.233,35,automatic,ci,ci
-2024-04-23T21:05:44.480Z,38.7953339,-122.7675018,2.43,0.78,md,13,112,0.0161,0.02,nc,nc74039991,2024-04-23T21:07:21.761Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.73,0.21,14,automatic,nc,nc
-2024-04-23T21:01:25.406Z,62.7367,-151.3071,29.7,1.7,ml,,,,1.37,ak,ak02458vrxoc,2024-04-23T21:03:31.161Z,"38 km NW of Petersville, Alaska",earthquake,,2.2,,,automatic,ak,ak
-2024-04-23T21:01:19.470Z,33.0416667,-116.4191667,14.22,2.18,ml,80,27,0.03897,0.2,ci,ci40556335,2024-04-23T21:12:04.940Z,"18 km ESE of Julian, CA",earthquake,0.14,0.34,0.169,26,automatic,ci,ci
-2024-04-23T21:00:44.050Z,19.3425,-155.100166666667,6.14,2.57,ml,49,135,0.04135,0.13,hv,hv74182647,2024-04-23T21:35:08.040Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.31,0.42,0.148125567356842,29,reviewed,hv,hv
