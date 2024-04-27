@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-27T13:43:00.160Z,38.6453323,-122.6930008,12.44,1.26,md,7,140,0.1375,0.19,nc,nc74041906,2024-04-27T13:44:32.542Z,"12 km NW of Calistoga, CA",earthquake,8.73,9.74,0.39,4,automatic,nc,nc
+2024-04-27T13:42:41.050Z,38.840332,-122.8235016,2.01,0.94,md,11,90,0.01431,0.01,nc,nc74041901,2024-04-27T13:44:17.561Z,"9 km WNW of Cobb, CA",earthquake,0.3,0.92,0.29,14,automatic,nc,nc
 2024-04-27T13:19:53.865Z,61.6497,-149.7104,27.7,1.4,ml,,,,0.77,ak,ak0245fd9rwa,2024-04-27T13:21:39.269Z,"6 km ENE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-04-27T13:10:45.540Z,19.3926658630371,-155.275329589844,1.78999996185303,1.88,ml,22,53,0.003124,0.189999998,hv,hv74188672,2024-04-27T13:13:23.080Z,"7 km SW of Volcano, Hawaii",earthquake,0.26,0.230000004,0.25,7,automatic,hv,hv
 2024-04-27T13:10:20.690Z,33.3553333,-116.303,11.63,1.28,ml,52,38,0.008931,0.19,ci,ci40559759,2024-04-27T13:20:45.800Z,"13 km NNE of Borrego Springs, CA",earthquake,0.18,0.27,0.168,29,automatic,ci,ci
