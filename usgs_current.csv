@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2024-04-30T12:24:39.179Z,58.0998,-154.2336,56.7,1.1,ml,,,,0.3,ak,ak0245kbbf7x,2024-04-30T12:26:46.203Z,"60 km NNE of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2024-04-30T12:23:29.800Z,33.2673333,-116.414,4.8,1.21,ml,63,23,0.002785,0.19,ci,ci40733448,2024-04-30T12:34:13.840Z,"4 km WNW of Borrego Springs, CA",earthquake,0.14,0.29,0.177,27,automatic,ci,ci
+2024-04-30T12:23:29.800Z,33.2673333,-116.414,4.8,1.21,ml,63,23,0.002785,0.19,ci,ci40733448,2024-04-30T12:34:46.310Z,"4 km WNW of Borrego Springs, CA",earthquake,0.14,0.29,0.177,27,automatic,ci,ci
 2024-04-30T12:18:06.870Z,19.3951666666667,-155.255,1.19,1.41,md,13,56,0.01022,0.07,hv,hv74200032,2024-04-30T12:25:42.650Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.32,0.116571291856792,17,reviewed,hv,hv
 2024-04-30T12:13:55.730Z,19.3961666666667,-155.255666666667,0.84,1.41,md,13,55,0.01137,0.06,hv,hv74200017,2024-04-30T12:22:05.720Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.39,0.155909689700543,15,reviewed,hv,hv
 2024-04-30T12:03:47.660Z,40.1993332,-121.1159973,-0.89,2.5,md,20,86,0.2119,0.26,nc,nc74043371,2024-04-30T12:11:29.398Z,"4 km ESE of Prattville, CA",earthquake,0.62,8.75,0.12,13,automatic,nc,nc
@@ -320,7 +320,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-04-29T13:04:27.781Z,60.5767,-152.3851,81.9,0.5,ml,,,,0.33,ak,ak0245io974q,2024-04-29T13:06:20.433Z,"58 km W of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-04-29T12:58:40.660Z,19.2568333333333,-155.365666666667,30.31,1.71,md,23,159,0.0357,0.1,hv,hv74196037,2024-04-30T02:10:00.560Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.93,0.57,0.186151415499086,23,reviewed,hv,hv
 2024-04-29T12:57:57.480Z,44.7468333333333,-111.100166666667,10.87,0.79,ml,15,87,0.04954,0.13,uu,uu80067826,2024-04-29T18:33:47.040Z,"7 km ESE of Hebgen Lake Estates, Montana",earthquake,0.44,0.75,0.296044322143287,2,reviewed,uu,uu
-2024-04-29T12:51:18.780Z,19.3818333333333,-155.2385,1.82,1.76,ml,27,74,0.008459,0.11,hv,hv74196017,2024-04-29T17:57:42.920Z,"6 km S of Volcano, Hawaii",earthquake,0.23,0.17,0.176841430719086,14,reviewed,hv,hv
-2024-04-29T12:46:45.310Z,38.8133316,-122.809166,6.29,0.92,md,9,149,0.01007,0.11,nc,nc74042901,2024-04-29T12:48:17.800Z,"6 km NW of The Geysers, CA",earthquake,1.28,3.4,0.18,8,automatic,nc,nc
-2024-04-29T12:44:12.170Z,19.3861666666667,-155.2465,1.63,1.47,ml,25,61,0.004587,0.09,hv,hv74196012,2024-04-29T17:45:46.050Z,"6 km SSW of Volcano, Hawaii",earthquake,0.18,0.15,0.149549668732871,8,reviewed,hv,hv
-2024-04-29T12:42:57.660Z,19.3806667327881,-155.271499633789,0.259999990463257,2.21000004,md,21,57,0.01127,0.289999992,hv,hv74196007,2024-04-29T12:44:20.960Z,"7 km SSW of Volcano, Hawaii",earthquake,0.21,0.25999999,0.349999994,12,automatic,hv,hv
