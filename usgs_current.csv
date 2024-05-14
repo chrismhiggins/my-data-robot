@@ -251,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-13T23:13:20.910Z,52.7155,-169.897166666667,0.26,1.41,ml,5,281,0.08046,0.3,av,av93125551,2024-05-14T01:16:05.170Z,"74 km WSW of Nikolski, Alaska",earthquake,4.73,2.57,0.178902915038739,5,reviewed,av,av
 2024-05-13T23:08:27.739Z,59.305,-152.7411,68.2,1.9,ml,,,,0.33,ak,ak02465zr8yd,2024-05-13T23:10:33.806Z,"47 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-13T22:51:06.587Z,61.6595,-150.2769,13.2,1.2,ml,,,,0.14,ak,ak02465zezia,2024-05-13T22:52:27.883Z,"16 km SW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2024-05-13T22:34:20.620Z,34.1181667,-117.314,4.6,1.31,ml,20,166,0.3191,0.2,ci,ci40749056,2024-05-13T22:41:02.398Z,"2 km WSW of San Bernardino, CA",earthquake,0.49,2.13,0.24,32,automatic,ci,ci
