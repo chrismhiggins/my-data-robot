@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-05-19T15:14:41.670Z,34.4971667,-118.0895,11.59,0.64,ml,8,101,0.02696,0.03,ci,ci40592415,2024-05-19T15:20:47.419Z,"2 km E of Vincent, CA",earthquake,0.32,0.55,0.336,11,automatic,ci,ci
 2024-05-19T15:07:12.390Z,38.7906684875488,-122.758331298828,-0.469999998807907,0.98,md,9,74,0.01,0.05,nc,nc75009281,2024-05-19T15:08:47.776Z,"1 km N of The Geysers, CA",earthquake,0.28,0.850000024,0.26,11,automatic,nc,nc
 2024-05-19T14:58:14.680Z,32.4285,-115.2078333,11.65,1.89,ml,17,61,0.08267,0.25,ci,ci40592383,2024-05-19T15:04:38.326Z,"8 km N of Delta, B.C., MX",earthquake,0.42,0.79,0.21,26,automatic,ci,ci
 2024-05-19T14:47:44.070Z,35.6668333,-117.4318333,6.63,0.75,ml,20,115,0.006834,0.14,ci,ci40592367,2024-05-19T14:53:29.905Z,"12 km SSW of Searles Valley, CA",earthquake,0.31,0.4,0.078,6,automatic,ci,ci
