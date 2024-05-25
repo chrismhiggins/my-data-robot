@@ -98,13 +98,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-25T07:41:17.799Z,37.2477,-116.0585,0,1,ml,16,225.76,0.068,0.3718,nn,nn00878134,2024-05-25T07:43:45.811Z,"52 km SSW of Rachel, Nevada",earthquake,,3,0.33,11,automatic,nn,nn
 2024-05-25T07:37:21.438Z,1.1466,126.4394,40.764,4.9,mb,80,82,0.999,1.14,us,us6000n0x4,2024-05-25T07:54:30.040Z,"112 km WNW of Ternate, Indonesia",earthquake,6.74,6.645,0.073,59,reviewed,us,us
 2024-05-25T07:28:26.200Z,18.9776666666667,-65.5021666666667,24.12,3.35,md,15,239,0.809,0.2,pr,pr71450183,2024-05-25T08:14:19.700Z,"70 km NNE of Vieques, Puerto Rico",earthquake,0.96,14.37,0.0612362350944027,9,reviewed,pr,pr
+2024-05-25T07:27:48.686Z,37.281,-116.0202,7.1,2.7,ml,48,80.51000000000005,0.091,0.1612,nn,nn00878132,2024-05-25T21:48:52.615Z,"47 km SSW of Rachel, Nevada",earthquake,,0.6,0.28,24,reviewed,nn,nn
 2024-05-25T06:56:38.984Z,-20.9348,-178.5233,538.964,4.4,mb,46,91,3.109,0.8,us,us6000n0x2,2024-05-25T08:06:08.040Z,"Fiji region",earthquake,12.96,8.434,0.088,37,reviewed,us,us
 2024-05-25T06:53:53.370Z,19.0248,-68.1301,19,3.52,md,13,210,0.5694,0.48,pr,pr2024146000,2024-05-25T07:54:13.466Z,"56 km NNE of Punta Cana, Dominican Republic",earthquake,2.57,5.41,0.13,12,reviewed,pr,pr
 2024-05-25T06:43:44.504Z,59.9959,-140.2101,4.3,1.5,ml,,,,1.06,ak,ak0246pkakya,2024-05-25T06:46:36.284Z,"56 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-05-25T06:32:13.655Z,60.0524,-152.8334,124.5,1.1,ml,,,,0.62,ak,ak0246pk85jk,2024-05-25T06:35:18.772Z,"62 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-05-25T06:27:30.234Z,60.9164,-150.7727,36.1,1.4,ml,,,,0.53,ak,ak0246pk74e7,2024-05-25T06:29:21.758Z,"4 km W of Point Possession, Alaska",earthquake,,6.7,,,automatic,ak,ak
 2024-05-25T06:27:10.271Z,28.625,-98.28,6.9149,1.6,ml,11,70,0,0.6,tx,tx2024kfks,2024-05-25T06:59:27.511Z,"20 km NNW of Three Rivers, Texas",earthquake,0,2.68267104542996,0.1,9,automatic,tx,tx
-2024-05-25T06:27:05.967Z,38.1321,-118.0053,0,1.1,ml,9,124.70000000000002,0.069,0.4153,nn,nn00878129,2024-05-25T06:29:54.111Z,"30 km SSE of Mina, Nevada",earthquake,,3.4,0.39,6,automatic,nn,nn
+2024-05-25T06:27:06.952Z,38.1661,-117.9801,9.7,0.9,ml,8,117.74999999999997,0.033,0.0872,nn,nn00878129,2024-05-25T21:55:04.364Z,"27 km SSE of Mina, Nevada",earthquake,,1.1,0.25,4,reviewed,nn,nn
 2024-05-25T06:03:39.338Z,61.4245,-149.9103,19.5,2.1,ml,,,,0.87,ak,ak0246pk1zws,2024-05-25T06:06:36.952Z,"8 km NNE of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-05-25T05:55:51.733Z,0.8071,131.704,10,4.8,mb,53,138,3.741,0.68,us,us6000n0wr,2024-05-25T06:12:48.040Z,"176 km NE of Waisai, Indonesia",earthquake,9.83,1.894,0.086,42,reviewed,us,us
 2024-05-25T05:48:44.260Z,38.7763328552246,-122.732330322266,-0.709999978542328,1.77,md,9,102,0.05428,0.03,nc,nc75012036,2024-05-25T05:50:20.842Z,"2 km ESE of The Geysers, CA",earthquake,0.23,0.910000026,0.11,8,automatic,nc,nc
