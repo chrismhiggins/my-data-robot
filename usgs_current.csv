@@ -181,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-05-24T18:31:23.596Z,63.3183,-150.857,11.6,2.3,ml,,,,0.42,ak,ak0246o3ttif,2024-05-24T22:06:32.040Z,"49 km ESE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-05-24T18:23:35.910Z,44.2605,-114.854166666667,6.41,2.43,ml,23,48,0.1544,0.23,mb,mb90052318,2024-05-24T22:57:33.780Z,"8 km NE of Stanley, Idaho",earthquake,0.44,1.05,0.220435996042628,28,reviewed,mb,mb
 2024-05-24T18:21:04.340Z,33.8758333,-116.2821667,3.24,0.84,ml,27,85,0.09362,0.18,ci,ci40599151,2024-05-24T19:38:11.902Z,"12 km ENE of Thousand Palms, CA",earthquake,0.23,0.99,0.144,22,reviewed,ci,ci
-2024-05-24T17:43:17.850Z,33.5221667,-116.7373333,3.62,0.81,ml,29,63,0.04312,0.13,ci,ci40599119,2024-05-24T20:33:36.145Z,"7 km WSW of Anza, CA",earthquake,0.16,0.34,0.163,15,reviewed,ci,ci
-2024-05-24T17:43:07.250Z,38.835334777832,-122.786331176758,1.62000000476837,0.94,md,10,92,0.004387,0.03,nc,nc75011751,2024-05-24T17:44:42.706Z,"6 km WNW of Cobb, CA",earthquake,0.33,0.730000019,0.24,10,automatic,nc,nc
