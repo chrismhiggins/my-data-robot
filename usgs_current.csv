@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-06-03T20:34:53.247Z,61.3163,-146.7839,18,2.1,ml,,,,0.65,ak,ak02474oev3g,2024-06-03T20:36:53.846Z,"31 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2024-06-03T20:30:32.980Z,33.853,-117.5053333,0.83,1.16,ml,32,55,0.06148,0.25,ci,ci40612655,2024-06-03T20:37:01.655Z,"3 km SSE of Home Gardens, CA",earthquake,0.33,0.49,0.305,33,automatic,ci,ci
 2024-06-03T20:15:00.960Z,35.6416667,-118.323,8.06,1.11,ml,23,54,0.05828,0.13,ci,ci40612607,2024-06-03T20:20:54.629Z,"14 km E of Lake Isabella, CA",earthquake,0.23,0.44,0.229,16,automatic,ci,ci
 2024-06-03T20:00:25.520Z,41.9085,-122.32916666666667,26.89,1.77,ml,5,165,0.1034,0.45,uw,uw62011991,2024-06-03T20:16:31.170Z,"18 km E of Hornbrook, California",earthquake,2.59,3.59,0.07208292728347454,2,reviewed,uw,uw
 2024-06-03T19:54:33.270Z,19.3813323974609,-155.230163574219,-0.0500000007450581,1.72,ml,15,115,0.01253,0.200000003,hv,hv74261326,2024-06-03T19:57:11.240Z,"6 km S of Volcano, Hawaii",earthquake,0.22,0.230000004,0.16,4,automatic,hv,hv
@@ -16,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-03T18:20:26.839Z,63.3008,-150.2449,32.5,1.3,ml,,,,1.41,ak,ak02474n4xtn,2024-06-03T18:23:34.593Z,"65 km W of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-06-03T18:14:22.150Z,38.8313331604004,-122.819831848145,1.62999999523163,0.64,md,9,79,0.011,0.02,nc,nc75015702,2024-06-03T18:16:00.017Z,"8 km NNW of The Geysers, CA",earthquake,0.38,0.810000002,0.15,9,automatic,nc,nc
 2024-06-03T18:11:00.221Z,61.3083,-152.2642,13.4,1.9,ml,,,,0.21,ak,ak02474n2ybq,2024-06-03T18:12:05.449Z,"66 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-06-03T18:04:46.450Z,37.7875,-112.932666666667,3.62,1.63,ml,11,182,0.2277,0.26,uu,uu80070931,2024-06-03T20:24:38.170Z,"1 km SSE of Summit, Utah",earthquake,1.55,31.61,0.350948364861265,5,reviewed,uu,uu
 2024-06-03T18:02:37.740Z,17.9991666666667,-66.908,11.44,2.13,md,4,163,0.03638,0.03,pr,pr71451428,2024-06-03T18:23:00.620Z,"1 km NE of Fuig, Puerto Rico",earthquake,1.9,1.23,0.0228196446664151,4,reviewed,pr,pr
 2024-06-03T18:02:07.240Z,39.2686653137207,-123.23217010498,3.47000002861023,1.75,md,14,76,0.08254,0.05,nc,nc75015692,2024-06-03T18:03:45.050Z,"2 km WNW of Redwood Valley, CA",earthquake,0.26,2.02999997,0.15,10,automatic,nc,nc
 2024-06-03T17:59:40.050Z,19.1609992980957,-155.481002807617,28.9899997711182,1.99000001,md,36,115,0.0187,0.170000002,hv,hv74261246,2024-06-03T18:01:13.500Z,"4 km S of Pāhala, Hawaii",earthquake,0.74,0.970000029,0.140000001,7,automatic,hv,hv
@@ -512,5 +515,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-06-02T21:03:28.430Z,36.7323341369629,-121.482498168945,13.8999996185303,1.96,md,34,58,0.01314,0.17,nc,nc75015247,2024-06-02T21:06:32.130Z,"14 km S of San Juan Bautista, CA",earthquake,0.39,0.579999983,0.17,29,automatic,nc,nc
 2024-06-02T20:56:25.640Z,36.8529,-116.2358,6.3,-0.2,ml,15,116.68,0.051,0.1087,nn,nn00878504,2024-06-03T02:26:01.732Z,"47 km E of Beatty, Nevada",earthquake,,1.6,0.53,9,reviewed,nn,nn
 2024-06-02T20:41:32.329Z,61.9089,-149.1692,19.3,1.3,ml,,,,0.24,ak,ak024730wz00,2024-06-02T20:43:41.189Z,"18 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2024-06-02T20:34:51.204Z,66.3813,-147.7461,0,2.1,ml,,,,0.95,ak,ak024730vig0,2024-06-02T20:36:50.421Z,"15 km W of Beaver, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2024-06-02T20:30:25.670Z,34.0923333,-118.1655,11.36,1.26,ml,14,84,0.05521,0.06,ci,ci40611231,2024-06-03T01:14:13.917Z,"3 km SSW of South Pasadena, CA",earthquake,0.64,0.83,0.18,34,automatic,ci,ci
