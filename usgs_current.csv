@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-11T23:33:04.070Z,38.811164855957,-122.797500610352,2.11999988555908,1.64,md,35,32,0.003625,0.04,nc,nc75033837,2024-07-11T23:36:07.390Z,"5 km NNW of The Geysers, CA",earthquake,0.18,0.289999992,0.16,34,automatic,nc,nc
 2024-07-11T23:20:34.310Z,35.8668333,-117.6863333,8.38,0.9,ml,22,66,0.086,0.13,ci,ci40657103,2024-07-11T23:26:24.042Z,"21 km ESE of Little Lake, CA",earthquake,0.17,0.5,0.207,12,automatic,ci,ci
 2024-07-11T23:18:07.616Z,64.441,-149.9678,15.8,2.2,ml,,,,0.64,ak,ak0248vkitp5,2024-07-11T23:20:29.312Z,"39 km WNW of Anderson, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-07-11T23:11:17.460Z,19.3881664276123,-155.278503417969,1.61000001430511,1.88,ml,18,64,0.00344,0.170000002,hv,hv74328756,2024-07-11T23:13:57.470Z,"7 km SW of Volcano, Hawaii",earthquake,0.19,0.219999999,0.17,9,automatic,hv,hv
@@ -227,6 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-10T23:52:00.425Z,-60.2889,-26.5661,10,5,mb,50,68,14.797,0.55,us,us7000myf0,2024-07-11T00:07:52.040Z,"South Sandwich Islands region",earthquake,12.67,1.913,0.077,54,reviewed,us,us
 2024-07-10T23:44:08.355Z,37.5431,-117.9933,6.4,0.9,ml,6,155.95000000000002,0.176,0.0952,nn,nn00880710,2024-07-11T00:13:41.596Z,"15 km SSE of Dyer, Nevada",earthquake,,5.8,0.52,4,reviewed,nn,nn
 2024-07-10T23:42:38.561Z,60.1419,-153.3665,17.9,0.6,ml,,,,0.51,ak,ak0248tx4os0,2024-07-11T03:59:07.470Z,"53 km E of Port Alsworth, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-07-10T23:35:38.770Z,38.8248329162598,-122.803169250488,2.49000000953674,1.08,md,17,41,0.01686,0.02,nc,nc75033457,2024-07-10T23:37:13.722Z,"7 km NNW of The Geysers, CA",earthquake,0.26,0.540000021,0.14,18,automatic,nc,nc
-2024-07-10T23:33:23.640Z,52.0653333333333,-176.117,2.03,0.19,ml,5,102,0.01959,0.29,av,av93192971,2024-07-11T03:51:57.170Z,"41 km ENE of Adak, Alaska",earthquake,1.03,2.11,0.228501492479259,5,reviewed,av,av
-2024-07-10T23:33:15.070Z,38.829833984375,-122.837501525879,8.22000026702881,0.75,md,8,207,0.00698,0.04,nc,nc75033452,2024-07-10T23:34:49.549Z,"9 km NW of The Geysers, CA",earthquake,2.37,7.55000019,0.15,9,automatic,nc,nc
