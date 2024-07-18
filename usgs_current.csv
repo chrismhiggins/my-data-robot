@@ -2,6 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-18T08:18:41.423Z,35.32700729,-97.97518921,4.99624157,1.78,ml,13,101.7330627,0.0796534121,0.7250136055,ok,ok2024oafm,2024-07-18T08:26:36.395Z,"3 km WNW of Minco, Oklahoma",earthquake,3.873531741,2.719171548,0.24,12,automatic,ok,ok
 2024-07-18T08:07:42.798Z,60.7757,-146.2633,24.4,1.2,ml,,,,0.45,ak,ak02496wagx3,2024-07-18T08:09:43.181Z,"24 km ESE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-07-18T08:05:53.600Z,33.199,-116.3773333,11.76,0.63,ml,39,74,0.07666,0.18,ci,ci40663191,2024-07-18T08:12:28.770Z,"6 km S of Borrego Springs, CA",earthquake,0.19,0.52,0.088,8,automatic,ci,ci
+2024-07-18T08:05:51.680Z,18.011,-66.9743333333333,14.82,2.99,md,20,118,0.07346,0.24,pr,pr71455788,2024-07-18T08:33:01.030Z,"4 km SW of Liborio Negron Torres, Puerto Rico",earthquake,0.55,0.8,0.0727482614642136,5,reviewed,pr,pr
 2024-07-18T07:50:30.890Z,33.1961667,-116.3826667,11.46,1.38,ml,76,21,0.07744,0.18,ci,ci40663183,2024-07-18T08:05:08.752Z,"7 km S of Borrego Springs, CA",earthquake,0.13,0.27,0.138,26,automatic,ci,ci
 2024-07-18T07:45:15.210Z,19.4025001525879,-155.269836425781,0.239999994635582,2.17,ml,27,42,0.005553,0.180000007,hv,hv74342121,2024-07-18T07:47:57.340Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.189999998,0.31,14,automatic,hv,hv
 2024-07-18T07:31:16.629Z,59.8027,-152.2039,71.6,1.2,ml,,,,0.38,ak,ak02496vu4ha,2024-07-18T08:06:44.831Z,"21 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-17T08:53:38.696Z,24.3104,121.6937,22.551,4.6,mb,39,113,0.163,0.68,us,us7000mzs5,2024-07-18T07:03:12.974Z,"38 km NNE of Hualien City, Taiwan",earthquake,3.58,5.681,0.076,52,reviewed,us,us
 2024-07-17T08:44:22.138Z,59.2618,-153.1984,97.7,2.2,ml,,,,0.33,ak,ak024958z0bp,2024-07-17T13:10:24.040Z,"73 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-07-17T08:41:11.100Z,19.3928333333333,-155.28,1.25,1.28,md,14,59,0.006474,0.06,hv,hv74340121,2024-07-17T21:25:03.610Z,"7 km SW of Volcano, Hawaii",earthquake,0.22,0.26,0.23442500344272,19,reviewed,hv,hv
-2024-07-17T08:40:03.100Z,33.9341667,-117.2068333,13.85,0.77,ml,28,91,0.03123,0.18,ci,ci40661975,2024-07-17T21:38:38.110Z,"2 km ENE of Moreno Valley, CA",earthquake,0.27,0.55,0.334,13,reviewed,ci,ci
