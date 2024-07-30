@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-30T16:49:16.199Z,60.2732,-152.9596,132.3,2.1,ml,,,,0.62,ak,ak0249qvr1pf,2024-07-30T16:52:43.575Z,"75 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2024-07-30T16:49:12.307Z,59.9066,-152.1931,0.1,1.6,ml,,,,0.93,ak,ak0249qvr190,2024-07-30T16:52:48.853Z,"24 km NW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-07-30T16:48:30.190Z,38.8356666564941,-122.880500793457,2.51999998092651,0.69,md,6,158,0.00344,0,nc,nc75041477,2024-07-30T17:09:36.015Z,"12 km E of Cloverdale, CA",earthquake,2.44,1.17999995,0.41,7,automatic,nc,nc
-2024-07-30T16:47:15.766Z,35.6395,139.6053,119.959,4.6,mb,129,75,1.445,0.81,us,us6000ngwt,2024-07-30T17:45:02.563Z,"5 km ESE of Chōfu, Japan",earthquake,8.73,6.014,0.044,165,reviewed,us,us
+2024-07-30T16:47:15.766Z,35.6395,139.6053,119.959,4.6,mb,129,75,1.445,0.81,us,us6000ngwt,2024-07-30T20:31:12.001Z,"5 km ESE of Chōfu, Japan",earthquake,8.73,6.014,0.044,165,reviewed,us,us
 2024-07-30T16:08:18.030Z,33.1378333,-115.4703333,10.55,1.6,ml,35,84,0.09365,0.23,ci,ci40676223,2024-07-30T16:14:38.621Z,"4 km ENE of Calipatria, CA",earthquake,0.31,0.59,0.198,27,automatic,ci,ci
 2024-07-30T16:03:44.933Z,38.7674,-118.6366,7.6,1.1,ml,7,124.87000000000003,0.503,0.1179,nn,nn00881692,2024-07-30T18:02:53.264Z,"16 km NE of Walker Lake, Nevada",earthquake,,6.6,0.29,6,reviewed,nn,nn
 2024-07-30T15:46:47.370Z,34.0715,-117.2468333,1.87,0.97,ml,47,27,0.04514,0.2,ci,ci40676207,2024-07-30T19:24:24.692Z,"3 km NNE of Loma Linda, CA",earthquake,0.15,0.27,0.175,30,reviewed,ci,ci
@@ -233,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-07-29T20:38:09.520Z,35.775,-117.5938333,3.38,0.7,ml,22,65,0.143,0.15,ci,ci40675311,2024-07-30T19:28:56.593Z,"17 km W of Searles Valley, CA",earthquake,0.23,0.73,0.147,6,reviewed,ci,ci
 2024-07-29T20:36:19.520Z,38.7503318786621,-122.724502563477,1.91999995708466,1.5,md,12,120,0.01125,0.03,nc,nc75041127,2024-07-29T23:39:25.669Z,"4 km WSW of Anderson Springs, CA",earthquake,0.56,0.449999988,0.11,12,automatic,nc,nc
 2024-07-29T20:35:32.910Z,34.9443333,-116.8011667,2.81,2.2,ml,31,55,0.1749,0.16,ci,ci40675295,2024-07-30T19:29:57.430Z,"21 km ENE of Barstow, CA",earthquake,0.18,0.88,0.169,26,reviewed,ci,ci
-2024-07-29T20:31:54.880Z,34.0698333,-117.2465,3.27,1.11,ml,39,35,0.04657,0.19,ci,ci40675279,2024-07-30T19:23:44.364Z,"3 km NNE of Loma Linda, CA",earthquake,0.19,0.4,0.165,22,reviewed,ci,ci
-2024-07-29T20:28:31.719Z,62.7893,-149.4353,58.7,1.2,ml,,,,0.27,ak,ak0249pagysj,2024-07-29T20:30:12.567Z,"51 km NE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2024-07-29T20:27:49.557Z,26.2771,59.697,19.747,4.7,mb,64,167,3.421,0.89,us,us6000ngrs,2024-07-29T20:47:42.040Z,"33 km S of Fannūj, Iran",earthquake,7.3,5.86,0.058,89,reviewed,us,us
