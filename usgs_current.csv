@@ -201,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-03T18:27:06.775Z,31.657,-104.374,4.2363,2.1,ml,17,70,0,0.3,tx,tx2024pefr,2024-08-03T18:57:11.581Z,"57 km S of Whites City, New Mexico",earthquake,0,1.7954338597114603,0.1,12,automatic,tx,tx
 2024-08-03T18:17:03.410Z,19.2556667327881,-155.501998901367,-0.379999995231628,2.63000011,md,57,59,0.007791,0.289999992,hv,hv74382951,2024-08-03T21:14:09.040Z,"6 km NNW of Pāhala, Hawaii",earthquake,0.33,0.170000002,0.360000014,40,automatic,hv,hv
 2024-08-03T18:10:27.411Z,60.6589,-150.2821,44.3,1.4,ml,,,,0.46,ak,ak0249xiuytx,2024-08-03T18:12:43.635Z,"29 km ENE of Sterling, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2024-08-03T17:49:14.431Z,31.665,-104.373,6.1422,2.1,ml,17,69,0.1,0.4,tx,tx2024peel,2024-08-03T18:22:46.348Z,"56 km S of Whites City, New Mexico",earthquake,0,2.82623337347243,0.1,13,automatic,tx,tx
