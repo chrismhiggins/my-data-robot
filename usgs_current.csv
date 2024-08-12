@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-12T17:20:48.702Z,60.0277,-152.0505,49,1.4,ml,,,,0.14,ak,ak024ace5uh2,2024-08-12T17:22:07.609Z,"19 km WNW of Happy Valley, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2024-08-12T17:11:56.050Z,19.2049999237061,-155.376007080078,31.1599998474121,1.94000006,md,47,161,0.03818,0.109999999,hv,hv74396431,2024-08-12T17:13:44.570Z,"10 km E of Pāhala, Hawaii",earthquake,0.48,0.620000005,0.189999998,14,automatic,hv,hv
 2024-08-12T17:10:53.270Z,33.9666667,-116.5591667,7.9,0.91,ml,38,69,0.03437,0.15,ci,ci40698967,2024-08-12T17:17:19.258Z,"5 km W of Desert Hot Springs, CA",earthquake,0.16,0.53,0.186,27,automatic,ci,ci
+2024-08-12T17:02:03.580Z,35.34483333,-97.96833333,7.28,1.15,ml,32,76,0.06208781625,0.21,ok,ok2024puok,2024-08-12T17:26:42.534Z,"4 km NNW of Minco, Oklahoma",earthquake,,0.5,0.25,16,reviewed,ok,ok
 2024-08-12T16:47:01.731Z,62.2285,-150.0244,11.8,1.2,ml,,,,0.45,ak,ak024acdq3kt,2024-08-12T16:48:50.247Z,"11 km SSE of Talkeetna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-08-12T16:46:41.670Z,19.267333984375,-155.373992919922,29.1700000762939,1.97000003,md,40,132,0.03706,0.180000007,hv,hv74396401,2024-08-12T16:48:12.480Z,"13 km ENE of Pāhala, Hawaii",earthquake,0.57,0.709999979,0.330000013,10,automatic,hv,hv
 2024-08-12T16:42:53.910Z,35.9685,-117.6575,2.5,2.29,ml,27,95,0.02135,0.16,ci,ci40698919,2024-08-12T16:49:50.211Z,"23 km E of Little Lake, CA",earthquake,0.19,0.21,0.2,26,automatic,ci,ci
@@ -12,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-12T15:35:34.200Z,35.0821667,-119.1443333,-0.71,1.38,ml,31,85,0.2305,0.23,ci,ci40698847,2024-08-12T15:41:45.689Z,"24 km E of Maricopa, CA",earthquake,0.28,0.72,0.215,29,automatic,ci,ci
 2024-08-12T15:31:38.540Z,38.8,-122.81,2.73,1.47,md,32,72,0.01106,0.03,nc,nc75047722,2024-08-12T16:01:04.915Z,"5 km WNW of The Geysers, CA",earthquake,0.21,0.360000014,0.16,31,automatic,nc,nc
 2024-08-12T15:29:16.060Z,35.079,-119.1415,12.46,1.7,ml,40,51,0.05152,0.24,ci,ci40698839,2024-08-12T15:40:25.160Z,"24 km E of Maricopa, CA",earthquake,0.26,0.66,0.228,27,automatic,ci,ci
-2024-08-12T15:10:16.550Z,37.98,-122.25,4.74,2.43,md,7,214,0.1668,0.18,nc,nc75047697,2024-08-12T15:30:58.728Z,"4 km ESE of El Sobrante, CA",earthquake,15.84,16.8799992,,1,automatic,nc,nc
+2024-08-12T15:10:16.550Z,37.98,-122.25,4.74,2.43,md,7,214,0.1668,0.18,nc,nc75047697,2024-08-12T17:30:59.585Z,"4 km ESE of El Sobrante, CA",earthquake,15.84,16.8799992,,1,automatic,nc,nc
 2024-08-12T15:07:49.370Z,35.646,-117.5655,8.91,1.77,ml,29,55,0.07855,0.12,ci,ci40698791,2024-08-12T15:28:19.046Z,"10 km ENE of Ridgecrest, CA",earthquake,0.15,0.38,0.2,26,automatic,ci,ci
 2024-08-12T15:05:57.550Z,34.2741667,-116.9453333,5.57,1.62,ml,65,58,0.02355,0.14,ci,ci40698775,2024-08-12T15:24:06.616Z,"5 km NW of Big Bear Lake, CA",earthquake,0.13,0.26,0.162,27,automatic,ci,ci
 2024-08-12T14:48:47.861Z,62.3096,-149.1969,35.2,1.3,ml,,,,0.84,ak,ak024accjjme,2024-08-12T14:51:28.750Z,"37 km ENE of Susitna North, Alaska",earthquake,,4.2,,,automatic,ak,ak
@@ -207,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-11T18:00:39.490Z,35.0915,-119.1281667,12.46,2.01,ml,55,24,0.04901,0.27,ci,ci40697647,2024-08-12T16:37:10.922Z,"24 km NW of Grapevine, CA",earthquake,0.23,0.68,0.146,26,automatic,ci,ci
 2024-08-11T17:33:54.180Z,35.0875,-119.0913333,13.99,3,ml,64,22,0.02949,0.27,ci,ci40697623,2024-08-11T19:29:17.170Z,"22 km NW of Grapevine, CA",earthquake,0.22,0.54,0.114,137,reviewed,ci,ci
 2024-08-11T17:33:38.460Z,37.38,-118.4,4.05,2.22,md,24,228,0.05026,0.06,nc,nc75047307,2024-08-11T19:31:12.996Z,"1 km ESE of Dixon Lane-Meadow Creek, CA",earthquake,1.62,0.720000029,0.2,24,automatic,nc,nc
-2024-08-11T17:30:22.560Z,35.9413333,-117.6878333,4.34,0.69,ml,17,64,0.03109,0.11,ci,ci40697615,2024-08-11T17:39:45.639Z,"20 km E of Little Lake, CA",earthquake,0.17,0.3,0.087,7,automatic,ci,ci
-2024-08-11T17:22:48.778Z,37.2834,-115.0578,16,2.1,ml,20,129.48,0.759,0.3962,nn,nn00882217,2024-08-11T17:25:31.096Z,"13 km SE of Alamo, Nevada",earthquake,,1,0.41,12,automatic,nn,nn
