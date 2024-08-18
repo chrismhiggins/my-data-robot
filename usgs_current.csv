@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-18T02:56:59.770Z,19.113000869751,-155.46516418457,27.5699996948242,1.78999996,md,19,231,0.04229,0.270000011,hv,hv74408266,2024-08-18T02:58:51.020Z,"10 km S of Pāhala, Hawaii",earthquake,2.41,2.06999993,0.170000002,3,automatic,hv,hv
 2024-08-18T02:34:58.490Z,38.744499206543,-122.717666625977,0.209999993443489,0.85,md,8,133,0.01797,0.04,nc,nc75049821,2024-08-18T02:36:34.919Z,"4 km SW of Anderson Springs, CA",earthquake,0.37,0.730000019,0.38,7,automatic,nc,nc
 2024-08-18T02:24:42.920Z,38.8261680603027,-122.764335632324,1.92999994754791,1.18,md,12,129,0.006119,0.03,nc,nc75049816,2024-08-18T02:26:20.597Z,"4 km WNW of Cobb, CA",earthquake,0.33,0.620000005,0.28,12,automatic,nc,nc
 2024-08-18T02:20:26.188Z,63.5558,-150.8539,3.7,1.6,ml,,,,0.74,ak,ak024am2gdmi,2024-08-18T02:22:22.432Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -55,7 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-17T19:39:59.626Z,52.9896,160.1884,35,5.1,mb,77,122,0.93,1.08,us,us7000n7n9,2024-08-17T20:22:02.040Z,"105 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.32,1.903,0.034,284,reviewed,us,us
 2024-08-17T19:24:17.610Z,34.0901667,-118.1918333,10.33,2.06,ml,90,32,0.02608,0.21,ci,ci40705735,2024-08-17T20:12:31.690Z,"3 km S of Highland Park, CA",earthquake,0.14,0.23,0.174,25,automatic,ci,ci
 2024-08-17T19:14:36.890Z,19.4021663665771,-155.267166137695,0.730000019073486,1.75,md,14,55,0.004048,0.129999995,hv,hv74407381,2024-08-17T19:17:16.060Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.310000002,11,automatic,hv,hv
-2024-08-17T19:10:26.707Z,52.9242,160.1413,29,7,mww,149,63,0.907,1.05,us,us7000n7n8,2024-08-17T23:12:58.992Z,"102 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,6.7,1.79,0.03,105,reviewed,us,us
+2024-08-17T19:10:26.707Z,52.9242,160.1413,29,7,mww,149,63,0.907,1.05,us,us7000n7n8,2024-08-18T02:53:13.367Z,"102 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,6.7,1.79,0.03,105,reviewed,us,us
 2024-08-17T18:59:48.865Z,62.8752,-150.0827,79,1.6,ml,,,,0.2,ak,ak024akoodhi,2024-08-17T19:01:12.323Z,"47 km N of Chase, Alaska",earthquake,,1,,,automatic,ak,ak
 2024-08-17T18:45:09.720Z,38.8383331298828,-122.81233215332,7.65999984741211,0.78,md,10,66,0.01502,0.04,nc,nc75049661,2024-08-17T19:20:59.537Z,"8 km WNW of Cobb, CA",earthquake,0.87,6.48000002,0.31,12,automatic,nc,nc
 2024-08-17T18:34:30.350Z,38.8064994812012,-122.779998779297,2.91000008583069,0.54,md,11,66,0.006771,0.02,nc,nc75049656,2024-08-17T19:20:57.538Z,"4 km NNW of The Geysers, CA",earthquake,0.37,0.870000005,0.27,13,automatic,nc,nc
