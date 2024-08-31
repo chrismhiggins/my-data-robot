@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2024-08-31T19:38:25.090Z,38.7929992675781,-122.780166625977,3.57999992370605,1.09,md,16,79,0.00606,0.02,nc,nc75055781,2024-08-31T19:39:58.670Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.810000002,0.15,16,automatic,nc,nc
+2024-08-31T19:38:25.090Z,38.7929992675781,-122.780166625977,3.57999992370605,1.09,md,16,79,0.00606,0.02,nc,nc75055781,2024-08-31T19:40:00.983Z,"3 km NW of The Geysers, CA",earthquake,0.31,0.810000002,0.15,16,automatic,nc,nc
 2024-08-31T19:24:09.680Z,33.2578333,-116.0916667,6.96,0.7,ml,30,46,0.09139,0.21,ci,ci40720903,2024-08-31T19:30:14.035Z,"13 km NNE of Ocotillo Wells, CA",earthquake,0.23,0.74,0.05,11,automatic,ci,ci
 2024-08-31T19:09:29.700Z,35.0876667,-119.0938333,12.39,2.59,ml,60,27,0.03014,0.28,ci,ci40720895,2024-08-31T19:18:09.279Z,"22 km NW of Grapevine, CA",earthquake,0.24,0.79,0.133,25,automatic,ci,ci
 2024-08-31T19:06:53.155Z,60.873,-150.2393,35,1.9,ml,,,,0.45,ak,ak024b7uhbdv,2024-08-31T19:08:42.512Z,"25 km ESE of Point Possession, Alaska",earthquake,,2.7,,,automatic,ak,ak
@@ -53,7 +53,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-08-31T13:34:24.718Z,61.6893,-148.1731,22.6,1.2,ml,,,,0.29,ak,ak024b7r2nlz,2024-08-31T13:36:06.078Z,"19 km SE of Chickaloon, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-08-31T13:32:30.240Z,38.8339996337891,-122.797500610352,2.1800000667572,1.95,md,43,43,0.007115,0.05,nc,nc75055651,2024-08-31T15:24:34.483Z,"7 km WNW of Cobb, CA",earthquake,0.16,0.25999999,0.12,43,automatic,nc,nc
 2024-08-31T13:08:38.020Z,46.8335,-121.77133333333333,-2.27,1.03,ml,22,56,0.02558,0.14,uw,uw62042461,2024-08-31T17:08:14.410Z,"21 km ENE of Ashford, Washington",earthquake,0.28,0.9,0.1571153565818686,14,reviewed,uw,uw
-2024-08-31T13:04:47.130Z,-29.8275,-71.8279,25.688,5,mb,31,122,0.52,1.33,us,us6000nnvk,2024-08-31T17:22:44.163Z,"49 km WNW of Coquimbo, Chile",earthquake,4.33,6.472,0.141,18,reviewed,us,us
+2024-08-31T13:04:47.130Z,-29.8275,-71.8279,25.688,5,mb,31,122,0.52,1.33,us,us6000nnvk,2024-08-31T19:49:32.075Z,"49 km WNW of Coquimbo, Chile",earthquake,4.33,6.472,0.141,18,reviewed,us,us
 2024-08-31T13:04:23.783Z,32.0038,130.5529,55.719,4.6,mb,42,112,0.5,1.47,us,us6000nnvm,2024-08-31T13:31:53.040Z,"9 km SW of Ōkuchi-shinohara, Japan",earthquake,9.92,7.546,0.05,121,reviewed,us,us
 2024-08-31T12:57:15.260Z,36.9838333129883,-121.639335632324,5.65000009536743,1.27,md,9,116,0.054,0.05,nc,nc75055646,2024-08-31T14:54:25.277Z,"7 km W of Gilroy, CA",earthquake,0.35,0.75999999,0.17,7,automatic,nc,nc
 2024-08-31T12:25:00.890Z,-8.4669,112.533,128.804,4.1,mb,24,95,1.602,0.93,us,us6000nnvj,2024-08-31T13:03:15.040Z,"34 km SSW of Gongdanglegi Kulon, Indonesia",earthquake,5.37,8.078,0.146,14,reviewed,us,us
