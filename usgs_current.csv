@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-09-14T22:51:54.766Z,37.1955,-117.6445,4.1,1.6,ml,16,202.62000000000003,0.298,0.3085,nn,nn00884685,2024-09-14T22:54:39.228Z,"57 km E of Big Pine, California",earthquake,,1.4,0.29,12,automatic,nn,nn
+2024-09-14T22:47:17.132Z,59.8859,-149.6273,9.4,1.8,ml,,,,0.51,ak,ak024bv216qj,2024-09-14T22:50:03.679Z,"23 km SSW of Lowell Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2024-09-14T22:45:57.662Z,61.7822,-150.7045,36.2,1.5,ml,,,,0.76,ak,ak024bv20udy,2024-09-14T22:47:59.131Z,"28 km NNW of Susitna, Alaska",earthquake,,2.9,,,automatic,ak,ak
 2024-09-14T22:39:10.260Z,19.2213325500488,-155.481338500977,31.1599998474121,1.98000002,md,33,86,0.03165,0.140000001,hv,hv74459936,2024-09-14T22:40:53.680Z,"2 km N of Pāhala, Hawaii",earthquake,0.81,0.699999988,0.200000003,6,automatic,hv,hv
 2024-09-14T22:36:29.180Z,38.7958335876465,-122.758499145508,4.25,0.72,md,11,140,0.02116,0.02,nc,nc75061961,2024-09-14T22:38:04.605Z,"2 km N of The Geysers, CA",earthquake,0.62,1.76999998,0.08,10,automatic,nc,nc
 2024-09-14T22:30:56.774Z,59.8971,-152.9587,238.8,1.2,ml,,,,1.07,ak,ak024bv1xmkt,2024-09-14T22:33:10.288Z,"64 km WNW of Anchor Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
@@ -12,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-14T21:49:56.340Z,18.231,-66.4441666666667,33.55,2.08,md,11,125,0.1165,0.08,pr,pr71460063,2024-09-14T22:06:24.190Z,"5 km W of Orocovis, Puerto Rico",earthquake,0.57,0.75,0.103833973620449,5,reviewed,pr,pr
 2024-09-14T21:37:37.583Z,1.8996,99.0849,127.937,5.1,mb,111,47,0.805,1.06,us,us7000ndur,2024-09-14T21:56:09.040Z,"38 km ENE of Sibolga, Indonesia",earthquake,6.97,5.393,0.053,117,reviewed,us,us
 2024-09-14T21:28:04.688Z,39.2288,-120.0836,6.6,0.8,ml,8,104.36999999999998,0.039,0.1308,nn,nn00884680,2024-09-14T21:30:35.903Z,"0 km NW of Carnelian Bay, California",earthquake,,0.6,0.33,6,automatic,nn,nn
+2024-09-14T21:27:36.580Z,18.6946666666667,-65.07,76.86,3.3,md,5,235,0.3571,0.08,pr,pr71460058,2024-09-14T22:46:32.110Z,"41 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,7.47,4.05,0.131602308081473,5,reviewed,pr,pr
 2024-09-14T21:20:54.730Z,35.3898333,-117.749,6.42,1.6,ml,41,39,0.1049,0.15,ci,ci40733839,2024-09-14T21:31:20.510Z,"10 km W of Johannesburg, CA",earthquake,0.16,0.51,0.237,26,automatic,ci,ci
 2024-09-14T21:08:50.312Z,60.7673,-151.4691,48.9,2.4,ml,,,,0.12,ak,ak024bv17gpz,2024-09-14T21:20:22.040Z,"13 km NW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2024-09-14T21:08:14.671Z,57.5264,-156.2857,19.9,1.7,ml,,,,1.04,ak,ak024bv17dyz,2024-09-14T21:09:54.389Z,"66 km E of Ugashik, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -237,4 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-09-13T23:13:42.393Z,59.9013,-153.5548,149.1,2.1,ml,,,,0.14,ak,ak024btew1en,2024-09-13T23:15:56.403Z,"33 km ENE of Pedro Bay, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2024-09-13T23:13:06.165Z,64.9379,-147.4151,13.2,1.5,ml,,,,1.18,ak,ak024btevye9,2024-09-13T23:15:54.176Z,"9 km ESE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-09-13T23:03:41.234Z,29.7999,130.8548,28.953,5.7,mww,166,39,1.739,0.75,us,us7000ndp6,2024-09-14T04:42:20.032Z,"57 km SSE of Koshima, Japan",earthquake,6.01,2.298,0.066,22,reviewed,us,us
-2024-09-13T22:47:06.930Z,58.2683333333333,-155.232666666667,32.55,-0.58,ml,6,89,0.02735,0.28,av,av93020954,2024-09-14T06:13:05.420Z,"90 km NNW of Karluk, Alaska",earthquake,1.79,1.72,0.357033765557015,6,reviewed,av,av
