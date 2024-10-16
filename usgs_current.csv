@@ -73,7 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T14:15:41.982Z,58.7218,-153.2881,60.8,1.6,ml,,,,1.19,ak,ak024dbua0nq,2024-10-16T14:17:18.346Z,"76 km NNW of Aleneva, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2024-10-16T14:11:06.490Z,33.1806667,-116.046,3.76,1.16,ml,49,42,0.05769,0.18,ci,ci40954920,2024-10-16T17:58:32.441Z,"9 km ENE of Ocotillo Wells, CA",earthquake,0.16,0.42,0.157,32,reviewed,ci,ci
 2024-10-16T14:10:26.970Z,46.146666666667,-119.81983333333,13.04,1.16,ml,11,90,0.1135,0.13,uw,uw62054551,2024-10-16T20:55:00.700Z,"7 km SSW of Prosser, Washington",earthquake,0.5,0.82,0.15046427758131,10,reviewed,uw,uw
-2024-10-16T14:09:10.253Z,38.1802,-117.8628,10.1,1.4,ml,11,76.44,0.098,0.1707,nn,nn00886109,2024-10-16T22:51:31.970Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.21,5,reviewed,nn,nn
+2024-10-16T14:09:10.235Z,38.1796,-117.8643,10.3,1.4,ml,11,76.31,0.097,0.163,nn,nn00886109,2024-10-16T23:19:21.046Z,"31 km SE of Mina, Nevada",earthquake,,1.7,0.21,5,reviewed,nn,nn
 2024-10-16T14:05:35.550Z,33.2916667,-116.3308333,11.76,1.37,ml,56,29,0.04634,0.19,ci,ci40954912,2024-10-16T17:35:37.740Z,"6 km NE of Borrego Springs, CA",earthquake,0.17,0.26,0.195,25,reviewed,ci,ci
 2024-10-16T13:58:21.057Z,23.995,121.6717,35,4.8,mwr,130,30,0.191,0.65,us,us6000nz1z,2024-10-16T15:23:21.347Z,"7 km ENE of Hualien City, Taiwan",earthquake,3.92,1.805,0.063,24,reviewed,us,us
 2024-10-16T13:42:03.410Z,42.7535,-124.77616666667,23.52,2.33,ml,24,243,0.1772,0.31,uw,uw62054546,2024-10-16T20:27:57.710Z,"22 km W of Port Orford, Oregon",earthquake,1.15,0.5,0.1072957046637,14,reviewed,uw,uw
@@ -145,6 +145,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-10-16T07:03:37.940Z,37.2357,-114.9848,12.6,2.5,ml,20,92.68,0.179,0.1812,nn,nn00886095,2024-10-16T16:15:37.016Z,"21 km SE of Alamo, Nevada",earthquake,,3.1,0.34,15,reviewed,nn,nn
 2024-10-16T06:54:00.625Z,64.5923,-149.2102,14,1.4,ml,,,,0.32,ak,ak024dbpqtjy,2024-10-16T06:55:34.943Z,"4 km WSW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2024-10-16T06:52:40.120Z,33.4795,-116.429,14.7,0.59,ml,35,79,0.1154,0.13,ci,ci40954840,2024-10-16T13:50:38.784Z,"23 km SSW of La Quinta, CA",earthquake,0.19,0.33,0.161,15,reviewed,ci,ci
+2024-10-16T06:41:35.770Z,61.302,-152.26166666667,0.92,-0.27,ml,10,118,0.06321,0.1,av,av93318943,2024-10-16T23:22:20.780Z,"65 km WNW of Beluga, Alaska",earthquake,0.27,1.14,0.17803639678856,9,reviewed,av,av
 2024-10-16T06:41:18.063Z,64.3392,-151.9887,0,1.5,ml,,,,0.25,ak,ak024dbpo2la,2024-10-16T06:43:08.746Z,"53 km NNE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-10-16T06:21:04.528Z,36.6332,-117.0697,6.2,0.8,ml,11,259.06,0.118,0.1495,nn,nn00886093,2024-10-16T17:29:26.402Z,"28 km NW of Furnace Creek, California",earthquake,,4.9,0.32,2,reviewed,nn,nn
 2024-10-16T06:16:27.811Z,36.6088,-117.0771,7.2,1.4,ml,16,213.49,0.142,0.1425,nn,nn00886091,2024-10-16T17:14:05.839Z,"26 km NW of Furnace Creek, California",earthquake,,2.1,0.5,3,reviewed,nn,nn
