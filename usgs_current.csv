@@ -75,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T09:32:42.697Z,51.8323,-178.6652,96.9,2.5,ml,,,,0.35,ak,ak024em2g7nx,2024-11-13T18:57:47.743Z,"140 km W of Adak, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2024-11-13T09:29:33.567Z,60.0378,-153.5652,189.1,1.4,ml,,,,0.94,ak,ak024em2fju4,2024-11-13T10:10:25.714Z,"41 km NE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2024-11-13T09:23:52.478Z,-23.1531,-69.4005,75.964,3.9,mb,14,80,0.472,0.71,us,us7000nrih,2024-11-13T10:10:28.040Z,"91 km SSW of Calama, Chile",earthquake,5.94,5.472,0.209,6,reviewed,us,us
-2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T19:54:34.008Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2024-11-13T09:07:03.162Z,60.9448,-147.3606,16.2,4.5,ml,,,,0.56,ak,ak024em2arnr,2024-11-13T20:57:09.290Z,"38 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2024-11-13T08:58:11.940Z,33.6785,-116.7145,15.14,0.44,ml,19,93,0.03258,0.08,ci,ci40792335,2024-11-13T14:18:36.346Z,"7 km S of Idyllwild, CA",earthquake,0.45,1.06,0.169,6,reviewed,ci,ci
 2024-11-13T08:51:33.810Z,38.828834533691,-122.84983062744,2.0599999427795,0.93,md,14,85,0.005649,0.01,nc,nc75085971,2024-11-13T09:27:14.160Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.540000021,0.18,15,automatic,nc,nc
 2024-11-13T08:36:47.494Z,36.6438,-115.7109,9.1,0.3,ml,13,273.45,0.203,0.1257,nn,nn00887494,2024-11-13T19:34:44.602Z,"8 km NNW of Indian Springs, Nevada",earthquake,,8.6,0.3,3,reviewed,nn,nn
@@ -90,7 +90,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T07:32:11.150Z,33.1478333,-116.3003333,4.42,0.93,ml,47,46,0.05926,0.22,ci,ci40792319,2024-11-13T14:18:55.250Z,"14 km SSE of Borrego Springs, CA",earthquake,0.22,0.59,0.167,22,reviewed,ci,ci
 2024-11-13T07:24:52.960Z,18.961166666667,-66.507666666667,12.18,3.19,md,13,277,0.6536,0.26,pr,pr71465558,2024-11-13T07:38:26.930Z,"55 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.53,2.31,0.14071418011452,9,reviewed,pr,pr
 2024-11-13T07:02:10.503Z,40.0818,-119.7218,13.6,1.6,ml,9,107.1,0.089,0.1261,nn,nn00887493,2024-11-13T19:29:01.725Z,"17 km NW of Sutcliffe, Nevada",earthquake,,3.3,0.47,6,reviewed,nn,nn
-2024-11-13T07:02:08.502Z,34.9247,139.9946,97.178,4.4,mb,27,130,1.811,0.57,us,us7000nria,2024-11-13T16:12:45.050Z,"12 km S of Wada, Japan",earthquake,4.69,8.574,0.17,11,reviewed,us,us
+2024-11-13T07:02:08.502Z,34.9247,139.9946,97.178,4.4,mb,27,130,1.811,0.57,us,us7000nria,2024-11-13T20:55:11.466Z,"12 km S of Wada, Japan",earthquake,4.69,8.574,0.17,11,reviewed,us,us
 2024-11-13T06:57:10.610Z,32.9225,-115.8158333,7.08,1.47,ml,47,65,0.02621,0.22,ci,ci40792311,2024-11-13T14:19:06.670Z,"22 km SW of Westmorland, CA",earthquake,0.2,0.44,0.207,30,reviewed,ci,ci
 2024-11-13T06:53:25.557Z,60.0218,-152.8193,102.6,1.7,ml,,,,0.51,ak,ak024em0sdkd,2024-11-13T06:56:49.159Z,"61 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2024-11-13T06:47:17.790Z,46.817666666667,-121.93933333333,8.33,0.52,ml,16,93,0.02494,0.09,uw,uw62051627,2024-11-13T18:47:10.200Z,"9 km NE of Ashford, Washington",earthquake,0.34,0.42,0.13756033239104,5,reviewed,uw,uw
@@ -142,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T01:48:54.620Z,46.864833333333,-121.94566666667,8.67,0.74,ml,20,106,0.005557,0.09,uw,uw62051617,2024-11-13T05:42:16.030Z,"13 km NNE of Ashford, Washington",earthquake,0.24,0.29,0.088580434673222,14,reviewed,uw,uw
 2024-11-13T01:45:04.120Z,35.7878333,-117.6241667,6.6,1.8,ml,36,56,0.03528,0.14,ci,ci40792239,2024-11-13T17:57:20.854Z,"19 km NNE of Ridgecrest, CA",earthquake,0.15,0.42,0.174,33,reviewed,ci,ci
 2024-11-13T01:44:20.900Z,37.384666442871,-122.47866821289,0.23000000417232,2.33,md,23,190,0.1224,0.25,nc,nc75085816,2024-11-13T01:52:14.024Z,"10 km SW of Half Moon Bay, CA",earthquake,1.24,6.07999992,0.15,14,automatic,nc,nc
-2024-11-13T01:41:08.045Z,-8.2451,107.868,81.655,4.8,mb,45,80,0.807,0.76,us,us7000nrgq,2024-11-13T20:26:54.005Z,"102 km SSW of Singaparna, Indonesia",earthquake,6.98,5.568,0.089,42,reviewed,us,us
+2024-11-13T01:41:08.045Z,-8.2451,107.868,81.655,4.8,mb,45,80,0.807,0.76,us,us7000nrgq,2024-11-13T20:49:15.557Z,"102 km SSW of Singaparna, Indonesia",earthquake,6.98,5.568,0.089,42,reviewed,us,us
 2024-11-13T01:29:31.011Z,-58.7095,-24.8565,19.525,5.1,mb,69,51,19.257,0.57,us,us7000nrgn,2024-11-13T05:51:05.040Z,"South Sandwich Islands region",earthquake,12.02,3.797,0.065,78,reviewed,us,us
 2024-11-13T01:24:27.777Z,35.9059,140.4461,67.714,4.4,mb,24,153,1.917,0.48,us,us7000nrgm,2024-11-13T05:47:21.537Z,"4 km E of Kōzaki, Japan",earthquake,9.22,8.432,0.15,13,reviewed,us,us
 2024-11-13T01:22:53.837Z,60.6958,-151.008,11.5,2.1,ml,,,,0.44,ak,ak024elxmmjr,2024-11-13T01:24:36.410Z,"15 km E of Nikiski, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -154,7 +154,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-13T00:29:34.181Z,61.9733,-149.5308,166.7,1.9,ml,,,,0.72,ak,ak024elx2nfu,2024-11-13T00:49:24.470Z,"26 km SE of Susitna North, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2024-11-13T00:26:39.430Z,42.287166666667,-112.19283333333,5.05,1.52,md,12,238,0.2649,0.09,uu,uu80086451,2024-11-13T14:23:10.820Z,"11 km NNE of Malad City, Idaho",earthquake,0.75,1.01,0.38172912881438,9,reviewed,uu,uu
 2024-11-13T00:24:44.860Z,34.0345,-117.23,13.86,1.1,ml,43,46,0.09766,0.17,ci,ci40792231,2024-11-13T01:25:38.345Z,"3 km ESE of Loma Linda, CA",earthquake,0.2,0.4,0.134,20,reviewed,ci,ci
-2024-11-13T00:18:23.014Z,16.2346,-98.4411,12.648,5,mww,40,180,1.326,0.75,us,us7000nrgf,2024-11-13T20:30:43.876Z,"11 km S of Santiago Tepextla, Mexico",earthquake,10.04,3.809,0.059,28,reviewed,us,us
+2024-11-13T00:18:23.014Z,16.2346,-98.4411,12.648,5,mww,40,180,1.326,0.75,us,us7000nrgf,2024-11-13T20:48:28.796Z,"11 km S of Santiago Tepextla, Mexico",earthquake,10.04,3.809,0.059,28,reviewed,us,us
 2024-11-13T00:15:16.970Z,35.0443333,-117.668,-0.79,1.5,ml,26,59,0.1121,0.16,ci,ci40792215,2024-11-13T01:19:12.054Z,"5 km NNW of Boron, CA",quarry blast,0.33,31.61,0.159,25,reviewed,ci,ci
 2024-11-13T00:14:38.710Z,36.5866,-117.0941,4,1.1,ml,16,134.45,0.168,0.1847,nn,nn00887473,2024-11-13T17:07:40.722Z,"26 km NW of Furnace Creek, California",earthquake,,6.5,0.52,4,reviewed,nn,nn
 2024-11-13T00:13:36.360Z,38.79349899292,-122.77749633789,1.9099999666214,1.05,md,24,77,0.00815,0.03,nc,nc75085801,2024-11-13T00:37:17.495Z,"3 km NW of The Geysers, CA",earthquake,0.23,0.349999994,0.09,23,automatic,nc,nc
@@ -182,4 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-12T21:06:44.230Z,19.103666305542,-155.40032958984,39.319999694824,2.49000001,md,25,255,0.07786,0.150000006,hv,hv74528997,2024-11-12T21:08:18.510Z,"13 km SE of Pāhala, Hawaii",earthquake,0.79,0.74000001,0.289999992,4,automatic,hv,hv
 2024-11-12T21:03:02.783Z,31.613,-104.385,7.2791,2.4,ml,38,64,0.1,0.1,tx,tx2024wgyq,2024-11-13T14:05:39.903Z,"62 km S of Whites City, New Mexico",earthquake,0.58342086362317,0.69331198883611,0.2,32,reviewed,tx,tx
 2024-11-12T21:01:33.330Z,19.148834228516,-155.46282958984,46.610000610352,3,md,30,167,0.006579,0.300000012,hv,hv74528982,2024-11-13T18:54:41.882Z,"6 km SSE of Pāhala, Hawaii",earthquake,1.29,1.39999998,0.319999993,8,automatic,hv,hv
-2024-11-12T20:56:11.140Z,19.281,-155.3745,36.52,1.77,ml,34,118,0.04842,0.2,hv,hv74528977,2024-11-12T23:46:06.300Z,"13 km NE of Pāhala, Hawaii",earthquake,0.81,0.6,0.12912593300561,10,reviewed,hv,hv
