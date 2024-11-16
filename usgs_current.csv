@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-16T07:26:28.800Z,19.453500747681,-155.73550415039,6.0599999427795,2.07999992,md,27,124,0.05926,0.230000004,hv,hv74532472,2024-11-16T07:29:36.122Z,"13 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,0.889999986,0.150000006,5,automatic,hv,hv
 2024-11-16T07:04:07.775Z,61.3935,-146.7977,2.9,2.2,ml,,,,0.72,ak,ak024eqzpb86,2024-11-16T07:06:53.748Z,"37 km NW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2024-11-16T07:00:46.410Z,19.389499664307,-155.24667358398,1.3500000238419,1.82000005,md,11,100,0.005908,0.129999995,hv,hv74532462,2024-11-16T07:02:23.370Z,"6 km SSW of Volcano, Hawaii",earthquake,0.25,0.379999995,0.239999995,10,automatic,hv,hv
 2024-11-16T07:00:29.730Z,19.174999237061,-155.48783874512,30.200000762939,2.44,ml,54,85,0.03116,0.170000002,hv,hv74532457,2024-11-16T07:03:22.580Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.47,0.629999995,0.6,4,automatic,hv,hv
@@ -187,4 +188,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-15T07:58:25.870Z,32.7581667,-115.4295,10.27,2.38,ml,33,45,0.04923,0.29,ci,ci40793455,2024-11-15T17:37:29.570Z,"8 km SW of Holtville, CA",earthquake,0.32,0.71,0.174,25,reviewed,ci,ci
 2024-11-15T07:51:22.030Z,38.835166931152,-122.81600189209,1.8899999856949,1.07,md,12,92,0.01263,0.01,nc,nc75086671,2024-11-15T08:09:27.212Z,"8 km WNW of Cobb, CA",earthquake,0.35,0.819999993,0.32,14,automatic,nc,nc
 2024-11-15T07:46:20.983Z,37.9543,37.6427,10,4.9,mb,51,55,0.629,0.69,us,us7000nrxw,2024-11-15T21:56:11.125Z,"17 km E of Nurhak, Turkey",earthquake,4.26,1.729,0.077,53,reviewed,us,us
-2024-11-15T07:29:20.763Z,-5.9344,147.4578,88.138,4.8,mb,43,100,3.866,1.06,us,us7000nrxu,2024-11-15T21:44:11.286Z,"81 km NNW of Finschhafen, Papua New Guinea",earthquake,6.55,8.074,0.105,28,reviewed,us,us
