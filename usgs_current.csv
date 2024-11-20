@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-11-20T23:53:18.320Z,32.7779999,-115.4248352,9.82,1.72,ml,13,217,0.03293,0.21,ci,ci40797407,2024-11-20T23:55:23.119Z,"6 km SW of Holtville, CA",earthquake,1.1,1.69,0.244,12,automatic,ci,ci
+2024-11-20T23:51:30.860Z,32.7968333,-115.4313333,11.08,1.84,ml,17,165,0.01553,0.25,ci,ci40797399,2024-11-20T23:54:55.119Z,"5 km WSW of Holtville, CA",earthquake,0.61,0.74,0.262,28,automatic,ci,ci
 2024-11-20T23:19:34.478Z,31.648,-104.306,4.4318,2.5,ml,17,69,0,0.3,tx,tx2024wvtm,2024-11-20T23:31:57.652Z,"58 km S of Whites City, New Mexico",earthquake,0,1.3477102518082,0.2,12,automatic,tx,tx
 2024-11-20T23:18:00.893Z,64.9498,-147.4852,0,1.5,ml,,,,0.88,ak,ak024exvgj09,2024-11-20T23:20:19.625Z,"6 km E of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2024-11-20T23:05:47.100Z,44.357166666667,-110.56066666667,2.22,0.95,md,9,122,0.0347,0.16,uu,uu80086876,2024-11-20T23:30:15.380Z,"54 km SE of West Yellowstone, Montana",earthquake,0.41,3.16,0.46770759969374,8,reviewed,uu,uu
@@ -157,4 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-11-20T00:09:41.936Z,64.9846,-147.4783,0,1.5,ml,,,,0.67,ak,ak024exhpt69,2024-11-20T00:11:17.569Z,"7 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2024-11-20T00:05:01.222Z,36.7093,-116.2204,2.3,0,ml,10,183.26,0.02,0.079,nn,nn00887751,2024-11-20T19:20:50.796Z,"51 km WNW of Indian Springs, Nevada",earthquake,,1.5,0.1,3,reviewed,nn,nn
 2024-11-20T00:01:51.560Z,36.02083333,-97.92866667,4.14,1.32,ml,46,48,0.08188393158,0.26,ok,ok2024wtzb,2024-11-20T14:10:18.933Z,"4 km NNW of Dover, Oklahoma",earthquake,,0.7,0.27,21,reviewed,ok,ok
-2024-11-19T23:46:21.858Z,64.7513,-147.5912,3.6,0.9,ml,,,,0.54,ak,ak024ew835lr,2024-11-19T23:48:37.196Z,"6 km SSW of Badger, Alaska",earthquake,,2.9,,,automatic,ak,ak
