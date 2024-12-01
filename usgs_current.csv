@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-01T23:44:29.961Z,64.8313,-148.9713,0,1.4,ml,,,,0.59,ak,ak024fg2j2no,2024-12-01T23:46:17.163Z,"26 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-01T23:21:26.420Z,33.6653333,-116.7638333,15.62,0.78,ml,40,65,0.06168,0.16,ci,ci40991552,2024-12-01T23:25:50.686Z,"9 km SSW of Idyllwild, CA",earthquake,0.2,0.35,0.202,26,automatic,ci,ci
 2024-12-01T23:19:49.190Z,19.208000183106,-155.37367248535,30.459999084473,1.92999995,md,38,176,0.03699,0.119999997,hv,hv74550712,2024-12-01T23:21:56.190Z,"11 km E of Pāhala, Hawaii",earthquake,0.61,0.660000026,0.219999999,7,automatic,hv,hv
 2024-12-01T23:07:18.920Z,58.3597,-154.2115,80.9,1.8,ml,,,,0.43,ak,ak024fg2b4b8,2024-12-01T23:09:56.183Z,"83 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -199,4 +200,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-01T00:02:23.503Z,60.8494,-149.086,28.3,1.2,ml,,,,0.43,ak,ak024ffol366,2024-12-01T00:04:10.514Z,"11 km SSE of Girdwood, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2024-12-01T00:01:58.383Z,-28.7711,-176.4442,10,4.9,mb,50,69,1.382,0.92,us,us7000nv77,2024-12-01T00:22:22.040Z,"Kermadec Islands region",earthquake,10.82,1.883,0.086,42,reviewed,us,us
 2024-12-01T00:00:28.040Z,38.786666870117,-122.77266693115,1.0700000524521,1.22,md,19,83,0.01358,0.03,nc,nc75093361,2024-12-01T03:07:18.582Z,"2 km NW of The Geysers, CA",earthquake,0.22,0.400000006,0.18,19,automatic,nc,nc
-2024-11-30T23:52:23.360Z,38.82500076294,-122.80149841309,3.0099999904633,0.71,md,11,71,0.006888,0.05,nc,nc75093351,2024-12-01T00:17:18.431Z,"7 km NNW of The Geysers, CA",earthquake,0.48,0.829999983,0.28,12,automatic,nc,nc
