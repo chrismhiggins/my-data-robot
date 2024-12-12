@@ -183,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-12T01:09:29.908Z,60.016,-153.0923,0.1,-0.2,ml,,,,0.28,ak,ak024fxw4ucf,2024-12-12T07:49:22.015Z,"62 km ENE of Pedro Bay, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2024-12-12T01:06:41.318Z,39.1234,-119.0799,0.8,1.4,ml,8,168.64,0.186,0.1152,nn,nn00889300,2024-12-12T01:11:10.675Z,"16 km NNE of Yerington, Nevada",earthquake,,13.4,0.05,3,automatic,nn,nn
 2024-12-12T01:04:44.080Z,38.83483505249,-122.81950378418,2.0899999141693,0.8,md,8,152,0.01303,0.01,nc,nc75102086,2024-12-12T01:27:15.797Z,"8 km NNW of The Geysers, CA",earthquake,0.52,1.41999996,0.22,8,automatic,nc,nc
+2024-12-12T00:51:58.940Z,56.875333333333,-158.136,3.02,0.38,ml,4,160,0.02389,0.13,av,av93405661,2024-12-12T19:41:16.130Z,"66 km NNE of Chignik, Alaska",earthquake,0.47,1.66,0.26316702817577,4,reviewed,av,av
 2024-12-12T00:46:07.409Z,42.1518,20.5923,16.696,4.2,mb,85,46,0.972,0.95,us,us7000ny0m,2024-12-12T09:32:27.760Z,"13 km WSW of Prizren, Kosovo",earthquake,4.96,3.351,0.113,22,reviewed,us,us
 2024-12-12T00:20:32.080Z,38.814834594727,-122.80583190918,2.2999999523163,1.01,md,18,40,0.009168,0.02,nc,nc75102066,2024-12-12T00:42:16.496Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.620000005,0.25,19,automatic,nc,nc
 2024-12-12T00:16:49.620Z,38.820835113525,-122.7576675415,1.3400000333786,0.76,md,7,129,0.01357,0.02,nc,nc75102061,2024-12-12T00:32:14.429Z,"3 km W of Cobb, CA",earthquake,0.39,1.01999998,0.15,9,automatic,nc,nc
@@ -241,4 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-11T20:05:49.112Z,23.9428,121.7884,25.893,4.1,mwr,60,69,0.29,0.73,us,us7000nxxu,2024-12-11T21:02:32.040Z,"19 km ESE of Hualien City, Taiwan",earthquake,3.52,2.787,0.065,23,reviewed,us,us
 2024-12-11T19:58:40.970Z,38.509333333333,-112.89883333333,2.75,1.01,ml,17,63,0.01231,0.11,uu,uu80097226,2024-12-11T21:11:41.300Z,"15 km NE of Milford, Utah",earthquake,0.26,0.53,0.10050662087751,2,reviewed,uu,uu
 2024-12-11T19:54:47.958Z,-7.1577,129.7195,139.91,4.6,mb,30,87,2.624,0.88,us,us7000nxxr,2024-12-11T20:45:57.040Z,"Kepulauan Babar, Indonesia",earthquake,9.23,8.26,0.132,17,reviewed,us,us
-2024-12-11T19:50:27.810Z,58.230333333333,-154.871,6.16,0.59,ml,9,192,0.08701,0.22,av,av93405401,2024-12-12T02:00:17.280Z,"77 km NNW of Karluk, Alaska",earthquake,0.71,1.46,0.2613311549813,9,reviewed,av,av
