@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-12-31T13:17:12.322Z,31.662,-104.331,4.6253,1.7,ml,16,69,0.1,0.2,tx,tx2024zrxd,2024-12-31T13:30:28.405Z,"57 km S of Whites City, New Mexico",earthquake,0,1.4169620275497,0.1,12,automatic,tx,tx
 2024-12-31T13:13:45.138Z,32.006,-102.261,4.449,1,ml,25,69,0,0.5,tx,tx2024zrww,2024-12-31T13:27:19.388Z,"11 km E of Gardendale, Texas",earthquake,0,1.0624994039536,0.1,16,automatic,tx,tx
 2024-12-31T12:59:46.650Z,17.976,-66.864166666667,16.1,2.18,md,7,154,0.005333,0.25,pr,pr71469808,2024-12-31T13:15:17.130Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,1.34,0.99,0.11680730185436,6,reviewed,pr,pr
 2024-12-31T12:56:55.000Z,34.1663333,-117.3878333,16.7,2.4,ml,137,26,0.04201,0.2,ci,ci40830695,2024-12-31T13:10:40.242Z,"4 km WNW of Muscoy, CA",earthquake,0.12,0.24,0.18,25,automatic,ci,ci
@@ -231,4 +232,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2024-12-30T13:59:28.656Z,37.3809,-117.2038,2,1.2,ml,13,219.62,0.092,0.3568,nn,nn00890884,2024-12-30T14:01:58.307Z,"36 km S of Goldfield, Nevada",earthquake,,6.7,0.4,8,automatic,nn,nn
 2024-12-30T13:53:01.820Z,32.8101667,-115.4536667,10.33,1.38,ml,21,66,0.007543,0.3,ci,ci40830087,2024-12-30T13:57:00.051Z,"7 km W of Holtville, CA",earthquake,0.63,0.93,0.151,19,automatic,ci,ci
 2024-12-30T13:45:02.490Z,61.303833333333,-152.297,0.03,-0.06,ml,10,120,0.05775,0.13,av,av93432966,2024-12-31T00:36:49.930Z,"67 km WNW of Tyonek, Alaska",earthquake,0.3,2.6,0.23376139019439,10,reviewed,av,av
-2024-12-30T13:29:48.166Z,39.0753,-119.0245,8.3,1.1,ml,10,108.12,0.094,0.0524,nn,nn00890882,2024-12-30T13:32:17.146Z,"15 km NE of Yerington, Nevada",earthquake,,1,0.16,3,automatic,nn,nn
