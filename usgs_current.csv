@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-07T21:22:28.360Z,33.8503342,-117.4878311,2.66,1.41,ml,16,93,0.04845,0.2,ci,ci40835647,2025-01-07T21:24:39.614Z,"4 km SE of Home Gardens, CA",earthquake,0.56,0.7,0.198,15,automatic,ci,ci
+2025-01-07T21:36:24.870Z,33.6321678,-116.6846695,15.79,1.17,ml,18,84,0.03774,0.17,ci,ci40835671,2025-01-07T21:38:42.707Z,"9 km N of Anza, CA",earthquake,0.71,0.89,0.24,10,automatic,ci,ci
+2025-01-07T21:30:24.130Z,32.9005,-116.9491667,4.79,1.52,ml,27,76,0.06397,0.22,ci,ci40835663,2025-01-07T21:34:04.681Z,"5 km NNW of Lakeside, CA",earthquake,0.27,0.66,0.262,34,automatic,ci,ci
+2025-01-07T21:22:28.360Z,33.8488333,-117.4903333,1.23,1.63,ml,33,56,0.04903,0.18,ci,ci40835647,2025-01-07T21:28:59.641Z,"4 km SE of Home Gardens, CA",earthquake,0.18,0.32,0.236,36,automatic,ci,ci
 2025-01-07T21:18:26.600Z,33.6508333,-116.9205,13.1,1.31,ml,22,99,0.06411,0.16,ci,ci40835639,2025-01-07T21:27:01.000Z,"11 km SSW of Valle Vista, CA",earthquake,0.35,0.56,0.195,29,automatic,ci,ci
 2025-01-07T21:05:26.780Z,19.164499282837,-155.4931640625,31.799999237061,2.57,ml,13,214,0.116,0.129999995,hv,hv74586667,2025-01-07T21:08:35.670Z,"4 km SSW of Pāhala, Hawaii",earthquake,1.11,0.930000007,0.14,4,automatic,hv,hv
 2025-01-07T20:42:14.570Z,37.076831817627,-121.81183624268,3.710000038147,1.28,md,7,123,0.05779,0.04,nc,nc75114206,2025-01-07T21:07:16.937Z,"6 km NE of Day Valley, CA",earthquake,0.5,1.02999997,0.14,7,automatic,nc,nc
@@ -112,6 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-07T06:35:07.810Z,38.828834533691,-122.81366729736,2.3699998855591,0.71,md,12,73,0.01963,0.01,nc,nc75113941,2025-01-07T06:36:44.279Z,"8 km NNW of The Geysers, CA",earthquake,0.32,1.09000003,0.08,11,automatic,nc,nc
 2025-01-07T06:34:08.210Z,32.9443333,-116.3341667,3.9,1.21,ml,53,39,0.06989,0.19,ci,ci40835255,2025-01-07T06:38:30.691Z,"23 km NE of Pine Valley, CA",earthquake,0.18,0.76,0.152,25,automatic,ci,ci
 2025-01-07T06:33:25.210Z,48.983333333333,-123.12,17.28,2.14,ml,40,153,0.2168,0.19,uw,uw62061627,2025-01-07T07:13:37.353Z,"3 km W of Point Roberts, Washington",earthquake,0.3,0.94,0.12468844435991,30,reviewed,uw,uw
+2025-01-07T06:24:07.670Z,61.279,-152.254,2.35,-0.38,ml,9,109,0.04971,0.1,av,av93447146,2025-01-07T21:28:35.840Z,"64 km WNW of Tyonek, Alaska",earthquake,0.29,0.55,0.15253078448969,10,reviewed,av,av
 2025-01-07T06:21:18.240Z,32.5896667,-115.6526667,7.38,1.92,ml,42,55,0.07929,0.2,ci,ci40835247,2025-01-07T21:11:41.970Z,"6 km W of Progreso, B.C., MX",earthquake,0.21,0.47,0.197,23,reviewed,ci,ci
 2025-01-07T06:14:32.810Z,39.7025,-110.82266666667,-3.37,2.23,ml,19,58,0.06782,0.16,uu,uu80099316,2025-01-07T14:17:30.950Z,"2 km NW of Kenilworth, Utah",earthquake,0.39,1.31,0.12424690471901,5,reviewed,uu,uu
 2025-01-07T05:57:17.030Z,28.971,87.5505,10,4.6,mb,59,87,3.207,0.97,us,us6000pick,2025-01-07T14:53:30.040Z,"133 km WSW of Rikaze, China",earthquake,10.63,1.875,0.072,58,reviewed,us,us
@@ -208,4 +211,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-06T21:51:24.990Z,18.437,-67.4435,4.04,2.92,md,12,301,0.3169,0.16,pr,pr71470298,2025-01-06T22:18:03.910Z,"23 km WNW of Rincón, Puerto Rico",earthquake,1.21,1.32,0.069820919839762,10,reviewed,pr,pr
 2025-01-06T21:44:06.250Z,38.828498840332,-122.82099914551,1.4700000286102,1.09,md,23,51,0.00994,0.03,nc,nc75113801,2025-01-06T21:45:45.486Z,"8 km NNW of The Geysers, CA",earthquake,0.18,0.400000006,0.15,25,automatic,nc,nc
 2025-01-06T21:41:51.796Z,28.2294,52.3983,10,4.1,mb,33,224,8.915,0.37,us,us6000pi93,2025-01-07T05:34:42.040Z,"70 km SSW of Fīrūzābād, Iran",earthquake,12.54,1.996,0.109,23,reviewed,us,us
-2025-01-06T21:37:03.280Z,33.7716667,-115.909,2.4,1.89,ml,52,45,0.09903,0.15,ci,ci40834983,2025-01-07T21:26:03.340Z,"26 km NE of Thermal, CA",earthquake,0.13,0.28,0.105,25,reviewed,ci,ci
