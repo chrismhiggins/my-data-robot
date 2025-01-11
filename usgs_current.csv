@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-11T11:49:48.125Z,38.2094,-117.9122,7.2,2.2,ml,18,113.5,0.058,0.3334,nn,nn00891761,2025-01-11T11:52:32.182Z,"26 km SE of Mina, Nevada",earthquake,,0.5,0.21,11,automatic,nn,nn
 2025-01-11T11:27:45.430Z,33.0153333,-116.2373333,6.17,0.7,ml,34,36,0.1516,0.2,ci,ci40837863,2025-01-11T11:31:53.224Z,"17 km SW of Ocotillo Wells, CA",earthquake,0.21,1.44,0.099,9,automatic,ci,ci
 2025-01-11T11:18:11.710Z,38.818832397461,-122.82516479492,2.8900001049042,1.07,md,11,70,0.008814,0.02,nc,nc75115831,2025-01-11T11:19:47.766Z,"8 km NW of The Geysers, CA",earthquake,0.34,0.660000026,0.27,13,automatic,nc,nc
 2025-01-11T11:04:53.470Z,38.829833984375,-122.81800079346,1.6499999761581,1.28,md,20,48,0.008926,0.01,nc,nc75115826,2025-01-11T11:37:15.716Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.49000001,0.18,22,automatic,nc,nc
@@ -223,8 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-10T12:12:40.501Z,28.829,-99.042,8.7158,2,ml,15,86,0.1,0.2,tx,tx2025arjs,2025-01-10T13:51:53.544Z,"8 km SE of Pearsall, Texas",earthquake,2.1635551160924,2.7991884759963,0.1,15,reviewed,tx,tx
 2025-01-10T12:02:32.089Z,62.2464,-148.2007,106.5,2.1,ml,,,,1.37,ak,ak025gqj63s,2025-01-10T12:05:04.600Z,"51 km NNE of Chickaloon, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-01-10T12:02:00.030Z,17.928666666667,-65.693333333333,8.57,2.24,md,8,218,0.2587,0.23,pr,pr71470543,2025-01-10T12:19:07.160Z,"20 km SE of El Negro, Puerto Rico",earthquake,0.8,1.05,0.024614293860736,4,reviewed,pr,pr
-2025-01-10T11:57:16.160Z,36.628833770752,-121.13916778565,6.460000038147,1.38,md,10,98,0.04352,0.26,nc,nc75115306,2025-01-10T12:32:16.208Z,"11 km NNE of Pinnacles, CA",earthquake,1.13,2.97000003,0.15,7,automatic,nc,nc
-2025-01-10T11:54:20.660Z,38.839000701904,-122.81216430664,1.8799999952316,0.71,md,12,59,0.01567,0.01,nc,nc75115301,2025-01-10T11:55:59.353Z,"8 km WNW of Cobb, CA",earthquake,0.32,0.829999983,0.27,15,automatic,nc,nc
-2025-01-10T11:52:47.017Z,62.0748,-149.6766,50.7,1.6,ml,,,,0.61,ak,ak025gq8hgd,2025-01-10T11:55:09.106Z,"13 km SE of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-01-10T11:51:28.549Z,59.7031,-152.8858,89.9,2.3,ml,,,,0.55,ak,ak025gq88ba,2025-01-10T11:53:46.538Z,"59 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-01-10T11:49:58.400Z,46.197166666667,-122.18633333333,6.15,0.41,ml,13,94,0.003089,0.1,uw,uw62062012,2025-01-10T20:27:41.850Z,"37 km NNE of Amboy, Washington",earthquake,0.36,0.57,0.093203551602456,9,reviewed,uw,uw
