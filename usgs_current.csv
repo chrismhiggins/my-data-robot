@@ -54,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-17T21:22:01.636Z,31.51,-103.93,6.5011,1.6,ml,12,100,0,0.6,tx,tx2025bewi,2025-01-17T21:31:11.930Z,"25 km NNW of Toyah, Texas",earthquake,0,3.008716583252,0.2,8,automatic,tx,tx
 2025-01-17T21:21:49.770Z,38.80916595459,-122.79299926758,1.210000038147,0.77,md,9,100,0.002161,0.02,nc,nc75118711,2025-01-17T21:23:27.339Z,"5 km NNW of The Geysers, CA",earthquake,0.44,0.860000014,0.14,9,automatic,nc,nc
 2025-01-17T21:16:25.900Z,38.833667755127,-122.83466339111,0.85000002384186,0.77,md,14,69,0.004956,0.01,nc,nc75118706,2025-01-17T21:18:01.391Z,"9 km NW of The Geysers, CA",earthquake,0.22,0.519999981,0.25,15,automatic,nc,nc
+2025-01-17T21:13:56.140Z,58.319833333333,-154.987,0.56,-0.23,ml,4,183,0.04664,0.06,av,av93030444,2025-01-18T04:50:28.060Z,"89 km NNW of Karluk, Alaska",earthquake,0.44,1.9,0.15090171066329,4,reviewed,av,av
 2025-01-17T21:10:46.640Z,19.137833333333,-155.35816666667,28.62,2.46,ml,41,187,0.09981,0.11,hv,hv74593987,2025-01-18T00:59:38.040Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.45,0.65,0.17039400704559,21,reviewed,hv,hv
 2025-01-17T20:48:08.870Z,37.361831665039,-121.71866607666,7.9800000190735,1.43,md,22,42,0.1089,0.07,nc,nc75118701,2025-01-17T20:49:47.362Z,"10 km ESE of Alum Rock, CA",earthquake,0.22,0.75,0.2,18,automatic,nc,nc
 2025-01-17T20:47:12.010Z,52.786833333333,-169.88283333333,13.2,1.03,ml,4,194,0.02824,0.05,av,av93459821,2025-01-18T04:28:06.950Z,"70 km WSW of Nikolski, Alaska",earthquake,1.12,0.77,0.24479281162066,4,reviewed,av,av
@@ -244,7 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-17T05:11:30.910Z,32.6506667,-115.826,3.41,0.9,ml,6,100,0.08128,0.12,ci,ci40841655,2025-01-17T22:33:59.259Z,"18 km ESE of Ocotillo, CA",earthquake,0.32,0.34,0.187,4,reviewed,ci,ci
 2025-01-17T05:09:07.342Z,63.1851,-150.5731,118.1,1.7,ml,,,,0.23,ak,ak025s760fi,2025-01-17T05:11:05.702Z,"69 km SE of Denali National Park, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2025-01-17T05:02:56.906Z,29.4797,130.5151,35.333,4.6,mb,46,122,2.024,0.66,us,us6000pkke,2025-01-17T08:30:29.040Z,"83 km S of Koshima, Japan",earthquake,7.87,8.179,0.095,33,reviewed,us,us
-2025-01-17T04:47:17.550Z,34.1268333,-117.4621667,9.63,0.77,ml,27,73,0.03342,0.15,ci,ci40841647,2025-01-17T20:52:41.601Z,"3 km N of Fontana, CA",earthquake,0.26,0.42,0.112,11,reviewed,ci,ci
-2025-01-17T04:43:10.584Z,61.0329,-152.3847,17.2,1.5,ml,,,,0.3,ak,ak025s6rvf6,2025-01-17T22:20:17.330Z,"67 km W of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-01-17T04:41:16.606Z,63.848,-148.8004,37.6,1.5,ml,,,,0.92,ak,ak025s6rggc,2025-01-17T04:43:15.219Z,"8 km E of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-01-17T04:41:16.200Z,33.2416667,-116.3533333,2.13,1.08,ml,53,59,0.05967,0.21,ci,ci40841639,2025-01-17T18:34:55.808Z,"3 km SE of Borrego Springs, CA",earthquake,0.19,0.33,0.139,28,reviewed,ci,ci
