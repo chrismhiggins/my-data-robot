@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-20T03:33:26.550Z,34.9525,-116.6728333,0.57,1.93,ml,25,47,0.1223,0.12,ci,ci40843655,2025-01-20T03:36:54.704Z,"32 km E of Barstow, CA",earthquake,0.15,0.38,0.196,27,automatic,ci,ci
 2025-01-20T03:22:32.189Z,62.5465,-151.2645,78.9,1.8,ml,,,,0.61,ak,ak025x4o0xe,2025-01-20T03:25:10.530Z,"26 km WNW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-01-20T03:18:18.410Z,33.7613333,-115.9621667,-0.57,0.8,ml,35,66,0.1084,0.21,ci,ci40843631,2025-01-20T03:22:01.395Z,"21 km NE of Thermal, CA",earthquake,0.22,0.42,0.072,13,automatic,ci,ci
 2025-01-20T03:07:48.890Z,33.7611667,-115.9536667,-0.02,1.03,ml,35,67,0.1078,0.2,ci,ci40843615,2025-01-20T03:11:22.152Z,"22 km NE of Thermal, CA",earthquake,0.25,0.37,0.101,28,automatic,ci,ci
@@ -185,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-19T03:58:11.260Z,38.799835205078,-122.81316375732,3.0299999713898,1.07,md,22,68,0.01394,0.02,nc,nc75119526,2025-01-19T03:59:49.449Z,"6 km NW of The Geysers, CA",earthquake,0.25,0.529999971,0.17,22,automatic,nc,nc
 2025-01-19T03:48:26.740Z,19.145833969116,-155.49234008789,32.860000610352,1.93,ml,54,152,0.03012,0.159999996,hv,hv74594862,2025-01-19T03:51:40.190Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.59,0.730000019,0.81,5,automatic,hv,hv
 2025-01-19T03:47:41.450Z,38.828998565674,-122.81500244141,2.079999923706,0.72,md,10,78,0.006792,0.01,nc,nc75119521,2025-01-19T03:49:19.439Z,"8 km NNW of The Geysers, CA",earthquake,0.35,0.899999976,0.21,12,automatic,nc,nc
-2025-01-19T03:27:02.430Z,38.814334869385,-122.82666778565,2.0599999427795,0.83,md,16,64,0.0058,0.02,nc,nc75119511,2025-01-19T03:28:39.349Z,"7 km NW of The Geysers, CA",earthquake,0.26,0.610000014,0.18,17,automatic,nc,nc
