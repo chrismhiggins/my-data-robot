@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-24T09:21:26.832Z,37.2958,-117.7082,1.3,1,ml,13,160.08,0.08,0.2978,nn,nn00892455,2025-01-24T09:23:56.331Z,"51 km S of Silver Peak, Nevada",earthquake,,5.7,0.34,10,automatic,nn,nn
 2025-01-24T09:07:40.300Z,38.786334991455,-122.76683044434,2.460000038147,1.08,md,21,81,0.01532,0.03,nc,nc75122111,2025-01-24T09:09:18.259Z,"1 km NNW of The Geysers, CA",earthquake,0.26,0.479999989,0.13,20,automatic,nc,nc
 2025-01-24T08:55:20.370Z,36.05683517456,-120.62616729736,0.56000000238419,1.43,md,10,123,0.02707,0.08,nc,nc75122106,2025-01-24T08:56:58.268Z,"25 km NNW of Parkfield, CA",earthquake,0.48,1.29999995,0.21,5,automatic,nc,nc
 2025-01-24T08:50:12.610Z,33.3448333,-116.3498333,11.54,1.28,ml,69,17,0.03795,0.21,ci,ci41034984,2025-01-24T09:01:01.380Z,"10 km NNE of Borrego Springs, CA",earthquake,0.16,0.31,0.128,26,automatic,ci,ci
