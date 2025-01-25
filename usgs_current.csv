@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-01-25T09:24:41.790Z,63.585,-150.6852,11.7,2.4,ml,,,,0.57,ak,ak02515hxt77,2025-01-25T09:26:27.576Z,"51 km E of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2025-01-25T09:20:22.594Z,63.6405,-150.79,3,3.1,ml,,,,0.94,ak,ak02515hwwv1,2025-01-25T09:22:33.474Z,"47 km ENE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-01-25T09:11:49.410Z,34.439,-117.9191667,10.16,1.07,ml,37,60,0.03155,0.17,ci,ci40850519,2025-01-25T09:18:07.302Z,"8 km S of Pearblossom, CA",earthquake,0.19,0.33,0.226,32,automatic,ci,ci
 2025-01-25T09:11:21.090Z,34.4395,-117.9156667,10.37,0.9,ml,18,87,0.03417,0.1,ci,ci40850511,2025-01-25T09:16:08.921Z,"8 km S of Pearblossom, CA",earthquake,0.2,0.35,0.192,28,automatic,ci,ci
 2025-01-25T08:55:09.010Z,33.3726667,-116.6773333,11.28,-0.13,ml,23,65,0.09919,0.11,ci,ci40850351,2025-01-25T08:59:40.438Z,"11 km NNW of Warner Springs, CA",earthquake,0.18,0.46,0.047,2,automatic,ci,ci
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-24T09:45:05.780Z,40.302165985107,-124.57849884033,8.75,1.79,md,6,296,0.181,0.01,nc,nc75122121,2025-01-24T09:46:42.625Z,"25 km W of Petrolia, CA",earthquake,3.36,1.54999995,0.07,4,automatic,nc,nc
 2025-01-24T09:43:22.370Z,38.768501281738,-122.72699737549,1.1699999570847,1.05,md,11,103,0.01656,0.02,nc,nc75122116,2025-01-24T09:44:57.563Z,"3 km ESE of The Geysers, CA",earthquake,0.29,0.430000007,0.32,12,automatic,nc,nc
 2025-01-24T09:36:13.140Z,36.1488333,-117.856,9.12,0.66,ml,19,94,0.0312,0.14,ci,ci41035000,2025-01-25T00:06:30.099Z,"14 km NE of Coso Junction, CA",earthquake,0.35,0.37,0.162,7,reviewed,ci,ci
-2025-01-24T09:21:27.629Z,37.286,-117.6936,3.6,1.2,ml,14,146.01,0.065,0.1657,nn,nn00892455,2025-01-24T18:08:47.932Z,"52 km S of Silver Peak, Nevada",earthquake,,2.3,0.3,7,reviewed,nn,nn
