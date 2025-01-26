@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-01-26T16:25:33.870Z,34.0491676,-117.1306686,5.78,1.18,ml,30,48,0.02041,0.21,ci,ci40851847,2025-01-26T16:27:39.331Z,"2 km S of Mentone, CA",earthquake,0.32,0.69,0.173,14,automatic,ci,ci
+2025-01-26T16:30:08.650Z,32.3735,-115.2356667,11.29,2.74,ml,25,79,0.07446,0.31,ci,ci40851855,2025-01-26T16:33:42.876Z,"4 km WNW of Delta, B.C., MX",earthquake,0.5,0.94,0.169,27,automatic,ci,ci
+2025-01-26T16:28:29.420Z,38.830501556396,-122.81700134277,2.0899999141693,1.26,md,22,63,0.008924,0.02,nc,nc75123401,2025-01-26T16:30:04.425Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.469999999,0.21,22,automatic,nc,nc
+2025-01-26T16:25:33.950Z,34.043,-117.1296667,6.56,1.14,ml,53,24,0.01618,0.2,ci,ci40851847,2025-01-26T16:30:00.006Z,"3 km S of Mentone, CA",earthquake,0.18,0.38,0.199,27,automatic,ci,ci
 2025-01-26T16:15:30.173Z,39.1639,-119.0466,5.1,0.8,ml,8,148.78,0.008,0.0341,nn,nn00892531,2025-01-26T16:17:46.069Z,"22 km NNE of Yerington, Nevada",earthquake,,0.5,0.13,3,automatic,nn,nn
 2025-01-26T16:04:19.470Z,33.9675,-116.984,4.36,0.84,ml,40,51,0.04608,0.17,ci,ci40851839,2025-01-26T16:23:08.772Z,"4 km N of Beaumont, CA",earthquake,0.16,0.46,0.139,29,reviewed,ci,ci
 2025-01-26T15:37:35.880Z,32.7576667,-116.0298333,9.06,1.09,ml,29,73,0.01343,0.19,ci,ci40851831,2025-01-26T15:41:16.025Z,"4 km NW of Ocotillo, CA",earthquake,0.25,0.5,0.159,15,automatic,ci,ci
@@ -192,15 +194,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-01-25T17:31:00.400Z,38.817501068115,-122.82216644287,2.460000038147,0.92,md,16,58,0.01021,0.02,nc,nc75122886,2025-01-25T17:32:39.108Z,"7 km NW of The Geysers, CA",earthquake,0.3,0.629999995,0.23,17,automatic,nc,nc
 2025-01-25T17:22:20.020Z,32.8556667,-116.262,13.15,0.81,ml,23,81,0.1046,0.2,ci,ci40851175,2025-01-26T16:28:12.469Z,"25 km E of Pine Valley, CA",earthquake,0.3,0.86,0.182,14,reviewed,ci,ci
 2025-01-25T17:20:24.440Z,33.2461667,-116.2951667,9.2,1.05,ml,54,35,0.06353,0.21,ci,ci40851167,2025-01-25T17:27:07.578Z,"8 km E of Borrego Springs, CA",earthquake,0.18,0.53,0.172,28,automatic,ci,ci
-2025-01-25T17:18:00.520Z,32.9751667,-116.3071667,9.57,1.04,ml,44,39,0.02076,0.16,ci,ci40851143,2025-01-26T16:28:33.847Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.36,0.23,25,reviewed,ci,ci
+2025-01-25T17:18:00.520Z,32.9751667,-116.3071667,9.57,1.04,ml,44,39,0.02076,0.16,ci,ci40851143,2025-01-26T16:29:26.500Z,"25 km SW of Ocotillo Wells, CA",earthquake,0.16,0.36,0.23,25,reviewed,ci,ci
 2025-01-25T17:06:15.510Z,38.823501586914,-122.84466552734,2.3699998855591,0.76,md,15,112,0.007536,0.02,nc,nc75122881,2025-01-25T17:07:54.226Z,"9 km NW of The Geysers, CA",earthquake,0.3,0.620000005,0.14,16,automatic,nc,nc
 2025-01-25T17:00:30.850Z,37.9175,-118.55783333333,5.73,1.19,md,20,188,0.1977,0.23,nc,nc75122876,2025-01-26T08:42:17.756Z,"41 km NNE of Toms Place, CA",earthquake,1.26,6.91,0.184,14,reviewed,nc,nc
 2025-01-25T16:52:47.925Z,39.1488,-119.077,8.5,1.4,ml,11,102.91,0.036,0.1426,nn,nn00892508,2025-01-25T16:55:02.684Z,"19 km NNE of Yerington, Nevada",earthquake,,0.7,0.14,7,automatic,nn,nn
 2025-01-25T16:47:10.510Z,38.789001464844,-122.77016448975,1.6900000572205,0.56,md,9,83,0.01419,0.01,nc,nc75122866,2025-01-25T16:48:49.981Z,"2 km NNW of The Geysers, CA",earthquake,0.35,0.75999999,0.21,8,automatic,nc,nc
-2025-01-25T16:40:07.840Z,35.9221667,-117.6823333,2.34,0.4,ml,10,90,0.03649,0.12,ci,ci40851127,2025-01-25T16:43:32.334Z,"20 km E of Little Lake, CA",earthquake,0.33,0.38,0.126,7,automatic,ci,ci
-2025-01-25T16:38:49.552Z,31.628,-104.452,2.5633,1.9,ml,15,105,0,0.5,tx,tx2025btda,2025-01-25T17:02:38.293Z,"61 km S of Whites City, New Mexico",earthquake,0,1.684858083725,0.1,12,automatic,tx,tx
-2025-01-25T16:37:59.252Z,37.4131,-117.2679,2.3,1.1,ml,14,285.45,0.113,0.4592,nn,nn00892506,2025-01-25T16:40:23.310Z,"32 km S of Goldfield, Nevada",earthquake,,2.8,0.37,9,automatic,nn,nn
-2025-01-25T16:37:38.980Z,37.919,-118.55783333333,4.48,1.78,md,22,188,0.1972,0.06,nc,nc75002218,2025-01-26T07:52:03.420Z,"41 km NNE of Toms Place, CA",earthquake,0.66,31.61,0.104,16,reviewed,nc,nc
-2025-01-25T16:37:13.180Z,37.917166666667,-118.557,6.43,1.5,md,21,113,0.1972,0.08,nc,nc75122861,2025-01-26T07:42:00.061Z,"41 km NNE of Toms Place, CA",earthquake,0.47,2.2,0.069,14,reviewed,nc,nc
-2025-01-25T16:31:58.909Z,62.1511,-152.076,108.6,1.6,ml,,,,0.34,ak,ak02515m5drm,2025-01-25T16:33:46.981Z,"39 km WNW of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-01-25T16:30:54.980Z,34.043,-116.643,11.59,2.29,ml,81,20,0.006072,0.17,ci,ci40851119,2025-01-25T16:41:31.840Z,"6 km W of Morongo Valley, CA",earthquake,0.12,0.37,0.235,25,automatic,ci,ci
