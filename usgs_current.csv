@@ -19,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-08T09:23:37.480Z,40.306499481201,-124.5273361206,10.800000190735,2.86,md,24,272,0.1424,0.1,nc,nc75129822,2025-02-08T09:52:15.948Z,"21 km W of Petrolia, CA",earthquake,1.58,0.5,0.14,22,automatic,nc,nc
 2025-02-08T09:21:19.855Z,61.9913,-147.0858,43.2,1.3,ml,,,,1.06,ak,ak0251snfz9t,2025-02-08T09:22:49.561Z,"7 km NE of Eureka Roadhouse, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2025-02-08T09:19:37.940Z,37.526668548584,-118.87699890137,1.8999999761581,1.34,md,17,124,0.07382,0.04,nc,nc75129817,2025-02-08T09:21:14.206Z,"15 km SSE of Mammoth Lakes, CA",earthquake,0.35,1.95000005,0.15,17,automatic,nc,nc
+2025-02-08T09:15:48.915Z,36.3919,25.6486,10,4.2,mb,20,88,1.262,0.8,us,us7000pcaq,2025-02-08T11:25:18.040Z,"18 km E of Mesariá, Greece",earthquake,5.62,1.909,0.121,19,reviewed,us,us
 2025-02-08T09:13:11.493Z,59.82,-153.0567,95.1,1.3,ml,,,,0.23,ak,ak0251sne8wd,2025-02-08T09:14:57.179Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-02-08T09:10:06.151Z,36.5418,25.5645,10,4.4,mb,52,82,1.366,1.03,us,us7000pcan,2025-02-08T10:27:25.040Z,"17 km NE of Firá, Greece",earthquake,4.16,1.888,0.074,53,reviewed,us,us
 2025-02-08T09:00:40.940Z,36.4687,25.5717,10,5.1,mb,99,44,1.302,1.01,us,us7000pcah,2025-02-08T09:18:01.040Z,"13 km NE of Mesariá, Greece",earthquake,5.32,1.85,0.044,164,reviewed,us,us
@@ -203,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T15:35:50.260Z,60.010333333333,-153.0745,0.02,-0.74,ml,4,150,0.02876,0.07,av,av93488286,2025-02-08T07:31:17.010Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.44,2.52,0.2632541842586,4,reviewed,av,av
 2025-02-07T15:30:54.000Z,34.038,-117.1318333,5.63,1.01,ml,21,78,0.01633,0.14,ci,ci40181474,2025-02-07T19:46:35.815Z,"4 km S of Mentone, CA",earthquake,0.2,0.51,0.119,30,reviewed,ci,ci
 2025-02-07T15:29:11.880Z,60.0395,-153.05,0.06,-0.83,ml,4,165,0.01917,0.1,av,av93488281,2025-02-08T07:25:45.420Z,"65 km ENE of Pedro Bay, Alaska",earthquake,0.59,1.35,0.37467710242983,4,reviewed,av,av
-2025-02-07T15:19:23.782Z,38.9658,14.8889,66.769,5.1,mb,26,119,1.553,0.62,us,us7000pc4p,2025-02-08T03:49:10.880Z,"43 km N of Malfa, Italy",earthquake,7.11,9.104,0.068,71,reviewed,us,us
+2025-02-07T15:19:23.782Z,38.9658,14.8889,66.769,5.1,mb,26,119,1.553,0.62,us,us7000pc4p,2025-02-08T11:16:53.652Z,"43 km N of Malfa, Italy",earthquake,7.11,9.104,0.068,71,reviewed,us,us
 2025-02-07T15:16:50.026Z,36.5805,25.6218,10,4.6,mb,18,78,1.42,1.01,us,us7000pc4s,2025-02-07T16:10:08.040Z,"24 km NE of Firá, Greece",earthquake,4.57,1.939,0.173,10,reviewed,us,us
 2025-02-07T15:02:10.610Z,44.775166666667,-110.781,4.78,1.11,ml,14,182,0.05122,0.11,uu,uu80101426,2025-02-07T16:31:03.450Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.49,0.32,0.51257316439079,3,reviewed,uu,uu
 2025-02-07T14:57:06.360Z,61.276666666667,-152.2575,3.07,-0.86,ml,7,149,0.05078,0.07,av,av93488231,2025-02-08T06:57:27.560Z,"64 km WNW of Tyonek, Alaska",earthquake,0.28,0.4,0.15786608524839,7,reviewed,av,av
@@ -245,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-07T11:34:14.930Z,41.894666666667,-124.323,34.85,2.61,md,17,204,0.1615,0.12,nc,nc75128931,2025-02-08T10:22:18.133Z,"18 km SSW of Brookings, OR",earthquake,0.73,0.98,0.077,12,reviewed,nc,nc
 2025-02-07T11:32:58.211Z,65.4428,-148.2412,13.8,1.2,ml,,,,0.56,ak,ak0251r15xtu,2025-02-07T11:36:43.540Z,"16 km ESE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-02-07T11:26:57.756Z,56.7909,-157.1554,73.1,2.3,ml,,,,0.62,ak,ak0251r14ni6,2025-02-08T08:01:56.040Z,"81 km S of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-02-07T11:25:00.620Z,61.145333333333,-152.30183333333,4.03,-0.3,ml,8,247,0.05372,0.19,av,av93032354,2025-02-08T03:33:33.060Z,"63 km W of Tyonek, Alaska",earthquake,0.95,0.31,0.21659261203275,8,reviewed,av,av
-2025-02-07T11:22:56.456Z,58.0119,-155.2817,107,1,ml,,,,0.28,ak,ak0251r13sj1,2025-02-07T11:25:21.676Z,"69 km NW of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
