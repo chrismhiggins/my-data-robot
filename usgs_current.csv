@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-02-10T15:12:19.690Z,38.838165283203,-122.79916381836,2.2599999904633,0.88,md,12,71,0.006892,0.01,nc,nc75131212,2025-02-10T15:13:58.026Z,"7 km WNW of Cobb, CA",earthquake,0.35,1.41999996,0.24,14,automatic,nc,nc
+2025-02-10T15:09:34.890Z,38.779335021973,-122.7200012207,1.8400000333786,0.84,md,8,94,0.01364,0.01,nc,nc75131207,2025-02-10T15:11:14.016Z,"2 km WNW of Anderson Springs, CA",earthquake,0.49,0.779999971,0.12,10,automatic,nc,nc
+2025-02-10T14:58:55.440Z,34.1675,-117.2648333,6.45,1.27,ml,57,40,0.03651,0.19,ci,ci40183346,2025-02-10T15:04:22.966Z,"5 km NNE of San Bernardino, CA",earthquake,0.15,0.39,0.208,28,automatic,ci,ci
 2025-02-10T14:42:55.440Z,34.3665,-118.4561667,6.06,1.24,ml,33,54,0.04539,0.2,ci,ci40183330,2025-02-10T14:48:09.043Z,"7 km N of Sylmar, CA",earthquake,0.25,0.72,0.203,31,automatic,ci,ci
 2025-02-10T14:23:07.862Z,59.8569,-153.0939,89.8,1.6,ml,,,,0.52,ak,ak0251w1i8qq,2025-02-10T14:25:25.683Z,"57 km E of Pedro Bay, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2025-02-10T14:23:06.290Z,38.798831939697,-122.80066680908,1.1799999475479,0.78,md,10,64,0.01004,0.02,nc,nc75131192,2025-02-10T14:24:42.718Z,"5 km NW of The Geysers, CA",earthquake,0.32,0.589999974,0.34,13,automatic,nc,nc
@@ -43,7 +46,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T10:47:40.043Z,61.1798,-150.638,49.2,1.7,ml,,,,0.16,ak,ak0251vz9q1g,2025-02-10T10:49:02.787Z,"24 km E of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-02-10T10:43:04.758Z,36.6308,-116.2528,2.2,-0.2,ml,8,199.62,0.071,0.2216,nn,nn00893174,2025-02-10T10:44:48.819Z,"52 km W of Indian Springs, Nevada",earthquake,,1.9,0.16,3,automatic,nn,nn
 2025-02-10T10:42:05.516Z,36.6422,-116.2533,0,0,ml,11,187.54,0.069,0.2477,nn,nn00893172,2025-02-10T10:43:50.183Z,"52 km W of Indian Springs, Nevada",earthquake,,2.4,0.6,6,automatic,nn,nn
-2025-02-10T10:39:31.906Z,36.6463,-116.2718,9.9,0.6,ml,17,174.83,0.054,0.111,nn,nn00893171,2025-02-10T10:41:21.566Z,"52 km SE of Beatty, Nevada",earthquake,,0.8,0.27,11,automatic,nn,nn
+2025-02-10T10:39:32.618Z,36.652,-116.2709,7.6,0.5,ml,36,166.61,0.055,0.0996,nn,nn00893171,2025-02-10T15:11:59.345Z,"52 km ESE of Beatty, Nevada",earthquake,,0.7,0.39,8,reviewed,nn,nn
+2025-02-10T10:38:11.230Z,36.6486,-116.2721,6.8,-0.3,ml,15,171.41,0.054,0.0672,nn,nn00893185,2025-02-10T15:02:34.722Z,"52 km ESE of Beatty, Nevada",earthquake,,1.2,0.31,3,reviewed,nn,nn
+2025-02-10T10:37:33.748Z,36.6478,-116.2722,7,-0.2,ml,15,172.63,0.054,0.0673,nn,nn00893184,2025-02-10T14:56:21.438Z,"52 km SE of Beatty, Nevada",earthquake,,1.5,0.13,3,reviewed,nn,nn
 2025-02-10T10:31:46.229Z,37.1456,-116.4184,3.7,0.7,ml,11,188.16,0.089,0.342,nn,nn00893170,2025-02-10T10:33:59.806Z,"40 km NE of Beatty, Nevada",earthquake,,0.9,0.39,7,automatic,nn,nn
 2025-02-10T10:27:10.925Z,36.6478,-116.2713,9.3,0.3,ml,15,172.62,0.054,0.0722,nn,nn00893169,2025-02-10T10:29:00.701Z,"52 km ESE of Beatty, Nevada",earthquake,,0.9,0.25,8,automatic,nn,nn
 2025-02-10T10:23:35.990Z,36.6547,-116.2692,7.6,-0.3,ml,11,163.04,0.057,0.051,nn,nn00893168,2025-02-10T10:25:19.592Z,"52 km ESE of Beatty, Nevada",earthquake,,1.1,0.28,4,automatic,nn,nn
@@ -115,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-10T03:51:39.953Z,-21.5598,-179.3594,602.28,4.5,mb,37,94,4.511,0.54,us,us7000pckn,2025-02-10T04:24:27.040Z,"Fiji region",earthquake,9.78,9.771,0.113,23,reviewed,us,us
 2025-02-10T03:48:50.850Z,35.8925,-117.703,7.36,0.61,ml,23,44,0.06986,0.19,ci,ci40183082,2025-02-10T03:52:15.957Z,"19 km ESE of Little Lake, CA",earthquake,0.24,0.69,0.199,10,automatic,ci,ci
 2025-02-10T03:47:54.750Z,31.645,-104.331,2.7417,1.8,ml,18,70,0.1,0.2,tx,tx2025cvjr,2025-02-10T13:38:15.497Z,"59 km S of Whites City, New Mexico",earthquake,0.60619689924866,0.79559660399439,0.2,14,reviewed,tx,tx
-2025-02-10T03:47:36.106Z,36.6522,-116.0919,6.5,-0.5,ml,7,312.86,0.044,0.0372,nn,nn00893182,2025-02-10T14:50:06.061Z,"38 km WNW of Indian Springs, Nevada",earthquake,,4.4,0.1,2,reviewed,nn,nn
+2025-02-10T03:47:36.100Z,36.6555,-116.0919,6.9,-0.5,ml,8,171.75,0.022,0.0351,nn,nn00893182,2025-02-10T14:53:12.461Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.1,2,reviewed,nn,nn
 2025-02-10T03:35:06.179Z,31.64,-104.33,2.1521,2.2,ml,18,89,0.1,0.2,tx,tx2025cvjf,2025-02-10T13:42:00.515Z,"59 km S of Whites City, New Mexico",earthquake,0.73197851094726,0.68517316765681,0.2,15,reviewed,tx,tx
 2025-02-10T03:34:08.240Z,38.789665222168,-122.76850128174,2.3599998950958,0.61,md,8,95,0.01292,0.02,nc,nc75130922,2025-02-10T03:35:45.489Z,"2 km NNW of The Geysers, CA",earthquake,0.5,1.53999996,0.19,6,automatic,nc,nc
 2025-02-10T03:14:30.630Z,38.834499359131,-122.81517028809,1.2000000476837,0.36,md,11,58,0.01178,0.01,nc,nc75130917,2025-02-10T03:16:06.201Z,"8 km WNW of Cobb, CA",earthquake,0.36,1.29999995,0.27,12,automatic,nc,nc
@@ -224,10 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-09T15:21:36.610Z,38.761501312256,-122.7011642456,1.6900000572205,0.79,md,7,172,0.006827,0.04,nc,nc75130647,2025-02-09T15:23:14.818Z,"2 km SW of Anderson Springs, CA",earthquake,0.98,0.469999999,0.03,4,automatic,nc,nc
 2025-02-09T15:20:33.481Z,36.65,-116.2737,7,-0.1,ml,7,196.24,0.053,0.0664,nn,nn00893119,2025-02-10T02:05:36.784Z,"51 km ESE of Beatty, Nevada",earthquake,,2.4,0.04,2,reviewed,nn,nn
 2025-02-09T15:16:30.674Z,36.5178,25.6341,10,4.4,mb,35,104,1.368,1.09,us,us7000pchj,2025-02-09T15:53:18.040Z,"21 km ENE of Firá, Greece",earthquake,3.68,1.884,0.078,48,reviewed,us,us
-2025-02-09T15:10:07.215Z,36.6492,-116.2717,6.9,0.4,ml,20,170.56,0.054,0.1217,nn,nn00893115,2025-02-10T02:05:25.863Z,"52 km ESE of Beatty, Nevada",earthquake,,1.1,0.01,2,reviewed,nn,nn
-2025-02-09T15:09:34.710Z,46.937,-112.42033333333,8.76,1.62,ml,13,77,0.08179,0.13,mb,mb90072353,2025-02-09T15:51:06.740Z,"19 km E of Lincoln, Montana",earthquake,0.53,0.79,0.183117059206,15,reviewed,mb,mb
-2025-02-09T15:03:15.900Z,44.7705,-114.4125,3.77,1.29,ml,14,71,0.4552,0.14,mb,mb90072368,2025-02-10T00:01:31.790Z,"32 km NNW of Challis, Idaho",earthquake,0.39,3.78,0.19107853229555,16,reviewed,mb,mb
-2025-02-09T15:01:00.497Z,36.6501,-116.2697,7.3,-0.3,ml,6,197.03,0.056,0.0368,nn,nn00893118,2025-02-10T02:05:30.458Z,"52 km ESE of Beatty, Nevada",earthquake,,3.2,0,1,reviewed,nn,nn
-2025-02-09T14:55:53.990Z,38.842998504639,-122.83116912842,1.210000038147,0.22,md,9,118,0.005546,0.01,nc,nc75130637,2025-02-09T14:57:28.527Z,"10 km WNW of Cobb, CA",earthquake,0.36,0.699999988,0.12,8,automatic,nc,nc
-2025-02-09T14:54:44.510Z,38.835666656494,-122.78600311279,1.6699999570847,0.67,md,13,71,0.004358,0.03,nc,nc75130632,2025-02-09T14:56:18.450Z,"6 km WNW of Cobb, CA",earthquake,0.31,0.620000005,0.34,13,automatic,nc,nc
-2025-02-09T14:54:30.400Z,38.794834136963,-122.75900268555,0.72000002861023,1.14,md,10,76,0.005809,0.02,nc,nc75130627,2025-02-09T14:56:08.727Z,"2 km N of The Geysers, CA",earthquake,0.3,0.50999999,0.31,12,automatic,nc,nc
