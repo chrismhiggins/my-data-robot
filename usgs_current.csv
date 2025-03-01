@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-01T14:43:30.650Z,47.611999511719,-122.61033630371,21.14999961853,2.266238451004,ml,18,78,,0.0900000036,uw,uw62078691,2025-03-01T14:45:56.560Z,"3 km NNW of Enetai, Washington",earthquake,0.43,1.05999994,0.23502333462238,10,automatic,uw,uw
 2025-03-01T14:19:38.613Z,40.2969,-120.1636,3.6,1.8,ml,8,296.51,0.353,0.0811,nn,nn00894203,2025-03-01T14:22:17.962Z,"17 km N of Herlong, California",earthquake,,4,0.46,4,automatic,nn,nn
 2025-03-01T14:19:01.640Z,17.912833333333,-66.799333333333,9.34,2.5,md,13,230,0.08843,0.09,pr,pr71474073,2025-03-01T14:29:26.660Z,"9 km SSE of Indios, Puerto Rico",earthquake,0.43,0.68,0.26384843934213,9,reviewed,pr,pr
 2025-03-01T14:18:22.080Z,40.260166168213,-120.10800170898,5.8000001907349,2.29,md,12,115,0.3016,0.12,nc,nc75141031,2025-03-01T14:27:19.288Z,"21 km E of Honey Lake, CA",earthquake,0.4,1.62,0.16,4,automatic,nc,nc
-2025-03-01T14:16:48.181Z,40.1305,-120.1334,16,2.7,ml,22,135.34,0.539,0.3877,nn,nn00894199,2025-03-01T14:27:18.289Z,"1 km S of Herlong, California",earthquake,,0.7,0.24,11,automatic,nn,nn
+2025-03-01T14:16:46.483Z,40.2717,-120.0983,8.692,2.7,ml,30,115,0.298,0.27,us,us6000pwaf,2025-03-01T14:44:51.040Z,"14 km NNE of Herlong, California",earthquake,1.64,8.471,0.036,102,reviewed,us,us
 2025-03-01T13:59:53.979Z,7.8935,126.6352,34.14,5,mb,48,79,1.329,0.76,us,us6000pwae,2025-03-01T14:17:37.040Z,"22 km NE of Taytayan, Philippines",earthquake,8.25,5.753,0.055,105,reviewed,us,us
 2025-03-01T13:52:09.240Z,38.828498840332,-122.81649780273,1.7400000095367,1.06,md,24,44,0.007152,0.02,nc,nc75141021,2025-03-01T14:27:18.388Z,"8 km NNW of The Geysers, CA",earthquake,0.19,0.360000014,0.11,25,automatic,nc,nc
 2025-03-01T13:32:01.920Z,33.9961667,-116.684,13.43,1.22,ml,65,22,0.05178,0.19,ci,ci41069248,2025-03-01T13:37:14.684Z,"11 km WSW of Morongo Valley, CA",earthquake,0.15,0.37,0.145,27,automatic,ci,ci
@@ -58,6 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-01T09:09:03.477Z,31.88,-101.908,5.9082,1.2,ml,20,73,0,0.1,tx,tx2025eemu,2025-03-01T13:32:33.334Z,"20 km SE of Midland, Texas",earthquake,0.36575903536977,0.63428986471382,0.2,17,reviewed,tx,tx
 2025-03-01T09:04:54.540Z,38.79999923706,-122.77766418457,2.9100000858307,0.27,md,6,151,0.01345,0.01,nc,nc75140901,2025-03-01T09:27:16.265Z,"3 km NNW of The Geysers, CA",earthquake,0.78,1.94000006,0.04,8,automatic,nc,nc
 2025-03-01T08:57:00.748Z,20.3696,95.0693,118.785,4.2,mb,31,172,0.844,0.41,us,us6000pw91,2025-03-01T09:26:53.040Z,"23 km ESE of Yenangyaung, Myanmar",earthquake,6.89,6.666,0.128,17,reviewed,us,us
+2025-03-01T08:40:22.946Z,31.88,-101.911,5.542,1.5,ml,8,69,0,0.1,tx,tx2025eelv,2025-03-01T14:47:48.999Z,"20 km SE of Midland, Texas",earthquake,0.59102255638376,0.87900492495797,0.1,6,reviewed,tx,tx
 2025-03-01T08:39:25.340Z,19.5863,-65.3183,40,3.97,md,22,265,1.2793,0.39,pr,pr2025060001,2025-03-01T09:23:05.040Z,"139 km NNE of Vieques, Puerto Rico",earthquake,2.79,18.84,0.14,15,reviewed,pr,pr
 2025-03-01T08:37:19.600Z,36.78133392334,-121.52100372315,8.539999961853,2.12,md,50,45,0.03927,0.16,nc,nc75140891,2025-03-01T10:57:19.888Z,"7 km S of San Juan Bautista, CA",earthquake,0.25,0.5,0.18,45,automatic,nc,nc
 2025-03-01T08:30:10.320Z,33.4523333,-116.6261667,7.17,0.92,ml,55,21,0.01663,0.19,ci,ci41069160,2025-03-01T08:34:22.561Z,"12 km SSE of Anza, CA",earthquake,0.16,0.4,0.16,26,automatic,ci,ci
@@ -231,6 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-02-28T15:11:11.550Z,44.353666666667,-115.19116666667,8.86,1.84,ml,16,63,0.3501,0.19,mb,mb90073303,2025-02-28T16:41:08.940Z,"25 km NW of Stanley, Idaho",earthquake,0.41,1.24,0.15144692884529,15,reviewed,mb,mb
 2025-02-28T15:10:11.979Z,37.3644,-117.1452,1.4,1.4,ml,13,141.05,0.112,0.373,nn,nn00894170,2025-02-28T15:12:13.962Z,"39 km SSE of Goldfield, Nevada",earthquake,,3.8,0.37,9,automatic,nn,nn
 2025-02-28T15:03:26.724Z,37.3626,-117.1367,3.9,1.5,ml,20,128.22,0.117,0.2291,nn,nn00894167,2025-02-28T15:06:16.203Z,"39 km SSE of Goldfield, Nevada",earthquake,,2.8,0.3,11,automatic,nn,nn
-2025-02-28T14:54:16.056Z,63.559,-147.7204,0,1.7,ml,,,,0.78,ak,ak0252ptd5id,2025-02-28T14:56:29.831Z,"62 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-02-28T14:49:41.549Z,35.2545,-97.77533333,5.78,0.25,ml,14,164,0.0188962919,0.07,ok,ok2025edcn,2025-02-28T15:07:28.377Z,"4 km WNW of Bridge Creek, Oklahoma",earthquake,,0.4,0.34,7,reviewed,ok,ok
-2025-02-28T14:44:51.540Z,58.1775,-155.35883333333,0.6,-0.57,ml,5,175,0.03643,0.09,av,av93034334,2025-03-01T02:06:28.680Z,"86 km NW of Karluk, Alaska",earthquake,0.28,1.51,0.14753267533683,5,reviewed,av,av
