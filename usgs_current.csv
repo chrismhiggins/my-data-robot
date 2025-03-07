@@ -1,7 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-07T16:11:05.309Z,35.2635,-97.78666667,4.14,1.07,ml,15,82,0.009898057663,0.11,ok,ok2025epzs,2025-03-07T16:18:07.681Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.5,0.24,8,reviewed,ok,ok
+2025-03-07T16:00:10.080Z,35.2655,-97.79083333,5.09,1.13,ml,14,134,0.006298763968,0.08,ok,ok2025epzj,2025-03-07T16:06:49.489Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.14,6,reviewed,ok,ok
+2025-03-07T15:58:12.949Z,35.26016667,-97.79083333,3.45,0.42,ml,16,74,0.006298763968,0.15,ok,ok2025epzi,2025-03-07T16:04:29.302Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.22,8,reviewed,ok,ok
+2025-03-07T15:56:04.400Z,35.27,-97.7805,5.59,-0.21,ml,14,195,0.009898057663,0.07,ok,ok2025epzg,2025-03-07T16:02:24.222Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.23,7,reviewed,ok,ok
+2025-03-07T15:54:15.560Z,38.811164855957,-122.78600311279,1.3200000524521,1.07,md,12,70,0.004651,0.02,nc,nc75144526,2025-03-07T15:55:50.732Z,"5 km NNW of The Geysers, CA",earthquake,0.31,0.560000002,0.14,12,automatic,nc,nc
+2025-03-07T15:53:59.939Z,35.275,-97.7785,5.16,0.34,ml,14,228,0.01079788109,0.07,ok,ok2025epze,2025-03-07T16:00:24.050Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.3,0.18,7,reviewed,ok,ok
+2025-03-07T15:52:45.399Z,35.26066667,-97.7895,3.9,1.26,ml,16,76,0.007198587392,0.14,ok,ok2025epzd,2025-03-07T16:01:29.521Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.26,8,reviewed,ok,ok
+2025-03-07T15:50:00.900Z,35.2745,-97.77583333,4.75,0.29,ml,14,231,0.01259752794,0.08,ok,ok2025epzb,2025-03-07T15:56:10.914Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.18,7,reviewed,ok,ok
 2025-03-07T15:47:55.240Z,35.26016667,-97.79233333,3.72,1.08,ml,16,73,0.00449911712,0.15,ok,ok2025epyz,2025-03-07T15:52:39.599Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.6,0.23,9,reviewed,ok,ok
 2025-03-07T15:46:40.109Z,35.26016667,-97.79216667,3.48,0.23,ml,16,73,0.005398940544,0.17,ok,ok2025epyy,2025-03-07T15:54:33.707Z,"3 km SSE of Tuttle, Oklahoma",earthquake,,0.7,0.15,7,reviewed,ok,ok
-2025-03-07T15:44:15.370Z,38.823501586914,-122.77333068848,3.3499999046326,0.28,md,9,76,0.007454,0.03,nc,nc75144516,2025-03-07T15:45:52.179Z,"4 km WNW of Cobb, CA",earthquake,0.59,1.11000001,0.12,9,automatic,nc,nc
+2025-03-07T15:44:15.370Z,38.823501586914,-122.77333068848,3.3499999046326,0.28,md,9,76,0.007454,0.03,nc,nc75144516,2025-03-07T16:07:20.607Z,"4 km WNW of Cobb, CA",earthquake,0.59,1.11000001,0.12,9,automatic,nc,nc
 2025-03-07T15:43:50.170Z,35.27333333,-97.77983333,5.19,0.33,ml,14,215,0.009898057663,0.07,ok,ok2025epyv,2025-03-07T15:50:20.556Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.16,6,reviewed,ok,ok
 2025-03-07T15:41:06.900Z,35.27333333,-97.78016667,5.05,0.39,ml,14,214,0.009898057663,0.07,ok,ok2025epyt,2025-03-07T15:48:17.287Z,"3 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.19,7,reviewed,ok,ok
 2025-03-07T15:33:23.810Z,37.809665679932,-122.21433258057,0.47999998927116,1.32,md,8,90,0.1138,0.04,nc,nc75144511,2025-03-07T15:52:24.508Z,"2 km NE of Oakland, CA",earthquake,0.41,8.27999973,0.36,6,automatic,nc,nc
@@ -17,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-07T14:57:56.147Z,32.185,-100.97,8.7646,2.1,ml,18,77,0.3,0.1,tx,tx2025epxk,2025-03-07T15:32:45.919Z,"19 km SSE of Westbrook, Texas",earthquake,0.97291866144923,2.4113726455312,0.1,16,reviewed,tx,tx
 2025-03-07T14:57:37.154Z,-20.7526,169.3815,35,4.3,mb,20,214,2.582,0.85,us,us6000pxeu,2025-03-07T15:34:20.040Z,"134 km S of Isangel, Vanuatu",earthquake,8.84,1.994,0.147,17,reviewed,us,us
 2025-03-07T14:56:44.619Z,35.27216667,-97.7865,4.67,0.3,ml,14,177,0.005398940544,0.09,ok,ok2025epxh,2025-03-07T15:06:45.184Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.25,7,reviewed,ok,ok
-2025-03-07T14:55:45.851Z,51.7247,-179.693,85.1,2.6,ml,,,,0.36,ak,ak02531e4ub2,2025-03-07T15:49:04.589Z,"211 km W of Adak, Alaska",earthquake,,0.2,,,reviewed,ak,ak
+2025-03-07T14:55:45.206Z,51.7058,-179.7087,96.903,2.8,ml,13,137,0.428,0.12,us,us6000pxex,2025-03-07T16:15:05.040Z,"212 km W of Adak, Alaska",earthquake,4.02,7.159,0.105,12,reviewed,us,us
 2025-03-07T14:53:33.320Z,35.2715,-97.78683333,5,0.07,ml,14,171,0.00449911712,0.07,ok,ok2025epxe,2025-03-07T15:04:59.823Z,"3 km SE of Tuttle, Oklahoma",earthquake,,0.4,0.24,7,reviewed,ok,ok
 2025-03-07T14:49:43.490Z,35.27266667,-97.77183333,4.62,0.22,ml,14,231,0.01619682163,0.07,ok,ok2025epxb,2025-03-07T14:58:00.617Z,"4 km ESE of Tuttle, Oklahoma",earthquake,,0.4,0.18,7,reviewed,ok,ok
 2025-03-07T14:45:03.326Z,65.4515,-148.2329,11.3,1.4,ml,,,,0.54,ak,ak02531e2mjg,2025-03-07T14:47:11.572Z,"16 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -230,6 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-06T16:32:06.560Z,52.304833333333,-174.18766666667,4.57,1.02,ml,5,208,0.01946,0.04,av,av93523081,2025-03-07T02:43:15.330Z,"12 km N of Atka, Alaska",earthquake,0.61,0.46,0.25423445755988,5,reviewed,av,av
 2025-03-06T16:25:16.191Z,61.7798,-150.0827,15,1.6,ml,,,,0.82,ak,ak0252zrlvxi,2025-03-06T16:28:04.907Z,"4 km NNW of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-06T16:21:37.906Z,-23.3913,-69.073,93.525,6.1,mww,57,119,0.823,0.95,us,us6000px89,2025-03-07T14:46:52.009Z,"103 km WSW of San Pedro de Atacama, Chile",earthquake,7.15,7.19,0.048,42,reviewed,us,us
-2025-03-06T16:14:46.570Z,61.247666666667,-152.1915,22.19,-0.61,ml,9,107,0.02435,0.15,av,av93035094,2025-03-07T02:35:41.200Z,"60 km WNW of Tyonek, Alaska",earthquake,0.99,0.71,0.16939956169398,9,reviewed,av,av
-2025-03-06T16:09:48.820Z,61.364166666667,-152.3445,3.41,-0.67,ml,10,150,0.1063,0.15,av,av93523056,2025-03-07T02:29:28.370Z,"72 km WNW of Beluga, Alaska",earthquake,0.27,0.38,0.075563140925419,9,reviewed,av,av
-2025-03-06T16:06:23.040Z,38.804000854492,-122.77966308594,2.0699999332428,0.8,md,16,66,0.009279,0.02,nc,nc75143881,2025-03-06T18:07:29.038Z,"4 km NNW of The Geysers, CA",earthquake,0.26,0.469999999,0.18,16,automatic,nc,nc
