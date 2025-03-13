@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-03-13T19:41:09.270Z,32.4186668,-115.2626648,12.21,3.5,ml,41,48,0.03582,0.38,ci,ci41079048,2025-03-13T19:45:10.912Z,"10 km NW of Delta, B.C., MX",earthquake,0.44,1.88,0.319,19,reviewed,ci,ci
+2025-03-13T19:50:36.800Z,33.9933333,-116.8516667,12.42,1.52,ml,54,25,0.0554,0.19,ci,ci41079056,2025-03-13T19:55:29.473Z,"8 km NNE of Banning, CA",earthquake,0.16,0.5,0.151,29,automatic,ci,ci
+2025-03-13T19:41:09.090Z,32.4078333,-115.263,11.47,3.33,ml,34,49,0.03738,0.34,ci,ci41079048,2025-03-13T19:53:47.620Z,"9 km NW of Delta, B.C., MX",earthquake,0.36,1.07,0.199,83,reviewed,ci,ci
 2025-03-13T19:40:14.350Z,63.0689,-150.4645,29.1,1.7,ml,,,,1.01,ak,ak0253be8tsr,2025-03-13T19:42:12.791Z,"65 km NNE of Petersville, Alaska",earthquake,,3.8,,,automatic,ak,ak
 2025-03-13T19:33:35.316Z,61.5794,-148.2088,15.5,1.6,ml,,,,0.69,ak,ak0253be7dej,2025-03-13T19:35:04.022Z,"27 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T19:19:47.930Z,17.975833333333,-66.8095,15.61,2.46,md,10,197,0.05608,0.09,pr,pr71475798,2025-03-13T19:39:19.200Z,"2 km SSE of Indios, Puerto Rico",earthquake,0.49,0.65,0.065150192790488,6,reviewed,pr,pr
 2025-03-13T19:10:54.809Z,61.4447,-149.8954,38.2,1.2,ml,,,,0.15,ak,ak0253be2hfs,2025-03-13T19:12:04.256Z,"9 km W of Knik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-03-13T18:40:45.780Z,33.4825,-116.4535,13.32,0.88,ml,29,71,0.1249,0.15,ci,ci41079016,2025-03-13T19:31:21.945Z,"22 km ESE of Anza, CA",earthquake,0.2,0.5,0.077,11,reviewed,ci,ci
+2025-03-13T18:38:33.740Z,17.9495,-66.990333333333,4.79,2.7,md,8,214,0.05499,0.07,pr,pr71475813,2025-03-13T19:50:05.810Z,"6 km ESE of La Parguera, Puerto Rico",earthquake,0.36,0.52,0.10253578669401,4,reviewed,pr,pr
 2025-03-13T18:32:46.235Z,61.4304,-150.4753,35.4,1.3,ml,,,,0.4,ak,ak0253bdlqxb,2025-03-13T18:34:06.416Z,"12 km S of Susitna, Alaska",earthquake,,4.7,,,automatic,ak,ak
 2025-03-13T18:22:42.803Z,64.6413,-149.1777,14.5,1.4,ml,,,,0.3,ak,ak0253bdjli0,2025-03-13T18:24:17.907Z,"5 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-03-13T18:19:08.330Z,38.823833465576,-122.84483337402,1.8899999856949,0.76,md,7,179,0.007691,0.02,nc,nc75148191,2025-03-13T18:37:17.414Z,"9 km NW of The Geysers, CA",earthquake,0.59,0.970000029,0.53,8,automatic,nc,nc
@@ -13,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-13T17:50:47.520Z,37.3224,-117.6688,7.3,2.1,ml,10,137.34,0.246,0.144,nn,nn00894648,2025-03-13T18:29:19.362Z,"48 km S of Silver Peak, Nevada",earthquake,,7.1,0.78,4,reviewed,nn,nn
 2025-03-13T17:39:13.283Z,61.372,-150.7511,36.3,1.4,ml,,,,0.63,ak,ak0253bd1qsg,2025-03-13T17:41:02.284Z,"22 km SSW of Susitna, Alaska",earthquake,,3.2,,,automatic,ak,ak
 2025-03-13T17:37:18.432Z,36.04439163,-97.82817841,3.588927031,0.76,ml,15,79.34281921,0.1387449503,0.345491623,ok,ok2025fbbp,2025-03-13T18:01:13.730Z,"9 km SE of Hennessey, Oklahoma",earthquake,2.681002439,2.402056522,0.2,12,reviewed,ok,ok
-2025-03-13T17:34:37.230Z,37.966999053955,-122.01533508301,12.609999656677,2.4,md,49,111,0.05981,0.12,nc,nc75148181,2025-03-13T19:32:59.636Z,"0 km SSW of Concord, CA",earthquake,0.23,0.409999996,0.11,48,automatic,nc,nc
+2025-03-13T17:34:37.230Z,37.966999053955,-122.01533508301,12.609999656677,2.4,md,49,111,0.05981,0.12,nc,nc75148181,2025-03-13T19:47:19.880Z,"0 km SSW of Concord, CA",earthquake,0.23,0.409999996,0.11,48,automatic,nc,nc
 2025-03-13T17:32:35.540Z,38.835166931152,-122.8184967041,1.7799999713898,1.07,md,21,65,0.01347,0.01,nc,nc75148176,2025-03-13T19:32:18.776Z,"8 km NNW of The Geysers, CA",earthquake,0.2,0.5,0.16,21,automatic,nc,nc
 2025-03-13T17:12:27.204Z,36.04972458,-97.83158875,3.384840012,1.41,ml,52,31.83722997,0.1376418769,0.309758492,ok,ok2025fbau,2025-03-13T17:49:15.221Z,"8 km SE of Hennessey, Oklahoma",earthquake,1.451664588,1.378516089,0.2,40,reviewed,ok,ok
 2025-03-13T17:12:02.604Z,58.3628,-153.5641,62.7,1.5,ml,,,,0.21,ak,ak0253bcvxms,2025-03-13T17:14:16.242Z,"51 km NW of Aleneva, Alaska",earthquake,,2.3,,,automatic,ak,ak
@@ -203,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T21:43:13.330Z,33.489,-116.4921667,12.66,0.95,ml,35,37,0.09213,0.18,ci,ci41078560,2025-03-13T14:25:04.795Z,"18 km ESE of Anza, CA",earthquake,0.22,0.54,0.121,23,reviewed,ci,ci
 2025-03-12T21:30:02.369Z,32.235,-101.916,5.7373,1,ml,9,78,0,0.1,tx,tx2025eznu,2025-03-13T19:05:43.157Z,"16 km NW of Stanton, Texas",earthquake,1.234367006333,1.1928081000817,0.2,7,reviewed,tx,tx
 2025-03-12T21:11:41.990Z,33.5068333,-116.4553333,4.57,1.14,ml,52,28,0.1046,0.2,ci,ci41078528,2025-03-13T14:26:05.690Z,"21 km ESE of Anza, CA",earthquake,0.16,0.49,0.185,28,reviewed,ci,ci
-2025-03-12T21:06:53.690Z,34.0336667,-116.9998333,13.31,1.38,ml,44,69,0.07992,0.16,ci,ci41078520,2025-03-12T21:17:15.000Z,"4 km E of Yucaipa, CA",earthquake,0.17,0.45,0.256,28,automatic,ci,ci
+2025-03-12T21:06:53.640Z,34.0355,-117.0016667,14.2,1.31,ml,40,89,0.0796,0.18,ci,ci41078520,2025-03-13T19:56:00.465Z,"4 km E of Yucaipa, CA",earthquake,0.2,0.43,0.151,16,reviewed,ci,ci
 2025-03-12T21:05:15.780Z,61.310833333333,-152.22516666667,0.42,-0.63,ml,6,170,0.05673,0.06,av,av93529811,2025-03-13T04:11:22.010Z,"64 km WNW of Beluga, Alaska",earthquake,0.27,1.5,0.16989994531669,6,reviewed,av,av
 2025-03-12T21:00:01.410Z,17.958,-66.8075,16.17,2.12,md,15,169,0.05963,0.21,pr,pr71475523,2025-03-12T21:40:59.840Z,"4 km SSE of Indios, Puerto Rico",earthquake,0.63,0.55,0.046046959296944,3,reviewed,pr,pr
 2025-03-12T20:53:28.570Z,38.765335083008,-122.74283599853,2.0499999523163,1.93,md,15,83,0.01266,0.03,nc,nc75147791,2025-03-12T23:37:18.829Z,"2 km SSE of The Geysers, CA",earthquake,0.3,0.610000014,0.21,19,automatic,nc,nc
@@ -221,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-12T20:06:44.060Z,46.21,-122.18966666667,4.21,0.1,md,5,208,0.01022,0.11,uw,uw62080706,2025-03-12T20:53:45.000Z,"38 km NNE of Amboy, Washington",earthquake,1.44,0.93,0.5029221961724,5,reviewed,uw,uw
 2025-03-12T19:56:29.095Z,31.649,-104.484,6.5613,2.4,ml,22,67,0,0.1,tx,tx2025ezkr,2025-03-13T03:17:37.172Z,"59 km S of Whites City, New Mexico",earthquake,1.0825880964847,0.52785581136791,0.2,23,reviewed,tx,tx
 2025-03-12T19:56:13.699Z,34.91266667,-98.83133333,0,1.47,ml,16,105,0.1790648614,0.42,ok,ok2025ezkr,2025-03-13T12:31:46.319Z,"5 km NNE of Cooperton, Oklahoma",quarry blast,,1,0.22,8,reviewed,ok,ok
-2025-03-12T19:53:14.630Z,61.356833333333,-152.29166666667,1.8,-0.11,ml,10,143,0.1055,0.16,av,av93529751,2025-03-13T03:53:21.900Z,"69 km WNW of Beluga, Alaska",earthquake,0.54,1.32,0.14504467759304,10,reviewed,av,av
