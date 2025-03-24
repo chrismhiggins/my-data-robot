@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-03-24T21:41:58.640Z,63.292,-150.4436,30.2,1.6,ml,,,,1.58,ak,ak0253tmcti3,2025-03-24T21:44:20.121Z,"69 km ESE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-03-24T21:41:30.496Z,61.6562,-147.9796,16.2,0.9,ml,,,,1.12,ak,ak0253tmcreh,2025-03-24T21:43:25.040Z,"24 km SW of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-03-24T21:28:48.520Z,18.958999633789,-155.4306640625,31.170000076294,2.11,ml,38,234,0.1976,0.180000007,hv,hv74640592,2025-03-24T21:32:09.590Z,"19 km SE of Naalehu, Hawaii",earthquake,0.72,1.16999996,1.28,3,automatic,hv,hv
 2025-03-24T21:26:40.680Z,33.8726667,-116.8313333,13.79,0.9,ml,26,50,0.04815,0.2,ci,ci40909071,2025-03-24T21:32:04.008Z,"6 km SW of Cabazon, CA",earthquake,0.31,0.67,0.219,23,automatic,ci,ci
 2025-03-24T21:14:09.867Z,39.162,-119.0396,6.1,1.9,ml,20,58.32,0.007,0.1613,nn,nn00895051,2025-03-24T21:16:26.505Z,"22 km NNE of Yerington, Nevada",earthquake,,0.4,0.31,9,automatic,nn,nn
-2025-03-24T21:11:07.700Z,38.798500061035,-122.74966430664,1.5099999904633,1.32,md,10,98,0.008133,0.01,nc,nc75154652,2025-03-24T21:12:45.127Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.660000026,0.2,12,automatic,nc,nc
+2025-03-24T21:11:07.700Z,38.798500061035,-122.74966430664,1.5099999904633,1.32,md,10,98,0.008133,0.01,nc,nc75154652,2025-03-24T21:37:17.568Z,"2 km NNE of The Geysers, CA",earthquake,0.29,0.660000026,0.2,12,automatic,nc,nc
 2025-03-24T21:05:30.120Z,38.787998199463,-122.74600219727,1.4500000476837,1.09,md,15,84,0.00867,0.02,nc,nc75154642,2025-03-24T21:27:19.494Z,"1 km NE of The Geysers, CA",earthquake,0.26,0.469999999,0.18,15,automatic,nc,nc
 2025-03-24T20:52:20.452Z,59.8269,-151.5663,65.1,1.6,ml,,,,0.36,ak,ak0253tltnwd,2025-03-24T20:54:09.197Z,"2 km NE of Nikolaevsk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-03-24T20:38:16.190Z,33.7858333,-116.0783333,2.1,1.08,ml,36,47,0.1197,0.15,ci,ci40909031,2025-03-24T20:43:01.473Z,"15 km ENE of Indio, CA",earthquake,0.15,0.29,0.165,27,automatic,ci,ci
@@ -23,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-24T18:48:02.379Z,60.9325,-152.2934,85.2,1.4,ml,,,,0.44,ak,ak0253tklwfh,2025-03-24T19:14:24.771Z,"60 km WNW of Nikiski, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2025-03-24T18:40:45.400Z,38.823501586914,-122.79383087158,3.2799999713898,0.78,md,7,124,0.01269,0.01,nc,nc75154572,2025-03-24T19:17:20.597Z,"6 km NNW of The Geysers, CA",earthquake,1.61,3.02999997,0.1,9,automatic,nc,nc
 2025-03-24T18:38:27.664Z,61.139,-151.6623,70.3,0.5,ml,,,,0.33,ak,ak0253tkjt7y,2025-03-24T19:14:22.809Z,"29 km WNW of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2025-03-24T18:32:59.010Z,42.407333333333,-111.78633333333,3.11,1.19,md,9,252,0.2905,0.15,uu,uu80104381,2025-03-24T21:43:02.860Z,"19 km SSW of Grace, Idaho",earthquake,1.55,2.19,0.040826201485689,7,reviewed,uu,uu
 2025-03-24T18:23:19.130Z,36.0895,-117.8613333,1.38,1.61,ml,23,97,0.02851,0.14,ci,ci40908863,2025-03-24T19:48:50.392Z,"9 km ENE of Coso Junction, CA",earthquake,0.17,0.18,0.207,18,reviewed,ci,ci
 2025-03-24T18:16:00.800Z,33.307,-116.2601667,6.89,1.05,ml,57,23,0.06901,0.19,ci,ci40908855,2025-03-24T20:39:10.656Z,"12 km ENE of Borrego Springs, CA",earthquake,0.16,0.5,0.173,27,reviewed,ci,ci
 2025-03-24T18:08:31.647Z,37.2842,-117.0279,2,1.2,ml,18,179.38,0.186,0.2758,nn,nn00895043,2025-03-24T18:10:54.455Z,"48 km NNW of Beatty, Nevada",earthquake,,6,0.23,11,automatic,nn,nn
@@ -237,5 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-03-23T21:51:32.560Z,33.7885,-116.0791667,2.27,0.95,ml,32,38,0.1188,0.17,ci,ci40908239,2025-03-23T21:55:41.465Z,"15 km ENE of Indio, CA",earthquake,0.17,0.3,0.171,23,automatic,ci,ci
 2025-03-23T21:49:26.170Z,46.860833333333,-121.96533333333,12.34,0.41,ml,19,88,0.02221,0.1,uw,uw62076712,2025-03-23T22:30:37.210Z,"12 km NNE of Ashford, Washington",earthquake,0.3,0.48,0.027408258032604,5,reviewed,uw,uw
 2025-03-23T21:48:17.580Z,33.3071667,-116.2631667,6.89,0.85,ml,40,28,0.0674,0.23,ci,ci40908231,2025-03-23T21:52:53.627Z,"12 km ENE of Borrego Springs, CA",earthquake,0.23,0.67,0.108,19,automatic,ci,ci
-2025-03-23T21:35:53.210Z,33.789,-116.0773333,2.08,1.06,ml,36,47,0.1203,0.2,ci,ci40908215,2025-03-23T21:39:45.275Z,"15 km ENE of Indio, CA",earthquake,0.19,0.31,0.168,28,automatic,ci,ci
-2025-03-23T21:35:50.465Z,61.8308,-146.7602,30.7,1.6,ml,,,,0.84,ak,ak0253rys65i,2025-03-23T21:38:07.612Z,"17 km S of Nelchina, Alaska",earthquake,,0.2,,,automatic,ak,ak
