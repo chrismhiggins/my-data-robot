@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-21T08:14:09.380Z,38.823165893555,-122.85516357422,2.4900000095367,1.1,md,23,87,0.004572,0.02,nc,nc75184401,2025-05-21T08:15:47.044Z,"10 km NW of The Geysers, CA",earthquake,0.25,0.439999998,0.16,24,automatic,nc,nc
+2025-05-21T08:13:30.830Z,38.822166442871,-122.85399627685,2.5499999523163,1.79,md,32,60,0.005822,0.02,nc,nc75184396,2025-05-21T08:16:53.570Z,"10 km NW of The Geysers, CA",earthquake,0.2,0.340000004,0.12,31,automatic,nc,nc
+2025-05-21T08:06:31.333Z,60.1757,-151.8674,58.1,1.4,ml,,,,0.32,ak,ak0256hbkr6l,2025-05-21T08:08:04.207Z,"17 km NW of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2025-05-21T08:05:20.410Z,33.0988333,-116.5243333,6.13,0.98,ml,54,33,0.06399,0.19,ci,ci40971847,2025-05-21T08:16:34.110Z,"8 km ENE of Julian, CA",earthquake,0.17,0.45,0.175,27,automatic,ci,ci
 2025-05-21T06:55:34.508Z,60.7094,-151.9806,83.9,1.1,ml,,,,0.2,ak,ak0256haoeay,2025-05-21T06:57:56.965Z,"37 km WNW of Salamatof, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-05-21T06:48:52.630Z,33.9968333,-116.9948333,16.73,1.55,ml,80,27,0.07618,0.18,ci,ci40971831,2025-05-21T06:59:18.050Z,"5 km E of Calimesa, CA",earthquake,0.13,0.39,0.192,27,automatic,ci,ci
 2025-05-21T06:43:15.700Z,34.914,-119.6058333,9.16,1.57,ml,41,34,0.06287,0.24,ci,ci40971823,2025-05-21T06:46:50.161Z,"25 km SW of Maricopa, CA",earthquake,0.28,0.66,0.128,28,automatic,ci,ci
@@ -84,7 +88,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T19:48:45.860Z,18.7913,-68.6901,24,3.64,md,17,144,0.415,0.78,pr,pr2025140000,2025-05-20T20:20:20.627Z,"15 km N of Otra Banda, Dominican Republic",earthquake,2.47,10.6,0.13,14,reviewed,pr,pr
 2025-05-20T19:41:30.658Z,61.4139,-150.0987,40.2,1,ml,,,,0.47,ak,ak0256fusocp,2025-05-20T19:43:15.387Z,"8 km NW of Point MacKenzie, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-05-20T19:38:27.300Z,43.4305,-123.805,-0.36,1.47,md,7,127,0.1272,0.25,uw,uw62113346,2025-05-21T00:17:11.970Z,"29 km SW of Elkton, Oregon",explosion,0.84,31.61,0.31103210906817,6,reviewed,uw,uw
-2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-21T02:06:04.742Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
+2025-05-20T19:37:37.030Z,19.081166666667,-155.3615,32.44,4.18,ml,62,200,0.1204,0.11,hv,hv74676927,2025-05-21T08:13:45.123Z,"18 km SE of Pāhala, Hawaii",earthquake,0.35,0.52,0.14521086639801,48,reviewed,hv,hv
 2025-05-20T19:36:31.207Z,59.9965,-150.9381,60.1,1.6,ml,,,,0.37,ak,ak0256furltc,2025-05-20T19:38:04.596Z,"15 km N of Fox River, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2025-05-20T19:28:23.533Z,31.717,-104.295,4.5591,1.6,ml,31,62,0.1,0.4,tx,tx2025jvmd,2025-05-20T19:31:04.685Z,"51 km S of Whites City, New Mexico",earthquake,0,0.94221615791321,0.2,25,automatic,tx,tx
 2025-05-20T19:24:23.610Z,38.813999176025,-122.82766723633,2.6900000572205,1.06,md,20,62,0.005258,0.02,nc,nc75184176,2025-05-20T19:57:16.977Z,"7 km NW of The Geysers, CA",earthquake,0.25,0.550000012,0.21,21,automatic,nc,nc
@@ -197,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-20T08:32:31.400Z,33.5138333,-116.56,12.95,0.57,ml,28,48,0.04009,0.13,ci,ci41157024,2025-05-20T13:12:38.302Z,"12 km ESE of Anza, CA",earthquake,0.16,0.34,0.13,18,reviewed,ci,ci
 2025-05-20T08:31:35.150Z,34.2276667,-116.8481667,11.6,0.86,ml,37,50,0.06935,0.14,ci,ci41157016,2025-05-20T13:12:40.984Z,"4 km S of Big Bear City, CA",earthquake,0.19,0.43,0.147,18,reviewed,ci,ci
 2025-05-20T08:29:33.150Z,34.0481667,-117.2591667,13.81,0.92,ml,48,72,0.09381,0.18,ci,ci41157008,2025-05-20T13:12:48.031Z,"0 km E of Loma Linda, CA",earthquake,0.19,0.45,0.287,24,reviewed,ci,ci
-2025-05-20T08:00:18.220Z,34.0055,-117.2186667,15.12,0.66,ml,36,61,0.09579,0.16,ci,ci41157000,2025-05-20T13:12:48.284Z,"6 km SE of Loma Linda, CA",earthquake,0.2,0.42,0.192,18,reviewed,ci,ci
-2025-05-20T07:56:07.670Z,17.975333333333,-66.844166666667,13.9,2.33,md,9,195,0.02317,0.08,pr,pr71482928,2025-05-20T08:06:25.840Z,"3 km SW of Indios, Puerto Rico",earthquake,0.78,0.28,0.080207390254341,4,reviewed,pr,pr
