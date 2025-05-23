@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-05-23T09:23:31.660Z,38.834999084473,-122.79866790772,1.710000038147,1.07,md,17,59,0.007339,0.01,nc,nc75185361,2025-05-23T09:25:08.415Z,"7 km WNW of Cobb, CA",earthquake,0.23,0.620000005,0.29,19,automatic,nc,nc
 2025-05-23T09:02:47.520Z,18.003333333333,-66.3495,13.24,2.24,md,16,137,0.1123,0.29,pr,pr71483408,2025-05-23T09:13:37.860Z,"1 km WNW of Parcelas Peñuelas, Puerto Rico",earthquake,0.62,0.61,0.18916801085702,13,reviewed,pr,pr
 2025-05-23T08:58:41.700Z,38.831665039062,-122.79900360107,1.9900000095367,0.76,md,11,54,0.009544,0.02,nc,nc75185351,2025-05-23T09:00:18.135Z,"7 km WNW of Cobb, CA",earthquake,0.33,1.22000003,0.18,13,automatic,nc,nc
 2025-05-23T08:55:09.670Z,38.835998535156,-122.79933166504,1.2999999523163,0.7,md,7,103,0.00742,0.01,nc,nc75185341,2025-05-23T08:56:43.497Z,"7 km WNW of Cobb, CA",earthquake,0.52,1.51999998,0.09,11,automatic,nc,nc
@@ -193,6 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-05-22T10:00:17.948Z,61.0805,-151.0135,57.9,1.4,ml,,,,0.59,ak,ak0256j09nk2,2025-05-22T10:03:24.391Z,"6 km ENE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2025-05-22T09:57:13.960Z,61.2782,-141.1322,0,1.4,ml,,,,0.74,ak,ak0256j00fgk,2025-05-22T09:59:48.194Z,"97 km E of McCarthy, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-05-22T09:52:20.620Z,40.350166666667,-124.85216666667,16.74,2.69,md,74,245,0.4051,0.24,nc,nc75184871,2025-05-23T02:12:18.623Z,"48 km WNW of Petrolia, CA",earthquake,0.6,1.15,0.292,43,reviewed,nc,nc
-2025-05-22T09:26:52.760Z,38.849,-122.81766666667,1.62,0.34,md,15,64,0.007185,0.03,nc,nc75184866,2025-05-23T08:58:40.552Z,"9 km WNW of Cobb, CA",earthquake,0.21,0.52,0.125,15,reviewed,nc,nc
-2025-05-22T09:25:51.858Z,-8.5664,118.3226,134.33,4.6,mb,42,49,0.599,1.36,us,us7000q0sf,2025-05-22T11:30:53.040Z,"15 km WSW of Dompu, Indonesia",earthquake,7.28,6.464,0.125,22,reviewed,us,us
-2025-05-22T09:25:12.432Z,64.6066,-147.0258,24.9,0.7,ml,,,,0.76,ak,ak0256iztkf8,2025-05-22T09:27:57.408Z,"6 km SSE of Eielson Air Force Base, Alaska",earthquake,,0.4,,,automatic,ak,ak
