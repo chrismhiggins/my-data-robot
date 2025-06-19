@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-19T10:44:58.550Z,63.0701,-150.7524,118.2,1.8,ml,,,,0.28,ak,ak0257tbkw0v,2025-06-19T10:46:56.358Z,"63 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2025-06-19T10:42:15.400Z,38.816665649414,-122.82733154297,2.2999999523163,0.8,md,7,105,0.007919,0.02,nc,nc75197601,2025-06-19T10:43:50.525Z,"8 km NW of The Geysers, CA",earthquake,0.62,1.42999995,0.05,7,automatic,nc,nc
 2025-06-19T10:39:43.925Z,63.0827,-150.4097,90.7,1,ml,,,,0.32,ak,ak0257tbjsbc,2025-06-19T10:41:48.572Z,"67 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2025-06-19T10:39:02.320Z,38.817001342773,-122.82416534424,2.210000038147,0.75,md,10,101,0.009016,0.02,nc,nc75197591,2025-06-19T10:40:40.508Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.769999981,0.33,12,automatic,nc,nc
+2025-06-19T10:39:02.320Z,38.817001342773,-122.82416534424,2.210000038147,0.75,md,10,101,0.009016,0.02,nc,nc75197591,2025-06-19T10:57:19.039Z,"7 km NW of The Geysers, CA",earthquake,0.38,0.769999981,0.33,12,automatic,nc,nc
 2025-06-19T10:36:45.939Z,61.5582,-148.0376,6.8,1.7,ml,,,,0.97,ak,ak0257tbj5bl,2025-06-19T10:38:25.435Z,"34 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-06-19T10:25:48.646Z,68.6823,-147.6252,0,1.8,ml,,,,0.78,ak,ak0257tbgsnk,2025-06-19T10:27:56.385Z,"105 km NW of Arctic Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-06-19T10:14:24.630Z,35.36,-117.8096667,6.49,0.93,ml,30,65,0.09699,0.16,ci,ci40998583,2025-06-19T10:18:06.279Z,"16 km W of Johannesburg, CA",earthquake,0.2,0.6,0.184,14,automatic,ci,ci
