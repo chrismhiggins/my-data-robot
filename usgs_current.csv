@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-06-20T11:53:29.790Z,37.144500732422,-121.52833557129,8.7700004577637,1.35,md,11,86,0.06983,0.11,nc,nc75198051,2025-06-20T11:55:08.100Z,"10 km ENE of San Martin, CA",earthquake,0.68,1.69000006,0.2,7,automatic,nc,nc
 2025-06-20T11:41:41.800Z,35.5338333,-117.4531667,10.55,0.92,ml,29,93,0.07284,0.15,ci,ci40999559,2025-06-20T11:45:06.553Z,"22 km ESE of Ridgecrest, CA",earthquake,0.16,0.34,0.109,15,automatic,ci,ci
 2025-06-20T11:36:42.497Z,60.9853,-152.3651,120.8,1.7,ml,,,,0.51,ak,ak0257uznx5l,2025-06-20T11:39:27.271Z,"67 km W of Tyonek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-06-20T11:32:59.359Z,61.5835,-149.8213,30.1,1.5,ml,,,,0.66,ak,ak0257uzn3lb,2025-06-20T11:35:14.403Z,"5 km S of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
