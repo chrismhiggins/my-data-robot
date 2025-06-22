@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-22T05:18:40.160Z,33.5021667,-116.786,6.64,0.35,ml,18,46,0.01874,0.1,ci,ci41000823,2025-06-22T05:22:18.314Z,"10 km NE of Aguanga, CA",earthquake,0.18,0.33,0.072,11,automatic,ci,ci
 2025-06-22T05:15:56.846Z,30.502,-103.716,5,1.5,ml,8,205,0.1,0.6,tx,tx2025medjqo,2025-06-22T05:18:27.288Z,"16 km NNW of Alpine, Texas",earthquake,0,,0.2,6,automatic,tx,tx
 2025-06-22T04:53:37.746Z,27.8793,56.7019,10,4.4,mb,49,78,2.956,0.57,us,us6000qlqm,2025-06-22T10:31:11.429Z,"87 km NNE of Bandar Abbas, Iran",earthquake,9.93,1.893,0.084,41,reviewed,us,us
-2025-06-22T04:51:38.120Z,37.181667327881,-121.577003479,2.4000000953674,2.49,md,60,39,0.04348,0.08,nc,nc75198786,2025-06-22T07:32:13.418Z,"9 km ENE of Morgan Hill, CA",earthquake,0.15,0.439999998,0.1,70,automatic,nc,nc
+2025-06-22T04:51:38.120Z,37.181667327881,-121.577003479,2.4000000953674,2.49,md,60,39,0.04348,0.08,nc,nc75198786,2025-06-22T14:38:19.158Z,"9 km ENE of Morgan Hill, CA",earthquake,0.15,0.439999998,0.1,70,automatic,nc,nc
 2025-06-22T04:43:03.530Z,34.1141667,-116.863,1.19,1.46,ml,64,32,0.06387,0.17,ci,ci41000815,2025-06-22T13:37:12.350Z,"15 km SSE of Big Bear Lake, CA",earthquake,0.16,0.29,0.153,25,reviewed,ci,ci
 2025-06-22T04:39:15.747Z,32.198,-102.298,5,1.2,ml,6,212,0.1,0.7,tx,tx2025meceaq,2025-06-22T04:42:43.896Z,"21 km NNE of Gardendale, Texas",earthquake,0,,0.7,5,automatic,tx,tx
 2025-06-22T04:33:39.370Z,33.9868333,-116.9968333,14.91,2.39,ml,126,20,0.06666,0.18,ci,ci41000807,2025-06-22T04:44:39.910Z,"5 km E of Calimesa, CA",earthquake,0.1,0.2,0.166,24,automatic,ci,ci
@@ -214,5 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-06-21T15:05:23.129Z,42.772,146.7411,26.168,4.9,mb,46,126,2.76,1.08,us,us6000qlmq,2025-06-21T15:33:10.040Z,"113 km ESE of Nemuro, Japan",earthquake,9.32,6.001,0.035,263,reviewed,us,us
 2025-06-21T15:04:21.980Z,35.9116667,-117.4683333,0.69,1.42,ml,24,70,0.147,0.17,ci,ci41000567,2025-06-21T15:07:48.087Z,"17 km NNW of Searles Valley, CA",earthquake,0.21,0.45,0.118,27,automatic,ci,ci
 2025-06-21T14:56:54.939Z,38.0214,20.2244,53.184,4.2,mb,20,124,1.591,0.98,us,us6000qlmp,2025-06-21T15:51:45.040Z,"27 km SW of Lixoúri, Greece",earthquake,2.82,12.614,0.2,9,reviewed,us,us
-2025-06-21T14:48:08.130Z,38.81266784668,-122.82649993897,2.1199998855591,1.08,md,20,57,0.004333,0.02,nc,nc75198536,2025-06-21T16:07:16.137Z,"7 km NW of The Geysers, CA",earthquake,0.22,0.460000008,0.26,20,automatic,nc,nc
-2025-06-21T14:45:33.730Z,44.519166666667,-115.20733333333,9,2.11,ml,15,67,0.2581,0.15,mb,mb90098258,2025-06-22T14:09:43.310Z,"39 km NNW of Stanley, Idaho",earthquake,0.42,0.99,0.1815733164358,31,reviewed,mb,mb
