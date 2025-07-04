@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-07-04T05:38:59.430Z,33.5886667,-116.7551667,11.91,0.43,ml,25,39,0.02759,0.14,ci,ci41013951,2025-07-04T05:42:31.529Z,"8 km WNW of Anza, CA",earthquake,0.24,0.46,0.125,11,automatic,ci,ci
+2025-07-04T05:33:51.772Z,6.102,95.1074,10,5.2,mww,80,43,2.026,1.1,us,us7000qal5,2025-07-04T05:51:27.040Z,"32 km NW of Sabang, Indonesia",earthquake,7.96,1.841,0.11,8,reviewed,us,us
 2025-07-04T05:19:05.013Z,61.3042,-152.5113,1.7,2.2,ml,,,,0.79,ak,ak0258i1igdh,2025-07-04T05:20:58.546Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-04T05:18:49.497Z,60.6694,-152.8833,126.4,1.8,ml,,,,0.66,ak,ak0258i1ic39,2025-07-04T05:22:24.674Z,"85 km W of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-07-04T05:18:23.512Z,37.5161,-117.6677,5.5,1.7,ml,25,175.56,0.284,0.2881,nn,nn00900098,2025-07-04T05:21:07.401Z,"26 km S of Silver Peak, Nevada",earthquake,,0.8,0.32,18,automatic,nn,nn
@@ -239,4 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-03T06:12:08.501Z,37.3186,-117.9153,7.5,1.1,ml,14,97.36,0.067,0.1735,nn,nn00900040,2025-07-03T16:18:26.624Z,"37 km ENE of Big Pine, California",earthquake,,1.4,0.15,2,reviewed,nn,nn
 2025-07-03T06:11:48.179Z,29.3563,129.4598,10,5,mb,43,108,2.311,1.02,us,us7000qadd,2025-07-03T06:43:07.040Z,"101 km N of Tatsugō, Japan",earthquake,7.13,1.887,0.053,112,reviewed,us,us
 2025-07-03T06:10:39.980Z,51.9075,-177.27666666667,14.15,0.29,ml,4,284,0.05152,0.09,av,av93655821,2025-07-03T20:24:25.120Z,"44 km W of Adak, Alaska",earthquake,2.52,1.85,0.25729591590863,5,reviewed,av,av
-2025-07-03T05:58:01.000Z,38.795333862305,-122.81216430664,3.0899999141693,0.75,md,14,92,0.009974,0.02,nc,nc75203881,2025-07-03T05:59:37.399Z,"5 km NW of The Geysers, CA",earthquake,0.38,0.879999995,0.03,14,automatic,nc,nc
