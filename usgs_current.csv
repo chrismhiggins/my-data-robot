@@ -1,10 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-07-21T07:49:43.723Z,61.3412,-152.343,4.1,1.3,ml,,,,0.68,ak,ak0259a70qg4,2025-07-21T07:51:36.602Z,"71 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-07-21T07:40:59.340Z,35.705,-117.5105,4.33,0.58,ml,19,69,0.08109,0.15,ci,ci41027303,2025-07-21T07:44:31.280Z,"12 km SW of Searles Valley, CA",earthquake,0.36,0.7,0.17,10,automatic,ci,ci
+2025-07-21T07:40:07.093Z,63.4859,-149.306,87.8,1,ml,,,,0.58,ak,ak0259a6yq6d,2025-07-21T07:43:00.924Z,"20 km WNW of Cantwell, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2025-07-21T07:28:11.160Z,36.0126667,-117.7983333,1.66,0.89,ml,20,55,0.02959,0.11,ci,ci41027295,2025-07-21T07:31:42.015Z,"13 km NE of Little Lake, CA",earthquake,0.12,0.15,0.135,18,automatic,ci,ci
 2025-07-21T07:20:04.740Z,38.793167114258,-122.78666687012,5.0900001525879,0.45,md,7,124,0.0009778,0.05,nc,nc75212802,2025-07-21T07:21:40.131Z,"3 km NW of The Geysers, CA",earthquake,0.96,2.45000005,0.23,8,automatic,nc,nc
 2025-07-21T07:16:23.920Z,19.335166931152,-155.10749816894,4.9800000190735,2,ml,47,134,0.05225,0.25,hv,hv74730832,2025-07-21T07:19:40.700Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.48,0.680000007,1.14,5,automatic,hv,hv
 2025-07-21T07:13:23.048Z,38.7195,-117.9367,3.3,1.3,ml,8,95.79,0.227,0.3639,nn,nn00900970,2025-07-21T07:16:02.641Z,"16 km S of Gabbs, Nevada",earthquake,,8.7,0.53,5,automatic,nn,nn
-2025-07-21T07:11:03.600Z,38.793834686279,-122.75299835205,1.3700000047684,1.12,md,19,88,0.008573,0.02,nc,nc75212792,2025-07-21T07:27:19.723Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.419999987,0.14,19,automatic,nc,nc
+2025-07-21T07:11:03.600Z,38.793834686279,-122.75299835205,1.3700000047684,1.12,md,19,88,0.008573,0.02,nc,nc75212792,2025-07-21T07:42:20.835Z,"2 km NNE of The Geysers, CA",earthquake,0.24,0.419999987,0.14,19,automatic,nc,nc
 2025-07-21T07:08:12.861Z,52.2478,160.9085,10,5,mb,80,126,1.58,0.71,us,us7000qe7h,2025-07-21T07:27:34.040Z,"179 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.98,1.899,0.036,252,reviewed,us,us
+2025-07-21T07:05:13.150Z,19.4078,-65.2633,111,3.71,md,15,273,1.0965,0.55,pr,pr2025202000,2025-07-21T07:39:19.909Z,"122 km N of Culebra, Puerto Rico",earthquake,6.37,7.91,0.13,9,reviewed,pr,pr
 2025-07-21T06:40:54.710Z,33.3311667,-116.6816667,12.11,1.33,ml,71,19,0.1026,0.18,ci,ci41027287,2025-07-21T06:51:43.150Z,"7 km NW of Warner Springs, CA",earthquake,0.13,0.44,0.171,26,automatic,ci,ci
 2025-07-21T06:12:57.570Z,36.0791667,-117.619,1.59,1.07,ml,25,75,0.1074,0.15,ci,ci41027271,2025-07-21T06:16:26.499Z,"30 km E of Coso Junction, CA",earthquake,0.2,0.3,0.21,17,automatic,ci,ci
 2025-07-21T06:08:16.330Z,35.948,-117.6663333,3.42,0.26,ml,13,67,0.01295,0.08,ci,ci41027263,2025-07-21T06:11:37.459Z,"22 km E of Little Lake, CA",earthquake,0.17,0.26,0.1,7,automatic,ci,ci
@@ -279,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-20T08:01:31.017Z,52.6401,160.7619,10,4.7,mb,64,120,1.338,1.01,us,us7000qdzk,2025-07-20T08:31:20.040Z,"151 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,8.73,1.818,0.07,63,reviewed,us,us
 2025-07-20T07:57:00.145Z,52.9424,160.8629,10,4.7,mb,24,154,1.34,0.91,us,us7000qdzw,2025-07-20T09:05:51.040Z,"150 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,11.58,1.986,0.115,23,reviewed,us,us
 2025-07-20T07:53:24.205Z,52.8821,160.8806,10,5,mb,75,119,1.357,0.75,us,us7000qdzg,2025-07-20T08:26:34.040Z,"152 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,9.82,1.902,0.065,74,reviewed,us,us
-2025-07-20T07:42:13.147Z,52.7938,160.723,10,4.6,mb,70,150,1.276,0.62,us,us7000qdzd,2025-07-20T08:05:09.040Z,"144 km ESE of Petropavlovsk-Kamchatsky, Russia",earthquake,9.66,1.915,0.063,74,reviewed,us,us
-2025-07-20T07:36:27.892Z,53.0125,160.7725,10,4.8,mb,37,113,1.282,0.76,us,us7000qdzc,2025-07-20T07:54:17.040Z,"143 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,7.23,1.742,0.103,29,reviewed,us,us
