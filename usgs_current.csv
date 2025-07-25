@@ -62,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-25T00:57:24.846Z,61.0357,-147.4666,0,1.7,ml,,,,0.9,ak,ak0259gp1rgk,2025-07-25T00:59:23.828Z,"46 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-07-25T00:54:29.039Z,35.79616667,-96.65483333,7.57,2.25,ml,95,41,0,0.17,ok,ok2025okpy,2025-07-25T02:47:59.040Z,"5 km N of Stroud, Oklahoma",earthquake,,0.4,0.26,39,reviewed,ok,ok
 2025-07-25T00:34:32.429Z,63.0013,-149.3072,75.4,1,ml,,,,0.75,ak,ak0259gowukq,2025-07-25T00:36:38.402Z,"47 km SSW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
-2025-07-25T00:34:31.431Z,31.522,-104.009,5.8205,2,mlv,41,61,0,0.3,tx,tx2025omiwyu,2025-07-25T05:11:59.301Z,"30 km NW of Toyah, Texas",earthquake,0,1.8440458774567,0.2,31,automatic,tx,tx
+2025-07-25T00:34:31.744Z,31.531,-104.006,7.215,2.1,ml,41,56,0,0.1,tx,tx2025omiwyu,2025-07-25T07:39:52.632Z,"31 km NW of Toyah, Texas",earthquake,0.53931313673068,0.46556767500875,0.1,21,reviewed,tx,tx
 2025-07-25T00:26:11.430Z,33.5318333,-116.7321667,2.72,0.65,ml,20,63,0.03375,0.17,ci,ci41031599,2025-07-25T00:29:57.927Z,"6 km WSW of Anza, CA",earthquake,0.21,0.27,0.178,16,automatic,ci,ci
 2025-07-25T00:22:57.114Z,52.9673,161.1307,10,4.7,mb,63,86,1.5,0.74,us,us6000quyd,2025-07-25T01:08:29.040Z,"168 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.21,1.867,0.044,160,reviewed,us,us
 2025-07-25T00:20:58.209Z,53.0382,161.1806,10,4.4,mb,50,169,1.528,0.73,us,us6000quye,2025-07-25T02:26:42.040Z,"171 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.76,1.938,0.07,59,reviewed,us,us
@@ -182,7 +182,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-07-24T13:47:26.650Z,34.2003333,-117.6756667,5.91,0.5,ml,11,68,0.01825,0.12,ci,ci41030791,2025-07-24T14:50:47.401Z,"12 km NNW of Upland, CA",earthquake,0.28,0.44,0.23,10,reviewed,ci,ci
 2025-07-24T13:43:52.066Z,54.4772,-159.7587,10,4.4,mb,30,152,2.476,0.7,us,us6000qull,2025-07-24T14:35:16.763Z,"106 km SSE of Sand Point, Alaska",earthquake,7.86,1.951,0.084,42,reviewed,us,us
 2025-07-24T13:29:31.869Z,36.4841,-115.4585,4,1.2,ml,22,124.35,0.19,0.1543,nn,nn00901103,2025-07-25T02:04:41.878Z,"21 km ESE of Indian Springs, Nevada",earthquake,,3.5,0.26,8,reviewed,nn,nn
-2025-07-24T13:23:24.363Z,61.6621,-149.6546,44.3,3.2,ml,,,,0.67,ak,ak0259f91rea,2025-07-25T05:17:25.738Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2025-07-24T13:23:24.363Z,61.6621,-149.6546,44.3,3.2,ml,,,,0.67,ak,ak0259f91rea,2025-07-25T07:49:39.625Z,"5 km NW of Meadow Lakes, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2025-07-24T13:19:13.005Z,61.1088,-152.2061,0,1.1,ml,,,,0.7,ak,ak0259f90vpg,2025-07-25T03:52:52.300Z,"57 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-07-24T13:08:19.521Z,-1.9968,120.6784,34.704,5.6,mww,26,55,0.666,0.97,us,us6000qulk,2025-07-24T14:55:25.851Z,"66 km S of Poso, Indonesia",earthquake,8.22,5.563,0.089,12,reviewed,us,us
 2025-07-24T13:07:45.651Z,58.8651,-151.2746,0,3,ml,,,,0.78,ak,ak0259f8ydn6,2025-07-24T13:34:26.011Z,"62 km SSE of Port Graham, Alaska",earthquake,,0.3,,,automatic,ak,ak
