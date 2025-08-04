@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-04T22:45:32.470Z,33.626,-116.7441667,16.15,1.29,ml,53,25,0.06071,0.19,ci,ci41253072,2025-08-04T22:49:46.327Z,"10 km NW of Anza, CA",earthquake,0.17,0.34,0.261,28,automatic,ci,ci
+2025-08-04T22:45:03.470Z,33.2861667,-116.2555,8.82,1.69,ml,9,130,0.2226,0.25,ci,ci41253064,2025-08-04T22:48:46.463Z,"12 km ENE of Borrego Springs, CA",earthquake,1.98,15.62,0.409,24,automatic,ci,ci
 2025-08-04T22:24:09.330Z,37.383834838867,-121.7363357544,6.8899998664856,1.51,md,18,117,0.08371,0.03,nc,nc75219217,2025-08-04T22:33:27.959Z,"8 km E of Alum Rock, CA",earthquake,0.27,0.970000029,0.17,14,automatic,nc,nc
 2025-08-04T22:06:29.030Z,34.993,-118.1913333,0.15,1.79,ml,23,53,0.1234,0.23,ci,ci41253008,2025-08-04T22:14:00.913Z,"7 km SSW of Mojave, CA",earthquake,0.35,0.81,0.159,30,automatic,ci,ci
 2025-08-04T22:06:00.940Z,37.54016494751,-118.82683563232,3.4400000572205,1.48,md,14,136,0.04981,0.03,nc,nc75219212,2025-08-04T22:07:35.723Z,"13 km W of Toms Place, CA",earthquake,0.58,0.75999999,0.16,13,automatic,nc,nc
@@ -263,4 +265,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-03T23:24:09.920Z,33.228,-116.7435,8.97,1.42,ml,77,21,0.01506,0.2,ci,ci41252280,2025-08-03T23:34:44.120Z,"2 km SE of Lake Henshaw, CA",earthquake,0.14,0.43,0.241,28,automatic,ci,ci
 2025-08-03T23:24:07.100Z,33.5313333,-116.7248333,6.24,0.13,ml,12,140,0.03554,0.07,ci,ci41252272,2025-08-04T14:52:46.419Z,"5 km WSW of Anza, CA",earthquake,0.21,0.36,0.131,6,reviewed,ci,ci
 2025-08-03T23:22:49.920Z,38.813167572021,-122.81266784668,2.789999961853,1.22,md,25,48,0.01041,0.03,nc,nc75218737,2025-08-03T23:24:27.858Z,"6 km NW of The Geysers, CA",earthquake,0.21,0.439999998,0.16,26,automatic,nc,nc
-2025-08-03T22:47:39.459Z,28.829,-98.938,8.4788,1.4,ml,14,88,0.2,0.3,tx,tx2025peosxm,2025-08-04T14:39:36.162Z,"16 km ESE of Pearsall, Texas",earthquake,3.0151918926267,2.3794353690002,0.2,7,reviewed,tx,tx
