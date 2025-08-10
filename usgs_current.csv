@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-10T11:19:17.934Z,51.2567,157.5972,70.918,5.3,mb,123,105,1.856,0.92,us,us6000qzls,2025-08-10T11:39:30.040Z,"80 km ESE of Ozernovskiy, Russia",earthquake,9.05,6.324,0.02,810,reviewed,us,us
 2025-08-10T11:16:07.640Z,33.354,-116.3351667,12.54,0.48,ml,15,157,0.02297,0.13,ci,ci41257832,2025-08-10T11:19:59.296Z,"12 km NNE of Borrego Springs, CA",earthquake,0.61,0.72,0.155,6,automatic,ci,ci
 2025-08-10T11:14:36.367Z,31.557,-104.194,4.1931,1.7,ml,28,98,0.1,0.2,tx,tx2025pqnvvo,2025-08-10T11:18:15.331Z,"46 km NW of Toyah, Texas",earthquake,0,1.2156358957291,0.3,19,automatic,tx,tx
 2025-08-10T11:11:41.890Z,35.6488333,-117.4718333,8.09,0.56,ml,20,75,0.04242,0.14,ci,ci41257824,2025-08-10T11:15:10.000Z,"14 km SSW of Searles Valley, CA",earthquake,0.29,0.66,0.173,7,automatic,ci,ci
@@ -201,8 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-09T11:56:33.780Z,46.511666666667,-120.04133333333,7.63,0.74,ml,7,202,0.137,0.1,uw,uw62168441,2025-08-10T05:42:10.890Z,"20 km N of Outlook, Washington",earthquake,1.4,0.39,0.043281380211023,6,reviewed,uw,uw
 2025-08-09T11:54:54.570Z,37.322498321533,-121.68583679199,7.0199999809265,2.19,md,64,39,0.03943,0.06,nc,nc75221087,2025-08-09T12:22:17.145Z,"13 km ESE of Alum Rock, CA",earthquake,0.12,0.310000002,0.15,61,automatic,nc,nc
 2025-08-09T11:47:02.264Z,62.5629,-151.2418,91.8,1.3,ml,,,,0.43,ak,ak025a5oljma,2025-08-09T11:48:57.844Z,"25 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2025-08-09T11:34:41.450Z,18.0815,-66.851666666667,6.99,1.62,md,8,86,0.0587,0.2,pr,pr71492293,2025-08-09T12:13:44.780Z,"5 km N of Yauco, Puerto Rico",earthquake,0.52,0.58,0.15561259089505,4,reviewed,pr,pr
-2025-08-09T11:34:28.210Z,62.020333333333,-144.15516666667,14.39,-0.01,ml,6,112,0.05447,0.1,av,av93048004,2025-08-09T22:47:13.280Z,"53 km NE of Kenny Lake, Alaska",earthquake,0.82,0.26,0.17592992928574,6,reviewed,av,av
-2025-08-09T11:34:12.670Z,18.041166666667,-66.806,16.54,2.03,md,11,132,0.09053,0.08,pr,pr71492283,2025-08-09T12:00:35.300Z,"2 km NNW of Guayanilla, Puerto Rico",earthquake,0.28,0.73,0.069460154764061,6,reviewed,pr,pr
-2025-08-09T11:33:05.158Z,6.2043,126.6208,95.212,5.1,mww,64,92,1.345,0.64,us,us6000qzgj,2025-08-09T16:44:49.300Z,"52 km ESE of Pondaguitan, Philippines",earthquake,6.83,6.648,0.071,19,reviewed,us,us
-2025-08-09T11:30:52.690Z,17.882166666667,-66.8585,15.16,2.66,md,21,232,0.09022,0.09,pr,pr71492273,2025-08-09T11:53:13.960Z,"11 km SSE of Maria Antonia, Puerto Rico",earthquake,0.44,0.36,0.17494621420317,14,reviewed,pr,pr
