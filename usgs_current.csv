@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-08-21T07:46:24.574Z,31.661,-104.385,5.7681,1.7,ml,29,88,0,0.4,tx,tx2025qklyci,2025-08-21T07:50:53.073Z,"57 km S of Whites City, New Mexico",earthquake,0,2.0551087856293,0.2,22,automatic,tx,tx
 2025-08-21T07:32:47.810Z,33.466,-116.558,5.52,0.64,ml,38,42,0.04673,0.17,ci,ci41270592,2025-08-21T07:36:59.725Z,"15 km SE of Anza, CA",earthquake,0.17,0.46,0.163,18,automatic,ci,ci
 2025-08-21T07:28:11.334Z,60.6266,-146.4854,20.1,1.2,ml,,,,0.6,ak,ak025apgjx7x,2025-08-21T07:31:28.829Z,"28 km SSE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-08-21T07:16:43.340Z,32.307,-101.958,0.0464,1.4,ml,11,88,0,0.6,tx,tx2025qkkyok,2025-08-21T07:19:38.449Z,"25 km NW of Stanton, Texas",earthquake,0,2.2089896202087,0.2,4,automatic,tx,tx
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T06:55:13.551Z,65.4353,-148.2396,12.6,0.9,ml,,,,0.28,ak,ak025apg4a4b,2025-08-21T06:56:44.202Z,"17 km SE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-08-21T06:55:11.544Z,61.9878,-144.1312,3,1.2,ml,,,,0.58,ak,ak025apg49yq,2025-08-21T06:56:41.459Z,"52 km NE of Kenny Lake, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2025-08-21T06:50:39.634Z,35.66880798,-98.06162262,10,1.93,ml,10,121.0887985,0.1291066706,0.6222989709,ok,ok2025qikg,2025-08-21T06:55:20.934Z,"9 km NE of Calumet, Oklahoma",earthquake,,0,0.18,6,automatic,ok,ok
-2025-08-21T06:39:12.040Z,38.346668243408,-122.39116668701,7,2.73,md,79,31,0.02827,0.15,nc,nc75226627,2025-08-21T07:36:25.415Z,"7 km SW of Yountville, CA",earthquake,0.16,0.460000008,0.11,95,automatic,nc,nc
+2025-08-21T06:39:12.040Z,38.346668243408,-122.39116668701,7,2.73,md,79,31,0.02827,0.15,nc,nc75226627,2025-08-21T07:42:07.306Z,"7 km SW of Yountville, CA",earthquake,0.16,0.460000008,0.11,95,automatic,nc,nc
 2025-08-21T06:36:16.445Z,28.935,-99.095,4.0486,2.2,ml,10,227,0.3,0.4,tx,tx2025qkjprm,2025-08-21T06:40:20.217Z,"2 km N of North Pearsall, Texas",earthquake,0,3.2315113544464,0.1,7,automatic,tx,tx
 2025-08-21T06:33:51.220Z,38.840999603271,-122.8245010376,1.8999999761581,0.98,md,17,94,0.008911,0.02,nc,nc75226622,2025-08-21T06:35:29.020Z,"9 km WNW of Cobb, CA",earthquake,0.24,0.639999986,0.26,17,automatic,nc,nc
 2025-08-21T06:33:22.860Z,38.84049987793,-122.82516479492,1.9400000572205,2.11,md,44,56,0.008284,0.05,nc,nc75226617,2025-08-21T06:57:19.830Z,"9 km WNW of Cobb, CA",earthquake,0.15,0.239999995,0.11,44,automatic,nc,nc
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-21T05:48:31.980Z,36.710166931152,-121.31400299072,7.789999961853,1.4,md,9,93,0.02626,0.07,nc,nc75226612,2025-08-21T05:50:08.720Z,"9 km S of Tres Pinos, CA",earthquake,0.52,1.13,0.19,8,automatic,nc,nc
 2025-08-21T05:43:49.270Z,39.357166290283,-123.24349975586,2.5,1.62,md,12,83,0.1577,0.03,nc,nc75226607,2025-08-21T05:45:23.795Z,"11 km  of Redwood Valley, CA",earthquake,0.27,7.51999998,0.07,8,automatic,nc,nc
 2025-08-21T05:41:08.417Z,32.384,-102.133,4.2671,0.8,ml,10,107,0,0.5,tx,tx2025qkhudg,2025-08-21T06:00:26.994Z,"38 km ENE of McKinney Acres, Texas",earthquake,0,1.4904768466949,0.3,7,automatic,tx,tx
-2025-08-21T05:38:24.730Z,31.657,-104.383,4.3395,1.9,ml,29,88,0,0.3,tx,tx2025qkhruh,2025-08-21T05:41:30.873Z,"57 km S of Whites City, New Mexico",earthquake,0,1.0609467029572,0.1,21,automatic,tx,tx
+2025-08-21T05:38:24.589Z,31.664,-104.373,6.0999,1.8,ml,32,66,0,0.2,tx,tx2025qkhruh,2025-08-21T07:48:51.564Z,"56 km S of Whites City, New Mexico",earthquake,0.81766858164447,0.81712578325321,0.1,19,reviewed,tx,tx
 2025-08-21T05:34:17.230Z,38.836666107178,-122.8004989624,1.8200000524521,0.71,md,14,64,0.00812,0.01,nc,nc75226602,2025-08-21T05:35:54.588Z,"7 km WNW of Cobb, CA",earthquake,0.27,0.680000007,0.07,16,automatic,nc,nc
 2025-08-21T05:24:02.060Z,19.185167312622,-155.48783874512,28.610000610352,2.41,ml,59,80,0.03831,0.129999995,hv,hv74756937,2025-08-21T05:28:11.140Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.41,0.50999999,0.44,21,automatic,hv,hv
 2025-08-21T05:10:29.580Z,36.0108333,-117.818,1.93,0.84,ml,23,55,0.02924,0.14,ci,ci41270432,2025-08-21T05:13:58.358Z,"12 km NE of Little Lake, CA",earthquake,0.14,0.16,0.132,17,automatic,ci,ci
@@ -266,5 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-20T08:07:32.120Z,36.1076667,-117.9031667,4.01,1.32,ml,34,46,0.04035,0.18,ci,ci40403658,2025-08-20T13:34:24.124Z,"8 km NNE of Coso Junction, CA",earthquake,0.21,0.35,0.184,26,reviewed,ci,ci
 2025-08-20T08:02:58.100Z,19.856833333333,-155.92766666667,33.37,1.89,ml,23,161,0.1919,0.22,hv,hv74756467,2025-08-20T22:06:53.920Z,"15 km NNE of Kalaoa, Hawaii",earthquake,0.73,1.21,0.17147244694044,3,reviewed,hv,hv
 2025-08-20T07:58:30.539Z,35.63066667,-98.0335,7.4,1.55,ml,81,38,0.1574690992,0.18,ok,ok2025qgqz,2025-08-20T12:16:20.453Z,"8 km ENE of Calumet, Oklahoma",earthquake,,0.4,0.24,38,reviewed,ok,ok
-2025-08-20T07:46:57.424Z,63.5663,-150.8699,1.8,1.2,ml,,,,0.71,ak,ak025ant4j66,2025-08-20T07:49:15.789Z,"42 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2025-08-20T07:43:08.773Z,61.5945,-146.3619,24.9,1.8,ml,,,,0.54,ak,ak025ant3nom,2025-08-20T07:44:52.220Z,"49 km SSE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
