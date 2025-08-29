@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-08-29T23:19:38.940Z,33.5423317,-116.5494995,10.4,1.38,ml,17,204,0.0538,0.24,ci,ci41278920,2025-08-29T23:21:41.480Z,"12 km E of Anza, CA",earthquake,2.32,0.86,0.509,6,automatic,ci,ci
+2025-08-29T23:19:54.306Z,32.357,-102.075,4.1079,2,ml,60,54,0,0.5,tx,tx2025rairop,2025-08-29T23:24:28.489Z,"36 km NW of Stanton, Texas",earthquake,0,0.70166492462158,0.1,35,automatic,tx,tx
+2025-08-29T23:19:40.870Z,33.5266667,-116.711,3.75,0.92,ml,23,81,0.04444,0.19,ci,ci41278920,2025-08-29T23:23:50.874Z,"5 km SW of Anza, CA",earthquake,0.31,0.65,0.181,29,automatic,ci,ci
 2025-08-29T23:03:12.520Z,32.6448333,-115.7091667,9.65,1.9,ml,45,53,0.0152,0.3,ci,ci41278888,2025-08-29T23:20:08.980Z,"14 km WNW of Progreso, B.C., MX",earthquake,0.31,0.61,0.22,25,reviewed,ci,ci
 2025-08-29T22:58:40.930Z,37.712665557861,-122.55766296387,7.4299998283386,1.94,md,32,108,0.09999,0.04,nc,nc75230562,2025-08-29T23:02:04.080Z,"5 km WSW of San Francisco Zoo, CA",earthquake,0.23,0.560000002,0.22,28,automatic,nc,nc
 2025-08-29T22:58:35.547Z,50.8364,157.1925,85.034,5.2,mb,93,120,2.297,0.87,us,us7000qsfb,2025-08-29T23:16:58.040Z,"77 km ENE of Severo-Kuril’sk, Russia",earthquake,8.71,3.591,0.022,676,reviewed,us,us
@@ -293,4 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-08-28T23:38:05.430Z,17.916833333333,-66.937333333333,14.3,2.09,md,5,233,0.08006,0.06,pr,pr71493723,2025-08-28T23:55:49.350Z,"6 km SSW of Guánica, Puerto Rico",earthquake,0.86,0.63,0.034570046913248,5,reviewed,pr,pr
 2025-08-28T23:37:58.010Z,34.027,-117.1048333,10.82,2.83,ml,132,15,0.01053,0.17,ci,ci41277768,2025-08-29T22:49:00.634Z,"6 km SSE of Mentone, CA",earthquake,0.1,0.22,0.146,313,reviewed,ci,ci
 2025-08-28T23:34:24.250Z,33.2298333,-116.7351667,11.99,0.69,ml,28,33,0.0207,0.15,ci,ci41277760,2025-08-29T00:25:11.861Z,"3 km ESE of Lake Henshaw, CA",earthquake,0.22,0.6,0.153,15,reviewed,ci,ci
-2025-08-28T23:30:12.460Z,33.3355,-116.3593333,13.39,0.75,ml,15,159,0.01092,0.12,ci,ci41277752,2025-08-29T00:20:52.941Z,"9 km N of Borrego Springs, CA",earthquake,0.42,0.69,0.131,13,reviewed,ci,ci
