@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-07T16:27:22.636Z,62.575,-151.2674,88.6,1.5,ml,,,,0.32,ak,ak025bhq1j7r,2025-09-07T16:29:22.146Z,"27 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-07T16:03:26.840Z,33.6463333,-116.759,11,0.83,ml,46,41,0.07454,0.15,ci,ci41285688,2025-09-07T16:06:57.192Z,"11 km SSW of Idyllwild, CA",earthquake,0.14,0.32,0.237,29,automatic,ci,ci
 2025-09-07T15:52:45.370Z,33.7876667,-116.6783333,14.03,0.75,ml,28,59,0.1185,0.13,ci,ci41285680,2025-09-07T15:56:35.954Z,"6 km NE of Idyllwild, CA",earthquake,0.16,0.57,0.295,18,automatic,ci,ci
 2025-09-07T15:39:29.045Z,31.593,-104.132,4.1243,2,ml,36,61,0,0.4,tx,tx2025rqgysy,2025-09-07T16:01:15.672Z,"44 km NW of Toyah, Texas",earthquake,0,0.91519117355347,0.2,25,automatic,tx,tx
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-07T05:29:48.950Z,60.012,-152.8274,99.3,1.8,ml,,,,0.3,ak,ak025bhji90v,2025-09-07T05:54:48.040Z,"61 km W of Happy Valley, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-09-07T05:29:36.040Z,33.4,-116.9465,12.18,1.74,ml,87,20,0.07221,0.22,ci,ci41285376,2025-09-07T05:39:58.140Z,"9 km WSW of Aguanga, CA",earthquake,0.14,0.42,0.213,26,automatic,ci,ci
 2025-09-07T05:23:48.988Z,63.1481,-150.9059,139.504,2.8,ml,50,50,0.598,0.52,us,us7000quif,2025-09-07T05:42:05.040Z,"59 km SE of Denali National Park, Alaska",earthquake,4.2,3.622,0.034,114,reviewed,us,us
-2025-09-07T05:18:10.427Z,31.757,-104.218,4.5916,2,ml,38,99,0,0.4,tx,tx2025rpmjim,2025-09-07T05:22:28.471Z,"48 km SSE of Whites City, New Mexico",earthquake,0,0.86351352930069,0.2,25,automatic,tx,tx
+2025-09-07T05:18:10.408Z,31.759,-104.209,6.1127,2.1,ml,59,50,0,0.2,tx,tx2025rpmjim,2025-09-07T16:29:56.852Z,"48 km SSE of Whites City, New Mexico",earthquake,0.41799086883743,0.5632068350069,0.1,20,reviewed,tx,tx
 2025-09-07T05:08:49.268Z,-16.1241,-75.6307,10,4.6,mb,24,194,4.277,1.17,us,us7000quid,2025-09-07T05:36:18.040Z,"97 km SSW of San Juan, Peru",earthquake,11.82,1.964,0.125,19,reviewed,us,us
 2025-09-07T04:54:39.960Z,38.825500488281,-122.85600280762,2.2400000095367,1.01,md,19,114,0.002152,0.02,nc,nc75234327,2025-09-07T06:47:22.232Z,"10 km NW of The Geysers, CA",earthquake,0.27,0.409999996,0.18,20,automatic,nc,nc
 2025-09-07T04:52:16.020Z,35.9111667,-117.666,3.28,1.72,ml,37,43,0.03879,0.16,ci,ci41285368,2025-09-07T14:01:07.097Z,"22 km E of Little Lake, CA",earthquake,0.14,0.42,0.144,25,reviewed,ci,ci
@@ -216,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-06T17:09:52.030Z,33.483,-116.881,12.22,0.59,ml,20,92,0.02544,0.12,ci,ci41284976,2025-09-07T00:28:57.263Z,"5 km NNW of Aguanga, CA",earthquake,0.24,0.39,0.17,16,reviewed,ci,ci
 2025-09-06T17:07:03.570Z,39.713666666667,-123.93733333333,0.99,1.68,md,35,169,0.09748,0.18,nc,nc75233947,2025-09-06T21:42:20.306Z,"9 km W of Cape Vizcaino, CA",earthquake,0.33,1.08,0.273,18,reviewed,nc,nc
 2025-09-06T16:44:20.450Z,33.4585,-116.5301667,10.69,0.8,ml,40,52,0.0702,0.19,ci,ci41284960,2025-09-06T16:47:48.960Z,"17 km SE of Anza, CA",earthquake,0.21,0.48,0.129,19,automatic,ci,ci
-2025-09-06T16:39:25.120Z,47.448333740234,-122.84317016602,21.319999694824,1.7247307300568,ml,20,140,,0.0900000036,uw,uw62183301,2025-09-06T16:42:34.910Z,"1 km WSW of Belfair, Washington",earthquake,0.67,0.800000012,0.1940038651228,16,automatic,uw,uw
-2025-09-06T16:35:29.745Z,58.4901,-155.0536,45.3,1.5,ml,,,,0.48,ak,ak025bg2jwzy,2025-09-07T02:18:27.350Z,"96 km ESE of King Salmon, Alaska",earthquake,,1.2,,,automatic,ak,ak
