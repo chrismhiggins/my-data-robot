@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-09-09T19:40:58.620Z,40.346668243408,-124.91983032227,1.960000038147,4.03,ml,74,242,0.4452,0.32,nc,nc75235672,2025-09-09T19:45:19.686Z,"54 km WNW of Petrolia, CA",earthquake,1.99,3.61999989,0.245,10,automatic,nc,nc
+2025-09-09T19:47:33.330Z,37.19983291626,-121.58833312988,4.3099999427795,1.47,md,14,64,0.04738,0.13,nc,nc75235677,2025-09-09T19:49:08.452Z,"10 km NE of Morgan Hill, CA",earthquake,0.37,0.910000026,0.17,12,automatic,nc,nc
+2025-09-09T19:40:58.620Z,40.346668243408,-124.91983032227,1.960000038147,3.94,mw,74,242,0.4452,0.32,nc,nc75235672,2025-09-09T19:55:55.931Z,"54 km W of Petrolia, CA",earthquake,1.99,3.61999989,,8,reviewed,nc,nc
 2025-09-09T19:37:03.390Z,36.02566667,-96.53833333,0,2.04,ml,15,253,0.1997608001,0.34,ok,ok2025rscc,2025-09-09T19:46:25.966Z,"7 km NE of Drumright, Oklahoma",quarry blast,,0.9,0.26,5,reviewed,ok,ok
-2025-09-09T19:26:38.120Z,38.841331481934,-122.87783050537,2.3900001049042,0.95,md,11,113,0.005377,0.02,nc,nc75235652,2025-09-09T19:28:13.313Z,"13 km NW of The Geysers, CA",earthquake,0.33,0.519999981,0.14,13,automatic,nc,nc
-2025-09-09T19:09:07.729Z,64.8778,-147.5383,27.5,1.2,ml,,,,1.02,ak,ak025bl2smz8,2025-09-09T19:10:25.847Z,"8 km ESE of Farmers Loop, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2025-09-09T19:31:43.854Z,42.4397,-126.6691,10,5.1,mww,47,171,1.724,0.87,us,us7000qv3g,2025-09-09T19:52:31.454Z,"181 km WSW of Port Orford, Oregon",earthquake,9.85,1.903,0.06,27,reviewed,us,us
+2025-09-09T19:26:38.120Z,38.841331481934,-122.87783050537,2.3900001049042,0.95,md,11,113,0.005377,0.02,nc,nc75235652,2025-09-09T19:52:20.700Z,"13 km NW of The Geysers, CA",earthquake,0.33,0.519999981,0.14,13,automatic,nc,nc
 2025-09-09T19:05:12.410Z,35.3226667,-117.8046667,8.35,1.65,ml,21,244,0.06458,0.16,ci,ci41287448,2025-09-09T19:09:21.142Z,"16 km WSW of Johannesburg, CA",earthquake,0.61,0.46,0.252,27,automatic,ci,ci
 2025-09-09T19:05:12.350Z,35.3255,-117.8181667,9.09,1.28,ml,27,128,0.0622,0.15,ci,ci41287440,2025-09-09T19:08:54.981Z,"17 km WSW of Johannesburg, CA",earthquake,0.64,1.15,0.203,2,automatic,ci,ci
 2025-09-09T19:02:04.025Z,42.3804,-126.6499,10,4.9,mww,48,181,1.707,1.17,us,us7000qv38,2025-09-09T19:42:06.362Z,"181 km WSW of Port Orford, Oregon",earthquake,8.44,1.919,0.058,29,reviewed,us,us
@@ -26,7 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T17:12:23.040Z,33.8423333,-117.4951667,2.59,1.58,ml,49,31,0.04858,0.21,ci,ci41287312,2025-09-09T17:16:02.602Z,"5 km SSE of Home Gardens, CA",earthquake,0.19,0.28,0.208,33,automatic,ci,ci
 2025-09-09T17:12:19.620Z,44.799,-110.8485,4.9,0.62,ml,11,109,0.01076,0.14,uu,uu80117061,2025-09-09T17:23:30.830Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.31,0.48,0.5184880900941,2,reviewed,uu,uu
 2025-09-09T17:01:50.946Z,60.8261,-147.3318,24.8,1.7,ml,,,,0.35,ak,ak025bl1k5di,2025-09-09T17:03:19.143Z,"35 km W of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2025-09-09T16:45:10.860Z,40.9195,-123.5225,30.49,3.43,ml,106,33,0.126,0.17,nc,nc75235587,2025-09-09T19:12:15.427Z,"9 km ESE of Willow Creek, CA",earthquake,0.23,0.71,0.191,52,reviewed,nc,nc
+2025-09-09T16:45:10.860Z,40.9195,-123.5225,30.49,3.43,ml,106,33,0.126,0.17,nc,nc75235587,2025-09-09T19:49:07.008Z,"9 km ESE of Willow Creek, CA",earthquake,0.23,0.71,0.191,52,reviewed,nc,nc
 2025-09-09T16:44:20.800Z,31.655,-104.453,5.3821,1.7,ml,34,72,0,0.2,tx,tx2025ruaoey,2025-09-09T17:59:47.868Z,"58 km S of Whites City, New Mexico",earthquake,1.5112336656901,0.60338489675707,0.2,17,reviewed,tx,tx
 2025-09-09T16:41:44.910Z,38.777332305908,-122.71633148193,1.7999999523163,1.03,md,7,98,0.01616,0.01,nc,nc75235577,2025-09-09T16:43:23.055Z,"2 km WNW of Anderson Springs, CA",earthquake,0.43,0.949999988,0.24,8,automatic,nc,nc
 2025-09-09T16:41:17.930Z,38.778667449951,-122.71733093262,1.9900000095367,1.06,md,13,91,0.01583,0.02,nc,nc75235572,2025-09-09T16:42:52.887Z,"2 km WNW of Anderson Springs, CA",earthquake,0.29,0.569999993,0.2,13,automatic,nc,nc
@@ -70,7 +71,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-09T14:00:04.210Z,38.502666666667,-112.90783333333,2.22,1.71,ml,13,49,0.01082,0.1,uu,uu80117051,2025-09-09T14:28:52.090Z,"14 km NE of Milford, Utah",earthquake,0.33,0.76,0.21612942078649,9,reviewed,uu,uu
 2025-09-09T13:56:42.138Z,39.1866,-120.4406,3.4,0.7,ml,6,216.47,0.136,0.0824,nn,nn00904035,2025-09-09T14:49:08.068Z,"14 km S of Kingvale, California",earthquake,,7,0.32,3,reviewed,nn,nn
 2025-09-09T13:31:38.261Z,63.5625,-150.7922,1.4,1.1,ml,,,,0.54,ak,ak025bkzctgi,2025-09-09T13:33:34.719Z,"46 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2025-09-09T13:31:32.400Z,54.748666666667,-163.982,-2.62,0.46,ml,5,95,0.04027,0.19,av,av93757963,2025-09-09T19:54:49.090Z,"38 km WSW of False Pass, Alaska",earthquake,0.43,1.01,0.48179287593665,5,reviewed,av,av
 2025-09-09T13:12:10.699Z,26.5826,54.1507,14.806,4.5,mb,108,77,2.467,0.47,us,us7000quzy,2025-09-09T14:33:24.040Z,"13 km ENE of Kīsh, Iran",earthquake,8.22,4.317,0.056,98,reviewed,us,us
+2025-09-09T13:08:08.580Z,54.768833333333,-164.002,1.59,0.81,ml,5,96,0.04267,0.31,av,av93757918,2025-09-09T19:46:56.850Z,"39 km WSW of False Pass, Alaska",earthquake,0.71,1.35,0.27259008019034,5,reviewed,av,av
 2025-09-09T13:03:27.475Z,-21.3406,-66.623,208.929,4.9,mww,175,30,2.157,0.95,us,us7000quzw,2025-09-09T14:13:14.040Z,"61 km SW of Atocha, Bolivia",earthquake,5.7,5.752,0.089,12,reviewed,us,us
 2025-09-09T13:01:11.760Z,19.137166976929,-155.37849426269,29.989999771118,2.14,ml,57,184,0.08111,0.129999995,hv,hv74771187,2025-09-09T13:05:12.900Z,"12 km SE of Pāhala, Hawaii",earthquake,0.46,0.589999974,0.46,15,automatic,hv,hv
 2025-09-09T12:50:04.680Z,33.6716667,-116.764,14.06,0.79,ml,32,61,0.07527,0.16,ci,ci41287000,2025-09-09T13:14:45.375Z,"9 km SSW of Idyllwild, CA",earthquake,0.21,0.44,0.189,29,reviewed,ci,ci
@@ -266,4 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-08T20:15:20.590Z,44.319,-115.17283333333,5.01,1.16,ml,7,115,0.3167,0.12,mb,mb90110903,2025-09-09T19:30:32.680Z,"21 km WNW of Stanley, Idaho",earthquake,0.46,8.78,0.26429314207115,9,reviewed,mb,mb
 2025-09-08T20:10:15.264Z,62.3587,-151.2134,86.1,2,ml,,,,0.31,ak,ak025bjfuydy,2025-09-08T20:12:03.058Z,"27 km SW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-09-08T20:07:42.297Z,61.5603,-151.5192,66.1,1,ml,,,,0.38,ak,ak025bjfudbp,2025-09-08T20:08:53.949Z,"48 km S of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-09-08T19:47:37.530Z,37.626998901367,-119.11416625977,4,0.61,md,6,186,0.02814,0.03,nc,nc75235122,2025-09-08T20:47:20.721Z,"12 km W of Mammoth Lakes, CA",earthquake,1.81,1.75,0.46,2,automatic,nc,nc
