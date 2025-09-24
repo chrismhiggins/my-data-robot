@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-09-24T16:46:48.205Z,31.52,-104.023,4.5398,1.9,ml,14,134,0.1,0.2,tx,tx2025svonry,2025-09-24T16:48:47.541Z,"31 km NW of Toyah, Texas",earthquake,0,1.5646867752075,0.2,4,automatic,tx,tx
+2025-09-24T16:45:14.710Z,33.4198333,-116.375,10.87,0.62,ml,24,98,0.07924,0.16,ci,ci40449826,2025-09-24T16:48:40.213Z,"18 km N of Borrego Springs, CA",earthquake,0.24,0.48,0.162,10,automatic,ci,ci
+2025-09-24T16:42:11.220Z,33.5341667,-116.7235,5.18,0.69,ml,25,44,0.03321,0.12,ci,ci40449810,2025-09-24T16:45:52.405Z,"5 km WSW of Anza, CA",earthquake,0.16,0.41,0.179,18,automatic,ci,ci
+2025-09-24T16:42:03.382Z,63.2136,-151.5592,14.8,3.1,ml,,,,0.96,ak,ak025c9u9lsp,2025-09-24T16:44:12.440Z,"37 km SSE of Denali National Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2025-09-24T16:36:57.770Z,38.814998626709,-122.81666564941,2.8499999046326,0.93,md,9,106,0.009839,0.01,nc,nc75241467,2025-09-24T16:38:35.548Z,"7 km NW of The Geysers, CA",earthquake,0.37,0.769999981,0.31,13,automatic,nc,nc
+2025-09-24T16:33:16.637Z,64.7311,-149.0421,15.6,1.4,ml,,,,0.5,ak,ak025c9u7pfz,2025-09-24T16:34:54.328Z,"14 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-24T16:24:42.420Z,33.5313333,-116.727,4.79,1.13,ml,48,31,0.03505,0.16,ci,ci40449802,2025-09-24T16:28:44.573Z,"6 km WSW of Anza, CA",earthquake,0.12,0.4,0.181,27,automatic,ci,ci
-2025-09-24T16:10:17.160Z,34.3135,-116.4466667,9.82,1.68,ml,55,50,0.05744,0.14,ci,ci40449786,2025-09-24T16:13:51.476Z,"22 km N of Yucca Valley, CA",earthquake,0.12,0.27,0.133,26,automatic,ci,ci
+2025-09-24T16:10:17.140Z,34.3135,-116.4476667,9.92,1.75,ml,55,50,0.0582,0.12,ci,ci40449786,2025-09-24T16:34:47.893Z,"22 km N of Yucca Valley, CA",earthquake,0.11,0.23,0.144,65,reviewed,ci,ci
 2025-09-24T16:01:14.720Z,33.533,-116.7265,4.93,1.04,ml,42,31,0.03355,0.16,ci,ci40449770,2025-09-24T16:06:40.421Z,"6 km WSW of Anza, CA",earthquake,0.14,0.42,0.201,29,reviewed,ci,ci
 2025-09-24T15:48:28.867Z,61.5768,-149.2014,30.8,2.6,ml,,,,0.53,ak,ak025c9tpihx,2025-09-24T15:58:39.776Z,"2 km ENE of Gateway, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-09-24T15:44:12.020Z,44.805166666667,-110.83433333333,5.09,0.82,ml,11,110,0.02039,0.17,uu,uu80117991,2025-09-24T16:06:52.880Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.43,0.67,0.012724082138744,2,reviewed,uu,uu
@@ -26,7 +32,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-24T13:04:29.170Z,38.836833953857,-122.78450012207,2.3900001049042,1.22,md,19,73,0.004827,0.02,nc,nc75241362,2025-09-24T14:32:16.630Z,"6 km WNW of Cobb, CA",earthquake,0.27,0.460000008,0.18,21,automatic,nc,nc
 2025-09-24T12:55:33.499Z,36.7253,-116.2577,7.5,0.2,ml,34,63.94,0.018,0.1015,nn,nn00904931,2025-09-24T13:45:03.410Z,"49 km ESE of Beatty, Nevada",earthquake,,0.5,0.29,9,reviewed,nn,nn
 2025-09-24T12:37:06.962Z,31.524,-104.017,7.7917,1.3,ml,17,60,0,0.1,tx,tx2025svggnw,2025-09-24T14:56:53.923Z,"31 km NW of Toyah, Texas",earthquake,0.91549073974385,0.74367282450604,0.1,28,reviewed,tx,tx
-2025-09-24T12:33:01.520Z,20.15950012207,-155.71183776856,10.390000343323,2.95,ml,60,274,0.07009,0.239999995,hv,hv74784242,2025-09-24T12:55:36.235Z,"11 km SE of Hala‘ula, Hawaii",earthquake,2.49,3.52999997,0.35,20,automatic,hv,hv
+2025-09-24T12:33:01.520Z,20.15950012207,-155.71183776856,10.390000343323,2.95,ml,60,274,0.07009,0.239999995,hv,hv74784242,2025-09-24T16:34:29.553Z,"11 km SE of Hala‘ula, Hawaii",earthquake,2.49,3.52999997,0.35,20,automatic,hv,hv
 2025-09-24T12:22:39.740Z,31.52,-104.019,7.9071,2.4,ml,32,67,0,0.1,tx,tx2025svfuca,2025-09-24T12:49:18.298Z,"31 km NW of Toyah, Texas",earthquake,0.52954966649595,0.40570517847176,0,6,reviewed,tx,tx
 2025-09-24T12:20:46.606Z,13.7961,144.9025,127.061,4.5,mb,30,81,0.208,0.72,us,us6000rcig,2025-09-24T13:08:32.928Z,"28 km N of Yigo Village, Guam",earthquake,6.39,4.643,0.108,25,reviewed,us,us
 2025-09-24T12:15:56.063Z,31.533,-104.016,7.7917,1.8,ml,42,57,0,0.2,tx,tx2025svfoho,2025-09-24T12:54:55.341Z,"32 km NW of Toyah, Texas",earthquake,0.77876484814946,0.57078070749758,0.2,29,reviewed,tx,tx
@@ -215,6 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-09-23T17:01:29.080Z,44.706166666667,-111.00083333333,7.96,0.48,ml,9,103,0.04538,0.13,uu,uu80117951,2025-09-23T17:28:43.250Z,"9 km ENE of West Yellowstone, Montana",earthquake,0.51,1.05,0.030806739552161,2,reviewed,uu,uu
 2025-09-23T16:57:22.810Z,37.855667114258,-122.24183654785,7.0599999427795,1.18,md,15,56,0.02111,0.05,nc,nc75240987,2025-09-23T19:13:38.933Z,"3 km SE of Berkeley, CA",earthquake,0.24,0.479999989,0.1,9,automatic,nc,nc
 2025-09-23T16:57:10.580Z,37.854499816895,-122.24033355713,6.9699997901917,1.01,md,12,79,0.02201,0.03,nc,nc75240982,2025-09-23T17:17:20.342Z,"3 km  of Piedmont, CA",earthquake,0.3,0.50999999,0.27,8,automatic,nc,nc
-2025-09-23T16:36:27.347Z,39.1564,-119.056,11.5,1.3,ml,11,105.92,0.223,0.1487,nn,nn00904865,2025-09-24T02:07:50.590Z,"21 km NNE of Yerington, Nevada",earthquake,,2.3,0.17,8,reviewed,nn,nn
-2025-09-23T16:33:22.270Z,35.0351667,-116.9888333,2.23,2.04,ml,35,52,0.1599,0.12,ci,ci40448890,2025-09-23T17:28:57.199Z,"16 km NNE of Barstow, CA",earthquake,0.13,0.67,0.157,26,reviewed,ci,ci
-2025-09-23T16:31:01.826Z,-22.8374,-69.1826,83.721,4.5,mwr,36,90,0.382,0.58,us,us6000rccs,2025-09-23T17:19:15.040Z,"49 km SSW of Calama, Chile",earthquake,4.55,5.385,0.083,14,reviewed,us,us
