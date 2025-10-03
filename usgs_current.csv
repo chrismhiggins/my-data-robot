@@ -1,12 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2025-10-03T04:54:58.000Z,34.0658333,-118.8246667,12.69,1.35,ml,10,105,0.03909,0.16,ci,ci41102031,2025-10-03T04:58:24.287Z,"7 km N of Malibu, CA",earthquake,0.52,0.98,0.275,33,automatic,ci,ci
 2025-10-03T04:53:18.435Z,-2.8749,136.3381,10,4.5,mb,18,129,1.789,1.16,us,us6000reff,2025-10-03T05:05:04.040Z,"107 km ENE of Nabire, Indonesia",earthquake,5.63,1.941,0.156,12,reviewed,us,us
-2025-10-03T04:51:57.726Z,63.7398,-149.2593,5.1,2.5,ml,,,,0.74,ak,ak025coj0kow,2025-10-03T05:04:53.946Z,"17 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2025-10-03T04:51:57.726Z,63.7398,-149.2593,5.1,2.5,ml,,,,0.74,ak,ak025coj0kow,2025-10-03T05:11:13.040Z,"17 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-03T04:38:52.860Z,36.2215,-117.8861667,7,1.74,ml,27,67,0.1068,0.15,ci,ci41102023,2025-10-03T04:42:29.174Z,"13 km ESE of Olancha, CA",earthquake,0.21,0.74,0.164,26,automatic,ci,ci
 2025-10-03T04:26:21.240Z,38.809665679932,-122.82083129883,2.8499999046326,1.5,md,34,54,0.00657,0.02,nc,nc75244201,2025-10-03T05:07:19.728Z,"7 km WNW of The Geysers, CA",earthquake,0.18,0.330000013,0.18,29,automatic,nc,nc
 2025-10-03T04:19:22.706Z,32.113,-102.173,4.8314,1.2,ml,32,107,0,0.4,tx,tx2025tldhov,2025-10-03T05:00:51.742Z,"15 km NW of Midland, Texas",earthquake,0,0.9662452340126,0.2,21,automatic,tx,tx
 2025-10-03T04:17:51.538Z,28.211,-43.778,10,5.1,mb,95,55,18.007,0.94,us,us6000reep,2025-10-03T04:38:28.040Z,"northern Mid-Atlantic Ridge",earthquake,10.72,1.885,0.03,348,reviewed,us,us
-2025-10-03T04:11:41.950Z,36.591835021973,-121.20899963379,7.6500000953674,2.39,md,48,73,0.02765,0.13,nc,nc75244186,2025-10-03T04:17:21.385Z,"9 km NW of Pinnacles, CA",earthquake,0.22,0.560000002,0.18,53,automatic,nc,nc
+2025-10-03T04:11:41.950Z,36.591835021973,-121.20899963379,7.6500000953674,2.39,md,48,73,0.02765,0.13,nc,nc75244186,2025-10-03T05:12:18.764Z,"9 km NW of Pinnacles, CA",earthquake,0.22,0.560000002,0.18,53,automatic,nc,nc
 2025-10-03T04:06:04.090Z,31.654,-104.321,3.3569,1.7,ml,25,79,0.1,0.2,tx,tx2025tlcwcb,2025-10-03T04:34:42.032Z,"58 km S of Whites City, New Mexico",earthquake,0.69892041100852,1.1132517350095,0.1,16,reviewed,tx,tx
 2025-10-03T04:04:06.810Z,32.115,-102.184,4.7751,1.2,ml,25,62,0,0.5,tx,tx2025tlcudm,2025-10-03T04:08:09.177Z,"16 km NW of Midland, Texas",earthquake,0,1.0577752590179,0.2,15,automatic,tx,tx
 2025-10-03T03:55:52.144Z,1.5646,122.9748,10,4.6,mb,50,55,1.868,1.39,us,us6000reek,2025-10-03T04:41:01.040Z,"113 km N of Gorontalo, Indonesia",earthquake,4.44,1.872,0.093,34,reviewed,us,us
@@ -93,6 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T19:39:17.830Z,51.789,-178.79383333333,8.11,0.72,ml,4,138,0.03035,0.15,av,av93802248,2025-10-02T22:34:58.840Z,"149 km W of Adak, Alaska",earthquake,0.82,0.77,0.28011990452145,4,reviewed,av,av
 2025-10-02T19:36:31.980Z,32.101,-102.103,6.1024,2,mlv,11,138,0.1,0.5,tx,tx2025tklyui,2025-10-02T23:31:26.729Z,"11 km NNW of Midland, Texas",earthquake,0,7.5089731216431,0.1,9,automatic,tx,tx
 2025-10-02T19:36:15.400Z,46.2035,-122.173,6.97,0.26,ml,9,103,0.02981,0.07,uw,uw62188372,2025-10-02T22:18:27.500Z,"38 km NNE of Amboy, Washington",earthquake,0.53,0.86,0.05554683645206,5,reviewed,uw,uw
+2025-10-02T19:34:40.560Z,57.071666666667,-136.202,11.37,0.86,ml,5,259,0.2286,0.07,av,av93802238,2025-10-03T05:23:12.790Z,"52 km W of Sitka, Alaska",earthquake,2.46,4.23,0.33470717233917,5,reviewed,av,av
 2025-10-02T19:29:21.745Z,32.123,-102.191,5.989,1.2,mlv,7,126,0,0.3,tx,tx2025tklsts,2025-10-02T23:31:14.731Z,"17 km NW of Midland, Texas",earthquake,0,2.9276773929596,0.6,6,automatic,tx,tx
 2025-10-02T19:25:59.613Z,32.108,-102.175,5.6521,1.2,mlv,16,84,0,0.5,tx,tx2025tklpyq,2025-10-02T23:30:56.369Z,"15 km NW of Midland, Texas",earthquake,0,2.3579204082489,0.3,13,automatic,tx,tx
 2025-10-02T19:24:17.270Z,33.9051667,-116.589,11.13,0.79,ml,26,55,0.03207,0.12,ci,ci41101887,2025-10-02T20:24:41.550Z,"4 km W of Garnet, CA",earthquake,0.16,0.33,0.07,17,reviewed,ci,ci
@@ -252,8 +253,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-02T05:58:04.361Z,64.9324,-147.6103,7.3,1,ml,,,,0.3,ak,ak025cmw41p0,2025-10-02T05:59:47.002Z,"2 km S of Fox, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2025-10-02T05:56:53.284Z,62.1464,-148.0683,27.1,1.9,ml,,,,0.61,ak,ak025cmw3q1c,2025-10-02T05:59:29.912Z,"43 km NNW of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-02T05:34:51.680Z,33.8078333,-117.6331667,4.89,1.51,ml,69,48,0.02365,0.18,ci,ci41101671,2025-10-02T13:25:29.997Z,"9 km SW of Corona, CA",earthquake,0.14,0.28,0.162,30,reviewed,ci,ci
-2025-10-02T05:27:27.400Z,36.568500518799,-121.13033294678,5.8000001907349,1.08,md,11,72,0.04445,0.27,nc,nc75243781,2025-10-02T06:07:19.862Z,"4 km NNE of Pinnacles, CA",earthquake,0.72,3.28999996,0.31,8,automatic,nc,nc
-2025-10-02T05:23:23.570Z,38.842666625977,-122.82433319092,0.40000000596046,1.83,md,30,55,0.009615,0.02,nc,nc75243776,2025-10-02T06:57:17.223Z,"9 km WNW of Cobb, CA",earthquake,0.15,0.289999992,0.15,30,automatic,nc,nc
-2025-10-02T05:20:53.420Z,44.5625,-112.226,3.96,1.43,ml,24,87,0.1242,0.17,mb,mb90114848,2025-10-02T14:38:58.190Z,"22 km N of Spencer, Idaho",earthquake,0.4,8.05,0.136915151223,25,reviewed,mb,mb
-2025-10-02T05:17:20.123Z,57.6516,-155.3966,19.9,1.8,ml,,,,0.29,ak,ak025cmvvajw,2025-10-02T05:18:47.991Z,"57 km W of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2025-10-02T05:10:13.920Z,32.7613333,-115.6101667,11,1.07,ml,19,60,0.009853,0.23,ci,ci41101663,2025-10-02T15:17:08.716Z,"6 km WSW of El Centro, CA",earthquake,0.39,0.51,0.158,11,reviewed,ci,ci
