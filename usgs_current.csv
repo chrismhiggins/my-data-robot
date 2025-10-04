@@ -69,6 +69,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T19:09:25.572Z,57.6483,-155.3762,11,1.6,ml,,,,0.31,ak,ak025corp07h,2025-10-03T19:10:53.502Z,"55 km W of Karluk, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2025-10-03T19:01:27.590Z,33.8545,-117.5168333,1.64,1.04,ml,34,89,0.04246,0.27,ci,ci41102223,2025-10-03T19:05:06.787Z,"3 km S of Home Gardens, CA",earthquake,0.38,0.47,0.168,33,automatic,ci,ci
 2025-10-03T19:00:55.450Z,61.285333333333,-152.32016666667,3.87,-0.61,ml,7,131,0.0364,0.14,av,av93804298,2025-10-04T01:23:43.540Z,"68 km WNW of Tyonek, Alaska",earthquake,0.93,0.68,0.11646851485587,7,reviewed,av,av
+2025-10-03T18:56:59.234Z,44.9998,9.332,10,3,ml,26,74,0.944,1,us,us6000remm,2025-10-04T04:59:02.040Z,"1 km SW of Rovescala, Italy",earthquake,4.42,1.982,0.064,32,reviewed,us,us
 2025-10-03T18:56:24.650Z,37.32833480835,-122.21666717529,8.6499996185303,2.15,md,30,76,0.03852,0.11,nc,nc75244416,2025-10-03T20:12:16.441Z,"6 km SSE of Portola Valley, CA",earthquake,0.24,0.379999995,0.15,28,automatic,nc,nc
 2025-10-03T18:52:31.970Z,46.008666666667,-112.4645,-2,1.08,ml,13,72,0.06266,0.11,mb,mb90115323,2025-10-03T20:47:39.290Z,"5 km E of Butte, Montana",quarry blast,0.33,31.61,0.24552720010953,9,reviewed,mb,mb
 2025-10-03T18:47:20.301Z,51.9532,159.8171,56.251,4.4,mb,52,140,1.288,0.84,us,us6000reml,2025-10-03T21:44:34.040Z,"145 km SE of Vilyuchinsk, Russia",earthquake,10.25,7.261,0.078,47,reviewed,us,us
@@ -218,7 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-03T05:05:49.180Z,44.5645,-112.2125,7.71,0.99,ml,13,131,0.1331,0.08,mb,mb90115213,2025-10-03T20:39:18.150Z,"22 km N of Spencer, Idaho",earthquake,0.37,1.59,0.057858235733787,15,reviewed,mb,mb
 2025-10-03T05:02:05.240Z,44.574,-112.21833333333,8.36,2.16,ml,30,86,0.1272,0.18,mb,mb90115208,2025-10-03T15:31:27.700Z,"23 km N of Spencer, Idaho",earthquake,0.39,1.78,0.21680952517364,51,reviewed,mb,mb
 2025-10-03T05:00:41.150Z,44.583666666667,-112.20283333333,2.64,1.06,ml,20,147,0.1371,0.11,mb,mb90115198,2025-10-03T20:30:34.770Z,"24 km N of Spencer, Idaho",earthquake,0.33,0.98,0.066198938060591,11,reviewed,mb,mb
-2025-10-03T04:59:31.240Z,44.578166666667,-112.21816666667,3.06,0.79,ml,14,114,0.1268,0.17,mb,mb90115193,2025-10-03T20:12:39.060Z,"24 km N of Spencer, Idaho",earthquake,0.54,1.39,0.11183137295742,13,reviewed,mb,mb
-2025-10-03T04:54:57.950Z,34.0536667,-118.8218333,13.23,1.02,ml,10,112,0.03879,0.13,ci,ci41102031,2025-10-03T15:46:34.851Z,"6 km NNW of Malibu, CA",earthquake,0.39,0.64,0.319,5,reviewed,ci,ci
-2025-10-03T04:53:18.435Z,-2.8749,136.3381,10,4.5,mb,18,129,1.789,1.16,us,us6000reff,2025-10-03T05:05:04.040Z,"107 km ENE of Nabire, Indonesia",earthquake,5.63,1.941,0.156,12,reviewed,us,us
-2025-10-03T04:51:57.726Z,63.7398,-149.2593,5.1,2.5,ml,,,,0.74,ak,ak025coj0kow,2025-10-03T05:11:13.040Z,"17 km W of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
