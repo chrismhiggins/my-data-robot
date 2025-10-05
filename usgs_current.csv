@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-05T23:17:18.390Z,35.0346667,-117.6853333,-0.66,1.32,ml,32,39,0.1004,0.26,ci,ci41103319,2025-10-05T23:24:32.849Z,"5 km NW of Boron, CA",earthquake,0.47,0.86,0.153,23,automatic,ci,ci
+2025-10-05T23:07:44.690Z,46.844333333333,-121.77033333333,-1.33,1.23,ml,22,106,0.01684,0.13,uw,uw62190057,2025-10-05T23:18:36.010Z,"22 km ENE of Ashford, Washington",earthquake,0.37,12.72,0.13856805527009,14,reviewed,uw,uw
 2025-10-05T22:33:34.790Z,34.1711667,-116.8218333,6.81,0.96,ml,44,30,0.1222,0.17,ci,ci41103311,2025-10-05T22:38:51.080Z,"10 km SSE of Big Bear City, CA",earthquake,0.15,0.59,0.146,27,automatic,ci,ci
 2025-10-05T22:27:10.260Z,33.5325,-116.7233333,4.99,0.82,ml,46,27,0.03482,0.18,ci,ci41103303,2025-10-05T22:31:44.956Z,"5 km WSW of Anza, CA",earthquake,0.16,0.44,0.18,27,automatic,ci,ci
 2025-10-05T22:23:52.440Z,38.784832000732,-122.77433013916,2.2999999523163,0.76,md,13,101,0.0135,0.06,nc,nc75245291,2025-10-05T22:57:18.405Z,"2 km WNW of The Geysers, CA",earthquake,0.4,0.699999988,0.16,14,automatic,nc,nc
@@ -71,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-05T15:08:53.999Z,51.3661,159.4822,10,5.3,mb,79,98,1.737,1.43,us,us6000reyz,2025-10-05T15:41:13.040Z,"189 km SSE of Vilyuchinsk, Russia",earthquake,9.55,1.825,0.033,307,reviewed,us,us
 2025-10-05T15:08:07.300Z,35.8868333,-117.7286667,3.13,1.32,ml,24,41,0.08804,0.14,ci,ci41103111,2025-10-05T17:29:16.526Z,"17 km ESE of Little Lake, CA",earthquake,0.16,0.75,0.14,9,reviewed,ci,ci
 2025-10-05T15:07:43.750Z,35.8841667,-117.73,2.38,1.68,ml,35,34,0.09067,0.15,ci,ci41103103,2025-10-05T17:29:13.951Z,"17 km ESE of Little Lake, CA",earthquake,0.14,0.28,0.135,25,reviewed,ci,ci
+2025-10-05T15:03:41.800Z,46.195333333333,-122.18666666667,8.62,0.07,ml,12,103,0.004935,0.12,uw,uw62189877,2025-10-05T23:24:27.570Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.47,0.059568597322716,4,reviewed,uw,uw
 2025-10-05T15:01:00.760Z,38.82500076294,-122.8450012207,1.9299999475479,0.37,md,8,144,0.008013,0.02,nc,nc75245171,2025-10-05T15:17:18.958Z,"9 km NW of The Geysers, CA",earthquake,0.5,1.05999994,0.24,9,automatic,nc,nc
 2025-10-05T14:56:34.084Z,63.2262,-149.0525,78.4,1.7,ml,,,,0.7,ak,ak025cs02mhc,2025-10-05T14:59:04.190Z,"19 km SSW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-05T14:51:56.040Z,38.7936668396,-122.7696685791,3.7799999713898,0.78,md,13,97,0.01427,0.03,nc,nc75245161,2025-10-05T15:52:20.220Z,"2 km NNW of The Geysers, CA",earthquake,0.45,1.13,0.29,14,automatic,nc,nc
