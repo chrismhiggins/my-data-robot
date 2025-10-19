@@ -189,4 +189,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-18T15:55:16.030Z,47.234,-123.697,14.59,1.61,ml,21,74,0.0306,0.25,uw,uw62203836,2025-10-18T16:40:50.160Z,"19 km E of Humptulips, Washington",earthquake,0.49,1.11,0.12696121155535,13,reviewed,uw,uw
 2025-10-18T15:55:07.578Z,32.399,-102.043,6.7635,1.2,ml,30,63,0,0.4,tx,tx2025unoghq,2025-10-18T23:24:49.456Z,"33 km WSW of Ackerly, Texas",earthquake,0,1.5312168598175,0.2,19,automatic,tx,tx
 2025-10-18T15:51:19.590Z,34.0176667,-117.2183333,13.82,1.25,ml,59,26,0.07967,0.18,ci,ci41110815,2025-10-19T13:31:16.600Z,"5 km SE of Loma Linda, CA",earthquake,0.17,0.35,0.302,31,reviewed,ci,ci
-2025-10-18T15:44:00.290Z,60.506333333333,-152.74883333333,0.08,-0.61,ml,5,103,0.03234,0.32,av,av93831386,2025-10-19T04:14:48.060Z,"78 km NW of Ninilchik, Alaska",earthquake,0.74,4.13,0.19373229093355,4,reviewed,av,av
