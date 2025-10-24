@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-24T10:35:20.230Z,35.6926,-82.0485,9.708,1.5,ml,13,64,0.622,0.41,us,us6000rj33,2025-10-24T11:18:31.967Z,"3 km WNW of Marion, North Carolina",earthquake,1.36,6.751,0.105,12,reviewed,us,us
 2025-10-24T10:33:47.201Z,64.8339,-149.0674,20.1,1.3,ml,,,,0.23,ak,ak025dncrkzk,2025-10-24T10:35:08.105Z,"25 km N of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-24T09:58:36.064Z,61.4919,-151.1871,60.9,1.8,ml,,,,0.56,ak,ak025dncbhfa,2025-10-24T10:00:39.474Z,"36 km W of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2025-10-24T09:44:27.220Z,61.3089,-154.5239,39.3,2,ml,,,,0.91,ak,ak025dnc8frr,2025-10-24T09:46:58.713Z,"49 km E of Lime Village, Alaska",earthquake,,14.1,,,automatic,ak,ak
@@ -96,7 +97,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T21:48:22.390Z,37.922164916992,-122.20066833496,5.8200001716614,0.88,md,9,105,0.03805,0.32,nc,nc75253521,2025-10-24T00:07:18.264Z,"5 km NNW of Orinda, CA",earthquake,1.39,1.60000002,0.08,3,automatic,nc,nc
 2025-10-23T21:44:02.598Z,59.6325,-153.0803,102.9,2.2,ml,,,,0.35,ak,ak025dlvu9lz,2025-10-23T21:56:27.505Z,"60 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2025-10-23T21:40:36.420Z,53.388166666667,-168.22933333333,-0.98,0.33,ml,5,276,0.05141,0.18,av,av93840521,2025-10-24T01:44:33.580Z,"65 km NE of Nikolski, Alaska",earthquake,0.71,0.69,0.48167514125943,5,reviewed,av,av
-2025-10-23T21:37:50.239Z,30.999,-103.627,5.7686,1.5,ml,19,74,0.1,0.6,tx,tx2025uxefxm,2025-10-24T06:15:53.329Z,"11 km E of Balmorhea, Texas",earthquake,0,2.6170790195465,0.2,13,automatic,tx,tx
 2025-10-23T21:22:02.402Z,-31.2173,-68.329,116.928,4.6,mb,34,74,0.439,1.07,us,us6000rj0i,2025-10-24T00:40:13.040Z,"28 km NE of San Martín, Argentina",earthquake,3.27,5.662,0.193,8,reviewed,us,us
 2025-10-23T21:17:50.518Z,65.0107,-147.0919,15.7,1.3,ml,,,,0.44,ak,ak025dlvokw1,2025-10-23T21:23:49.152Z,"15 km N of Two Rivers, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-23T21:17:27.180Z,38.787498474121,-122.77133178711,4.0500001907349,0.77,md,9,107,0.01415,0.02,nc,nc75253506,2025-10-23T23:17:19.918Z,"2 km NW of The Geysers, CA",earthquake,0.77,2.01999998,0.06,8,automatic,nc,nc
@@ -167,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-23T12:13:04.710Z,64.4914,-146.89,0,1.7,ml,,,,0.43,ak,ak025dlqaq3g,2025-10-23T12:15:15.894Z,"3 km S of Salcha, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2025-10-23T11:46:10.756Z,-6.2714,130.9649,93.452,5.6,mww,81,20,2.033,0.73,us,us6000riuj,2025-10-24T00:34:07.483Z,"210 km WSW of Tual, Indonesia",earthquake,7.28,5.779,0.051,37,reviewed,us,us
 2025-10-23T11:31:24.230Z,46.198,-122.17733333333,-1.31,-0.06,mh,6,184,0.006084,0.14,uw,uw62197707,2025-10-23T18:13:24.180Z,"38 km NNE of Amboy, Washington",earthquake,0.81,1.45,,0,reviewed,uw,uw
-2025-10-23T10:59:19.780Z,33.6703333,-116.9518333,17.21,0.83,ml,42,48,0.02872,0.18,ci,ci41113199,2025-10-23T12:57:10.272Z,"9 km SSE of Hemet, CA",earthquake,0.2,0.36,0.207,26,reviewed,ci,ci
