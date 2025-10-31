@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-10-31T21:04:21.770Z,35.982498168945,-120.53816986084,2.789999961853,1.47,md,17,90,0.02689,0.05,nc,nc75257291,2025-10-31T21:06:01.596Z,"13 km NW of Parkfield, CA",earthquake,0.3,0.689999998,0.37,6,automatic,nc,nc
+2025-10-31T20:54:16.820Z,38.787334442139,-122.72883605957,0.89999997615814,0.8,md,7,121,0.0074,0.01,nc,nc75257286,2025-10-31T20:55:51.328Z,"3 km ENE of The Geysers, CA",earthquake,0.53,0.589999974,0.12,6,automatic,nc,nc
 2025-10-31T20:38:00.159Z,32.003,-103.821,6.7891,2.1,ml,21,72,0,0.4,tx,tx2025vlubkj,2025-10-31T20:41:31.459Z,"34 km SE of Malaga, New Mexico",earthquake,0,2.2554533481598,0.3,16,automatic,tx,tx
 2025-10-31T20:32:41.763Z,63.3798,-151.6189,4.5,1.8,ml,,,,1.37,ak,ak025dz3h4ga,2025-10-31T20:35:18.058Z,"18 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2025-10-31T20:09:38.870Z,44.6235,-110.72483333333,5.5,0.48,md,8,88,0.06109,0.1,uu,uu80120906,2025-10-31T20:28:17.630Z,"30 km E of West Yellowstone, Montana",earthquake,0.51,1.81,0.31280678172767,7,reviewed,uu,uu
@@ -243,4 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-10-30T21:31:35.690Z,38.835834503174,-122.80083465576,1.9099999666214,1.02,md,13,62,0.008587,0.02,nc,nc75256826,2025-10-30T22:32:19.095Z,"7 km WNW of Cobb, CA",earthquake,0.29,0.560000002,0.1,13,automatic,nc,nc
 2025-10-30T21:30:05.550Z,48.090833333333,-121.9385,-0.44,1.47,ml,13,51,0.01614,0.14,uw,uw62201127,2025-10-31T15:09:37.851Z,"2 km ENE of Granite Falls, Washington",explosion,0.37,31.61,0.13274801457703,7,reviewed,uw,uw
 2025-10-30T21:16:15.774Z,-34.7205,-71.8203,42.149,4.2,mwr,44,137,0.69,0.98,us,us6000rkgt,2025-10-31T02:25:28.040Z,"42 km WSW of Santa Cruz, Chile",earthquake,5.52,7.46,0.075,17,reviewed,us,us
-2025-10-30T21:03:09.550Z,38.823001861572,-122.84600067139,2.210000038147,1.07,md,18,105,0.00857,0.02,nc,nc75256821,2025-10-30T22:07:19.928Z,"9 km WNW of The Geysers, CA",earthquake,0.24,0.400000006,0.13,18,automatic,nc,nc
