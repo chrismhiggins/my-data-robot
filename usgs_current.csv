@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2025-11-02T11:50:44.830Z,62.4284,-150.0721,12.8,2,ml,,,,0.56,ak,ak025e29as0z,2025-11-02T11:52:53.719Z,"2 km SSE of Chase, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2025-11-02T11:19:52.541Z,31.642,-104.402,3.9568,1.9,ml,31,72,0,0.3,tx,tx2025votagw,2025-11-02T11:23:19.883Z,"59 km S of Whites City, New Mexico",earthquake,0,1.1072390079498,0.2,22,automatic,tx,tx
 2025-11-02T11:15:48.110Z,-2.187,139.0116,35,5.2,mb,87,58,0.981,0.9,us,us6000rl1b,2025-11-02T11:35:23.040Z,"185 km WNW of Abepura, Indonesia",earthquake,6.59,1.909,0.058,98,reviewed,us,us
 2025-11-02T11:10:15.030Z,34.9761667,-119.1451667,16.09,1.07,ml,29,91,0.09644,0.27,ci,ci41324368,2025-11-02T11:13:46.597Z,"14 km N of Pine Mountain Club, CA",earthquake,0.43,0.85,0.245,21,automatic,ci,ci
@@ -167,4 +168,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-01T12:32:30.220Z,37.398334503174,-119.98100280762,15.35000038147,2.44,md,13,82,0.1901,0.29,nc,nc75257526,2025-11-01T14:27:19.373Z,"10 km S of Mariposa, CA",earthquake,0.88,1.42999995,0.28,9,automatic,nc,nc
 2025-11-01T12:20:29.100Z,33.3561667,-116.8343333,9.92,0.62,ml,40,28,0.02384,0.2,ci,ci41323792,2025-11-01T12:23:55.598Z,"3 km E of Palomar Observatory, CA",earthquake,0.21,0.51,0.192,17,automatic,ci,ci
 2025-11-01T12:13:03.700Z,36.033832550049,-120.18733215332,8.5699996948242,1.59,md,11,138,0.08322,0.14,nc,nc75257521,2025-11-01T14:12:18.270Z,"6 km WNW of Avenal, CA",earthquake,0.52,0.819999993,0.15,6,automatic,nc,nc
-2025-11-01T11:46:59.130Z,35.3616667,-117.7871667,5.52,0.83,ml,33,74,0.1056,0.17,ci,ci41323784,2025-11-01T11:50:24.853Z,"14 km W of Johannesburg, CA",earthquake,0.18,0.7,0.13,11,automatic,ci,ci
