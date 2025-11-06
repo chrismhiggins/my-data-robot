@@ -182,6 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-05T11:59:08.354Z,32.007,-103.809,7.5482,1.3,ml,19,78,0,0.1,tx,tx2025vuhmxj,2025-11-05T12:36:22.536Z,"34 km SE of Malaga, New Mexico",earthquake,0.51508837125808,0.53014238714887,0.1,7,reviewed,tx,tx
 2025-11-05T11:55:22.550Z,56.906333333333,-158.10733333333,2.16,-0.23,ml,4,196,0.02668,0.08,av,av93870471,2025-11-06T02:19:27.460Z,"70 km NNE of Chignik, Alaska",earthquake,0.42,2.46,0.37514042565101,4,reviewed,av,av
 2025-11-05T11:54:28.760Z,35.5966667,-117.4865,8.48,0.99,ml,23,60,0.08533,0.16,ci,ci40481442,2025-11-05T14:09:10.876Z,"17 km E of Ridgecrest, CA",earthquake,0.21,0.67,0.249,9,reviewed,ci,ci
-2025-11-05T11:24:21.040Z,47.611,-122.75066666667,14.9,0.92,ml,12,107,0.06878,0.17,uw,uw62202692,2025-11-05T18:19:41.560Z,"3 km W of Chico, Washington",earthquake,0.51,0.8,0.14050559896227,5,reviewed,uw,uw
-2025-11-05T11:18:17.587Z,64.1579,-147.9313,11.2,1.1,ml,,,,0.27,ak,ak025e77pwhq,2025-11-05T11:20:25.985Z,"59 km ENE of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2025-11-05T11:17:46.780Z,44.322833333333,-110.68366666667,2.03,0.8,md,13,70,0.1011,0.2,uu,uu80121311,2025-11-05T15:02:10.540Z,"50 km SE of West Yellowstone, Montana",earthquake,0.43,2.34,0.30988452183231,11,reviewed,uu,uu
