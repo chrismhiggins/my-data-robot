@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2025-11-13T07:13:53.400Z,38.793834686279,-122.75583648682,0.73000001907349,1.16,md,10,86,0.007426,0.02,nc,nc75262726,2025-11-13T07:15:28.902Z,"2 km N of The Geysers, CA",earthquake,0.34,0.569999993,0.26,9,automatic,nc,nc
+2025-11-13T07:28:23.153Z,36.46838379,-98.76115417,6.52186203,1.81,ml,14,54.93798828,0.03710014373,0.4794303249,ok,ok2025wfxt,2025-11-13T07:30:07.941Z,"16 km SE of Waynoka, Oklahoma",earthquake,3.435472968,4.324901786,0.26,11,automatic,ok,ok
+2025-11-13T07:23:05.740Z,38.834331512451,-122.78433227539,2.3199999332428,1.45,md,17,130,0.006215,0.02,nc,nc75262731,2025-11-13T07:24:43.715Z,"5 km WNW of Cobb, CA",earthquake,0.29,0.50999999,0.16,19,automatic,nc,nc
+2025-11-13T07:13:53.400Z,38.793834686279,-122.75583648682,0.73000001907349,1.16,md,10,86,0.007426,0.02,nc,nc75262726,2025-11-13T07:32:20.057Z,"2 km N of The Geysers, CA",earthquake,0.34,0.569999993,0.26,9,automatic,nc,nc
 2025-11-13T07:07:44.519Z,61.8713,-150.9913,62.6,1.4,ml,,,,0.56,ak,ak025ekdkn83,2025-11-13T07:09:48.577Z,"25 km ESE of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2025-11-13T07:07:10.850Z,60.3503,-58.4999,10,4.6,mb,29,139,5.135,0.56,us,us6000rn2w,2025-11-13T07:21:09.040Z,"Davis Strait",earthquake,8.23,1.966,0.101,29,reviewed,us,us
 2025-11-13T07:01:31.836Z,59.1781,-149.3743,35,2.4,ml,,,,0.91,ak,ak025ekdjby7,2025-11-13T07:03:52.676Z,"99 km S of Lowell Point, Alaska",earthquake,,4.1,,,automatic,ak,ak
 2025-11-13T06:59:43.268Z,61.497,-149.913,34.5,1.5,ml,,,,0.34,ak,ak025ekdacra,2025-11-13T07:01:17.154Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2025-11-13T06:34:06.547Z,63.5639,-151.1499,1.7,2.1,ml,,,,0.8,ak,ak025ekd4x28,2025-11-13T06:37:21.970Z,"28 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -216,5 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2025-11-12T07:44:21.973Z,31.607,-104.187,6.0999,1.5,ml,40,66,0.1,0.2,tx,tx2025wgvcvr,2025-11-12T08:54:29.665Z,"49 km NW of Toyah, Texas",earthquake,0.60069333941101,0.54109217314831,0.2,28,reviewed,tx,tx
 2025-11-12T07:43:06.520Z,34.037,-117.1915,8.44,0.68,ml,46,38,0.0657,0.17,ci,ci40484122,2025-11-12T23:41:36.087Z,"2 km SSW of Redlands, CA",earthquake,0.17,0.53,0.224,14,reviewed,ci,ci
 2025-11-12T07:39:08.980Z,19.136499404907,-155.5163269043,33.020000457764,1.95,md,28,154,0.0546,0.129999995,hv,hv74827802,2025-11-12T07:42:45.170Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.67,0.639999986,0.2106693888166,17,automatic,hv,hv
-2025-11-12T07:26:12.810Z,19.121000289917,-155.51615905762,32.659999847412,1.7,md,19,266,0.1277,0.140000001,hv,hv74827782,2025-11-12T07:30:44.790Z,"8 km NE of Naalehu, Hawaii",earthquake,0.73,0.819999993,0.1426804510007,16,automatic,hv,hv
-2025-11-12T07:22:48.000Z,47.792833333333,-122.9,21.19,1.31,ml,23,113,0.02145,0.18,uw,uw62204172,2025-11-12T18:58:46.500Z,"3 km SSW of Quilcene, Washington",earthquake,0.43,0.48,0.089297439673473,13,reviewed,uw,uw
