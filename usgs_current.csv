@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2026-08-02T21:22:06.536Z,36.13803482,-97.69219208,9.391946793,1.76,ml,16,71.22047424,0.1470196694,0.3928314834,ok,ok2026paul,2026-08-02T21:24:18.598Z,"6 km WSW of Marshall, Oklahoma",earthquake,3.118483131,4.97373772,0.2,6,automatic,ok,ok
+2026-08-02T21:10:48.117Z,64.66,-150.666,10.3,1,ml,9,103,0.6,0.7,ak,aka2026pfbaxt,2026-08-02T21:12:31.417Z,"38 km S of Manley Hot Springs, Alaska",earthquake,5.3,3.6169,0.1,4,automatic,ak,ak
+2026-08-02T21:00:49.755Z,60,-153.254,5,0.5,ml,6,258,0.1,0.9,ak,aka2026pfasgx,2026-08-02T21:01:52.641Z,"53 km ENE of Pedro Bay, Alaska",earthquake,33.4,,0.1,4,automatic,ak,ak
+2026-08-02T21:00:42.360Z,38.802165985107,-122.811668396,3.3800001144409,0.78,md,14,89,0.01404,0.02,nc,nc75410282,2026-08-02T21:02:17.578Z,"6 km WNW of The Geysers, CA",earthquake,0.37,0.800000012,0.28,14,automatic,nc,nc
+2026-08-02T20:41:21.470Z,19.171167373657,-155.4991607666,29.290000915527,2.08,md,27,155,0.03837,0.219999999,hv,hv75011992,2026-08-02T20:44:52.130Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.71,0.829999983,0.084249302637694,10,automatic,hv,hv
+2026-08-02T20:17:27.294Z,28.816,-99.201,0,1.8,ml,5,246,0.4,0.4,tx,tx2026pcoaoe,2026-08-02T21:00:09.682Z,"12 km SW of West Pearsall, Texas",earthquake,0,,0.5,4,automatic,tx,tx
 2026-08-02T20:02:10.395Z,43.0682,147.0554,35,4.5,mb,87,134,3.067,0.74,us,us6000thna,2026-08-02T20:28:29.040Z,"85 km SSE of Shikotan, Russia",earthquake,10.3,1.923,0.054,102,reviewed,us,us
 2026-08-02T19:53:54.610Z,33.682166666667,-116.70866666667,15.65,0.44,ml,19,79,0.03195,0.13,ci,ci40665338,2026-08-02T19:58:26.784Z,"7 km S of Idyllwild, CA",earthquake,0.34,0.5,0.14469150569798,8,reviewed,ci,ci
 2026-08-02T19:39:29.214Z,31.636,-104.222,3.5277,1.5,ml,32,66,0.1,0.4,tx,tx2026pcmtwa,2026-08-02T19:44:16.637Z,"54 km NW of Toyah, Texas",earthquake,0,1.056826710701,0.3,18,automatic,tx,tx
@@ -144,7 +150,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-02T04:18:41.270Z,18.728166666667,-64.929666666667,34.22,3.15,md,6,221,0.3746,0.21,pr,pr71527073,2026-08-02T11:24:59.940Z,"42 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.12,6.84,0.023087583789859,4,reviewed,pr,pr
 2026-08-02T03:53:54.790Z,35.864666666667,-117.3885,3.3,0.78,ml,20,103,0.1767,0.24,ci,ci40665018,2026-08-02T13:32:58.481Z,"11 km N of Searles Valley, CA",earthquake,0.42,1.2,0.15606292125846,11,reviewed,ci,ci
 2026-08-02T03:40:32.448Z,62.718,-150.885,7.6,1.6,ml,7,164,0.2,0.5,ak,aka2026pdsahb,2026-08-02T03:42:07.620Z,"25 km NNW of Petersville, Alaska",earthquake,10.8,5.2966,0.2,4,automatic,ak,ak
-2026-08-02T03:16:45.100Z,10.5328,-68.6899,10,4.5,mb,35,100,0.751,0.73,us,us6000thk4,2026-08-02T16:20:04.264Z,"7 km SSW of Yumare, Venezuela",earthquake,3.91,1.841,0.061,80,reviewed,us,us
+2026-08-02T03:16:45.100Z,10.5328,-68.6899,10,4.5,mb,35,100,0.751,0.73,us,us6000thk4,2026-08-02T21:01:03.375Z,"7 km SSW of Yumare, Venezuela",earthquake,3.91,1.841,0.061,80,reviewed,us,us
 2026-08-02T03:16:35.460Z,18.753666666667,-64.932,13.99,2.57,md,8,219,0.3998,0.3,pr,pr71527063,2026-08-02T11:20:32.870Z,"45 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.38,2.01,0.11644830164987,5,reviewed,pr,pr
 2026-08-02T03:15:17.390Z,19.298000335693,-155.2371673584,0.75999999046326,2.28,ml,42,174,0.02045,0.170000002,hv,hv75011652,2026-08-02T03:18:45.960Z,"16 km S of Volcano, Hawaii",earthquake,0.34,0.289999992,0.16,3,automatic,hv,hv
 2026-08-02T03:04:56.849Z,57.794,-153.937,35,1.5,ml,12,105,0.4,0.4,ak,aka2026pdqvke,2026-08-02T03:06:31.429Z,"28 km N of Larsen Bay, Alaska",earthquake,9.3,6.9384,0.2,4,automatic,ak,ak
@@ -201,11 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2026-08-01T22:00:19.370Z,33.602833333333,-116.755,10.46,0.8,ml,22,92,0.04017,0.13,ci,ci40664882,2026-08-02T13:35:01.327Z,"9 km NW of Anza, CA",earthquake,0.25,0.37,0.2511613845043,9,reviewed,ci,ci
 2026-08-01T21:56:39.810Z,32.634333333333,-115.74133333333,7.14,1.62,ml,38,71,0.01957,0.24,ci,ci40664874,2026-08-02T19:15:03.780Z,"16 km WNW of Progreso, B.C., MX",earthquake,0.31,0.44,0.14644349266501,31,reviewed,ci,ci
 2026-08-01T21:52:22.280Z,31.602,-103.98,5.2053,1.8,ml,32,46,0,0.7,tx,tx2026pavkyj,2026-08-01T22:01:45.813Z,"36 km NNW of Toyah, Texas",earthquake,0,1.8874841928482,0.2,23,automatic,tx,tx
-2026-08-01T21:27:56.544Z,57.098,-156.769,5,1.9,ml,32,124,0.6,0.7,ak,aka2026pdfpei,2026-08-01T21:29:25.857Z,"59 km SE of Ugashik, Alaska",earthquake,5,,0.3,5,automatic,ak,ak
-2026-08-01T21:26:07.221Z,-2.6121,138.9386,10,4.5,mb,25,87,1.765,0.55,us,us6000thi4,2026-08-01T23:49:55.040Z,"188 km W of Abepura, Indonesia",earthquake,9.96,1.866,0.121,20,reviewed,us,us
-2026-08-01T21:08:11.451Z,31.98,-101.409,10.6789,1.1,ml,6,145,0.2,0.6,tx,tx2026patzkt,2026-08-01T22:00:15.780Z,"14 km NNE of Garden City, Texas",earthquake,0,6.3732070922852,0.4,6,automatic,tx,tx
-2026-08-01T21:02:31.580Z,32.633333333333,-115.56583333333,6.44,1.47,ml,24,77,0.07161,0.25,ci,ci40664858,2026-08-02T20:12:04.755Z,"6 km NNE of Progreso, B.C., MX",earthquake,0.34,0.9,0.18848996873168,20,reviewed,ci,ci
-2026-08-01T20:49:02.269Z,31.627,-104.403,3.948,1.6,ml,26,74,0,0.4,tx,tx2026patiqk,2026-08-01T21:00:57.187Z,"60 km S of Whites City, New Mexico",earthquake,0,1.1969214677811,0.2,19,automatic,tx,tx
-2026-08-01T20:49:02.170Z,35.418834686279,-120.69999694824,6.75,1,md,7,107,0.02692,0.01,nc,nc75409832,2026-08-01T20:50:45.958Z,"8 km SSW of Atascadero, CA",earthquake,0.52,0.409999996,0.16,5,automatic,nc,nc
-2026-08-01T20:43:37.950Z,32.098,-101.492,4.4145,1.1,ml,14,108,0.1,0.3,tx,tx2026pateev,2026-08-01T23:19:01.659Z,"11 km W of Forsan, Texas",earthquake,0,1.6064711809158,0.2,11,automatic,tx,tx
-2026-08-01T20:42:20.040Z,37.885166168213,-122.29716491699,7.0799999237061,1.63,md,25,53,0.03834,0.06,nc,nc75409822,2026-08-01T21:17:23.328Z,"0 km SSE of Albany, CA",earthquake,0.21,0.430000007,0.42,19,automatic,nc,nc
